@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- Kids YouTube player shim.
+     Host this single file on any HTTPS static host (GitHub Pages, Cloudflare Pages, Netlify...).
+     The TV app loads it in a full-screen iframe as  player.html?v=VIDEOID
+     Because this page has a real https:// origin, the browser sends a proper Referer to
+     YouTube, which avoids embed Error 153 ("Video player configuration error") that
+     happens when YouTube is embedded straight from a packaged file:// app. -->
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=1920, height=1080">
+<title>player</title>
+<style>
+  html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #000; overflow: hidden; }
+  #yt, #yt iframe { position: absolute; left: 0; top: 0; width: 100%; height: 100%; border: 0; }
+  /* Transparent shield: blocks Magic-Remote pointer clicks on the YouTube logo / title / end-screen
+     links, so the child can never navigate out to youtube.com. All control goes through the TV app. */
+  #shield { position: absolute; left: 0; top: 0; width: 100%; height: 100%; z-index: 10; background: transparent; }
+</style>
+</head>
+<body tabindex="-1">
+<div id="yt"></div>
+<div id="shield"></div>
+<script>
+(function () {
+  'use strict';
+  var ID_RE = /^[A-Za-z0-9_-]{11}$/;
+  var params = {};
+  location.search.replace(/^\?/, '').split('&').forEach(function (kv) {
+    if (!kv) return;
+    var p = kv.split('=');
+    params[decodeURIComponent(p[0])] = decodeURIComponent(p[1] || '');
+  });
+  var videoId = params.v || '';
+  var player = null, timer = null;
+  var isTop = (window.parent === window);
+
+  function send(msg) {
+    msg.kt = 'kidstube';
+    if (!isTop) { try { window.parent.postMessage(JSON.stringify(msg), '*'); } catch (e) {} }
+  }
+
+  if (!ID_RE.test(videoId)) { send({ type: 'error', code: 'badid' }); return; }
+
+  // Keys pressed while this frame has focus are forwarded to the app (which owns all controls).
+  window.addEventListener('keydown', function (e) {
+    send({ type: 'key', keyCode: e.keyCode });
+    e.preventDefault();
+  }, true);
+
+  window.addEventListener('message', function (e) {
+    if (isTop || e.source !== window.parent) return; // only obey the embedding app
+    var m; try { m = typeof e.data === 'string' ? JSON.parse(e.data) : e.data; } catch (x) { return; }
+    if (!m || m.kt !== 'kidstube' || !player || !player.getPlayerState) return;
+    if (m.cmd === 'toggle') {
+      if (player.getPlayerState() === 1) player.pauseVideo(); else player.playVideo();
+    } else if (m.cmd === 'play') { player.playVideo();
+    } else if (m.cmd === 'pause') { player.pauseVideo();
+    } else if (m.cmd === 'seek') {
+      var t = Math.max(0, (player.getCurrentTime() || 0) + (Number(m.delta) || 0));
+      var d = player.getDuration() || 0;
+      if (d && t > d - 1) t = d - 1;
+      player.seekTo(t, true);
+    } else if (m.cmd === 'stop') { player.stopVideo(); }
+  });
+
+  window.onYouTubeIframeAPIReady = function () {
+    player = new YT.Player('yt', {
+      host: 'https://www.youtube-nocookie.com',
+      videoId: videoId,
+      width: '100%', height: '100%',
+      playerVars: {
+        autoplay: 1, controls: 0, rel: 0, modestbranding: 1, iv_load_policy: 3,
+        disablekb: 1, fs: 0, playsinline: 1, cc_load_policy: 0, enablejsapi: 1,
+        origin: location.protocol === 'file:' ? undefined : location.origin
+      },
+      events: {
+        onReady: function () {
+          try { player.playVideo(); } catch (e) {}
+          send({ type: 'ready', mode: location.protocol });
+          timer = setInterval(function () {
+            try { send({ type: 'time', t: player.getCurrentTime(), d: player.getDuration(), s: player.getPlayerState() }); } catch (e) {}
+          }, 500);
+        },
+        onStateChange: function (ev) {
+          send({ type: 'state', s: ev.data });
+          if (ev.data === 0) { // ENDED -> hand back to the app before any end-screen suggestions matter
+            try { player.stopVideo(); } catch (e) {}
+            send({ type: 'ended' });
+          }
+        },
+        onError: function (ev) { send({ type: 'error', code: ev.data }); }
+      }
+    });
+  };
+  var s = document.createElement('script');
+  s.src = 'https://www.youtube.com/iframe_api';
+  s.onerror = function () { send({ type: 'error', code: 'apiload' }); };
+  document.head.appendChild(s);
+})();
+</script>
+</body>
+</html>
