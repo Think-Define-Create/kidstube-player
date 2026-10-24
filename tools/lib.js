@@ -59,6 +59,8 @@ function validateYoutube(cfg) {
     if (!ID_RE.test(v.id || '')) errors.push(`videos[${i}] id "${v.id}" is not an 11-character video ID.`);
     else if (seenV[v.id]) warnings.push(`video ${v.id} is listed twice.`);
     seenV[v.id] = 1;
+    if (v.row !== undefined && typeof v.row !== 'string') errors.push(`videos[${i}].row must be text in quotes.`);
+    else if (v.row && cfg.rows && cfg.rows.indexOf(v.row) === -1) warnings.push(`video ${v.id} uses row "${v.row}", which is not in "rows"; it is added at the end.`);
   });
   (cfg.playlists || []).forEach((p, i) => { if (!p || !PL_RE.test(p.id || '')) errors.push(`playlists[${i}] id "${p && p.id}" looks wrong.`); });
   (cfg.rows || []).forEach((r, i) => { if (typeof r !== 'string') errors.push(`rows[${i}] must be text in quotes.`); });

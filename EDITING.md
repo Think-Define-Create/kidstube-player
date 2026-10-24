@@ -25,7 +25,7 @@ make sure the branch picker says `gh-pages`, then tap the pencil.)
 
 What is live right away and what needs publish:
 
-- **Live right away** (on the next app launch): Featured videos, lessons, quiz questions, row names
+- **Live right away** (on the next app launch): Featured and other hand-picked videos, lessons, quiz questions, row names
   and order, removing a channel, and moving a channel to another row.
 - **Needs `publish`**: the videos *inside* a channel row. The TV can't read YouTube's channel feeds
   itself, so the box looks them up and writes `data/youtube.json`. A channel you just added shows an
@@ -61,6 +61,13 @@ Add a line to `"videos"` (they show in this order in the **Featured** row at the
 The **video ID** is the 11 characters after `v=` in `https://www.youtube.com/watch?v=7yDmGnA8Hw0`,
 or after `youtu.be/` or `/shorts/`. On the phone: **Share → Copy link** and take the part after the last `/`
 (and before any `?`). Type the `title`, since it shows on the card straight away.
+
+### Add a video to another row (for example Soccer Skills)
+Add `"row"` to the video's line. It then shows first in that row instead of in Featured:
+```json
+{ "id": "yREWtO19RQc", "title": "All About Soccer Skills: Defending", "channel": "MOJO", "row": "Soccer Skills" },
+```
+A row can hold only hand-picked videos, only channels, or both (hand-picked videos come first).
 
 ### Remove a video, channel or lesson
 Delete its whole `{ ... }` line, and the comma before it if it was the last item.

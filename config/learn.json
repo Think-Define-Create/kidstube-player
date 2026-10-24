@@ -76,6 +76,42 @@
         { "q": "Which hospital machine uses magnets to see inside your body?",
           "answers": ["MRI", "Thermometer", "Stethoscope"], "correct": 0 }
       ]
+    },
+    {
+      "videoId": "yREWtO19RQc",
+      "title": "Soccer Defending: Pressure, Cover, Balance & Tackling",
+      "channel": "MOJO",
+      "questionsConfirmed": true,
+      "questions": [
+        { "q": "In defending, what does \"pressure\" mean?",
+          "answers": ["Limiting the attacker's time and space", "Shouting at the other team", "Kicking the ball out every time"], "correct": 0 },
+        { "q": "When you get close to the attacker, what should you do?",
+          "answers": ["Speed up and jump in", "Slow down, get low and get close", "Stand still with straight legs"], "correct": 1 },
+        { "q": "Where should the cover defender always be?",
+          "answers": ["Next to the corner flag", "Between the ball and the goal", "Behind the other team's goal"], "correct": 1 },
+        { "q": "Which parts of your foot can you use for a poke tackle?",
+          "answers": ["The inside or the outside of the foot", "Only your heel", "Only your knee"], "correct": 0 },
+        { "q": "In a block tackle, where do you plant your front foot?",
+          "answers": ["On top of the ball", "Far behind you", "To the side of the ball, with a bent knee"], "correct": 2 }
+      ]
+    },
+    {
+      "videoId": "WnJRUuvakWM",
+      "title": "How to Defend & Tackle in Soccer (Easy Beginner Method)",
+      "channel": "Progressive Soccer",
+      "questionsConfirmed": true,
+      "questions": [
+        { "q": "Once you get close to the attacker, what should you do?",
+          "answers": ["Be more careful: bend your knees and get low", "Keep sprinting and dive in", "Stop and stand up tall"], "correct": 0 },
+        { "q": "When jockeying, how should you stand?",
+          "answers": ["Square and flat-footed", "Light on your toes, on an angle", "With your back to the attacker"], "correct": 1 },
+        { "q": "What happened when the coach stood too square?",
+          "answers": ["He got nutmegged", "He scored a goal", "He won the ball easily"], "correct": 0 },
+        { "q": "Instead of lunging for the ball, what should you do?",
+          "answers": ["Sit down and wait", "Stay on your toes, turn, sprint and get your body in front", "Grab the attacker's shirt"], "correct": 1 },
+        { "q": "When is a great time to go in for the tackle?",
+          "answers": ["When the attacker takes a heavy touch", "As soon as the game starts", "Never, defenders don't tackle"], "correct": 0 }
+      ]
     }
   ]
 }
