@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-24T03:34:44.484Z",
- "commit": "77e347d",
+ "publishedAt": "2026-10-24T07:28:45.146Z",
+ "commit": "14a22d3",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -227,7 +227,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-24T03:34:03.426Z",
+  "builtAt": "2026-10-24T07:28:44.038Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -237,6 +237,90 @@
     {
      "id": "h0EGCnBjTVk",
      "title": "I Outsmarted Pro Car Thieves"
+    }
+   ],
+   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+    {
+     "id": "6gsZY_-kT3U",
+     "title": "This Device Turns Anything into a Suction Cup"
+    },
+    {
+     "id": "k3Q9UWWiPsQ",
+     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+    },
+    {
+     "id": "NvkZaWLe0Sk",
+     "title": "This Device Goes Past Equilibrium"
+    },
+    {
+     "id": "ti2qiU_JTUQ",
+     "title": "The Euler Disc Is The Wrong Shape"
+    },
+    {
+     "id": "1EyN9_QO4_A",
+     "title": "The Arm Spin That Stops a Fall"
+    },
+    {
+     "id": "EP1mYq8hLIY",
+     "title": "The Anti Trampoline Effect"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+    },
+    {
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+    },
+    {
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
+    },
+    {
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+    },
+    {
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+    },
+    {
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
+    },
+    {
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -301,6 +385,108 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+    {
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
+    },
+    {
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
+    },
+    {
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
+    },
+    {
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
+    },
+    {
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
+    }
+   ],
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+    {
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+    },
+    {
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+    },
+    {
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
+    },
+    {
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
+    },
+    {
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+    },
+    {
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
+    },
+    {
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
+    },
+    {
+     "id": "qlQESwyZGTk",
+     "title": "Would You Enter a Venomous Snake-Infested Forest?"
+    },
+    {
+     "id": "AtXdKfwJeQ0",
+     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+    },
+    {
+     "id": "gUKCSkegtKY",
+     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
+    }
+   ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "Xakbw3sQcd0",
+     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "EXYhTpsYHN8",
+     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
+    },
+    {
+     "id": "Gvmyc2yW_NM",
+     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "9q3uiSeT80M",
+     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
+    },
+    {
+     "id": "aASWMaa5ZU8",
+     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "t8cKaMY_sCE",
+     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
+    },
+    {
+     "id": "adABRbEs4G4",
+     "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "I3abQzLOv2A",
+     "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "AOSjUmwVFt4",
+     "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids"
+    }
+   ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
     {
      "id": "3WWm929hbTw",
@@ -361,292 +547,6 @@
     {
      "id": "s__sgOHWNIA",
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
-    }
-   ],
-   "channel:UCEIwxahdLz7bap-VDs9h35A": [
-    {
-     "id": "6gsZY_-kT3U",
-     "title": "This Device Turns Anything into a Suction Cup"
-    },
-    {
-     "id": "k3Q9UWWiPsQ",
-     "title": "The \"Perpetual Motion\" Pump That Actually Works"
-    },
-    {
-     "id": "NvkZaWLe0Sk",
-     "title": "This Device Goes Past Equilibrium"
-    },
-    {
-     "id": "ti2qiU_JTUQ",
-     "title": "The Euler Disc Is The Wrong Shape"
-    },
-    {
-     "id": "1EyN9_QO4_A",
-     "title": "The Arm Spin That Stops a Fall"
-    },
-    {
-     "id": "EP1mYq8hLIY",
-     "title": "The Anti Trampoline Effect"
-    },
-    {
-     "id": "IFqI11SIGXo",
-     "title": "Steel Absorbs Gas Like a Sponge"
-    },
-    {
-     "id": "-DyrBDsKA5s",
-     "title": "You've Never Seen a Real Photo"
-    },
-    {
-     "id": "BViIGAg-eVI",
-     "title": "A New Type of Levitation"
-    },
-    {
-     "id": "B_JavY7pSfE",
-     "title": "Surely it Breaks The 2nd Law"
-    },
-    {
-     "id": "RaQfGqsB30o",
-     "title": "Can You Turn a Rainbow Back into White Light?"
-    },
-    {
-     "id": "RWbCC6f_k1c",
-     "title": "The Liquid Hammer Toy You Can't Buy"
-    },
-    {
-     "id": "kuMUquaeE6g",
-     "title": "Amplifying Invisible Motion"
-    },
-    {
-     "id": "-NzfTE8RI4w",
-     "title": "The Weirdest Microscope"
-    },
-    {
-     "id": "J_vXK9uvRf4",
-     "title": "The Unknown Phase of Matter"
-    }
-   ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
-    {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
-    },
-    {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
-    },
-    {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
-    },
-    {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
-    },
-    {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
-    },
-    {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
-    },
-    {
-     "id": "r2xP7heE0wk",
-     "title": "How Eyes Let Us See The World | SciShow Kids"
-    }
-   ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    },
-    {
-     "id": "Cyl3X88KEgg",
-     "title": "Why Humanity Will Never Leave The Solar System"
-    },
-    {
-     "id": "PqtggjVAi8M",
-     "title": "How Are Memories Stored Inside Your Brain?"
-    },
-    {
-     "id": "8qQW4LTWgtc",
-     "title": "Why Earth Sucks Compared to the Planet Hestia"
-    },
-    {
-     "id": "TYhNHX372ek",
-     "title": "The Uncomfortable Truth About Ozempic (Updated Version)"
-    },
-    {
-     "id": "n-gYFcVx-8Y",
-     "title": "GERMANY IS OVER"
-    },
-    {
-     "id": "dl0-TveDDGA",
-     "title": "Our Minds Are Weirder than You Think"
-    },
-    {
-     "id": "h3DCdWyb0cc",
-     "title": "The Most Insane Megaproject You Never Heard About"
-    },
-    {
-     "id": "yDAAlojz8NU",
-     "title": "This Is the Scariest Place in The Universe"
-    },
-    {
-     "id": "D0WQK7cMJn8",
-     "title": "We Made A New Channel!"
-    },
-    {
-     "id": "pHJIhxZEoxg",
-     "title": "Why Are There No Holes Around Trees?"
-    }
-   ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
-    {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
-    },
-    {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
-    },
-    {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
-    },
-    {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
-    },
-    {
-     "id": "N2uQWfV6Jr4",
-     "title": "4 ways to fix your attention span - Shannon Odell"
-    },
-    {
-     "id": "bHB5iiDDJ-s",
-     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
-    },
-    {
-     "id": "EMbZ72cCAzI",
-     "title": "How to explain something complicated"
-    },
-    {
-     "id": "I8XaYkRW1tA",
-     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
-    },
-    {
-     "id": "_gP3aXvNmv8",
-     "title": "Ever walk into a room and forget what you were doing? - Gabriel Radvansky"
-    },
-    {
-     "id": "BSdEiOYvKpE",
-     "title": "What are tariffs, and how do they work?"
-    }
-   ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "Xakbw3sQcd0",
-     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "EXYhTpsYHN8",
-     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
-    },
-    {
-     "id": "Gvmyc2yW_NM",
-     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
-    },
-    {
-     "id": "9q3uiSeT80M",
-     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
-    },
-    {
-     "id": "aASWMaa5ZU8",
-     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "t8cKaMY_sCE",
-     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
-    },
-    {
-     "id": "adABRbEs4G4",
-     "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "I3abQzLOv2A",
-     "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "AOSjUmwVFt4",
-     "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -711,66 +611,66 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
-   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
     {
-     "id": "k4gbweQTL50",
-     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
     },
     {
-     "id": "oEIp2piNUso",
-     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
     },
     {
-     "id": "TMtQfzcKFCI",
-     "title": "Most Remote Fly Fishing in the USA!"
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
     },
     {
-     "id": "nuEQmSs1H38",
-     "title": "Why This Giant Killer Snake is Destroying Florida"
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
     },
     {
-     "id": "mdR_f4p1b6A",
-     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
     },
     {
-     "id": "mPOf2fpy7B4",
-     "title": "Deep Sea Worm Attacks Everything!"
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
     },
     {
-     "id": "xSxhX1g3Zss",
-     "title": "Bitten by an Angry Gecko!"
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
     },
     {
-     "id": "qlQESwyZGTk",
-     "title": "Would You Enter a Venomous Snake-Infested Forest?"
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
     },
     {
-     "id": "AtXdKfwJeQ0",
-     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
     },
     {
-     "id": "gUKCSkegtKY",
-     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
+     "id": "N2uQWfV6Jr4",
+     "title": "4 ways to fix your attention span - Shannon Odell"
     },
     {
-     "id": "Bg_mcjX_iDM",
-     "title": "Catching Weirdest Bugs on Earth!"
+     "id": "bHB5iiDDJ-s",
+     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
     },
     {
-     "id": "5qt0TxOmR3Y",
-     "title": "Should Science Bring Back These 5 Extinct Animals?"
+     "id": "EMbZ72cCAzI",
+     "title": "How to explain something complicated"
     },
     {
-     "id": "NbPN331vzis",
-     "title": "Genetic Breakthrough! My Private Tour of a Top-Secret BioLab"
+     "id": "I8XaYkRW1tA",
+     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
     },
     {
-     "id": "0d8uGJ9uLNY",
-     "title": "500-Pound DINO BIRD Brought Back from the Dead!"
+     "id": "_gP3aXvNmv8",
+     "title": "Ever walk into a room and forget what you were doing? - Gabriel Radvansky"
     },
     {
-     "id": "Ay07lUktfsI",
-     "title": "Catching Most Dangerous Animal in Australia! "
+     "id": "BSdEiOYvKpE",
+     "title": "What are tariffs, and how do they work?"
     }
    ],
    "channel:UCoxcjq-8xIDTYp3uz647V5A": [
@@ -821,18 +721,26 @@
     {
      "id": "oYGBRhS1Ujo",
      "title": "Cutting Moons  - Numberphile"
+    }
+   ],
+   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
+    {
+     "id": "cr2TDSSSzPk",
+     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
+    }
+   ],
+   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
+    {
+     "id": "XoDxtMWNAAg",
+     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
     },
     {
-     "id": "JEPqrqNqkHw",
-     "title": "The Mountain Climbing Theorem - Numberphile"
+     "id": "lpNtEz9yOmU",
+     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
     },
     {
-     "id": "cOTf_YEmSOU",
-     "title": "1³+2³+3³+4³+5³+6³+7³+8³+9³+10³+11³+12³+13³+14³+15³+16³+17³+18³+19³+20³+21³+22³+23³+24³+25³+26³+..."
-    },
-    {
-     "id": "1cvKGqgOx_8",
-     "title": "2081681993819799846994786333448627702865224538845305484256394568209274196127380153785256484516 (etc)"
+     "id": "ZVO8K102WQU",
+     "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
     }
    ],
    "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
@@ -863,100 +771,6 @@
     {
      "id": "ga8wyomPt68",
      "title": "How To Draw Frankenstein Big Mouth"
-    },
-    {
-     "id": "TxQ8haK5u6Q",
-     "title": "How To Draw A Halloween Pumpkin House"
-    },
-    {
-     "id": "dgMuNfIZ0Kw",
-     "title": "1 Hour of Halloween Drawing Fun! 🎃 Easy Art Lessons for Kids"
-    },
-    {
-     "id": "k6RHLmAL-NU",
-     "title": "How To Draw A Haunted School Bus"
-    },
-    {
-     "id": "7tylcOBB2Ts",
-     "title": "How To Draw A Skateboarding Skeleton"
-    },
-    {
-     "id": "Y7c7avmlCnw",
-     "title": "How To Draw A Pumpkin Candy Bucket"
-    },
-    {
-     "id": "PrjGvyweh8w",
-     "title": "How To Draw Marshall From PAW Patrol: The Dino Movie"
-    },
-    {
-     "id": "kQcBPgfPEJ8",
-     "title": "How To Draw A Haunted Monster Truck"
-    },
-    {
-     "id": "kjV7CxqY9jU",
-     "title": "How To Draw A Cool Fossil"
-    }
-   ],
-   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
-    {
-     "id": "XoDxtMWNAAg",
-     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
-    },
-    {
-     "id": "lpNtEz9yOmU",
-     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
-    },
-    {
-     "id": "ZVO8K102WQU",
-     "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
-    },
-    {
-     "id": "FU-ONL0tVyw",
-     "title": "Stop Wasting Time on Useless Soccer Skills (Learn These Moves Instead)"
-    },
-    {
-     "id": "eX8fcZa-x4c",
-     "title": "How to Shoot a Soccer Ball Harder (Get More Power With Less Effort)"
-    },
-    {
-     "id": "u6PzfPq3cT4",
-     "title": "Stop Using Useless Soccer Tricks! Learn These 9 Skills Instead"
-    },
-    {
-     "id": "0XyLOEtXNaY",
-     "title": "Stop Making Bad Passes in Soccer (Easy Drills for Young Players)"
-    },
-    {
-     "id": "pwl-aXDtJs0",
-     "title": "Kids Keep Missing Soccer Shots? Fix These Shooting Mistakes"
-    },
-    {
-     "id": "c-D6YuIpLlY",
-     "title": "I’m NOT a Pro Soccer Player… So Why Should You Listen to Me?"
-    },
-    {
-     "id": "wt6QUF624XY",
-     "title": "Play Soccer Faster Without Running Faster (Improve Your Speed of Play)"
-    },
-    {
-     "id": "5oJuPmjWKsI",
-     "title": "How to Strike a Soccer Ball Harder (Get More Power With Less Effort)"
-    },
-    {
-     "id": "Grc90D6Onz0",
-     "title": "Soccer Shooting Mistakes You NEED to Stop Making (Easy Fixes)"
-    },
-    {
-     "id": "RaSB6TJOmK4",
-     "title": "Do This Every Day to Become a Better Soccer Player (Easy Morning Routine)"
-    },
-    {
-     "id": "AzxJrPDCoHA",
-     "title": "Stop Learning Useless Soccer Tricks (Use These Skills in Real Games)"
-    },
-    {
-     "id": "b2unGcdtC8M",
-     "title": "Stuck at the Same Juggling Record? Try These Soccer Juggling Tips"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
@@ -1015,72 +829,6 @@
     {
      "id": "Jc1NwLnJMQM",
      "title": "Movin' On Out | Biz Kid$ Episode 503"
-    },
-    {
-     "id": "meEyi6g4fDg",
-     "title": "Rodeo Bros - How To Make Money At The Rodeo"
-    }
-   ],
-   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
-    {
-     "id": "cr2TDSSSzPk",
-     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
-    },
-    {
-     "id": "YZl6HArvSRs",
-     "title": "Feelings Thermometer For Kids | Identify And Manage Big Emotions"
-    },
-    {
-     "id": "cfwPN5OrauQ",
-     "title": "Perfectionism for Kids | 5 Skills to Handle Mistakes and Let Go of Perfect"
-    },
-    {
-     "id": "TUkKPLvrh10",
-     "title": "Boredom for Kids | \"I'M BORED!\" | What to Do When You Feel Bored"
-    },
-    {
-     "id": "oMOX2wex1I4",
-     "title": "Optimism and Positive Thinking for Kids | How to Build a Hopeful Mindset"
-    },
-    {
-     "id": "4f9EqokN4M0",
-     "title": "Mindfulness for Kids | More Than Just Meditation | 5 Easy Ways to Practice Every Day"
-    },
-    {
-     "id": "Y_7ip4c6eIg",
-     "title": "Overthinking for Kids | 7 Ways To Manage Worries"
-    },
-    {
-     "id": "138er8o7lmE",
-     "title": "Perseverance for Kids – Skills To Develop Grit and Persistence"
-    },
-    {
-     "id": "ce_h87keUz4",
-     "title": "Kindness For Kids | How To Show Kindness Video | How To Be Kind | Elementary-Middle School Students"
-    },
-    {
-     "id": "Q5hR34g3kLc",
-     "title": "SMART Goals for Kids and Teens | Goal Setting for Students"
-    },
-    {
-     "id": "dhUY0WK1nFU",
-     "title": "Yoga for Childrens Mental Health | Easy Poses for Calm & Focus-Yoga Brain Breaks for Anxiety, Stress"
-    },
-    {
-     "id": "WBtprj6N_mg",
-     "title": "Flexible Thinking For Kids | Cognitive Flexibility For Middle School-Elementary Students"
-    },
-    {
-     "id": "sBolsBnFsnc",
-     "title": "Empathy For Kids | How To Practice and Improve Empathy | Elementary-Middle School Students"
-    },
-    {
-     "id": "0AFRnZEkqq4",
-     "title": "Self Control for Kids - Impulse Control Skills | Elementary and Middle School Students"
-    },
-    {
-     "id": "BmX6GXDvlLM",
-     "title": "Social Anxiety for Kids and Teens | Tips and Coping Skills | Courage Ladder"
     }
    ]
   },
