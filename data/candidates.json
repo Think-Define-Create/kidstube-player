@@ -1,0 +1,693 @@
+{
+ "format": 1,
+ "generatedAt": "2026-10-24T03:32:35.692Z",
+ "note": "FOR REVIEW ONLY. The TV apps never read this file and nothing here is shown on the TV. To use a video, copy its \"line\" into \"videos\" in config/youtube.json (after watching it).",
+ "source": "YouTube search results page (keyless; can break or be rate-limited)",
+ "status": "partial",
+ "errors": [
+  "\"how things work engineering for students\": blocked by YouTube (consent/captcha page)",
+  "\"growth mindset for students\": blocked by YouTube (consent/captcha page)"
+ ],
+ "candidates": [
+  {
+   "topic": "Science",
+   "query": "science explained for 10 year olds",
+   "id": "BEdfwxKCSPc",
+   "title": "Blippi's Cool Science Experiments! | Learn Science For Kids | Educational Videos for Toddlers",
+   "channel": "Blippi Wonders - Educational Cartoons for Kids",
+   "channelId": "UC_dpB5SImaseMZpLu8s-r7w",
+   "length": "9:42",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=BEdfwxKCSPc",
+   "line": {
+    "id": "BEdfwxKCSPc",
+    "title": "Blippi's Cool Science Experiments! | Learn Science For Kids | Educational Videos for Toddlers",
+    "channel": "Blippi Wonders - Educational Cartoons for Kids",
+    "row": "Science Lab"
+   }
+  },
+  {
+   "topic": "Science",
+   "query": "science explained for 10 year olds",
+   "id": "sePqPIXMsAc",
+   "title": "Our Sun | Science videos for kids | Kids Academy",
+   "channel": "Kids Academy",
+   "channelId": "UCqb89GqploCXgz4lsdR-_ww",
+   "length": "2:31",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=sePqPIXMsAc",
+   "line": {
+    "id": "sePqPIXMsAc",
+    "title": "Our Sun | Science videos for kids | Kids Academy",
+    "channel": "Kids Academy",
+    "row": "Science Lab"
+   }
+  },
+  {
+   "topic": "Science",
+   "query": "science explained for 10 year olds",
+   "id": "Dx3RpXdJw2k",
+   "title": "Electricity for Kids | What is Electricity? Where does Electricity come from?",
+   "channel": "Learn Bright",
+   "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+   "length": "13:54",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=Dx3RpXdJw2k",
+   "line": {
+    "id": "Dx3RpXdJw2k",
+    "title": "Electricity for Kids | What is Electricity? Where does Electricity come from?",
+    "channel": "Learn Bright",
+    "row": "Science Lab"
+   }
+  },
+  {
+   "topic": "Science",
+   "query": "science explained for 10 year olds",
+   "id": "e8YzKyot4Pc",
+   "title": "Planets in the Solar System for Kids | Learn about the sun and the eight planets",
+   "channel": "Learn Bright",
+   "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+   "length": "11:23",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=e8YzKyot4Pc",
+   "line": {
+    "id": "e8YzKyot4Pc",
+    "title": "Planets in the Solar System for Kids | Learn about the sun and the eight planets",
+    "channel": "Learn Bright",
+    "row": "Science Lab"
+   }
+  },
+  {
+   "topic": "Science",
+   "query": "science explained for 10 year olds",
+   "id": "W55-QiHCYGA",
+   "title": "Biology | \"What's In Our Digestive System?\" Explained | Human Body | Science for Kids",
+   "channel": "Big Bang Academy Kids",
+   "channelId": "UCa1w8_QFAteJ0rSSw_FlhNw",
+   "length": "4:32",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=W55-QiHCYGA",
+   "line": {
+    "id": "W55-QiHCYGA",
+    "title": "Biology | \"What's In Our Digestive System?\" Explained | Human Body | Science for Kids",
+    "channel": "Big Bang Academy Kids",
+    "row": "Science Lab"
+   }
+  },
+  {
+   "topic": "Science",
+   "query": "science explained for 10 year olds",
+   "id": "3-xKZKxXuu0",
+   "title": "What is Sound? | Physics for Kids | SciShow Kids",
+   "channel": "SciShow Kids",
+   "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
+   "length": "3:58",
+   "approvedChannel": true,
+   "url": "https://www.youtube.com/watch?v=3-xKZKxXuu0",
+   "line": {
+    "id": "3-xKZKxXuu0",
+    "title": "What is Sound? | Physics for Kids | SciShow Kids",
+    "channel": "SciShow Kids",
+    "row": "Science Lab"
+   }
+  },
+  {
+   "topic": "Science",
+   "query": "science explained for 10 year olds",
+   "id": "t09pAwLICC4",
+   "title": "What is electricity? - Science for Kids - Episode 1",
+   "channel": "Smile and Learn - English",
+   "channelId": "UCxoDMG0tvaYO5Xobvtqw5nw",
+   "length": "5:42",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=t09pAwLICC4",
+   "line": {
+    "id": "t09pAwLICC4",
+    "title": "What is electricity? - Science for Kids - Episode 1",
+    "channel": "Smile and Learn - English",
+    "row": "Science Lab"
+   }
+  },
+  {
+   "topic": "Science",
+   "query": "science explained for 10 year olds",
+   "id": "v80w3htJNyQ",
+   "title": "What Is Osmosis? | The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz",
+   "channel": "Peekaboo Kidz",
+   "channelId": "UCxlJ45KjG4XVcQ_hd8j227A",
+   "length": "7:06",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=v80w3htJNyQ",
+   "line": {
+    "id": "v80w3htJNyQ",
+    "title": "What Is Osmosis? | The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz",
+    "channel": "Peekaboo Kidz",
+    "row": "Science Lab"
+   }
+  },
+  {
+   "topic": "Tech & engineering",
+   "query": "simple machines explained",
+   "id": "LSfNYpCprw4",
+   "title": "Simple Machines for Kids | Learn all about the 6 simple machines!",
+   "channel": "Learn Bright",
+   "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+   "length": "7:02",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=LSfNYpCprw4",
+   "line": {
+    "id": "LSfNYpCprw4",
+    "title": "Simple Machines for Kids | Learn all about the 6 simple machines!",
+    "channel": "Learn Bright",
+    "row": "Build & Engineer"
+   }
+  },
+  {
+   "topic": "Tech & engineering",
+   "query": "simple machines explained",
+   "id": "tk9iUjMEnaY",
+   "title": "What Are Simple Machines? | Types Of Simple Machines | The Dr Binocs Show | Peekaboo Kidz",
+   "channel": "Peekaboo Kidz",
+   "channelId": "UCxlJ45KjG4XVcQ_hd8j227A",
+   "length": "5:42",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=tk9iUjMEnaY",
+   "line": {
+    "id": "tk9iUjMEnaY",
+    "title": "What Are Simple Machines? | Types Of Simple Machines | The Dr Binocs Show | Peekaboo Kidz",
+    "channel": "Peekaboo Kidz",
+    "row": "Build & Engineer"
+   }
+  },
+  {
+   "topic": "Tech & engineering",
+   "query": "simple machines explained",
+   "id": "s03LgyIgCtw",
+   "title": "Simple Machines | Animation",
+   "channel": "EarthPen",
+   "channelId": "UCX1Hh7CvEc3RCUd4NRBWJMw",
+   "length": "4:33",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=s03LgyIgCtw",
+   "line": {
+    "id": "s03LgyIgCtw",
+    "title": "Simple Machines | Animation",
+    "channel": "EarthPen",
+    "row": "Build & Engineer"
+   }
+  },
+  {
+   "topic": "Tech & engineering",
+   "query": "simple machines explained",
+   "id": "JnYVz1TSmBQ",
+   "title": "How Levers, Pulleys and Gears Work",
+   "channel": "The Efficient Engineer",
+   "channelId": "UCXAS_Ekkq0iFJ9dSUIkcAkw",
+   "length": "15:53",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=JnYVz1TSmBQ",
+   "line": {
+    "id": "JnYVz1TSmBQ",
+    "title": "How Levers, Pulleys and Gears Work",
+    "channel": "The Efficient Engineer",
+    "row": "Build & Engineer"
+   }
+  },
+  {
+   "topic": "Tech & engineering",
+   "query": "simple machines explained",
+   "id": "BL2maB1vy68",
+   "title": "Simple Machines for Kids | The 6 Simple Machines Explained with Fun Examples",
+   "channel": "Curious Kids Academy",
+   "channelId": "UCNUPtt_LvRXhw_y0JbC1_YQ",
+   "length": "8:38",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=BL2maB1vy68",
+   "line": {
+    "id": "BL2maB1vy68",
+    "title": "Simple Machines for Kids | The 6 Simple Machines Explained with Fun Examples",
+    "channel": "Curious Kids Academy",
+    "row": "Build & Engineer"
+   }
+  },
+  {
+   "topic": "Tech & engineering",
+   "query": "simple machines explained",
+   "id": "v7zXfQEgSb8",
+   "title": "Simple Machines for Engineers | IMA AMA and % Efficiency",
+   "channel": "INTEGRAL PHYSICS",
+   "channelId": "UC9dgn36nP9C5P1nQK6-WDTA",
+   "length": "11:55",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=v7zXfQEgSb8",
+   "line": {
+    "id": "v7zXfQEgSb8",
+    "title": "Simple Machines for Engineers | IMA AMA and % Efficiency",
+    "channel": "INTEGRAL PHYSICS",
+    "row": "Build & Engineer"
+   }
+  },
+  {
+   "topic": "Tech & engineering",
+   "query": "simple machines explained",
+   "id": "iQu3GY509ZM",
+   "title": "The Simple Machines Song | Science Songs | Scratch Garden",
+   "channel": "Scratch Garden",
+   "channelId": "UC8NFs-VWUsyuq4zaYVVMgCQ",
+   "length": "3:20",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=iQu3GY509ZM",
+   "line": {
+    "id": "iQu3GY509ZM",
+    "title": "The Simple Machines Song | Science Songs | Scratch Garden",
+    "channel": "Scratch Garden",
+    "row": "Build & Engineer"
+   }
+  },
+  {
+   "topic": "Tech & engineering",
+   "query": "simple machines explained",
+   "id": "2yde0fz61rk",
+   "title": "Science Max | FULL EPISODE | Simple Machines | Season 1",
+   "channel": "Science Max - Scholastic",
+   "channelId": "UCbprhISv-0ReKPPyhf7-Dtw",
+   "length": "22:04",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=2yde0fz61rk",
+   "line": {
+    "id": "2yde0fz61rk",
+    "title": "Science Max | FULL EPISODE | Simple Machines | Season 1",
+    "channel": "Science Max - Scholastic",
+    "row": "Build & Engineer"
+   }
+  },
+  {
+   "topic": "Soccer defence",
+   "query": "youth soccer defending tips",
+   "id": "ulf9H1S31Vw",
+   "title": "5 BASIC DEFENDING SECRETS - How to improve as a defender in soccer FAST",
+   "channel": "Will John",
+   "channelId": "UCe9JOWHoSPS_r-EdiyNkrkg",
+   "length": "5:59",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=ulf9H1S31Vw",
+   "line": {
+    "id": "ulf9H1S31Vw",
+    "title": "5 BASIC DEFENDING SECRETS - How to improve as a defender in soccer FAST",
+    "channel": "Will John",
+    "row": "Soccer Skills"
+   }
+  },
+  {
+   "topic": "Soccer defence",
+   "query": "youth soccer defending tips",
+   "id": "-MZ74SMZ9sM",
+   "title": "7 defender tips to make strikers FEAR you",
+   "channel": "Unisport",
+   "channelId": "UC5SQGzkWyQSW_fe-URgq7xw",
+   "length": "6:40",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=-MZ74SMZ9sM",
+   "line": {
+    "id": "-MZ74SMZ9sM",
+    "title": "7 defender tips to make strikers FEAR you",
+    "channel": "Unisport",
+    "row": "Soccer Skills"
+   }
+  },
+  {
+   "topic": "Soccer defence",
+   "query": "youth soccer defending tips",
+   "id": "fBmKmCPcWuk",
+   "title": "Teach Youth Soccer Players How to Defend!",
+   "channel": "Coach Rory Soccer",
+   "channelId": "UCxjqkVEAAQfWN2iW1oEaXTw",
+   "length": "13:24",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=fBmKmCPcWuk",
+   "line": {
+    "id": "fBmKmCPcWuk",
+    "title": "Teach Youth Soccer Players How to Defend!",
+    "channel": "Coach Rory Soccer",
+    "row": "Soccer Skills"
+   }
+  },
+  {
+   "topic": "Soccer defence",
+   "query": "youth soccer defending tips",
+   "id": "K17wDaDcuyY",
+   "title": "How to STOP fast skillful attackers",
+   "channel": "Unisport",
+   "channelId": "UC5SQGzkWyQSW_fe-URgq7xw",
+   "length": "3:37",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=K17wDaDcuyY",
+   "line": {
+    "id": "K17wDaDcuyY",
+    "title": "How to STOP fast skillful attackers",
+    "channel": "Unisport",
+    "row": "Soccer Skills"
+   }
+  },
+  {
+   "topic": "Soccer defence",
+   "query": "youth soccer defending tips",
+   "id": "aOi2_xeYHTQ",
+   "title": "Soccer Training - Defending Technique 1",
+   "channel": "OnlineSoccerTraining",
+   "channelId": "UCw5Nrdja59muLSOW3CnF5Yw",
+   "length": "1:01",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=aOi2_xeYHTQ",
+   "line": {
+    "id": "aOi2_xeYHTQ",
+    "title": "Soccer Training - Defending Technique 1",
+    "channel": "OnlineSoccerTraining",
+    "row": "Soccer Skills"
+   }
+  },
+  {
+   "topic": "Soccer defence",
+   "query": "youth soccer defending tips",
+   "id": "MDF6tB5foI0",
+   "title": "10 Best Soccer Defending Drills for Kids | Youth Soccer Defense Drills | Fun Soccer Drills by MOJO",
+   "channel": "yougotmojo",
+   "channelId": "UCY6jYOza3nOOfUzadS2T3AA",
+   "length": "16:28",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=MDF6tB5foI0",
+   "line": {
+    "id": "MDF6tB5foI0",
+    "title": "10 Best Soccer Defending Drills for Kids | Youth Soccer Defense Drills | Fun Soccer Drills by MOJO",
+    "channel": "yougotmojo",
+    "row": "Soccer Skills"
+   }
+  },
+  {
+   "topic": "Soccer defence",
+   "query": "youth soccer defending tips",
+   "id": "gQjrTsuTUlQ",
+   "title": "Stop Teaching Defending Wrong in Youth Soccer (Do This Instead) | Inside Academy Training",
+   "channel": "Coach Ricky Soccer",
+   "channelId": "UCrlPgrZ7XmtkII42QK64xTw",
+   "length": "7:48",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=gQjrTsuTUlQ",
+   "line": {
+    "id": "gQjrTsuTUlQ",
+    "title": "Stop Teaching Defending Wrong in Youth Soccer (Do This Instead) | Inside Academy Training",
+    "channel": "Coach Ricky Soccer",
+    "row": "Soccer Skills"
+   }
+  },
+  {
+   "topic": "Soccer defence",
+   "query": "youth soccer defending tips",
+   "id": "a5voToLyoMI",
+   "title": "How to be attacker's worst nightmare",
+   "channel": "Unisport",
+   "channelId": "UC5SQGzkWyQSW_fe-URgq7xw",
+   "length": "4:00",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=a5voToLyoMI",
+   "line": {
+    "id": "a5voToLyoMI",
+    "title": "How to be attacker's worst nightmare",
+    "channel": "Unisport",
+    "row": "Soccer Skills"
+   }
+  },
+  {
+   "topic": "Entrepreneurship & money",
+   "query": "young entrepreneur story for students",
+   "id": "EblQj_pZFlQ",
+   "title": "The Making of A Young Entrepreneur: Gabrielle Jordan Williams at TEDxRockCreekPark",
+   "channel": "TEDx Talks",
+   "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+   "length": "5:28",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=EblQj_pZFlQ",
+   "line": {
+    "id": "EblQj_pZFlQ",
+    "title": "The Making of A Young Entrepreneur: Gabrielle Jordan Williams at TEDxRockCreekPark",
+    "channel": "TEDx Talks",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Entrepreneurship & money",
+   "query": "young entrepreneur story for students",
+   "id": "i7jX9SR0bfw",
+   "title": "Jack's Stand Pitch - Shark Tank",
+   "channel": "ABC",
+   "channelId": "UC_IpSl6O_-IRAA6fiNs05Gg",
+   "length": "1:36",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=i7jX9SR0bfw",
+   "line": {
+    "id": "i7jX9SR0bfw",
+    "title": "Jack's Stand Pitch - Shark Tank",
+    "channel": "ABC",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Entrepreneurship & money",
+   "query": "young entrepreneur story for students",
+   "id": "v2Wp0tHplkM",
+   "title": "THE YOUNGEST EVER ENTREPRENEUR IN THE DEN | Dragons' Den - BBC",
+   "channel": "BBC",
+   "channelId": "UCCj956IF62FbT7Gouszaj9w",
+   "length": "5:16",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=v2Wp0tHplkM",
+   "line": {
+    "id": "v2Wp0tHplkM",
+    "title": "THE YOUNGEST EVER ENTREPRENEUR IN THE DEN | Dragons' Den - BBC",
+    "channel": "BBC",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Entrepreneurship & money",
+   "query": "young entrepreneur story for students",
+   "id": "-w0HoaI3UAU",
+   "title": "Brilliant Young Entrepreneur Stories - long video",
+   "channel": "JA Europe",
+   "channelId": "UCx2ixkhSbHyycUsPkDMOMaA",
+   "length": "8:10",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=-w0HoaI3UAU",
+   "line": {
+    "id": "-w0HoaI3UAU",
+    "title": "Brilliant Young Entrepreneur Stories - long video",
+    "channel": "JA Europe",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Entrepreneurship & money",
+   "query": "young entrepreneur story for students",
+   "id": "1KIPwXUzCXc",
+   "title": "Shark Tank’s Youngest Success Stories | Shark Tank US | Shark Tank Global",
+   "channel": "Shark Tank Global",
+   "channelId": "UCREgA-BmOocJ9Is_bZV6aJQ",
+   "length": "23:39",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=1KIPwXUzCXc",
+   "line": {
+    "id": "1KIPwXUzCXc",
+    "title": "Shark Tank’s Youngest Success Stories | Shark Tank US | Shark Tank Global",
+    "channel": "Shark Tank Global",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Entrepreneurship & money",
+   "query": "young entrepreneur story for students",
+   "id": "jVcaTtJmRNs",
+   "title": "Maya Penn: Meet a young entrepreneur, cartoonist, designer, activist ... | TED",
+   "channel": "TED",
+   "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+   "length": "7:17",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=jVcaTtJmRNs",
+   "line": {
+    "id": "jVcaTtJmRNs",
+    "title": "Maya Penn: Meet a young entrepreneur, cartoonist, designer, activist ... | TED",
+    "channel": "TED",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Entrepreneurship & money",
+   "query": "young entrepreneur story for students",
+   "id": "TGo_AH67jVI",
+   "title": "Life Lessons From The World’s Youngest Self-Made Woman Billionaire",
+   "channel": "Forbes",
+   "channelId": "UCmh7afBz-uWwOSSNTqUBAhg",
+   "length": "16:17",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=TGo_AH67jVI",
+   "line": {
+    "id": "TGo_AH67jVI",
+    "title": "Life Lessons From The World’s Youngest Self-Made Woman Billionaire",
+    "channel": "Forbes",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Entrepreneurship & money",
+   "query": "young entrepreneur story for students",
+   "id": "AOGDNYWfjrE",
+   "title": "Meet the teenage entrepreneurs making millions - BBC News",
+   "channel": "BBC News",
+   "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+   "length": "2:38",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=AOGDNYWfjrE",
+   "line": {
+    "id": "AOGDNYWfjrE",
+    "title": "Meet the teenage entrepreneurs making millions - BBC News",
+    "channel": "BBC News",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Positive mindset & character",
+   "query": "perseverance never give up story for students",
+   "id": "0U3Msn8HfNU",
+   "title": "Perseverance For Kids | How to Persevere | Never Give Up | What Does It Take To Find Success?",
+   "channel": "The Mr Saad Show",
+   "channelId": "UCeWyf8KIewfELO03GmyiQlw",
+   "length": "3:48",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=0U3Msn8HfNU",
+   "line": {
+    "id": "0U3Msn8HfNU",
+    "title": "Perseverance For Kids | How to Persevere | Never Give Up | What Does It Take To Find Success?",
+    "channel": "The Mr Saad Show",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Positive mindset & character",
+   "query": "perseverance never give up story for students",
+   "id": "NL4BGjzupCA",
+   "title": "PERSEVERANCE - a 2D Animated Short Film",
+   "channel": "Transformation Studios",
+   "channelId": "UCaoi6zRsQ159o-ssR03ALXw",
+   "length": "1:58",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=NL4BGjzupCA",
+   "line": {
+    "id": "NL4BGjzupCA",
+    "title": "PERSEVERANCE - a 2D Animated Short Film",
+    "channel": "Transformation Studios",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Positive mindset & character",
+   "query": "perseverance never give up story for students",
+   "id": "80EUzy6zOeM",
+   "title": "Perseverance Makes Me Stronger by Elizabeth Cole | READ ALOUD Books for Kids",
+   "channel": "Little Cozy Nook",
+   "channelId": "UCebwsqJNQ9jozuETdUm3-Zg",
+   "length": "5:22",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=80EUzy6zOeM",
+   "line": {
+    "id": "80EUzy6zOeM",
+    "title": "Perseverance Makes Me Stronger by Elizabeth Cole | READ ALOUD Books for Kids",
+    "channel": "Little Cozy Nook",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Positive mindset & character",
+   "query": "perseverance never give up story for students",
+   "id": "3CQusoJSh0E",
+   "title": "Never give up , Believe in yourself!",
+   "channel": "MulliganBrothers",
+   "channelId": "UCIrn3pSjhCLp8xA7JXxi6Bw",
+   "length": "3:14",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=3CQusoJSh0E",
+   "line": {
+    "id": "3CQusoJSh0E",
+    "title": "Never give up , Believe in yourself!",
+    "channel": "MulliganBrothers",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Positive mindset & character",
+   "query": "perseverance never give up story for students",
+   "id": "kPO21NiUbU0",
+   "title": "I Choose To Try Again by Elizabeth Estrada | A Story about Perseverance and Diligence | Read Aloud",
+   "channel": "My Bedtime Stories",
+   "channelId": "UCywSRz6TqM9ZQl03gK6lbYg",
+   "length": "5:17",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=kPO21NiUbU0",
+   "line": {
+    "id": "kPO21NiUbU0",
+    "title": "I Choose To Try Again by Elizabeth Estrada | A Story about Perseverance and Diligence | Read Aloud",
+    "channel": "My Bedtime Stories",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Positive mindset & character",
+   "query": "perseverance never give up story for students",
+   "id": "1aJUHHPm_ug",
+   "title": "Never Give Up | Little Bee's Journey of Faith and Perseverance",
+   "channel": "Bible Animated Stories for All Ages",
+   "channelId": "UCyBpIF8PYA_sVj9NPcfXEeg",
+   "length": "3:19",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=1aJUHHPm_ug",
+   "line": {
+    "id": "1aJUHHPm_ug",
+    "title": "Never Give Up | Little Bee's Journey of Faith and Perseverance",
+    "channel": "Bible Animated Stories for All Ages",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Positive mindset & character",
+   "query": "perseverance never give up story for students",
+   "id": "wI7GV4zNpSw",
+   "title": "The Power of Practice | A Powerful Motivational Story of Perseverance, Hard Work, & Never Giving Up",
+   "channel": "Wisdom of Hope",
+   "channelId": "UCN2K5vZ7hXxwCe54Am-iMXQ",
+   "length": "4:38",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=wI7GV4zNpSw",
+   "line": {
+    "id": "wI7GV4zNpSw",
+    "title": "The Power of Practice | A Powerful Motivational Story of Perseverance, Hard Work, & Never Giving Up",
+    "channel": "Wisdom of Hope",
+    "row": "Big Ideas & Mindset"
+   }
+  },
+  {
+   "topic": "Positive mindset & character",
+   "query": "perseverance never give up story for students",
+   "id": "TrizwEkTIRc",
+   "title": "The Girl Who Makes A Million Mistakes –🏃‍♀️‍➡️ A story about growth mindset and not giving up!",
+   "channel": "Buddy Son Storytime",
+   "channelId": "UCzZiparM1drXqoWp7bhIpZw",
+   "length": "7:10",
+   "approvedChannel": false,
+   "url": "https://www.youtube.com/watch?v=TrizwEkTIRc",
+   "line": {
+    "id": "TrizwEkTIRc",
+    "title": "The Girl Who Makes A Million Mistakes –🏃‍♀️‍➡️ A story about growth mindset and not giving up!",
+    "channel": "Buddy Son Storytime",
+    "row": "Big Ideas & Mindset"
+   }
+  }
+ ]
+}

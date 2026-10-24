@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-24T03:29:32.590Z",
- "commit": "e60f1f2",
+ "publishedAt": "2026-10-24T03:32:35.689Z",
+ "commit": "1385059",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -14,6 +14,7 @@
    "Science Lab",
    "Animals & the Human Body",
    "Think & Grow",
+   "Big Ideas & Mindset",
    "Soccer Skills",
    "Draw & Create"
   ],
@@ -96,6 +97,54 @@
     "title": "How I Coach Tackling (And Remove Fear From Players)",
     "channel": "Joner Football",
     "row": "Soccer Skills"
+   },
+   {
+    "id": "TGx5CJcF044",
+    "title": "Ryan's Recycling - 60 Second Docs",
+    "channel": "60 Second Docs",
+    "row": "Big Ideas & Mindset"
+   },
+   {
+    "id": "XQ4RESzO2wI",
+    "title": "Young Entrepreneurs Share Their Success Story",
+    "channel": "Scholastic",
+    "row": "Big Ideas & Mindset"
+   },
+   {
+    "id": "vKuItf6xN6E",
+    "title": "How to Understand Business Finances: The Lemonade Stand",
+    "channel": "wikiHow",
+    "row": "Big Ideas & Mindset"
+   },
+   {
+    "id": "aRcXutXvfmM",
+    "title": "Financial Literacy - Needs and Wants",
+    "channel": "Learn Bright",
+    "row": "Big Ideas & Mindset"
+   },
+   {
+    "id": "El7YKGhryOw",
+    "title": "Young Entrepreneur - Seymour The Savvy Saver",
+    "channel": "Biz Kid$",
+    "row": "Big Ideas & Mindset"
+   },
+   {
+    "id": "x4xk6zAHWBs",
+    "title": "Young Inventors",
+    "channel": "Behind the News",
+    "row": "Big Ideas & Mindset"
+   },
+   {
+    "id": "rf8FX2sI3gU",
+    "title": "Growth Mindset: The Truth About Your Brain",
+    "channel": "Khan Academy",
+    "row": "Big Ideas & Mindset"
+   },
+   {
+    "id": "2zrtHt3bBmQ",
+    "title": "Growth Mindset (1 of 5)",
+    "channel": "ClassDojo",
+    "row": "Big Ideas & Mindset"
    }
   ],
   "channels": [
@@ -163,12 +212,22 @@
     "id": "UCkZM4O__WAhfWIsuH9BeRHw",
     "name": "Progressive Soccer",
     "row": "Soccer Skills"
+   },
+   {
+    "id": "UCufmiGK0I_9g_iwUR-E8mwA",
+    "name": "Biz Kid$",
+    "row": "Big Ideas & Mindset"
+   },
+   {
+    "id": "UCW0vK4fFc2iQdvxtFZutsdA",
+    "name": "Mental Health Center Kids",
+    "row": "Big Ideas & Mindset"
    }
   ],
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-24T03:28:54.065Z",
+  "builtAt": "2026-10-24T03:31:43.852Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -204,6 +263,104 @@
     {
      "id": "EP1mYq8hLIY",
      "title": "The Anti Trampoline Effect"
+    },
+    {
+     "id": "IFqI11SIGXo",
+     "title": "Steel Absorbs Gas Like a Sponge"
+    },
+    {
+     "id": "-DyrBDsKA5s",
+     "title": "You've Never Seen a Real Photo"
+    },
+    {
+     "id": "BViIGAg-eVI",
+     "title": "A New Type of Levitation"
+    },
+    {
+     "id": "B_JavY7pSfE",
+     "title": "Surely it Breaks The 2nd Law"
+    },
+    {
+     "id": "RaQfGqsB30o",
+     "title": "Can You Turn a Rainbow Back into White Light?"
+    },
+    {
+     "id": "RWbCC6f_k1c",
+     "title": "The Liquid Hammer Toy You Can't Buy"
+    },
+    {
+     "id": "kuMUquaeE6g",
+     "title": "Amplifying Invisible Motion"
+    },
+    {
+     "id": "-NzfTE8RI4w",
+     "title": "The Weirdest Microscope"
+    },
+    {
+     "id": "J_vXK9uvRf4",
+     "title": "The Unknown Phase of Matter"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+    },
+    {
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+    },
+    {
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
+    },
+    {
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+    },
+    {
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+    },
+    {
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
+    },
+    {
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+    },
+    {
+     "id": "r2xP7heE0wk",
+     "title": "How Eyes Let Us See The World | SciShow Kids"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -268,64 +425,6 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
-    {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
-    },
-    {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
-    },
-    {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
-    },
-    {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
-    },
-    {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
-    },
-    {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
-    }
-   ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
     {
      "id": "3WWm929hbTw",
@@ -388,66 +487,6 @@
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "Xakbw3sQcd0",
-     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "EXYhTpsYHN8",
-     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
-    },
-    {
-     "id": "Gvmyc2yW_NM",
-     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
-    },
-    {
-     "id": "9q3uiSeT80M",
-     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
-    },
-    {
-     "id": "aASWMaa5ZU8",
-     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "t8cKaMY_sCE",
-     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
-    },
-    {
-     "id": "adABRbEs4G4",
-     "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "I3abQzLOv2A",
-     "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "AOSjUmwVFt4",
-     "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids"
-    }
-   ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
     {
      "id": "k4gbweQTL50",
@@ -488,6 +527,150 @@
     {
      "id": "gUKCSkegtKY",
      "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
+    },
+    {
+     "id": "Bg_mcjX_iDM",
+     "title": "Catching Weirdest Bugs on Earth!"
+    },
+    {
+     "id": "5qt0TxOmR3Y",
+     "title": "Should Science Bring Back These 5 Extinct Animals?"
+    },
+    {
+     "id": "NbPN331vzis",
+     "title": "Genetic Breakthrough! My Private Tour of a Top-Secret BioLab"
+    },
+    {
+     "id": "0d8uGJ9uLNY",
+     "title": "500-Pound DINO BIRD Brought Back from the Dead!"
+    },
+    {
+     "id": "Ay07lUktfsI",
+     "title": "Catching Most Dangerous Animal in Australia! "
+    }
+   ],
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+    {
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
+    },
+    {
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
+    },
+    {
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
+    },
+    {
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
+    },
+    {
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
+    },
+    {
+     "id": "Cyl3X88KEgg",
+     "title": "Why Humanity Will Never Leave The Solar System"
+    },
+    {
+     "id": "PqtggjVAi8M",
+     "title": "How Are Memories Stored Inside Your Brain?"
+    },
+    {
+     "id": "8qQW4LTWgtc",
+     "title": "Why Earth Sucks Compared to the Planet Hestia"
+    },
+    {
+     "id": "TYhNHX372ek",
+     "title": "The Uncomfortable Truth About Ozempic (Updated Version)"
+    },
+    {
+     "id": "n-gYFcVx-8Y",
+     "title": "GERMANY IS OVER"
+    },
+    {
+     "id": "dl0-TveDDGA",
+     "title": "Our Minds Are Weirder than You Think"
+    },
+    {
+     "id": "h3DCdWyb0cc",
+     "title": "The Most Insane Megaproject You Never Heard About"
+    },
+    {
+     "id": "yDAAlojz8NU",
+     "title": "This Is the Scariest Place in The Universe"
+    },
+    {
+     "id": "D0WQK7cMJn8",
+     "title": "We Made A New Channel!"
+    },
+    {
+     "id": "pHJIhxZEoxg",
+     "title": "Why Are There No Holes Around Trees?"
+    }
+   ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "Xakbw3sQcd0",
+     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "EXYhTpsYHN8",
+     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
+    },
+    {
+     "id": "Gvmyc2yW_NM",
+     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "9q3uiSeT80M",
+     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
+    },
+    {
+     "id": "aASWMaa5ZU8",
+     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "t8cKaMY_sCE",
+     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
+    },
+    {
+     "id": "adABRbEs4G4",
+     "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "I3abQzLOv2A",
+     "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "AOSjUmwVFt4",
+     "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids"
+    },
+    {
+     "id": "CGEtugYEJok",
+     "title": "Pigs vs. Cows vs. Goats: Barnyard Showdown! | Whoa Factor | Nat Geo Kids"
+    },
+    {
+     "id": "Uk7NdsKaREM",
+     "title": "Kids React to Black Rain Frogs | Africa Earth's Wild Home | Nat Geo Kids"
+    },
+    {
+     "id": "G59TqTjtuhg",
+     "title": "Exploring Earth's Closest Neighbors | A Traveler's Guide to the Planets Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "wEz-NB7CRp0",
+     "title": "We Built a HUMAN-SIZED Wasps Nest | Live Like an Animal Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "iAIpKDObuWg",
+     "title": "Halloween Animals in REAL Life! 🎃 Learn some Fun Facts about Bats, Spiders, and Owls! | Nat Geo Kids"
+    },
+    {
+     "id": "w4n93HV5i-Q",
+     "title": "The One Where a Marble Statue Comes to Life | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -552,6 +735,68 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+    {
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
+    },
+    {
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    },
+    {
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+    },
+    {
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
+    },
+    {
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    },
+    {
+     "id": "-mXaU3N9e8Y",
+     "title": "2.685 is (almost) everywhere - Numberphile"
+    },
+    {
+     "id": "0aTUTxOiRgU",
+     "title": "291 Holes - Numberphile"
+    },
+    {
+     "id": "oYGBRhS1Ujo",
+     "title": "Cutting Moons  - Numberphile"
+    },
+    {
+     "id": "JEPqrqNqkHw",
+     "title": "The Mountain Climbing Theorem - Numberphile"
+    },
+    {
+     "id": "cOTf_YEmSOU",
+     "title": "1³+2³+3³+4³+5³+6³+7³+8³+9³+10³+11³+12³+13³+14³+15³+16³+17³+18³+19³+20³+21³+22³+23³+24³+25³+26³+..."
+    },
+    {
+     "id": "1cvKGqgOx_8",
+     "title": "2081681993819799846994786333448627702865224538845305484256394568209274196127380153785256484516 (etc)"
+    }
+   ],
    "channel:UCsooa4yRKGN_zEE8iknghZA": [
     {
      "id": "a_4eFB8pPwI",
@@ -614,56 +859,6 @@
      "title": "What are tariffs, and how do they work?"
     }
    ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
-    {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
-    },
-    {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
-    },
-    {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
-    },
-    {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
-    },
-    {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
-    },
-    {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
-    },
-    {
-     "id": "3geDF-DAwpg",
-     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
-    },
-    {
-     "id": "oax6t6Of2WY",
-     "title": "The Biggest Gaps Between Primes - Numberphile"
-    },
-    {
-     "id": "A020pGO5MBs",
-     "title": "The Immortal Kangaroo Sequence - Numberphile"
-    },
-    {
-     "id": "-mXaU3N9e8Y",
-     "title": "2.685 is (almost) everywhere - Numberphile"
-    },
-    {
-     "id": "0aTUTxOiRgU",
-     "title": "291 Holes - Numberphile"
-    },
-    {
-     "id": "oYGBRhS1Ujo",
-     "title": "Cutting Moons  - Numberphile"
-    }
-   ],
    "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
     {
      "id": "bPzs8S3UB9Q",
@@ -692,6 +887,38 @@
     {
      "id": "ga8wyomPt68",
      "title": "How To Draw Frankenstein Big Mouth"
+    },
+    {
+     "id": "TxQ8haK5u6Q",
+     "title": "How To Draw A Halloween Pumpkin House"
+    },
+    {
+     "id": "dgMuNfIZ0Kw",
+     "title": "1 Hour of Halloween Drawing Fun! 🎃 Easy Art Lessons for Kids"
+    },
+    {
+     "id": "k6RHLmAL-NU",
+     "title": "How To Draw A Haunted School Bus"
+    },
+    {
+     "id": "7tylcOBB2Ts",
+     "title": "How To Draw A Skateboarding Skeleton"
+    },
+    {
+     "id": "Y7c7avmlCnw",
+     "title": "How To Draw A Pumpkin Candy Bucket"
+    },
+    {
+     "id": "PrjGvyweh8w",
+     "title": "How To Draw Marshall From PAW Patrol: The Dino Movie"
+    },
+    {
+     "id": "kQcBPgfPEJ8",
+     "title": "How To Draw A Haunted Monster Truck"
+    },
+    {
+     "id": "kjV7CxqY9jU",
+     "title": "How To Draw A Cool Fossil"
     }
    ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
@@ -706,6 +933,178 @@
     {
      "id": "ZVO8K102WQU",
      "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
+    },
+    {
+     "id": "FU-ONL0tVyw",
+     "title": "Stop Wasting Time on Useless Soccer Skills (Learn These Moves Instead)"
+    },
+    {
+     "id": "eX8fcZa-x4c",
+     "title": "How to Shoot a Soccer Ball Harder (Get More Power With Less Effort)"
+    },
+    {
+     "id": "u6PzfPq3cT4",
+     "title": "Stop Using Useless Soccer Tricks! Learn These 9 Skills Instead"
+    },
+    {
+     "id": "0XyLOEtXNaY",
+     "title": "Stop Making Bad Passes in Soccer (Easy Drills for Young Players)"
+    },
+    {
+     "id": "pwl-aXDtJs0",
+     "title": "Kids Keep Missing Soccer Shots? Fix These Shooting Mistakes"
+    },
+    {
+     "id": "c-D6YuIpLlY",
+     "title": "I’m NOT a Pro Soccer Player… So Why Should You Listen to Me?"
+    },
+    {
+     "id": "wt6QUF624XY",
+     "title": "Play Soccer Faster Without Running Faster (Improve Your Speed of Play)"
+    },
+    {
+     "id": "5oJuPmjWKsI",
+     "title": "How to Strike a Soccer Ball Harder (Get More Power With Less Effort)"
+    },
+    {
+     "id": "Grc90D6Onz0",
+     "title": "Soccer Shooting Mistakes You NEED to Stop Making (Easy Fixes)"
+    },
+    {
+     "id": "RaSB6TJOmK4",
+     "title": "Do This Every Day to Become a Better Soccer Player (Easy Morning Routine)"
+    },
+    {
+     "id": "AzxJrPDCoHA",
+     "title": "Stop Learning Useless Soccer Tricks (Use These Skills in Real Games)"
+    },
+    {
+     "id": "b2unGcdtC8M",
+     "title": "Stuck at the Same Juggling Record? Try These Soccer Juggling Tips"
+    }
+   ],
+   "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
+    {
+     "id": "N6-4EYfI_JQ",
+     "title": "Stop Wasting Money: Smart Spending for Teens"
+    },
+    {
+     "id": "xUcjWtKlH3A",
+     "title": "Are You Financially Literate?! Watch This To Find Out!"
+    },
+    {
+     "id": "CLMQVex7rpo",
+     "title": "Saving vs. Investing: What's the Difference?"
+    },
+    {
+     "id": "qoS4sYhNyf4",
+     "title": "Why You Need An Account At A Bank Or Credit Union"
+    },
+    {
+     "id": "6vaIZxyr628",
+     "title": "Allowance Explained: Should Teens Earn One?"
+    },
+    {
+     "id": "S6LvtvIxRB4",
+     "title": "The Best Ways Kids Can Make Money"
+    },
+    {
+     "id": "4AtWZZafdhQ",
+     "title": "Budgeting for Teens: Where Your Money Should Go"
+    },
+    {
+     "id": "DfTwO6agO78",
+     "title": "Biz Kid$ | How To Build Your Credit Score"
+    },
+    {
+     "id": "Fz5t-UC-kDw",
+     "title": "How to Actually Reach Your Money Goals"
+    },
+    {
+     "id": "GjM_z30CwQI",
+     "title": "Young Entrepreneur - D'Anna's House of Fashion"
+    },
+    {
+     "id": "A7OYZv3XUxk",
+     "title": "Two young entrepreneurs get loans from Young Americans Center to launch their businesses."
+    },
+    {
+     "id": "9meZaOfG1gE",
+     "title": "Biz Kid$ TV Series Trailer"
+    },
+    {
+     "id": "El7YKGhryOw",
+     "title": "Young Entrepreneur - Seymour The Savvy Saver"
+    },
+    {
+     "id": "Jc1NwLnJMQM",
+     "title": "Movin' On Out | Biz Kid$ Episode 503"
+    },
+    {
+     "id": "meEyi6g4fDg",
+     "title": "Rodeo Bros - How To Make Money At The Rodeo"
+    }
+   ],
+   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
+    {
+     "id": "cr2TDSSSzPk",
+     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
+    },
+    {
+     "id": "YZl6HArvSRs",
+     "title": "Feelings Thermometer For Kids | Identify And Manage Big Emotions"
+    },
+    {
+     "id": "cfwPN5OrauQ",
+     "title": "Perfectionism for Kids | 5 Skills to Handle Mistakes and Let Go of Perfect"
+    },
+    {
+     "id": "TUkKPLvrh10",
+     "title": "Boredom for Kids | \"I'M BORED!\" | What to Do When You Feel Bored"
+    },
+    {
+     "id": "oMOX2wex1I4",
+     "title": "Optimism and Positive Thinking for Kids | How to Build a Hopeful Mindset"
+    },
+    {
+     "id": "4f9EqokN4M0",
+     "title": "Mindfulness for Kids | More Than Just Meditation | 5 Easy Ways to Practice Every Day"
+    },
+    {
+     "id": "Y_7ip4c6eIg",
+     "title": "Overthinking for Kids | 7 Ways To Manage Worries"
+    },
+    {
+     "id": "138er8o7lmE",
+     "title": "Perseverance for Kids – Skills To Develop Grit and Persistence"
+    },
+    {
+     "id": "ce_h87keUz4",
+     "title": "Kindness For Kids | How To Show Kindness Video | How To Be Kind | Elementary-Middle School Students"
+    },
+    {
+     "id": "Q5hR34g3kLc",
+     "title": "SMART Goals for Kids and Teens | Goal Setting for Students"
+    },
+    {
+     "id": "dhUY0WK1nFU",
+     "title": "Yoga for Childrens Mental Health | Easy Poses for Calm & Focus-Yoga Brain Breaks for Anxiety, Stress"
+    },
+    {
+     "id": "WBtprj6N_mg",
+     "title": "Flexible Thinking For Kids | Cognitive Flexibility For Middle School-Elementary Students"
+    },
+    {
+     "id": "sBolsBnFsnc",
+     "title": "Empathy For Kids | How To Practice and Improve Empathy | Elementary-Middle School Students"
+    },
+    {
+     "id": "0AFRnZEkqq4",
+     "title": "Self Control for Kids - Impulse Control Skills | Elementary and Middle School Students"
+    },
+    {
+     "id": "BmX6GXDvlLM",
+     "title": "Social Anxiety for Kids and Teens | Tips and Coping Skills | Courage Ladder"
     }
    ]
   },
@@ -723,7 +1122,15 @@
    "DGGh_tAfI_4": "Goal Side Defending",
    "z030hp8Sias": "Soccer IQ - Goalside & Inside",
    "LR9ifmPXGhI": "How to Defend in Soccer: 3 Drills to Be a Better Defender",
-   "ROISoyqnBoU": "How I Coach Tackling (And Remove Fear From Players)"
+   "ROISoyqnBoU": "How I Coach Tackling (And Remove Fear From Players)",
+   "TGx5CJcF044": "Ryan's Recycling | Kid Entrepreneur // 60 Second Docs",
+   "XQ4RESzO2wI": "Young Entrepreneurs Share Their Success Story | Motivational Video for Kids",
+   "vKuItf6xN6E": "How to Understand Business Finances: \"The Lemonade Stand\" feat. Small Giants Community",
+   "aRcXutXvfmM": "Financial Literacy—Needs and Wants | Learn about needs, wants, and opportunity costs",
+   "El7YKGhryOw": "Young Entrepreneur - Seymour The Savvy Saver",
+   "x4xk6zAHWBs": "Young Inventors - Behind the News",
+   "rf8FX2sI3gU": "LearnStorm Growth Mindset: The Truth About Your Brain",
+   "2zrtHt3bBmQ": "Growth Mindset (1 of 5) | Social Emotional Learning for kids"
   }
  }
 }
