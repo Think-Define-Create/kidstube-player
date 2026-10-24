@@ -56,7 +56,7 @@ async function main() {
   vl.errors.forEach(e => console.error('ERROR config/learn.json: ' + e));
   if (vy.errors.length || vl.errors.length) die('fix the errors above (see EDITING.md).');
   const warnings = vy.warnings.map(w => 'config/youtube.json: ' + w).concat(vl.warnings.map(w => 'config/learn.json: ' + w));
-  console.log('Config OK: ' + (yt.channels || []).length + ' channels, ' + (yt.videos || []).length + ' Featured videos, ' + learn.lessons.length + ' lessons.');
+  console.log('Config OK: ' + (yt.channels || []).length + ' channels, ' + (yt.videos || []).filter(v => !v.row).length + ' Featured + ' + (yt.videos || []).filter(v => v.row).length + ' hand-picked row videos, ' + learn.lessons.length + ' lessons.');
 
   // ---- 3. resolve
   console.log('Reading YouTube feeds...');
