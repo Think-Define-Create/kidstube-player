@@ -65,6 +65,14 @@ function validateYoutube(cfg) {
   (cfg.playlists || []).forEach((p, i) => { if (!p || !PL_RE.test(p.id || '')) errors.push(`playlists[${i}] id "${p && p.id}" looks wrong.`); });
   (cfg.rows || []).forEach((r, i) => { if (typeof r !== 'string') errors.push(`rows[${i}] must be text in quotes.`); });
   (cfg.channels || []).concat(cfg.playlists || []).forEach(c => { if (c && c.row && cfg.rows && cfg.rows.indexOf(c.row) === -1) warnings.push(`"${c.name}" uses row "${c.row}", which is not in "rows"; it is added at the end.`); });
+  if (cfg.topics !== undefined) {
+    if (!Array.isArray(cfg.topics)) errors.push('"topics" must be a list [ ... ].');
+    else cfg.topics.forEach((t, i) => {
+      if (!t || typeof t.name !== 'string' || !t.name) errors.push(`topics[${i}] needs a "name".`);
+      if (t && t.search !== undefined && !(Array.isArray(t.search) && t.search.every(q => typeof q === 'string' && q.trim()))) errors.push(`topics[${i}].search must be a list of search phrases in quotes.`);
+      if (t && t.row !== undefined && typeof t.row !== 'string') errors.push(`topics[${i}].row must be text in quotes.`);
+    });
+  }
   if (cfg.afterVideo !== undefined && ['grid', 'next'].indexOf(cfg.afterVideo) === -1) errors.push('afterVideo must be "grid" or "next".');
   ['maxVideosPerChannel', 'maxVideosPerRow'].forEach(k => { if (cfg[k] !== undefined && !(Number.isInteger(cfg[k]) && cfg[k] >= 1 && cfg[k] <= 200)) errors.push(`${k} must be a whole number from 1 to 200.`); });
   if (cfg.hideShorts !== undefined && typeof cfg.hideShorts !== 'boolean') errors.push('hideShorts must be true or false.');
@@ -150,6 +158,43 @@ async function pool(items, n, fn) {
   return out;
 }
 
+/* ---- keyless YouTube page parsing (channel Videos tab, search results). Fragile by nature:
+ * if YouTube changes its page layout these return [] and callers fall back / skip. ---- */
+function initialData(html) {
+  const m = html.match(/var ytInitialData = (\{.*?\});<\/script>/s);
+  if (!m) throw new Error(/consent|captcha|unusual traffic/i.test(html) ? 'blocked by YouTube (consent/captcha page)' : 'page layout not recognised');
+  return JSON.parse(m[1]);
+}
+function walkVideos(o, out) {
+  if (Array.isArray(o)) { o.forEach(x => walkVideos(x, out)); return out; }
+  if (!o || typeof o !== 'object') return out;
+  if (o.videoRenderer && o.videoRenderer.videoId) {
+    const v = o.videoRenderer, own = ((v.ownerText || v.longBylineText || {}).runs || [{}])[0];
+    out.push({ id: v.videoId, title: ((v.title || {}).runs || [{}])[0].text || '', channel: own.text || '',
+      channelId: (((own.navigationEndpoint || {}).browseEndpoint) || {}).browseId || '', length: (v.lengthText || {}).simpleText || '' });
+  } else if (o.lockupViewModel && o.lockupViewModel.contentType === 'LOCKUP_CONTENT_TYPE_VIDEO') {
+    const l = o.lockupViewModel, md = ((l.metadata || {}).lockupMetadataViewModel) || {};
+    out.push({ id: l.contentId, title: (md.title || {}).content || '', channel: '', channelId: '', length: '' });
+  }
+  Object.keys(o).forEach(k => { if (k !== 'videoRenderer' && k !== 'lockupViewModel') walkVideos(o[k], out); });
+  return out;
+}
+async function getPage(url) {
+  const r = await fetchT(url, 15000);
+  if (r.status === 429) throw new Error('HTTP 429 (YouTube is rate-limiting this machine; try later)');
+  if (!r.ok) throw new Error('HTTP ' + r.status);
+  return r.text();
+}
+async function channelPageVideos(channelId) {
+  const vids = walkVideos(initialData(await getPage('https://www.youtube.com/channel/' + channelId + '/videos?hl=en')), []);
+  const seen = {}; return vids.filter(v => ID_RE.test(v.id || '') && !seen[v.id] && (seen[v.id] = 1));
+}
+function secs(len) { if (!len) return 0; return len.split(':').reduce((a, x) => a * 60 + (+x || 0), 0); }
+async function searchVideos(query) {
+  const vids = walkVideos(initialData(await getPage('https://www.youtube.com/results?hl=en&search_query=' + encodeURIComponent(query) + '&sp=EgIQAQ%253D%253D')), []);
+  const seen = {}; return vids.filter(v => ID_RE.test(v.id || '') && !seen[v.id] && (seen[v.id] = 1));
+}
+
 /** Builds the snapshot { builtAt, sources: {'channel:UC..': [{id,title}]}, videoTitles: {id: title} }.
  * previous: an older snapshot to reuse for a channel whose feed can't be read right now.
  * opts.checkEmbeds (default true): drop channel videos whose owner blocks embedding. */
@@ -177,6 +222,11 @@ async function resolveYoutube(cfg, opts) {
         if (!r.ok) throw new Error('HTTP ' + r.status + (r.status === 404 ? ' (if this keeps happening, check the ID)' : ''));
         vids = parseRss(await r.text(), hideShorts);
       } catch (e) { lastErr = e; }
+    }
+    if (!vids && kind === 'channel') {
+      // Last keyless source: the channel's own Videos tab (never lists Shorts).
+      try { vids = (await channelPageVideos(s.id)).map(v => ({ id: v.id, title: v.title })); if (!vids.length) { vids = null; throw new Error('no videos on channel page'); } log(`    ${s.name || s.id}: RSS failed, used the channel's Videos page`); }
+      catch (e) { lastErr = new Error(lastErr.message + '; channel page: ' + e.message); }
     }
     if (!vids) {
       const e = lastErr;
@@ -207,4 +257,4 @@ async function resolveYoutube(cfg, opts) {
   return { snapshot, warnings, feedsOk: okCount, feedsTotal: srcs.length };
 }
 
-module.exports = { ID_RE, CH_RE, YT_KEYS, LEARN_KEYS, SECRET_KEYS, readJson, findSecrets, pick, validateYoutube, validateLearn, parseRss, checkEmbed, resolveYoutube };
+module.exports = { secs, searchVideos, channelPageVideos, ID_RE, CH_RE, YT_KEYS, LEARN_KEYS, SECRET_KEYS, readJson, findSecrets, pick, validateYoutube, validateLearn, parseRss, checkEmbed, resolveYoutube };

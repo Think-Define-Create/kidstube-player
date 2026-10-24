@@ -6,7 +6,10 @@
  *      box, where CORS does not apply) and checks every Featured video / lesson video
  *   4. writes data/youtube.json + data/learn.json, commits, pushes to main and gh-pages
  *   5. waits until GitHub Pages serves the new files
- * Usage: tools/publish.sh [--dry-run] [--no-pull] [--no-push] [--no-wait] [--no-embed-check] [--force] [--previous FILE]
+ *   6. optional (--discover): searches YouTube (keyless results page) for each entry in "topics" and writes
+ *      NEW candidate videos to data/candidates.json FOR REVIEW ONLY. The TV apps never read that file and
+ *      nothing from it is added to the lists; you copy lines into config/youtube.json yourself.
+ * Usage: tools/publish.sh [--discover] [--dry-run] [--no-pull] [--no-push] [--no-wait] [--no-embed-check] [--force] [--previous FILE]
  * Needs GH_TOKEN_TDC_PLAYER (fine-grained token, Contents write on this repo) for the push. */
 'use strict';
 const fs = require('fs');
@@ -28,6 +31,48 @@ function gitTry(a) { try { return { ok: true, out: git(a) }; } catch (e) { retur
 function stable(o) { return JSON.stringify(o, (k, v) => (k === 'publishedAt' || k === 'builtAt' || k === 'commit') ? undefined : v); }
 function writeJson(rel, obj) { fs.writeFileSync(path.join(ROOT, rel), JSON.stringify(obj, null, 1) + '\n'); }
 function readPrev(rel) { try { return JSON.parse(fs.readFileSync(path.join(ROOT, rel), 'utf8')); } catch (e) { return null; } }
+
+
+/* ---- optional discovery: review-only candidates, never shown on the TV ---- */
+const BLOCK_RE = /prank|crypto|bitcoin|\bnft\b|forex|get rich|rich quick|millionaire|passive income|hustle|side hustle|make money (fast|online)|\$\d|💰|gambl|casino|betting|24 hours|gone wrong|exposed|shocking|insane|scary|horror|reaction|#shorts/i;
+async function discover(yt, snapshot, log) {
+  const known = {};
+  (yt.videos || []).forEach(v => { known[v.id] = 1; });
+  Object.keys(snapshot.sources || {}).forEach(k => (snapshot.sources[k] || []).forEach(v => { known[v.id] = 1; }));
+  const approved = {}; (yt.channels || []).forEach(c => { approved[c.id] = c.name || c.id; });
+  const out = { format: 1, generatedAt: new Date().toISOString(),
+    note: 'FOR REVIEW ONLY. The TV apps never read this file and nothing here is shown on the TV. To use a video, copy its "line" into "videos" in config/youtube.json (after watching it).',
+    source: 'YouTube search results page (keyless; can break or be rate-limited)', status: 'ok', errors: [], candidates: [] };
+  const topics = (yt.topics || []).filter(t => t && Array.isArray(t.search) && t.search.length);
+  if (!topics.length) { out.status = 'skipped'; out.errors.push('no "topics" with "search" phrases in config/youtube.json'); return out; }
+  let ok = 0, tried = 0;
+  for (const t of topics) {
+    let n = 0;
+    for (const q of t.search.slice(0, 3)) {
+      tried++;
+      let res;
+      try { res = await L.searchVideos(q); ok++; } catch (e) { out.errors.push(`"${q}": ${e.message}`); if (/429/.test(e.message)) break; continue; }
+      for (const v of res) {
+        if (n >= 8) break;
+        if (known[v.id]) continue;
+        const len = L.secs(v.length);
+        if (len < 61 || len > 30 * 60) continue;          // Shorts, live streams, very long videos
+        if (BLOCK_RE.test(v.title)) continue;
+        const c = await L.checkEmbed(v.id);
+        if (c.status === 'blocked' || c.status === 'gone') continue;
+        known[v.id] = 1; n++;
+        out.candidates.push({ topic: t.name, query: q, id: v.id, title: v.title, channel: v.channel, channelId: v.channelId,
+          length: v.length, approvedChannel: !!approved[v.channelId], url: 'https://www.youtube.com/watch?v=' + v.id,
+          line: { id: v.id, title: v.title, channel: v.channel, row: t.row || undefined } });
+      }
+      await new Promise(r => setTimeout(r, 1500)); // be gentle
+    }
+    log(`  discover ${t.name}: ${n} new candidates`);
+  }
+  if (!ok) { out.status = 'skipped'; out.candidates = []; out.errors.unshift('no keyless search source worked this time, so discovery was skipped'); }
+  else if (ok < tried) out.status = 'partial';
+  return out;
+}
 
 async function main() {
   // ---- 1. pull
@@ -83,6 +128,14 @@ async function main() {
   if (L.findSecrets(dataLearn).length || L.findSecrets(dataYt).length) die('a secret key ended up in the output; refusing to publish.');
   if (L.validateYoutube(dataYt.config).errors.length || L.validateLearn(dataLearn.config).errors.length) die('output failed validation.');
 
+  let candidates = null;
+  if (has('--discover')) {
+    console.log('Discovery (review only)...');
+    try { candidates = await discover(yt, r.snapshot, console.log); }
+    catch (e) { candidates = { format: 1, generatedAt: now, status: 'skipped', errors: ['discovery failed: ' + e.message], candidates: [] }; }
+    if (candidates.status !== 'ok') warnings.push('discovery ' + candidates.status + ': ' + candidates.errors.join(' | '));
+    console.log('  ' + candidates.candidates.length + ' candidates -> data/candidates.json (not shown on the TV)');
+  }
   warnings.forEach(w => console.warn('WARNING: ' + w));
   const prevLearn = readPrev('data/learn.json');
   const changed = !prevYt || !prevLearn || stable(prevYt) !== stable(dataYt) || stable(prevLearn) !== stable(dataLearn);
@@ -90,14 +143,15 @@ async function main() {
     fs.mkdirSync('/tmp/kidstube-publish-dry', { recursive: true });
     fs.writeFileSync('/tmp/kidstube-publish-dry/youtube.json', JSON.stringify(dataYt, null, 1));
     fs.writeFileSync('/tmp/kidstube-publish-dry/learn.json', JSON.stringify(dataLearn, null, 1));
+    if (candidates) fs.writeFileSync('/tmp/kidstube-publish-dry/candidates.json', JSON.stringify(candidates, null, 1));
     console.log('\nDry run: wrote /tmp/kidstube-publish-dry/{youtube,learn}.json. Nothing committed or pushed. Changed: ' + changed);
     return;
   }
-  if (!changed && !has('--force')) console.log('\nData is unchanged since the last publish; nothing new to commit.');
+  if (candidates && !DRY) { fs.mkdirSync(path.join(ROOT, 'data'), { recursive: true }); writeJson('data/candidates.json', candidates); }
+  if (!changed && !has('--force') && !candidates) console.log('\nData is unchanged since the last publish; nothing new to commit.');
   else {
     fs.mkdirSync(path.join(ROOT, 'data'), { recursive: true });
-    writeJson('data/youtube.json', dataYt);
-    writeJson('data/learn.json', dataLearn);
+    if (changed || has('--force')) { writeJson('data/youtube.json', dataYt); writeJson('data/learn.json', dataLearn); }
     git(['add', 'config', 'data']);
     const c = gitTry([...GIT_ID, 'commit', '-q', '-m', 'Publish TV lists ' + now.slice(0, 16).replace('T', ' ') + ' UTC']);
     if (!c.ok && !/nothing to commit/.test(c.out)) die('git commit failed: ' + c.out);

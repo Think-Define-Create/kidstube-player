@@ -112,6 +112,42 @@
         { "q": "When is a great time to go in for the tackle?",
           "answers": ["When the attacker takes a heavy touch", "As soon as the game starts", "Never, defenders don't tackle"], "correct": 0 }
       ]
+    },
+    {
+      "videoId": "vKuItf6xN6E",
+      "title": "How a Lemonade Stand Makes Money",
+      "channel": "wikiHow",
+      "questionsConfirmed": true,
+      "questions": [
+        { "q": "What is revenue?",
+          "answers": ["All the money the business takes in, before costs", "Money the business owes", "The lemons you buy"], "correct": 0 },
+        { "q": "You sell 100 glasses of lemonade for $1 each. What is your revenue?",
+          "answers": ["$10", "$100", "$1,000"], "correct": 1 },
+        { "q": "Which of these is part of the \"cost of goods sold\" for a lemonade stand?",
+          "answers": ["Lemons, sugar and cups", "Your birthday money", "The sunny weather"], "correct": 0 },
+        { "q": "Net profit is the money left after you take away...",
+          "answers": ["Only the cost of the lemons", "The cost of goods AND other expenses, like posters", "Nothing at all"], "correct": 1 },
+        { "q": "A financially healthy business has more...",
+          "answers": ["Liabilities (debts) than assets", "Posters than customers", "Assets (things of value) than liabilities (debts)"], "correct": 2 }
+      ]
+    },
+    {
+      "videoId": "rf8FX2sI3gU",
+      "title": "Growth Mindset: The Truth About Your Brain",
+      "channel": "Khan Academy",
+      "questionsConfirmed": true,
+      "questions": [
+        { "q": "Is how smart you are fixed forever?",
+          "answers": ["Yes, it can never change", "No, your brain can improve and grow", "Only on your birthday"], "correct": 1 },
+        { "q": "What is a neuron?",
+          "answers": ["A brain cell", "A bone in your arm", "A kind of food"], "correct": 0 },
+        { "q": "About how many neurons are in your brain?",
+          "answers": ["About 100", "Over 100 billion", "Exactly 13"], "correct": 1 },
+        { "q": "The video says your brain behaves like a...",
+          "answers": ["Muscle", "Rock", "Balloon"], "correct": 0 },
+        { "q": "When you struggle and keep trying, what do your neurons do?",
+          "answers": ["Fall asleep", "Disappear", "Lean on each other and make new connections"], "correct": 2 }
+      ]
     }
   ]
 }
