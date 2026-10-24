@@ -1,0 +1,222 @@
+{
+ "format": 1,
+ "app": "learn",
+ "publishedAt": "2026-10-24T02:01:57.027Z",
+ "commit": "9e67d59",
+ "config": {
+  "rewardMinutes": 30,
+  "passScore": "all",
+  "watchPercent": 85,
+  "allowReshowCode": true,
+  "lessons": [
+   {
+    "videoId": "hFZFjoX2cGg",
+    "title": "Backyard Squirrel Maze 1.0 - Ninja Warrior Course",
+    "channel": "Mark Rober",
+    "questionsConfirmed": true,
+    "questions": [
+     {
+      "q": "How many parts did Mark's squirrel obstacle course have?",
+      "answers": [
+       "3",
+       "8",
+       "20"
+      ],
+      "correct": 1
+     },
+     {
+      "q": "Which snack did the squirrels always eat first?",
+      "answers": [
+       "Peanuts",
+       "Sunflower seeds",
+       "Walnuts",
+       "Corn"
+      ],
+      "correct": 2
+     },
+     {
+      "q": "How do squirrels survive a big fall?",
+      "answers": [
+       "They grab a bird",
+       "They flatten their body and use their tail like a parachute",
+       "They curl into a tight ball"
+      ],
+      "correct": 1
+     },
+     {
+      "q": "In the air, what does a squirrel do with its arms to spin faster?",
+      "answers": [
+       "Tucks them in",
+       "Stretches them out",
+       "Flaps them like wings"
+      ],
+      "correct": 0
+     },
+     {
+      "q": "Ice skaters use the same spinning trick. What is it called?",
+      "answers": [
+       "Gravity",
+       "Friction",
+       "Magnetism",
+       "Conservation of angular momentum"
+      ],
+      "correct": 3
+     }
+    ]
+   },
+   {
+    "videoId": "6WNHyAXIN8c",
+    "title": "How Ears Let Us Hear the World!",
+    "channel": "SciShow",
+    "questionsConfirmed": true,
+    "questions": [
+     {
+      "q": "What is a sound?",
+      "answers": [
+       "A kind of wave that wiggles tiny particles",
+       "A tiny bug in the air",
+       "A beam of light"
+      ],
+      "correct": 0
+     },
+     {
+      "q": "What is the big flappy part of your ear called?",
+      "answers": [
+       "The cochlea",
+       "The auricle",
+       "The eardrum"
+      ],
+      "correct": 1
+     },
+     {
+      "q": "The middle ear makes sounds stronger. What is inside it?",
+      "answers": [
+       "Three tiny bones",
+       "A little drum stick",
+       "A pool of water",
+       "Nothing at all"
+      ],
+      "correct": 0
+     },
+     {
+      "q": "What shape is the cochlea?",
+      "answers": [
+       "A square",
+       "A star",
+       "A snail shell"
+      ],
+      "correct": 2
+     },
+     {
+      "q": "How do bats find trees and bugs in the dark?",
+      "answers": [
+       "They smell them",
+       "Echolocation: high sounds that bounce back",
+       "They glow in the dark"
+      ],
+      "correct": 1
+     }
+    ]
+   },
+   {
+    "videoId": "7yDmGnA8Hw0",
+    "title": "Can you solve the bridge riddle?",
+    "channel": "TED-Ed",
+    "questionsConfirmed": true,
+    "questions": [
+     {
+      "q": "How many people can be on the bridge at the same time?",
+      "answers": [
+       "1",
+       "2",
+       "3",
+       "4"
+      ],
+      "correct": 1
+     },
+     {
+      "q": "How long until the zombies catch up?",
+      "answers": [
+       "Just over 17 minutes",
+       "5 minutes",
+       "1 hour"
+      ],
+      "correct": 0
+     },
+     {
+      "q": "What must anyone crossing the bridge stay next to?",
+      "answers": [
+       "The janitor",
+       "The rope",
+       "The lantern"
+      ],
+      "correct": 2
+     },
+     {
+      "q": "The trick is that the two slowest people cross together. Who are they?",
+      "answers": [
+       "You and the lab assistant",
+       "The professor and the janitor",
+       "The lab assistant and the janitor"
+      ],
+      "correct": 1
+     }
+    ]
+   },
+   {
+    "videoId": "jG7ULeWUfDw",
+    "title": "Do we actually know how magnets work?",
+    "channel": "TED-Ed",
+    "questionsConfirmed": true,
+    "questions": [
+     {
+      "q": "What tool have people used magnets in for about a thousand years?",
+      "answers": [
+       "The telephone",
+       "The compass",
+       "The light bulb"
+      ],
+      "correct": 1
+     },
+     {
+      "q": "Which tiny particles inside atoms act like tiny magnets?",
+      "answers": [
+       "Electrons and protons",
+       "Raindrops",
+       "Grains of sand"
+      ],
+      "correct": 0
+     },
+     {
+      "q": "Why are most things NOT magnetic?",
+      "answers": [
+       "They are too cold",
+       "They are too small",
+       "Their electrons pair up and spin opposite ways, so they cancel out"
+      ],
+      "correct": 2
+     },
+     {
+      "q": "Which of these metals can be made into a magnet?",
+      "answers": [
+       "Gold",
+       "Iron",
+       "Silver",
+       "Copper"
+      ],
+      "correct": 1
+     },
+     {
+      "q": "Which hospital machine uses magnets to see inside your body?",
+      "answers": [
+       "MRI",
+       "Thermometer",
+       "Stethoscope"
+      ],
+      "correct": 0
+     }
+    ]
+   }
+  ]
+ }
+}

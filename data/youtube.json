@@ -1,0 +1,646 @@
+{
+ "format": 1,
+ "app": "youtube",
+ "publishedAt": "2026-10-24T02:01:57.027Z",
+ "commit": "9e67d59",
+ "config": {
+  "videosSectionTitle": "Featured",
+  "maxVideosPerChannel": 15,
+  "maxVideosPerRow": 30,
+  "hideShorts": true,
+  "afterVideo": "grid",
+  "rows": [
+   "Build & Engineer",
+   "Science Lab",
+   "Animals & the Human Body",
+   "Think & Grow",
+   "Draw & Create"
+  ],
+  "videos": [
+   {
+    "id": "hFZFjoX2cGg",
+    "title": "Backyard Squirrel Maze 1.0 - Ninja Warrior Course",
+    "channel": "Mark Rober"
+   },
+   {
+    "id": "9vJRopau0g0",
+    "title": "The Super Mario Effect - Tricking Your Brain into Learning More",
+    "channel": "Mark Rober (TEDx)"
+   },
+   {
+    "id": "7yDmGnA8Hw0",
+    "title": "Can you solve the bridge riddle?",
+    "channel": "TED-Ed"
+   },
+   {
+    "id": "N5vJSNXPEwA",
+    "title": "Can you solve the prisoner hat riddle?",
+    "channel": "TED-Ed"
+   },
+   {
+    "id": "pN34FNbOKXc",
+    "title": "The Power of Belief - Mindset and Success",
+    "channel": "Eduardo Briceño (TEDx)"
+   }
+  ],
+  "channels": [
+   {
+    "id": "UCY1kMZp36IQSyNx_9h4mpCg",
+    "name": "Mark Rober",
+    "row": "Build & Engineer"
+   },
+   {
+    "id": "UC6107grRI4m0o2-emgoDnAA",
+    "name": "Smarter Every Day",
+    "row": "Build & Engineer"
+   },
+   {
+    "id": "UCEIwxahdLz7bap-VDs9h35A",
+    "name": "Steve Mould",
+    "row": "Build & Engineer"
+   },
+   {
+    "id": "UCRFIPG2u1DxKLNuE3y2SjHA",
+    "name": "SciShow Kids",
+    "row": "Science Lab"
+   },
+   {
+    "id": "UCONtPx56PSebXJOxbFv-2jQ",
+    "name": "Crash Course Kids",
+    "row": "Science Lab"
+   },
+   {
+    "id": "UCsXVk37bltHxD1rDPwtNM8Q",
+    "name": "Kurzgesagt",
+    "row": "Science Lab"
+   },
+   {
+    "id": "UCXVCgDuD_QCkI7gTKU7-tpg",
+    "name": "Nat Geo Kids",
+    "row": "Animals & the Human Body"
+   },
+   {
+    "id": "UC6E2mP01ZLH_kbAyeazCNdg",
+    "name": "Brave Wilderness",
+    "row": "Animals & the Human Body"
+   },
+   {
+    "id": "UCQJDFI9j8UeNoqra37p5OkA",
+    "name": "Operation Ouch",
+    "row": "Animals & the Human Body"
+   },
+   {
+    "id": "UCsooa4yRKGN_zEE8iknghZA",
+    "name": "TED-Ed",
+    "row": "Think & Grow"
+   },
+   {
+    "id": "UCoxcjq-8xIDTYp3uz647V5A",
+    "name": "Numberphile",
+    "row": "Think & Grow"
+   },
+   {
+    "id": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+    "name": "Art for Kids Hub",
+    "row": "Draw & Create"
+   }
+  ],
+  "playlists": []
+ },
+ "snapshot": {
+  "builtAt": "2026-10-24T02:01:43.971Z",
+  "sources": {
+   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
+    {
+     "id": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000"
+    },
+    {
+     "id": "h0EGCnBjTVk",
+     "title": "I Outsmarted Pro Car Thieves"
+    }
+   ],
+   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+    {
+     "id": "6gsZY_-kT3U",
+     "title": "This Device Turns Anything into a Suction Cup"
+    },
+    {
+     "id": "k3Q9UWWiPsQ",
+     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+    },
+    {
+     "id": "NvkZaWLe0Sk",
+     "title": "This Device Goes Past Equilibrium"
+    },
+    {
+     "id": "ti2qiU_JTUQ",
+     "title": "The Euler Disc Is The Wrong Shape"
+    },
+    {
+     "id": "1EyN9_QO4_A",
+     "title": "The Arm Spin That Stops a Fall"
+    },
+    {
+     "id": "EP1mYq8hLIY",
+     "title": "The Anti Trampoline Effect"
+    }
+   ],
+   "channel:UC6107grRI4m0o2-emgoDnAA": [
+    {
+     "id": "pXypQ6d_iDg",
+     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
+    },
+    {
+     "id": "vS6HEes8daw",
+     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
+    },
+    {
+     "id": "5lCWqEFVzbY",
+     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
+    },
+    {
+     "id": "WtQ64nSbdY4",
+     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
+    },
+    {
+     "id": "-0JKHuzJ67A",
+     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
+    },
+    {
+     "id": "XwBZx1cXEdM",
+     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
+    },
+    {
+     "id": "v0afQ6w3Bjw",
+     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
+    },
+    {
+     "id": "dt_CG_xRnrY",
+     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
+    },
+    {
+     "id": "cRaKMTK7ea0",
+     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
+    },
+    {
+     "id": "3ZTGwcHQfLY",
+     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
+    },
+    {
+     "id": "8nilP--GFLY",
+     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
+    },
+    {
+     "id": "JVROsxtjoCw",
+     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
+    },
+    {
+     "id": "lylCYkgC63Q",
+     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
+    },
+    {
+     "id": "jDusS--bZZA",
+     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
+    },
+    {
+     "id": "JJofuF2zcTE",
+     "title": "I Called the Space Station - Smarter Every Day 303"
+    }
+   ],
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+    {
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
+    },
+    {
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
+    },
+    {
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
+    },
+    {
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
+    },
+    {
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
+    }
+   ],
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+    {
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+    },
+    {
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+    },
+    {
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
+    },
+    {
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
+    },
+    {
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+    },
+    {
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
+    },
+    {
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
+    },
+    {
+     "id": "qlQESwyZGTk",
+     "title": "Would You Enter a Venomous Snake-Infested Forest?"
+    },
+    {
+     "id": "AtXdKfwJeQ0",
+     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+    },
+    {
+     "id": "gUKCSkegtKY",
+     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
+    }
+   ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "Xakbw3sQcd0",
+     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "EXYhTpsYHN8",
+     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
+    },
+    {
+     "id": "Gvmyc2yW_NM",
+     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "9q3uiSeT80M",
+     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
+    },
+    {
+     "id": "aASWMaa5ZU8",
+     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "t8cKaMY_sCE",
+     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
+    },
+    {
+     "id": "adABRbEs4G4",
+     "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "I3abQzLOv2A",
+     "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "AOSjUmwVFt4",
+     "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids"
+    }
+   ],
+   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
+    {
+     "id": "3WWm929hbTw",
+     "title": "Crash Course Kids Literature • Full Series"
+    },
+    {
+     "id": "PkWU-lMdnJg",
+     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
+    },
+    {
+     "id": "klu7TNy-7qw",
+     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
+    },
+    {
+     "id": "ML2oX207Mwc",
+     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
+    },
+    {
+     "id": "QVw521JjRjA",
+     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
+    },
+    {
+     "id": "WrUX6j9MwUY",
+     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
+    },
+    {
+     "id": "XjR2B3YJH9U",
+     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
+    },
+    {
+     "id": "ui86G8Q5GhQ",
+     "title": "Crash Course Kids Literature Preview"
+    },
+    {
+     "id": "JcxTM7knO80",
+     "title": "Welcome to Crash Course Kids!"
+    },
+    {
+     "id": "EwY6p-r_hyU",
+     "title": "Gravity Compilation: Crash Course Kids"
+    },
+    {
+     "id": "wyRy8kowyM8",
+     "title": "Matter Compilation: Crash Course Kids"
+    },
+    {
+     "id": "CZhE2p46vJk",
+     "title": "Food Chains Compilation: Crash Course Kids"
+    },
+    {
+     "id": "Td_A9H69eE8",
+     "title": "Space Compilation: Crash Course Kids"
+    },
+    {
+     "id": "qDcMq1SjR_I",
+     "title": "Engineering Compilation: Crash Course Kids"
+    },
+    {
+     "id": "s__sgOHWNIA",
+     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
+    }
+   ],
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+    {
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
+    },
+    {
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    },
+    {
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+    },
+    {
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
+    },
+    {
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    },
+    {
+     "id": "-mXaU3N9e8Y",
+     "title": "2.685 is (almost) everywhere - Numberphile"
+    },
+    {
+     "id": "0aTUTxOiRgU",
+     "title": "291 Holes - Numberphile"
+    },
+    {
+     "id": "oYGBRhS1Ujo",
+     "title": "Cutting Moons  - Numberphile"
+    }
+   ],
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
+    },
+    {
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
+    },
+    {
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
+    },
+    {
+     "id": "N2uQWfV6Jr4",
+     "title": "4 ways to fix your attention span - Shannon Odell"
+    },
+    {
+     "id": "bHB5iiDDJ-s",
+     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
+    },
+    {
+     "id": "EMbZ72cCAzI",
+     "title": "How to explain something complicated"
+    },
+    {
+     "id": "I8XaYkRW1tA",
+     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
+    },
+    {
+     "id": "_gP3aXvNmv8",
+     "title": "Ever walk into a room and forget what you were doing? - Gabriel Radvansky"
+    },
+    {
+     "id": "BSdEiOYvKpE",
+     "title": "What are tariffs, and how do they work?"
+    }
+   ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "bPzs8S3UB9Q",
+     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
+    },
+    {
+     "id": "yjuQptALLzM",
+     "title": "Our NEW Drawing App for Kids! 🎨"
+    },
+    {
+     "id": "zvAW8WE0VD4",
+     "title": "How To Draw A Frankenstein Milkshake"
+    },
+    {
+     "id": "l4JNjGkQnuM",
+     "title": "How To Draw A Vampire Pizza"
+    },
+    {
+     "id": "j8kA0Lav4io",
+     "title": "How To Draw A Halloween Claw Machine"
+    },
+    {
+     "id": "2trpMnBYbHo",
+     "title": "How To Draw A Caramel Apple Monster"
+    },
+    {
+     "id": "ga8wyomPt68",
+     "title": "How To Draw Frankenstein Big Mouth"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+    },
+    {
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+    },
+    {
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
+    },
+    {
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+    },
+    {
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+    },
+    {
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
+    },
+    {
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+    }
+   ],
+   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
+    {
+     "id": "SS6wLHDjoHo",
+     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "7lKqVUK8cBE",
+     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "uMTvJzgZdok",
+     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
+    },
+    {
+     "id": "78pqWbdd94U",
+     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "7OueRkAObfc",
+     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "8s2uNx9jwB4",
+     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "MZ2POHBVzag",
+     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "PxvciYYyziw",
+     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "WdAZB9DkIug",
+     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "_kpAhvBEB_A",
+     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "bkr7TmwEHsA",
+     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ctb9WgXuhP4",
+     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ffH1XDp8ixc",
+     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "nHlg7luxppE",
+     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "IFk-Pdil4MU",
+     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
+    }
+   ]
+  },
+  "videoTitles": {
+   "hFZFjoX2cGg": "Backyard Squirrel Maze 1.0- Ninja Warrior Course",
+   "9vJRopau0g0": "The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn",
+   "7yDmGnA8Hw0": "Can you solve the bridge riddle? - Alex Gendler",
+   "N5vJSNXPEwA": "Can you solve the prisoner hat riddle? - Alex Gendler",
+   "pN34FNbOKXc": "The Power of belief -- mindset and success | Eduardo Briceno | TEDxManhattanBeach"
+  }
+ }
+}
