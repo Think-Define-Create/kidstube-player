@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-24T03:32:35.689Z",
- "commit": "1385059",
+ "publishedAt": "2026-10-24T03:34:44.484Z",
+ "commit": "77e347d",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -227,7 +227,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-24T03:31:43.852Z",
+  "builtAt": "2026-10-24T03:34:03.426Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -237,130 +237,6 @@
     {
      "id": "h0EGCnBjTVk",
      "title": "I Outsmarted Pro Car Thieves"
-    }
-   ],
-   "channel:UCEIwxahdLz7bap-VDs9h35A": [
-    {
-     "id": "6gsZY_-kT3U",
-     "title": "This Device Turns Anything into a Suction Cup"
-    },
-    {
-     "id": "k3Q9UWWiPsQ",
-     "title": "The \"Perpetual Motion\" Pump That Actually Works"
-    },
-    {
-     "id": "NvkZaWLe0Sk",
-     "title": "This Device Goes Past Equilibrium"
-    },
-    {
-     "id": "ti2qiU_JTUQ",
-     "title": "The Euler Disc Is The Wrong Shape"
-    },
-    {
-     "id": "1EyN9_QO4_A",
-     "title": "The Arm Spin That Stops a Fall"
-    },
-    {
-     "id": "EP1mYq8hLIY",
-     "title": "The Anti Trampoline Effect"
-    },
-    {
-     "id": "IFqI11SIGXo",
-     "title": "Steel Absorbs Gas Like a Sponge"
-    },
-    {
-     "id": "-DyrBDsKA5s",
-     "title": "You've Never Seen a Real Photo"
-    },
-    {
-     "id": "BViIGAg-eVI",
-     "title": "A New Type of Levitation"
-    },
-    {
-     "id": "B_JavY7pSfE",
-     "title": "Surely it Breaks The 2nd Law"
-    },
-    {
-     "id": "RaQfGqsB30o",
-     "title": "Can You Turn a Rainbow Back into White Light?"
-    },
-    {
-     "id": "RWbCC6f_k1c",
-     "title": "The Liquid Hammer Toy You Can't Buy"
-    },
-    {
-     "id": "kuMUquaeE6g",
-     "title": "Amplifying Invisible Motion"
-    },
-    {
-     "id": "-NzfTE8RI4w",
-     "title": "The Weirdest Microscope"
-    },
-    {
-     "id": "J_vXK9uvRf4",
-     "title": "The Unknown Phase of Matter"
-    }
-   ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
-    {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
-    },
-    {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
-    },
-    {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
-    },
-    {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
-    },
-    {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
-    },
-    {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
-    },
-    {
-     "id": "r2xP7heE0wk",
-     "title": "How Eyes Let Us See The World | SciShow Kids"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -487,66 +363,128 @@
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+   "channel:UCEIwxahdLz7bap-VDs9h35A": [
     {
-     "id": "k4gbweQTL50",
-     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+     "id": "6gsZY_-kT3U",
+     "title": "This Device Turns Anything into a Suction Cup"
     },
     {
-     "id": "oEIp2piNUso",
-     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+     "id": "k3Q9UWWiPsQ",
+     "title": "The \"Perpetual Motion\" Pump That Actually Works"
     },
     {
-     "id": "TMtQfzcKFCI",
-     "title": "Most Remote Fly Fishing in the USA!"
+     "id": "NvkZaWLe0Sk",
+     "title": "This Device Goes Past Equilibrium"
     },
     {
-     "id": "nuEQmSs1H38",
-     "title": "Why This Giant Killer Snake is Destroying Florida"
+     "id": "ti2qiU_JTUQ",
+     "title": "The Euler Disc Is The Wrong Shape"
     },
     {
-     "id": "mdR_f4p1b6A",
-     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+     "id": "1EyN9_QO4_A",
+     "title": "The Arm Spin That Stops a Fall"
     },
     {
-     "id": "mPOf2fpy7B4",
-     "title": "Deep Sea Worm Attacks Everything!"
+     "id": "EP1mYq8hLIY",
+     "title": "The Anti Trampoline Effect"
     },
     {
-     "id": "xSxhX1g3Zss",
-     "title": "Bitten by an Angry Gecko!"
+     "id": "IFqI11SIGXo",
+     "title": "Steel Absorbs Gas Like a Sponge"
     },
     {
-     "id": "qlQESwyZGTk",
-     "title": "Would You Enter a Venomous Snake-Infested Forest?"
+     "id": "-DyrBDsKA5s",
+     "title": "You've Never Seen a Real Photo"
     },
     {
-     "id": "AtXdKfwJeQ0",
-     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+     "id": "BViIGAg-eVI",
+     "title": "A New Type of Levitation"
     },
     {
-     "id": "gUKCSkegtKY",
-     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
+     "id": "B_JavY7pSfE",
+     "title": "Surely it Breaks The 2nd Law"
     },
     {
-     "id": "Bg_mcjX_iDM",
-     "title": "Catching Weirdest Bugs on Earth!"
+     "id": "RaQfGqsB30o",
+     "title": "Can You Turn a Rainbow Back into White Light?"
     },
     {
-     "id": "5qt0TxOmR3Y",
-     "title": "Should Science Bring Back These 5 Extinct Animals?"
+     "id": "RWbCC6f_k1c",
+     "title": "The Liquid Hammer Toy You Can't Buy"
     },
     {
-     "id": "NbPN331vzis",
-     "title": "Genetic Breakthrough! My Private Tour of a Top-Secret BioLab"
+     "id": "kuMUquaeE6g",
+     "title": "Amplifying Invisible Motion"
     },
     {
-     "id": "0d8uGJ9uLNY",
-     "title": "500-Pound DINO BIRD Brought Back from the Dead!"
+     "id": "-NzfTE8RI4w",
+     "title": "The Weirdest Microscope"
     },
     {
-     "id": "Ay07lUktfsI",
-     "title": "Catching Most Dangerous Animal in Australia! "
+     "id": "J_vXK9uvRf4",
+     "title": "The Unknown Phase of Matter"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+    },
+    {
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+    },
+    {
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
+    },
+    {
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+    },
+    {
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+    },
+    {
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
+    },
+    {
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+    },
+    {
+     "id": "r2xP7heE0wk",
+     "title": "How Eyes Let Us See The World | SciShow Kids"
     }
    ],
    "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
@@ -611,6 +549,68 @@
      "title": "Why Are There No Holes Around Trees?"
     }
    ],
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
+    },
+    {
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
+    },
+    {
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
+    },
+    {
+     "id": "N2uQWfV6Jr4",
+     "title": "4 ways to fix your attention span - Shannon Odell"
+    },
+    {
+     "id": "bHB5iiDDJ-s",
+     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
+    },
+    {
+     "id": "EMbZ72cCAzI",
+     "title": "How to explain something complicated"
+    },
+    {
+     "id": "I8XaYkRW1tA",
+     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
+    },
+    {
+     "id": "_gP3aXvNmv8",
+     "title": "Ever walk into a room and forget what you were doing? - Gabriel Radvansky"
+    },
+    {
+     "id": "BSdEiOYvKpE",
+     "title": "What are tariffs, and how do they work?"
+    }
+   ],
    "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
     {
      "id": "Xakbw3sQcd0",
@@ -647,30 +647,6 @@
     {
      "id": "AOSjUmwVFt4",
      "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids"
-    },
-    {
-     "id": "CGEtugYEJok",
-     "title": "Pigs vs. Cows vs. Goats: Barnyard Showdown! | Whoa Factor | Nat Geo Kids"
-    },
-    {
-     "id": "Uk7NdsKaREM",
-     "title": "Kids React to Black Rain Frogs | Africa Earth's Wild Home | Nat Geo Kids"
-    },
-    {
-     "id": "G59TqTjtuhg",
-     "title": "Exploring Earth's Closest Neighbors | A Traveler's Guide to the Planets Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "wEz-NB7CRp0",
-     "title": "We Built a HUMAN-SIZED Wasps Nest | Live Like an Animal Full Episode | Nat Geo Kids"
-    },
-    {
-     "id": "iAIpKDObuWg",
-     "title": "Halloween Animals in REAL Life! 🎃 Learn some Fun Facts about Bats, Spiders, and Owls! | Nat Geo Kids"
-    },
-    {
-     "id": "w4n93HV5i-Q",
-     "title": "The One Where a Marble Statue Comes to Life | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -735,6 +711,68 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+    {
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+    },
+    {
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+    },
+    {
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
+    },
+    {
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
+    },
+    {
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+    },
+    {
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
+    },
+    {
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
+    },
+    {
+     "id": "qlQESwyZGTk",
+     "title": "Would You Enter a Venomous Snake-Infested Forest?"
+    },
+    {
+     "id": "AtXdKfwJeQ0",
+     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+    },
+    {
+     "id": "gUKCSkegtKY",
+     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
+    },
+    {
+     "id": "Bg_mcjX_iDM",
+     "title": "Catching Weirdest Bugs on Earth!"
+    },
+    {
+     "id": "5qt0TxOmR3Y",
+     "title": "Should Science Bring Back These 5 Extinct Animals?"
+    },
+    {
+     "id": "NbPN331vzis",
+     "title": "Genetic Breakthrough! My Private Tour of a Top-Secret BioLab"
+    },
+    {
+     "id": "0d8uGJ9uLNY",
+     "title": "500-Pound DINO BIRD Brought Back from the Dead!"
+    },
+    {
+     "id": "Ay07lUktfsI",
+     "title": "Catching Most Dangerous Animal in Australia! "
+    }
+   ],
    "channel:UCoxcjq-8xIDTYp3uz647V5A": [
     {
      "id": "Uvy5Cs9FDLg",
@@ -795,68 +833,6 @@
     {
      "id": "1cvKGqgOx_8",
      "title": "2081681993819799846994786333448627702865224538845305484256394568209274196127380153785256484516 (etc)"
-    }
-   ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
-    {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
-    },
-    {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
-    },
-    {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
-    },
-    {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
-    },
-    {
-     "id": "N2uQWfV6Jr4",
-     "title": "4 ways to fix your attention span - Shannon Odell"
-    },
-    {
-     "id": "bHB5iiDDJ-s",
-     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
-    },
-    {
-     "id": "EMbZ72cCAzI",
-     "title": "How to explain something complicated"
-    },
-    {
-     "id": "I8XaYkRW1tA",
-     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
-    },
-    {
-     "id": "_gP3aXvNmv8",
-     "title": "Ever walk into a room and forget what you were doing? - Gabriel Radvansky"
-    },
-    {
-     "id": "BSdEiOYvKpE",
-     "title": "What are tariffs, and how do they work?"
     }
    ],
    "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
