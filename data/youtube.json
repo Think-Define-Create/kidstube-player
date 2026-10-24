@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-24T02:01:57.027Z",
- "commit": "9e67d59",
+ "publishedAt": "2026-10-24T02:16:19.225Z",
+ "commit": "e1aa36e",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -14,6 +14,7 @@
    "Science Lab",
    "Animals & the Human Body",
    "Think & Grow",
+   "Soccer Skills",
    "Draw & Create"
   ],
   "videos": [
@@ -41,6 +42,60 @@
     "id": "pN34FNbOKXc",
     "title": "The Power of Belief - Mindset and Success",
     "channel": "Eduardo Briceño (TEDx)"
+   },
+   {
+    "id": "yREWtO19RQc",
+    "title": "All About Soccer Skills: Defending",
+    "channel": "MOJO",
+    "row": "Soccer Skills"
+   },
+   {
+    "id": "WnJRUuvakWM",
+    "title": "How to Defend & Tackle in Soccer (Easy Beginner Method)",
+    "channel": "Progressive Soccer",
+    "row": "Soccer Skills"
+   },
+   {
+    "id": "vSUjixbVXF0",
+    "title": "Backyard Drills & Chills - 1v1 Defending",
+    "channel": "Football Queensland",
+    "row": "Soccer Skills"
+   },
+   {
+    "id": "hgrStIbFls0",
+    "title": "How to Improve Jockeying Defense Skills",
+    "channel": "Howcast",
+    "row": "Soccer Skills"
+   },
+   {
+    "id": "XsHs4dW4pNY",
+    "title": "How to Defend - US Youth Soccer Quick Tips",
+    "channel": "US Youth Soccer",
+    "row": "Soccer Skills"
+   },
+   {
+    "id": "DGGh_tAfI_4",
+    "title": "Goal Side Defending",
+    "channel": "Understand Soccer",
+    "row": "Soccer Skills"
+   },
+   {
+    "id": "z030hp8Sias",
+    "title": "Soccer IQ - Goalside & Inside",
+    "channel": "Kevin McKelvie",
+    "row": "Soccer Skills"
+   },
+   {
+    "id": "LR9ifmPXGhI",
+    "title": "How to Defend in Soccer: 3 Drills to Be a Better Defender",
+    "channel": "IMG Academy",
+    "row": "Soccer Skills"
+   },
+   {
+    "id": "ROISoyqnBoU",
+    "title": "How I Coach Tackling (And Remove Fear From Players)",
+    "channel": "Joner Football",
+    "row": "Soccer Skills"
    }
   ],
   "channels": [
@@ -103,12 +158,17 @@
     "id": "UC5XMF3Inoi8R9nSI8ChOsdQ",
     "name": "Art for Kids Hub",
     "row": "Draw & Create"
+   },
+   {
+    "id": "UCkZM4O__WAhfWIsuH9BeRHw",
+    "name": "Progressive Soccer",
+    "row": "Soccer Skills"
    }
   ],
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-24T02:01:43.971Z",
+  "builtAt": "2026-10-24T02:16:14.654Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -144,6 +204,64 @@
     {
      "id": "EP1mYq8hLIY",
      "title": "The Anti Trampoline Effect"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+    },
+    {
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+    },
+    {
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
+    },
+    {
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+    },
+    {
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+    },
+    {
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
+    },
+    {
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -230,46 +348,66 @@
      "title": "This Woman Cured Her Cancer with an Insane Method"
     }
    ],
-   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
     {
-     "id": "k4gbweQTL50",
-     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+     "id": "SS6wLHDjoHo",
+     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "oEIp2piNUso",
-     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+     "id": "7lKqVUK8cBE",
+     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "TMtQfzcKFCI",
-     "title": "Most Remote Fly Fishing in the USA!"
+     "id": "uMTvJzgZdok",
+     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
     },
     {
-     "id": "nuEQmSs1H38",
-     "title": "Why This Giant Killer Snake is Destroying Florida"
+     "id": "78pqWbdd94U",
+     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "mdR_f4p1b6A",
-     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+     "id": "7OueRkAObfc",
+     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "mPOf2fpy7B4",
-     "title": "Deep Sea Worm Attacks Everything!"
+     "id": "8s2uNx9jwB4",
+     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "xSxhX1g3Zss",
-     "title": "Bitten by an Angry Gecko!"
+     "id": "MZ2POHBVzag",
+     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "qlQESwyZGTk",
-     "title": "Would You Enter a Venomous Snake-Infested Forest?"
+     "id": "PxvciYYyziw",
+     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "AtXdKfwJeQ0",
-     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+     "id": "WdAZB9DkIug",
+     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "gUKCSkegtKY",
-     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
+     "id": "_kpAhvBEB_A",
+     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "bkr7TmwEHsA",
+     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ctb9WgXuhP4",
+     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ffH1XDp8ixc",
+     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "nHlg7luxppE",
+     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "IFk-Pdil4MU",
+     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
    "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
@@ -308,118 +446,6 @@
     {
      "id": "AOSjUmwVFt4",
      "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids"
-    }
-   ],
-   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
-    {
-     "id": "3WWm929hbTw",
-     "title": "Crash Course Kids Literature • Full Series"
-    },
-    {
-     "id": "PkWU-lMdnJg",
-     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
-    },
-    {
-     "id": "klu7TNy-7qw",
-     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
-    },
-    {
-     "id": "ML2oX207Mwc",
-     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
-    },
-    {
-     "id": "QVw521JjRjA",
-     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
-    },
-    {
-     "id": "WrUX6j9MwUY",
-     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
-    },
-    {
-     "id": "XjR2B3YJH9U",
-     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
-    },
-    {
-     "id": "ui86G8Q5GhQ",
-     "title": "Crash Course Kids Literature Preview"
-    },
-    {
-     "id": "JcxTM7knO80",
-     "title": "Welcome to Crash Course Kids!"
-    },
-    {
-     "id": "EwY6p-r_hyU",
-     "title": "Gravity Compilation: Crash Course Kids"
-    },
-    {
-     "id": "wyRy8kowyM8",
-     "title": "Matter Compilation: Crash Course Kids"
-    },
-    {
-     "id": "CZhE2p46vJk",
-     "title": "Food Chains Compilation: Crash Course Kids"
-    },
-    {
-     "id": "Td_A9H69eE8",
-     "title": "Space Compilation: Crash Course Kids"
-    },
-    {
-     "id": "qDcMq1SjR_I",
-     "title": "Engineering Compilation: Crash Course Kids"
-    },
-    {
-     "id": "s__sgOHWNIA",
-     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
-    }
-   ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
-    {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
-    },
-    {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
-    },
-    {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
-    },
-    {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
-    },
-    {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
-    },
-    {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
-    },
-    {
-     "id": "3geDF-DAwpg",
-     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
-    },
-    {
-     "id": "oax6t6Of2WY",
-     "title": "The Biggest Gaps Between Primes - Numberphile"
-    },
-    {
-     "id": "A020pGO5MBs",
-     "title": "The Immortal Kangaroo Sequence - Numberphile"
-    },
-    {
-     "id": "-mXaU3N9e8Y",
-     "title": "2.685 is (almost) everywhere - Numberphile"
-    },
-    {
-     "id": "0aTUTxOiRgU",
-     "title": "291 Holes - Numberphile"
-    },
-    {
-     "id": "oYGBRhS1Ujo",
-     "title": "Cutting Moons  - Numberphile"
     }
    ],
    "channel:UCsooa4yRKGN_zEE8iknghZA": [
@@ -484,6 +510,70 @@
      "title": "What are tariffs, and how do they work?"
     }
    ],
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+    {
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
+    },
+    {
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    },
+    {
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+    },
+    {
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
+    },
+    {
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    },
+    {
+     "id": "-mXaU3N9e8Y",
+     "title": "2.685 is (almost) everywhere - Numberphile"
+    },
+    {
+     "id": "0aTUTxOiRgU",
+     "title": "291 Holes - Numberphile"
+    },
+    {
+     "id": "oYGBRhS1Ujo",
+     "title": "Cutting Moons  - Numberphile"
+    }
+   ],
+   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
+    {
+     "id": "XoDxtMWNAAg",
+     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
+    },
+    {
+     "id": "lpNtEz9yOmU",
+     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
+    },
+    {
+     "id": "ZVO8K102WQU",
+     "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
+    }
+   ],
    "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
     {
      "id": "bPzs8S3UB9Q",
@@ -514,124 +604,108 @@
      "title": "How To Draw Frankenstein Big Mouth"
     }
    ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
     {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+     "id": "3WWm929hbTw",
+     "title": "Crash Course Kids Literature • Full Series"
     },
     {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+     "id": "PkWU-lMdnJg",
+     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
     },
     {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
+     "id": "klu7TNy-7qw",
+     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
     },
     {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+     "id": "ML2oX207Mwc",
+     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
     },
     {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+     "id": "QVw521JjRjA",
+     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
     },
     {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
+     "id": "WrUX6j9MwUY",
+     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
     },
     {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+     "id": "XjR2B3YJH9U",
+     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
     },
     {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+     "id": "ui86G8Q5GhQ",
+     "title": "Crash Course Kids Literature Preview"
     },
     {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+     "id": "JcxTM7knO80",
+     "title": "Welcome to Crash Course Kids!"
     },
     {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+     "id": "EwY6p-r_hyU",
+     "title": "Gravity Compilation: Crash Course Kids"
     },
     {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
+     "id": "wyRy8kowyM8",
+     "title": "Matter Compilation: Crash Course Kids"
     },
     {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
+     "id": "CZhE2p46vJk",
+     "title": "Food Chains Compilation: Crash Course Kids"
     },
     {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+     "id": "Td_A9H69eE8",
+     "title": "Space Compilation: Crash Course Kids"
     },
     {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+     "id": "qDcMq1SjR_I",
+     "title": "Engineering Compilation: Crash Course Kids"
+    },
+    {
+     "id": "s__sgOHWNIA",
+     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
     {
-     "id": "SS6wLHDjoHo",
-     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
     },
     {
-     "id": "7lKqVUK8cBE",
-     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
     },
     {
-     "id": "uMTvJzgZdok",
-     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
     },
     {
-     "id": "78pqWbdd94U",
-     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
     },
     {
-     "id": "7OueRkAObfc",
-     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
     },
     {
-     "id": "8s2uNx9jwB4",
-     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
     },
     {
-     "id": "MZ2POHBVzag",
-     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
     },
     {
-     "id": "PxvciYYyziw",
-     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "qlQESwyZGTk",
+     "title": "Would You Enter a Venomous Snake-Infested Forest?"
     },
     {
-     "id": "WdAZB9DkIug",
-     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "AtXdKfwJeQ0",
+     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
     },
     {
-     "id": "_kpAhvBEB_A",
-     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "bkr7TmwEHsA",
-     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "ctb9WgXuhP4",
-     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "ffH1XDp8ixc",
-     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "nHlg7luxppE",
-     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "IFk-Pdil4MU",
-     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "gUKCSkegtKY",
+     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
     }
    ]
   },
@@ -640,7 +714,16 @@
    "9vJRopau0g0": "The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn",
    "7yDmGnA8Hw0": "Can you solve the bridge riddle? - Alex Gendler",
    "N5vJSNXPEwA": "Can you solve the prisoner hat riddle? - Alex Gendler",
-   "pN34FNbOKXc": "The Power of belief -- mindset and success | Eduardo Briceno | TEDxManhattanBeach"
+   "pN34FNbOKXc": "The Power of belief -- mindset and success | Eduardo Briceno | TEDxManhattanBeach",
+   "yREWtO19RQc": "All About Soccer Skills: Defending | Soccer Skills from the MOJO App",
+   "WnJRUuvakWM": "How to Defend & Tackle in Soccer (Easy Beginner Method)",
+   "vSUjixbVXF0": "Backyard Drills & Chills - 1v1 Defending",
+   "hgrStIbFls0": "How to Improve Jockeying Defense Skills | Soccer Lessons",
+   "XsHs4dW4pNY": "How to Defend - US Youth Soccer Quick Tips",
+   "DGGh_tAfI_4": "Goal Side Defending",
+   "z030hp8Sias": "Soccer IQ - Goalside & Inside",
+   "LR9ifmPXGhI": "How to Defend in Soccer: 3 Drills to Be a Better Defender",
+   "ROISoyqnBoU": "How I Coach Tackling (And Remove Fear From Players)"
   }
  }
 }
