@@ -1,0 +1,36 @@
+{
+  "_help": "Lists for the YouTube app on the TV. Edit, commit, and the TV uses it the next time the app opens. See EDITING.md.",
+
+  "videosSectionTitle": "Featured",
+  "maxVideosPerChannel": 15,
+  "maxVideosPerRow": 30,
+  "hideShorts": true,
+  "afterVideo": "grid",
+
+  "rows": ["Build & Engineer", "Science Lab", "Animals & the Human Body", "Think & Grow", "Draw & Create"],
+
+  "videos": [
+    { "id": "hFZFjoX2cGg", "title": "Backyard Squirrel Maze 1.0 - Ninja Warrior Course", "channel": "Mark Rober" },
+    { "id": "9vJRopau0g0", "title": "The Super Mario Effect - Tricking Your Brain into Learning More", "channel": "Mark Rober (TEDx)" },
+    { "id": "7yDmGnA8Hw0", "title": "Can you solve the bridge riddle?", "channel": "TED-Ed" },
+    { "id": "N5vJSNXPEwA", "title": "Can you solve the prisoner hat riddle?", "channel": "TED-Ed" },
+    { "id": "pN34FNbOKXc", "title": "The Power of Belief - Mindset and Success", "channel": "Eduardo Briceño (TEDx)" }
+  ],
+
+  "channels": [
+    { "id": "UCY1kMZp36IQSyNx_9h4mpCg", "name": "Mark Rober",        "row": "Build & Engineer" },
+    { "id": "UC6107grRI4m0o2-emgoDnAA", "name": "Smarter Every Day", "row": "Build & Engineer" },
+    { "id": "UCEIwxahdLz7bap-VDs9h35A", "name": "Steve Mould",       "row": "Build & Engineer" },
+    { "id": "UCRFIPG2u1DxKLNuE3y2SjHA", "name": "SciShow Kids",      "row": "Science Lab" },
+    { "id": "UCONtPx56PSebXJOxbFv-2jQ", "name": "Crash Course Kids", "row": "Science Lab" },
+    { "id": "UCsXVk37bltHxD1rDPwtNM8Q", "name": "Kurzgesagt",        "row": "Science Lab" },
+    { "id": "UCXVCgDuD_QCkI7gTKU7-tpg", "name": "Nat Geo Kids",      "row": "Animals & the Human Body" },
+    { "id": "UC6E2mP01ZLH_kbAyeazCNdg", "name": "Brave Wilderness",  "row": "Animals & the Human Body" },
+    { "id": "UCQJDFI9j8UeNoqra37p5OkA", "name": "Operation Ouch",    "row": "Animals & the Human Body" },
+    { "id": "UCsooa4yRKGN_zEE8iknghZA", "name": "TED-Ed",            "row": "Think & Grow" },
+    { "id": "UCoxcjq-8xIDTYp3uz647V5A", "name": "Numberphile",       "row": "Think & Grow" },
+    { "id": "UC5XMF3Inoi8R9nSI8ChOsdQ", "name": "Art for Kids Hub",  "row": "Draw & Create" }
+  ],
+
+  "playlists": []
+}
