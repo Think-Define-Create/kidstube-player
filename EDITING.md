@@ -81,13 +81,41 @@ Add a line to `"channels"`:
   the ones in `"rows"`. Add it to `"rows"` to choose its place.
 - `name` is the label shown under each video.
 - Then run **publish**, so the box looks up the channel's videos (newest first, no Shorts, only videos
-  that allow embedding, up to `maxVideosPerChannel`).
+  that allow embedding, up to `maxVideosPerChannel`). It reads the channel's RSS feed; when YouTube's feed is
+  down (it often is) it retries, then reads the channel's Videos page instead. Check a new channel's recent
+  uploads yourself before adding it: every new upload will show on the TV.
 
 **Finding a channel ID** (starts with `UC`, 24 characters; an `@handle` does not work):
 - On the box: `node /workspace/kidstube-player/tools/channel-id.js @TEDEd` prints a ready-made line.
 - In a browser: open the channel → tap the description / **more** → **Share channel** → **Copy channel ID**.
 - Or, if the channel's address is `youtube.com/channel/UC...`, the ID is that `UC...` part.
 - Or, on a computer: open the channel page, **View page source**, search for `"externalId":"UC`.
+
+### Topics and discovery (`topics`, review only)
+`"topics"` lists the themes the lists cover, each with the row it belongs to and a few search phrases:
+```json
+{ "name": "Entrepreneurship & money", "row": "Big Ideas & Mindset", "search": ["young entrepreneur story for students"] },
+```
+The TV ignores `topics`. They are used only by the optional discovery step on the box:
+
+```bash
+/workspace/kidstube-player/tools/publish.sh --discover
+```
+
+It searches YouTube for each phrase (the public results page, no API key; at most 3 phrases per topic and 8
+new videos per topic). It skips videos already in the lists, Shorts and live streams (under 61 seconds or no
+length), videos over 30 minutes, videos that can't be embedded, and titles with words like prank, crypto, get rich,
+millionaire, hustle, "$100" or "gone wrong". It writes what is left to
+[`data/candidates.json`](data/candidates.json) **for you to review**. **Nothing from that file is shown on
+the TV, and the apps never read it.** To use a candidate, watch it, then copy its `"line"` into `"videos"` above
+(with its `"row"`), commit and publish. `approvedChannel: true` means it comes from a channel already in your list.
+`status` is `ok`, `partial` (some searches were blocked) or `skipped` (no search worked, e.g. YouTube
+rate-limited the box). Discovery problems never stop a publish.
+
+### Current rows
+Featured, Build & Engineer, Science Lab, Animals & the Human Body, Think & Grow (TED-Ed, Numberphile),
+**Big Ideas & Mindset** (money, entrepreneurship, inventing, growth mindset, kindness, resilience: Biz Kid$ and
+Mental Health Center Kids channels plus 8 hand-picked videos), Soccer Skills, Draw & Create.
 
 ### Other settings
 | Key | Meaning |
