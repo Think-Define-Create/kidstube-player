@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-25T15:28:49.459Z",
- "commit": "5161719",
+ "publishedAt": "2026-10-25T15:33:27.271Z",
+ "commit": "2fb73ea",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -145,6 +145,30 @@
     "title": "Growth Mindset (1 of 5)",
     "channel": "ClassDojo",
     "row": "Big Ideas & Mindset"
+   },
+   {
+    "id": "2yde0fz61rk",
+    "title": "Science Max: Simple Machines",
+    "channel": "Science Max",
+    "row": "Build & Engineer"
+   },
+   {
+    "id": "JnYVz1TSmBQ",
+    "title": "How Levers, Pulleys and Gears Work",
+    "channel": "The Efficient Engineer",
+    "row": "Build & Engineer"
+   },
+   {
+    "id": "jVcaTtJmRNs",
+    "title": "Maya Penn: Meet a young entrepreneur",
+    "channel": "TED",
+    "row": "Big Ideas & Mindset"
+   },
+   {
+    "id": "EblQj_pZFlQ",
+    "title": "The Making of a Young Entrepreneur",
+    "channel": "TEDx Talks",
+    "row": "Big Ideas & Mindset"
    }
   ],
   "channels": [
@@ -227,7 +251,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-25T15:28:48.146Z",
+  "builtAt": "2026-10-25T15:33:26.118Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -269,62 +293,26 @@
      "title": "The Anti Trampoline Effect"
     }
    ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
     {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
     },
     {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
     },
     {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
     },
     {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
     },
     {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
-    },
-    {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -389,28 +377,6 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
     {
      "id": "3WWm929hbTw",
@@ -471,6 +437,64 @@
     {
      "id": "s__sgOHWNIA",
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+    },
+    {
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+    },
+    {
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
+    },
+    {
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+    },
+    {
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+    },
+    {
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
+    },
+    {
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
@@ -553,6 +577,56 @@
      "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
     }
    ],
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+    {
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
+    },
+    {
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
+    },
+    {
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    },
+    {
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+    },
+    {
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
+    },
+    {
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    },
+    {
+     "id": "-mXaU3N9e8Y",
+     "title": "2.685 is (almost) everywhere - Numberphile"
+    },
+    {
+     "id": "0aTUTxOiRgU",
+     "title": "291 Holes - Numberphile"
+    }
+   ],
    "channel:UCsooa4yRKGN_zEE8iknghZA": [
     {
      "id": "a_4eFB8pPwI",
@@ -615,54 +689,54 @@
      "title": "What are tariffs, and how do they work?"
     }
    ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
     {
-     "id": "EgnAN0ZUl08",
-     "title": "Squaring the Triangle - Numberphile"
+     "id": "mplhg3tYKwg",
+     "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
     },
     {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
+     "id": "XoDxtMWNAAg",
+     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
     },
     {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+     "id": "lpNtEz9yOmU",
+     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
+    }
+   ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "bPzs8S3UB9Q",
+     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
     },
     {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+     "id": "yjuQptALLzM",
+     "title": "Our NEW Drawing App for Kids! 🎨"
     },
     {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
+     "id": "zvAW8WE0VD4",
+     "title": "How To Draw A Frankenstein Milkshake"
     },
     {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+     "id": "l4JNjGkQnuM",
+     "title": "How To Draw A Vampire Pizza"
     },
     {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+     "id": "j8kA0Lav4io",
+     "title": "How To Draw A Halloween Claw Machine"
     },
     {
-     "id": "3geDF-DAwpg",
-     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+     "id": "2trpMnBYbHo",
+     "title": "How To Draw A Caramel Apple Monster"
     },
     {
-     "id": "oax6t6Of2WY",
-     "title": "The Biggest Gaps Between Primes - Numberphile"
-    },
+     "id": "ga8wyomPt68",
+     "title": "How To Draw Frankenstein Big Mouth"
+    }
+   ],
+   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
     {
-     "id": "A020pGO5MBs",
-     "title": "The Immortal Kangaroo Sequence - Numberphile"
-    },
-    {
-     "id": "-mXaU3N9e8Y",
-     "title": "2.685 is (almost) everywhere - Numberphile"
-    },
-    {
-     "id": "0aTUTxOiRgU",
-     "title": "291 Holes - Numberphile"
+     "id": "cr2TDSSSzPk",
+     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -725,56 +799,6 @@
     {
      "id": "IFk-Pdil4MU",
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
-    }
-   ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
-    {
-     "id": "bPzs8S3UB9Q",
-     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
-    },
-    {
-     "id": "yjuQptALLzM",
-     "title": "Our NEW Drawing App for Kids! 🎨"
-    },
-    {
-     "id": "zvAW8WE0VD4",
-     "title": "How To Draw A Frankenstein Milkshake"
-    },
-    {
-     "id": "l4JNjGkQnuM",
-     "title": "How To Draw A Vampire Pizza"
-    },
-    {
-     "id": "j8kA0Lav4io",
-     "title": "How To Draw A Halloween Claw Machine"
-    },
-    {
-     "id": "2trpMnBYbHo",
-     "title": "How To Draw A Caramel Apple Monster"
-    },
-    {
-     "id": "ga8wyomPt68",
-     "title": "How To Draw Frankenstein Big Mouth"
-    }
-   ],
-   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
-    {
-     "id": "cr2TDSSSzPk",
-     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
-    }
-   ],
-   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
-    {
-     "id": "mplhg3tYKwg",
-     "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
-    },
-    {
-     "id": "XoDxtMWNAAg",
-     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
-    },
-    {
-     "id": "lpNtEz9yOmU",
-     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
@@ -858,7 +882,11 @@
    "El7YKGhryOw": "Young Entrepreneur - Seymour The Savvy Saver",
    "x4xk6zAHWBs": "Young Inventors - Behind the News",
    "rf8FX2sI3gU": "LearnStorm Growth Mindset: The Truth About Your Brain",
-   "2zrtHt3bBmQ": "Growth Mindset (1 of 5) | Social Emotional Learning for kids"
+   "2zrtHt3bBmQ": "Growth Mindset (1 of 5) | Social Emotional Learning for kids",
+   "2yde0fz61rk": "Science Max | FULL EPISODE | Simple Machines | Season 1",
+   "JnYVz1TSmBQ": "How Levers, Pulleys and Gears Work",
+   "jVcaTtJmRNs": "Maya Penn: Meet a young entrepreneur, cartoonist, designer, activist ... | TED",
+   "EblQj_pZFlQ": "The Making of A Young Entrepreneur: Gabrielle Jordan Williams at TEDxRockCreekPark"
   }
  }
 }
