@@ -1,66 +1,293 @@
 {
   "_help": "Lists for the YouTube app on the TV. Edit, commit, and the TV uses it the next time the app opens. See EDITING.md.",
-
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
   "maxVideosPerRow": 30,
   "hideShorts": true,
   "afterVideo": "grid",
-
-  "rows": ["Build & Engineer", "Science Lab", "Animals & the Human Body", "Think & Grow", "Big Ideas & Mindset", "Soccer Skills", "Draw & Create"],
-
+  "rows": [
+    "Build & Engineer",
+    "Science Lab",
+    "Animals & the Human Body",
+    "Think & Grow",
+    "Big Ideas & Mindset",
+    "Soccer Skills",
+    "Draw & Create"
+  ],
   "topics": [
-    { "name": "Science", "row": "Science Lab", "search": ["science explained for 10 year olds", "fun science experiments explained"] },
-    { "name": "Tech & engineering", "row": "Build & Engineer", "search": ["how things work engineering for students", "simple machines explained"] },
-    { "name": "Soccer defence", "row": "Soccer Skills", "search": ["youth soccer defending tips", "how to jockey in soccer", "soccer 1v1 defending for young players"] },
-    { "name": "Entrepreneurship & money", "row": "Big Ideas & Mindset", "search": ["young entrepreneur story for students", "money basics for elementary students", "how a small business works explained"] },
-    { "name": "Positive mindset & character", "row": "Big Ideas & Mindset", "search": ["growth mindset for students", "perseverance never give up story for students", "kindness and empathy for students"] }
+    {
+      "name": "Science",
+      "row": "Science Lab",
+      "search": [
+        "science explained for 10 year olds",
+        "fun science experiments explained"
+      ]
+    },
+    {
+      "name": "Tech & engineering",
+      "row": "Build & Engineer",
+      "search": [
+        "how things work engineering for students",
+        "simple machines explained"
+      ]
+    },
+    {
+      "name": "Soccer defence",
+      "row": "Soccer Skills",
+      "search": [
+        "youth soccer defending tips",
+        "how to jockey in soccer",
+        "soccer 1v1 defending for young players"
+      ]
+    },
+    {
+      "name": "Entrepreneurship & money",
+      "row": "Big Ideas & Mindset",
+      "search": [
+        "young entrepreneur story for students",
+        "money basics for elementary students",
+        "how a small business works explained"
+      ]
+    },
+    {
+      "name": "Positive mindset & character",
+      "row": "Big Ideas & Mindset",
+      "search": [
+        "growth mindset for students",
+        "perseverance never give up story for students",
+        "kindness and empathy for students"
+      ]
+    }
   ],
-
   "videos": [
-    { "id": "hFZFjoX2cGg", "title": "Backyard Squirrel Maze 1.0 - Ninja Warrior Course", "channel": "Mark Rober" },
-    { "id": "9vJRopau0g0", "title": "The Super Mario Effect - Tricking Your Brain into Learning More", "channel": "Mark Rober (TEDx)" },
-    { "id": "7yDmGnA8Hw0", "title": "Can you solve the bridge riddle?", "channel": "TED-Ed" },
-    { "id": "N5vJSNXPEwA", "title": "Can you solve the prisoner hat riddle?", "channel": "TED-Ed" },
-    { "id": "pN34FNbOKXc", "title": "The Power of Belief - Mindset and Success", "channel": "Eduardo Briceño (TEDx)" },
-
-    { "id": "yREWtO19RQc", "title": "All About Soccer Skills: Defending", "channel": "MOJO", "row": "Soccer Skills" },
-    { "id": "WnJRUuvakWM", "title": "How to Defend & Tackle in Soccer (Easy Beginner Method)", "channel": "Progressive Soccer", "row": "Soccer Skills" },
-    { "id": "vSUjixbVXF0", "title": "Backyard Drills & Chills - 1v1 Defending", "channel": "Football Queensland", "row": "Soccer Skills" },
-    { "id": "hgrStIbFls0", "title": "How to Improve Jockeying Defense Skills", "channel": "Howcast", "row": "Soccer Skills" },
-    { "id": "XsHs4dW4pNY", "title": "How to Defend - US Youth Soccer Quick Tips", "channel": "US Youth Soccer", "row": "Soccer Skills" },
-    { "id": "DGGh_tAfI_4", "title": "Goal Side Defending", "channel": "Understand Soccer", "row": "Soccer Skills" },
-    { "id": "z030hp8Sias", "title": "Soccer IQ - Goalside & Inside", "channel": "Kevin McKelvie", "row": "Soccer Skills" },
-    { "id": "LR9ifmPXGhI", "title": "How to Defend in Soccer: 3 Drills to Be a Better Defender", "channel": "IMG Academy", "row": "Soccer Skills" },
-    { "id": "ROISoyqnBoU", "title": "How I Coach Tackling (And Remove Fear From Players)", "channel": "Joner Football", "row": "Soccer Skills" },
-
-    { "id": "TGx5CJcF044", "title": "Ryan's Recycling - 60 Second Docs", "channel": "60 Second Docs", "row": "Big Ideas & Mindset" },
-    { "id": "XQ4RESzO2wI", "title": "Young Entrepreneurs Share Their Success Story", "channel": "Scholastic", "row": "Big Ideas & Mindset" },
-    { "id": "vKuItf6xN6E", "title": "How to Understand Business Finances: The Lemonade Stand", "channel": "wikiHow", "row": "Big Ideas & Mindset" },
-    { "id": "aRcXutXvfmM", "title": "Financial Literacy - Needs and Wants", "channel": "Learn Bright", "row": "Big Ideas & Mindset" },
-    { "id": "El7YKGhryOw", "title": "Young Entrepreneur - Seymour The Savvy Saver", "channel": "Biz Kid$", "row": "Big Ideas & Mindset" },
-    { "id": "x4xk6zAHWBs", "title": "Young Inventors", "channel": "Behind the News", "row": "Big Ideas & Mindset" },
-    { "id": "rf8FX2sI3gU", "title": "Growth Mindset: The Truth About Your Brain", "channel": "Khan Academy", "row": "Big Ideas & Mindset" },
-    { "id": "2zrtHt3bBmQ", "title": "Growth Mindset (1 of 5)", "channel": "ClassDojo", "row": "Big Ideas & Mindset" }
+    {
+      "id": "hFZFjoX2cGg",
+      "title": "Backyard Squirrel Maze 1.0 - Ninja Warrior Course",
+      "channel": "Mark Rober"
+    },
+    {
+      "id": "9vJRopau0g0",
+      "title": "The Super Mario Effect - Tricking Your Brain into Learning More",
+      "channel": "Mark Rober (TEDx)"
+    },
+    {
+      "id": "7yDmGnA8Hw0",
+      "title": "Can you solve the bridge riddle?",
+      "channel": "TED-Ed"
+    },
+    {
+      "id": "N5vJSNXPEwA",
+      "title": "Can you solve the prisoner hat riddle?",
+      "channel": "TED-Ed"
+    },
+    {
+      "id": "pN34FNbOKXc",
+      "title": "The Power of Belief - Mindset and Success",
+      "channel": "Eduardo Briceño (TEDx)"
+    },
+    {
+      "id": "yREWtO19RQc",
+      "title": "All About Soccer Skills: Defending",
+      "channel": "MOJO",
+      "row": "Soccer Skills"
+    },
+    {
+      "id": "WnJRUuvakWM",
+      "title": "How to Defend & Tackle in Soccer (Easy Beginner Method)",
+      "channel": "Progressive Soccer",
+      "row": "Soccer Skills"
+    },
+    {
+      "id": "vSUjixbVXF0",
+      "title": "Backyard Drills & Chills - 1v1 Defending",
+      "channel": "Football Queensland",
+      "row": "Soccer Skills"
+    },
+    {
+      "id": "hgrStIbFls0",
+      "title": "How to Improve Jockeying Defense Skills",
+      "channel": "Howcast",
+      "row": "Soccer Skills"
+    },
+    {
+      "id": "XsHs4dW4pNY",
+      "title": "How to Defend - US Youth Soccer Quick Tips",
+      "channel": "US Youth Soccer",
+      "row": "Soccer Skills"
+    },
+    {
+      "id": "DGGh_tAfI_4",
+      "title": "Goal Side Defending",
+      "channel": "Understand Soccer",
+      "row": "Soccer Skills"
+    },
+    {
+      "id": "z030hp8Sias",
+      "title": "Soccer IQ - Goalside & Inside",
+      "channel": "Kevin McKelvie",
+      "row": "Soccer Skills"
+    },
+    {
+      "id": "LR9ifmPXGhI",
+      "title": "How to Defend in Soccer: 3 Drills to Be a Better Defender",
+      "channel": "IMG Academy",
+      "row": "Soccer Skills"
+    },
+    {
+      "id": "ROISoyqnBoU",
+      "title": "How I Coach Tackling (And Remove Fear From Players)",
+      "channel": "Joner Football",
+      "row": "Soccer Skills"
+    },
+    {
+      "id": "TGx5CJcF044",
+      "title": "Ryan's Recycling - 60 Second Docs",
+      "channel": "60 Second Docs",
+      "row": "Big Ideas & Mindset"
+    },
+    {
+      "id": "XQ4RESzO2wI",
+      "title": "Young Entrepreneurs Share Their Success Story",
+      "channel": "Scholastic",
+      "row": "Big Ideas & Mindset"
+    },
+    {
+      "id": "vKuItf6xN6E",
+      "title": "How to Understand Business Finances: The Lemonade Stand",
+      "channel": "wikiHow",
+      "row": "Big Ideas & Mindset"
+    },
+    {
+      "id": "aRcXutXvfmM",
+      "title": "Financial Literacy - Needs and Wants",
+      "channel": "Learn Bright",
+      "row": "Big Ideas & Mindset"
+    },
+    {
+      "id": "El7YKGhryOw",
+      "title": "Young Entrepreneur - Seymour The Savvy Saver",
+      "channel": "Biz Kid$",
+      "row": "Big Ideas & Mindset"
+    },
+    {
+      "id": "x4xk6zAHWBs",
+      "title": "Young Inventors",
+      "channel": "Behind the News",
+      "row": "Big Ideas & Mindset"
+    },
+    {
+      "id": "rf8FX2sI3gU",
+      "title": "Growth Mindset: The Truth About Your Brain",
+      "channel": "Khan Academy",
+      "row": "Big Ideas & Mindset"
+    },
+    {
+      "id": "2zrtHt3bBmQ",
+      "title": "Growth Mindset (1 of 5)",
+      "channel": "ClassDojo",
+      "row": "Big Ideas & Mindset"
+    },
+    {
+      "id": "2yde0fz61rk",
+      "title": "Science Max: Simple Machines",
+      "channel": "Science Max",
+      "row": "Build & Engineer"
+    },
+    {
+      "id": "JnYVz1TSmBQ",
+      "title": "How Levers, Pulleys and Gears Work",
+      "channel": "The Efficient Engineer",
+      "row": "Build & Engineer"
+    },
+    {
+      "id": "jVcaTtJmRNs",
+      "title": "Maya Penn: Meet a young entrepreneur",
+      "channel": "TED",
+      "row": "Big Ideas & Mindset"
+    },
+    {
+      "id": "EblQj_pZFlQ",
+      "title": "The Making of a Young Entrepreneur",
+      "channel": "TEDx Talks",
+      "row": "Big Ideas & Mindset"
+    }
   ],
-
   "channels": [
-    { "id": "UCY1kMZp36IQSyNx_9h4mpCg", "name": "Mark Rober",        "row": "Build & Engineer" },
-    { "id": "UC6107grRI4m0o2-emgoDnAA", "name": "Smarter Every Day", "row": "Build & Engineer" },
-    { "id": "UCEIwxahdLz7bap-VDs9h35A", "name": "Steve Mould",       "row": "Build & Engineer" },
-    { "id": "UCRFIPG2u1DxKLNuE3y2SjHA", "name": "SciShow Kids",      "row": "Science Lab" },
-    { "id": "UCONtPx56PSebXJOxbFv-2jQ", "name": "Crash Course Kids", "row": "Science Lab" },
-    { "id": "UCsXVk37bltHxD1rDPwtNM8Q", "name": "Kurzgesagt",        "row": "Science Lab" },
-    { "id": "UCXVCgDuD_QCkI7gTKU7-tpg", "name": "Nat Geo Kids",      "row": "Animals & the Human Body" },
-    { "id": "UC6E2mP01ZLH_kbAyeazCNdg", "name": "Brave Wilderness",  "row": "Animals & the Human Body" },
-    { "id": "UCQJDFI9j8UeNoqra37p5OkA", "name": "Operation Ouch",    "row": "Animals & the Human Body" },
-    { "id": "UCsooa4yRKGN_zEE8iknghZA", "name": "TED-Ed",            "row": "Think & Grow" },
-    { "id": "UCoxcjq-8xIDTYp3uz647V5A", "name": "Numberphile",       "row": "Think & Grow" },
-    { "id": "UC5XMF3Inoi8R9nSI8ChOsdQ", "name": "Art for Kids Hub",  "row": "Draw & Create" },
-    { "id": "UCkZM4O__WAhfWIsuH9BeRHw", "name": "Progressive Soccer", "row": "Soccer Skills" },
-    { "id": "UCufmiGK0I_9g_iwUR-E8mwA", "name": "Biz Kid$",          "row": "Big Ideas & Mindset" },
-    { "id": "UCW0vK4fFc2iQdvxtFZutsdA", "name": "Mental Health Center Kids", "row": "Big Ideas & Mindset" }
+    {
+      "id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "name": "Mark Rober",
+      "row": "Build & Engineer"
+    },
+    {
+      "id": "UC6107grRI4m0o2-emgoDnAA",
+      "name": "Smarter Every Day",
+      "row": "Build & Engineer"
+    },
+    {
+      "id": "UCEIwxahdLz7bap-VDs9h35A",
+      "name": "Steve Mould",
+      "row": "Build & Engineer"
+    },
+    {
+      "id": "UCRFIPG2u1DxKLNuE3y2SjHA",
+      "name": "SciShow Kids",
+      "row": "Science Lab"
+    },
+    {
+      "id": "UCONtPx56PSebXJOxbFv-2jQ",
+      "name": "Crash Course Kids",
+      "row": "Science Lab"
+    },
+    {
+      "id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "name": "Kurzgesagt",
+      "row": "Science Lab"
+    },
+    {
+      "id": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "name": "Nat Geo Kids",
+      "row": "Animals & the Human Body"
+    },
+    {
+      "id": "UC6E2mP01ZLH_kbAyeazCNdg",
+      "name": "Brave Wilderness",
+      "row": "Animals & the Human Body"
+    },
+    {
+      "id": "UCQJDFI9j8UeNoqra37p5OkA",
+      "name": "Operation Ouch",
+      "row": "Animals & the Human Body"
+    },
+    {
+      "id": "UCsooa4yRKGN_zEE8iknghZA",
+      "name": "TED-Ed",
+      "row": "Think & Grow"
+    },
+    {
+      "id": "UCoxcjq-8xIDTYp3uz647V5A",
+      "name": "Numberphile",
+      "row": "Think & Grow"
+    },
+    {
+      "id": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "name": "Art for Kids Hub",
+      "row": "Draw & Create"
+    },
+    {
+      "id": "UCkZM4O__WAhfWIsuH9BeRHw",
+      "name": "Progressive Soccer",
+      "row": "Soccer Skills"
+    },
+    {
+      "id": "UCufmiGK0I_9g_iwUR-E8mwA",
+      "name": "Biz Kid$",
+      "row": "Big Ideas & Mindset"
+    },
+    {
+      "id": "UCW0vK4fFc2iQdvxtFZutsdA",
+      "name": "Mental Health Center Kids",
+      "row": "Big Ideas & Mindset"
+    }
   ],
-
   "playlists": []
 }
