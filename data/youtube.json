@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-25T11:22:28.905Z",
- "commit": "2139496",
+ "publishedAt": "2026-10-25T15:28:49.459Z",
+ "commit": "5161719",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -227,8 +227,22 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-25T11:22:27.779Z",
+  "builtAt": "2026-10-25T15:28:48.146Z",
   "sources": {
+   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
+    {
+     "id": "26P1KyvrmjI",
+     "title": "I Solved Every Board Game"
+    },
+    {
+     "id": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000"
+    },
+    {
+     "id": "h0EGCnBjTVk",
+     "title": "I Outsmarted Pro Car Thieves"
+    }
+   ],
    "channel:UCEIwxahdLz7bap-VDs9h35A": [
     {
      "id": "6gsZY_-kT3U",
@@ -375,18 +389,26 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
     {
-     "id": "26P1KyvrmjI",
-     "title": "I Solved Every Board Game"
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
     },
     {
-     "id": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000"
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
     },
     {
-     "id": "h0EGCnBjTVk",
-     "title": "I Outsmarted Pro Car Thieves"
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
+    },
+    {
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
+    },
+    {
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
     }
    ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
@@ -451,66 +473,6 @@
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "DLRdkTUJ-kY",
-     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "Xakbw3sQcd0",
-     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "EXYhTpsYHN8",
-     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
-    },
-    {
-     "id": "Gvmyc2yW_NM",
-     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
-    },
-    {
-     "id": "9q3uiSeT80M",
-     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
-    },
-    {
-     "id": "aASWMaa5ZU8",
-     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "t8cKaMY_sCE",
-     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
-    },
-    {
-     "id": "adABRbEs4G4",
-     "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "I3abQzLOv2A",
-     "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids"
-    }
-   ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
     {
      "id": "WhkLkNLRZy4",
@@ -551,6 +513,44 @@
     {
      "id": "AtXdKfwJeQ0",
      "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+    }
+   ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "iZooMGvvZdo",
+     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
+    },
+    {
+     "id": "DLRdkTUJ-kY",
+     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "Xakbw3sQcd0",
+     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "EXYhTpsYHN8",
+     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
+    },
+    {
+     "id": "Gvmyc2yW_NM",
+     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "9q3uiSeT80M",
+     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
+    },
+    {
+     "id": "aASWMaa5ZU8",
+     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "t8cKaMY_sCE",
+     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
+    },
+    {
+     "id": "adABRbEs4G4",
+     "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
     }
    ],
    "channel:UCsooa4yRKGN_zEE8iknghZA": [
@@ -617,6 +617,10 @@
    ],
    "channel:UCoxcjq-8xIDTYp3uz647V5A": [
     {
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
+    },
+    {
      "id": "Uvy5Cs9FDLg",
      "title": "A New Math Meme - Numberphile"
     },
@@ -659,54 +663,6 @@
     {
      "id": "0aTUTxOiRgU",
      "title": "291 Holes - Numberphile"
-    },
-    {
-     "id": "oYGBRhS1Ujo",
-     "title": "Cutting Moons  - Numberphile"
-    }
-   ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
-    {
-     "id": "bPzs8S3UB9Q",
-     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
-    },
-    {
-     "id": "yjuQptALLzM",
-     "title": "Our NEW Drawing App for Kids! 🎨"
-    },
-    {
-     "id": "zvAW8WE0VD4",
-     "title": "How To Draw A Frankenstein Milkshake"
-    },
-    {
-     "id": "l4JNjGkQnuM",
-     "title": "How To Draw A Vampire Pizza"
-    },
-    {
-     "id": "j8kA0Lav4io",
-     "title": "How To Draw A Halloween Claw Machine"
-    },
-    {
-     "id": "2trpMnBYbHo",
-     "title": "How To Draw A Caramel Apple Monster"
-    },
-    {
-     "id": "ga8wyomPt68",
-     "title": "How To Draw Frankenstein Big Mouth"
-    }
-   ],
-   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
-    {
-     "id": "XoDxtMWNAAg",
-     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
-    },
-    {
-     "id": "lpNtEz9yOmU",
-     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
-    },
-    {
-     "id": "ZVO8K102WQU",
-     "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -771,10 +727,54 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "bPzs8S3UB9Q",
+     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
+    },
+    {
+     "id": "yjuQptALLzM",
+     "title": "Our NEW Drawing App for Kids! 🎨"
+    },
+    {
+     "id": "zvAW8WE0VD4",
+     "title": "How To Draw A Frankenstein Milkshake"
+    },
+    {
+     "id": "l4JNjGkQnuM",
+     "title": "How To Draw A Vampire Pizza"
+    },
+    {
+     "id": "j8kA0Lav4io",
+     "title": "How To Draw A Halloween Claw Machine"
+    },
+    {
+     "id": "2trpMnBYbHo",
+     "title": "How To Draw A Caramel Apple Monster"
+    },
+    {
+     "id": "ga8wyomPt68",
+     "title": "How To Draw Frankenstein Big Mouth"
+    }
+   ],
    "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
     {
      "id": "cr2TDSSSzPk",
      "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
+    }
+   ],
+   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
+    {
+     "id": "mplhg3tYKwg",
+     "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
+    },
+    {
+     "id": "XoDxtMWNAAg",
+     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
+    },
+    {
+     "id": "lpNtEz9yOmU",
+     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
