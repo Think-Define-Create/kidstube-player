@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-25T23:29:42.347Z",
- "commit": "275e605",
+ "publishedAt": "2026-10-26T03:29:34.230Z",
+ "commit": "77397c7",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -251,7 +251,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-25T23:29:02.991Z",
+  "builtAt": "2026-10-26T03:28:53.708Z",
   "sources": {
    "channel:UC6107grRI4m0o2-emgoDnAA": [
     {
@@ -315,64 +315,6 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
-    {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
-    },
-    {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
-    },
-    {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
-    },
-    {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
-    },
-    {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
-    },
-    {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
-    }
-   ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
     {
      "id": "3WWm929hbTw",
@@ -433,44 +375,6 @@
     {
      "id": "s__sgOHWNIA",
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
-    }
-   ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "iZooMGvvZdo",
-     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
-    },
-    {
-     "id": "DLRdkTUJ-kY",
-     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "Xakbw3sQcd0",
-     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "EXYhTpsYHN8",
-     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
-    },
-    {
-     "id": "Gvmyc2yW_NM",
-     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
-    },
-    {
-     "id": "9q3uiSeT80M",
-     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
-    },
-    {
-     "id": "aASWMaa5ZU8",
-     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "t8cKaMY_sCE",
-     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
-    },
-    {
-     "id": "adABRbEs4G4",
-     "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
     }
    ],
    "channel:UCEIwxahdLz7bap-VDs9h35A": [
@@ -617,96 +521,68 @@
     {
      "id": "0NY2gAftzJE",
      "title": "This Woman Cured Her Cancer with an Insane Method"
-    },
-    {
-     "id": "Cyl3X88KEgg",
-     "title": "Why Humanity Will Never Leave The Solar System"
-    },
-    {
-     "id": "PqtggjVAi8M",
-     "title": "How Are Memories Stored Inside Your Brain?"
-    },
-    {
-     "id": "8qQW4LTWgtc",
-     "title": "Why Earth Sucks Compared to the Planet Hestia"
-    },
-    {
-     "id": "TYhNHX372ek",
-     "title": "The Uncomfortable Truth About Ozempic (Updated Version)"
-    },
-    {
-     "id": "n-gYFcVx-8Y",
-     "title": "GERMANY IS OVER"
-    },
-    {
-     "id": "dl0-TveDDGA",
-     "title": "Our Minds Are Weirder than You Think"
-    },
-    {
-     "id": "h3DCdWyb0cc",
-     "title": "The Most Insane Megaproject You Never Heard About"
-    },
-    {
-     "id": "yDAAlojz8NU",
-     "title": "This Is the Scariest Place in The Universe"
-    },
-    {
-     "id": "D0WQK7cMJn8",
-     "title": "We Made A New Channel!"
-    },
-    {
-     "id": "pHJIhxZEoxg",
-     "title": "Why Are There No Holes Around Trees?"
     }
    ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
     {
-     "id": "EgnAN0ZUl08",
-     "title": "Squaring the Triangle - Numberphile"
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
     },
     {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
     },
     {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
     },
     {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
     },
     {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
     },
     {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
     },
     {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
     },
     {
-     "id": "3geDF-DAwpg",
-     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
     },
     {
-     "id": "oax6t6Of2WY",
-     "title": "The Biggest Gaps Between Primes - Numberphile"
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
     },
     {
-     "id": "A020pGO5MBs",
-     "title": "The Immortal Kangaroo Sequence - Numberphile"
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
     },
     {
-     "id": "-mXaU3N9e8Y",
-     "title": "2.685 is (almost) everywhere - Numberphile"
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
     },
     {
-     "id": "0aTUTxOiRgU",
-     "title": "291 Holes - Numberphile"
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+    },
+    {
+     "id": "r2xP7heE0wk",
+     "title": "How Eyes Let Us See The World | SciShow Kids"
     }
    ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
@@ -749,26 +625,6 @@
     {
      "id": "AtXdKfwJeQ0",
      "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
-    },
-    {
-     "id": "gUKCSkegtKY",
-     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
-    },
-    {
-     "id": "Bg_mcjX_iDM",
-     "title": "Catching Weirdest Bugs on Earth!"
-    },
-    {
-     "id": "5qt0TxOmR3Y",
-     "title": "Should Science Bring Back These 5 Extinct Animals?"
-    },
-    {
-     "id": "NbPN331vzis",
-     "title": "Genetic Breakthrough! My Private Tour of a Top-Secret BioLab"
-    },
-    {
-     "id": "0d8uGJ9uLNY",
-     "title": "500-Pound DINO BIRD Brought Back from the Dead!"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -895,6 +751,130 @@
      "title": "What are tariffs, and how do they work?"
     }
    ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "iZooMGvvZdo",
+     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
+    },
+    {
+     "id": "DLRdkTUJ-kY",
+     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "Xakbw3sQcd0",
+     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "EXYhTpsYHN8",
+     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
+    },
+    {
+     "id": "Gvmyc2yW_NM",
+     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "9q3uiSeT80M",
+     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
+    },
+    {
+     "id": "aASWMaa5ZU8",
+     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "t8cKaMY_sCE",
+     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
+    },
+    {
+     "id": "adABRbEs4G4",
+     "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "I3abQzLOv2A",
+     "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "AOSjUmwVFt4",
+     "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids"
+    },
+    {
+     "id": "CGEtugYEJok",
+     "title": "Pigs vs. Cows vs. Goats: Barnyard Showdown! | Whoa Factor | Nat Geo Kids"
+    },
+    {
+     "id": "Uk7NdsKaREM",
+     "title": "Kids React to Black Rain Frogs | Africa Earth's Wild Home | Nat Geo Kids"
+    },
+    {
+     "id": "G59TqTjtuhg",
+     "title": "Exploring Earth's Closest Neighbors | A Traveler's Guide to the Planets Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "wEz-NB7CRp0",
+     "title": "We Built a HUMAN-SIZED Wasps Nest | Live Like an Animal Full Episode | Nat Geo Kids"
+    }
+   ],
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+    {
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
+    },
+    {
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
+    },
+    {
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    },
+    {
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+    },
+    {
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
+    },
+    {
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    },
+    {
+     "id": "-mXaU3N9e8Y",
+     "title": "2.685 is (almost) everywhere - Numberphile"
+    },
+    {
+     "id": "0aTUTxOiRgU",
+     "title": "291 Holes - Numberphile"
+    },
+    {
+     "id": "oYGBRhS1Ujo",
+     "title": "Cutting Moons  - Numberphile"
+    },
+    {
+     "id": "JEPqrqNqkHw",
+     "title": "The Mountain Climbing Theorem - Numberphile"
+    },
+    {
+     "id": "cOTf_YEmSOU",
+     "title": "1³+2³+3³+4³+5³+6³+7³+8³+9³+10³+11³+12³+13³+14³+15³+16³+17³+18³+19³+20³+21³+22³+23³+24³+25³+26³+..."
+    }
+   ],
    "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
     {
      "id": "bPzs8S3UB9Q",
@@ -923,68 +903,38 @@
     {
      "id": "ga8wyomPt68",
      "title": "How To Draw Frankenstein Big Mouth"
-    }
-   ],
-   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
-    {
-     "id": "mplhg3tYKwg",
-     "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
     },
     {
-     "id": "XoDxtMWNAAg",
-     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
+     "id": "TxQ8haK5u6Q",
+     "title": "How To Draw A Halloween Pumpkin House"
     },
     {
-     "id": "lpNtEz9yOmU",
-     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
+     "id": "dgMuNfIZ0Kw",
+     "title": "1 Hour of Halloween Drawing Fun! 🎃 Easy Art Lessons for Kids"
     },
     {
-     "id": "ZVO8K102WQU",
-     "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
+     "id": "k6RHLmAL-NU",
+     "title": "How To Draw A Haunted School Bus"
     },
     {
-     "id": "FU-ONL0tVyw",
-     "title": "Stop Wasting Time on Useless Soccer Skills (Learn These Moves Instead)"
+     "id": "7tylcOBB2Ts",
+     "title": "How To Draw A Skateboarding Skeleton"
     },
     {
-     "id": "eX8fcZa-x4c",
-     "title": "How to Shoot a Soccer Ball Harder (Get More Power With Less Effort)"
+     "id": "Y7c7avmlCnw",
+     "title": "How To Draw A Pumpkin Candy Bucket"
     },
     {
-     "id": "u6PzfPq3cT4",
-     "title": "Stop Using Useless Soccer Tricks! Learn These 9 Skills Instead"
+     "id": "PrjGvyweh8w",
+     "title": "How To Draw Marshall From PAW Patrol: The Dino Movie"
     },
     {
-     "id": "0XyLOEtXNaY",
-     "title": "Stop Making Bad Passes in Soccer (Easy Drills for Young Players)"
+     "id": "kQcBPgfPEJ8",
+     "title": "How To Draw A Haunted Monster Truck"
     },
     {
-     "id": "pwl-aXDtJs0",
-     "title": "Kids Keep Missing Soccer Shots? Fix These Shooting Mistakes"
-    },
-    {
-     "id": "c-D6YuIpLlY",
-     "title": "I’m NOT a Pro Soccer Player… So Why Should You Listen to Me?"
-    },
-    {
-     "id": "wt6QUF624XY",
-     "title": "Play Soccer Faster Without Running Faster (Improve Your Speed of Play)"
-    },
-    {
-     "id": "5oJuPmjWKsI",
-     "title": "How to Strike a Soccer Ball Harder (Get More Power With Less Effort)"
-    },
-    {
-     "id": "Grc90D6Onz0",
-     "title": "Soccer Shooting Mistakes You NEED to Stop Making (Easy Fixes)"
-    },
-    {
-     "id": "RaSB6TJOmK4",
-     "title": "Do This Every Day to Become a Better Soccer Player (Easy Morning Routine)"
-    },
-    {
-     "id": "AzxJrPDCoHA",
-     "title": "Stop Learning Useless Soccer Tricks (Use These Skills in Real Games)"
+     "id": "kjV7CxqY9jU",
+     "title": "How To Draw A Cool Fossil"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
@@ -1047,6 +997,68 @@
     {
      "id": "meEyi6g4fDg",
      "title": "Rodeo Bros - How To Make Money At The Rodeo"
+    }
+   ],
+   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
+    {
+     "id": "mplhg3tYKwg",
+     "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
+    },
+    {
+     "id": "XoDxtMWNAAg",
+     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
+    },
+    {
+     "id": "lpNtEz9yOmU",
+     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
+    },
+    {
+     "id": "ZVO8K102WQU",
+     "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
+    },
+    {
+     "id": "FU-ONL0tVyw",
+     "title": "Stop Wasting Time on Useless Soccer Skills (Learn These Moves Instead)"
+    },
+    {
+     "id": "eX8fcZa-x4c",
+     "title": "How to Shoot a Soccer Ball Harder (Get More Power With Less Effort)"
+    },
+    {
+     "id": "u6PzfPq3cT4",
+     "title": "Stop Using Useless Soccer Tricks! Learn These 9 Skills Instead"
+    },
+    {
+     "id": "0XyLOEtXNaY",
+     "title": "Stop Making Bad Passes in Soccer (Easy Drills for Young Players)"
+    },
+    {
+     "id": "pwl-aXDtJs0",
+     "title": "Kids Keep Missing Soccer Shots? Fix These Shooting Mistakes"
+    },
+    {
+     "id": "c-D6YuIpLlY",
+     "title": "I’m NOT a Pro Soccer Player… So Why Should You Listen to Me?"
+    },
+    {
+     "id": "wt6QUF624XY",
+     "title": "Play Soccer Faster Without Running Faster (Improve Your Speed of Play)"
+    },
+    {
+     "id": "5oJuPmjWKsI",
+     "title": "How to Strike a Soccer Ball Harder (Get More Power With Less Effort)"
+    },
+    {
+     "id": "Grc90D6Onz0",
+     "title": "Soccer Shooting Mistakes You NEED to Stop Making (Easy Fixes)"
+    },
+    {
+     "id": "RaSB6TJOmK4",
+     "title": "Do This Every Day to Become a Better Soccer Player (Easy Morning Routine)"
+    },
+    {
+     "id": "AzxJrPDCoHA",
+     "title": "Stop Learning Useless Soccer Tricks (Use These Skills in Real Games)"
     }
    ],
    "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
