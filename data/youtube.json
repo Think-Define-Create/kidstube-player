@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-29T07:25:11.450Z",
- "commit": "0849389",
+ "publishedAt": "2026-10-29T11:26:04.631Z",
+ "commit": "18a0038",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -251,7 +251,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-29T07:25:10.415Z",
+  "builtAt": "2026-10-29T11:26:03.619Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -351,68 +351,6 @@
      "title": "The Anti Trampoline Effect"
     }
    ],
-   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
-    {
-     "id": "3WWm929hbTw",
-     "title": "Crash Course Kids Literature • Full Series"
-    },
-    {
-     "id": "PkWU-lMdnJg",
-     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
-    },
-    {
-     "id": "klu7TNy-7qw",
-     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
-    },
-    {
-     "id": "ML2oX207Mwc",
-     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
-    },
-    {
-     "id": "QVw521JjRjA",
-     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
-    },
-    {
-     "id": "WrUX6j9MwUY",
-     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
-    },
-    {
-     "id": "XjR2B3YJH9U",
-     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
-    },
-    {
-     "id": "ui86G8Q5GhQ",
-     "title": "Crash Course Kids Literature Preview"
-    },
-    {
-     "id": "JcxTM7knO80",
-     "title": "Welcome to Crash Course Kids!"
-    },
-    {
-     "id": "EwY6p-r_hyU",
-     "title": "Gravity Compilation: Crash Course Kids"
-    },
-    {
-     "id": "wyRy8kowyM8",
-     "title": "Matter Compilation: Crash Course Kids"
-    },
-    {
-     "id": "CZhE2p46vJk",
-     "title": "Food Chains Compilation: Crash Course Kids"
-    },
-    {
-     "id": "Td_A9H69eE8",
-     "title": "Space Compilation: Crash Course Kids"
-    },
-    {
-     "id": "qDcMq1SjR_I",
-     "title": "Engineering Compilation: Crash Course Kids"
-    },
-    {
-     "id": "s__sgOHWNIA",
-     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
-    }
-   ],
    "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
     {
      "id": "5_Fayfx2NUM",
@@ -497,6 +435,102 @@
      "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
+   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
+    {
+     "id": "3WWm929hbTw",
+     "title": "Crash Course Kids Literature • Full Series"
+    },
+    {
+     "id": "PkWU-lMdnJg",
+     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
+    },
+    {
+     "id": "klu7TNy-7qw",
+     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
+    },
+    {
+     "id": "ML2oX207Mwc",
+     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
+    },
+    {
+     "id": "QVw521JjRjA",
+     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
+    },
+    {
+     "id": "WrUX6j9MwUY",
+     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
+    },
+    {
+     "id": "XjR2B3YJH9U",
+     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
+    },
+    {
+     "id": "ui86G8Q5GhQ",
+     "title": "Crash Course Kids Literature Preview"
+    },
+    {
+     "id": "JcxTM7knO80",
+     "title": "Welcome to Crash Course Kids!"
+    },
+    {
+     "id": "EwY6p-r_hyU",
+     "title": "Gravity Compilation: Crash Course Kids"
+    },
+    {
+     "id": "wyRy8kowyM8",
+     "title": "Matter Compilation: Crash Course Kids"
+    },
+    {
+     "id": "CZhE2p46vJk",
+     "title": "Food Chains Compilation: Crash Course Kids"
+    },
+    {
+     "id": "Td_A9H69eE8",
+     "title": "Space Compilation: Crash Course Kids"
+    },
+    {
+     "id": "qDcMq1SjR_I",
+     "title": "Engineering Compilation: Crash Course Kids"
+    },
+    {
+     "id": "s__sgOHWNIA",
+     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
+    }
+   ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "l5OiIZeOtqs",
+     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "iZooMGvvZdo",
+     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
+    },
+    {
+     "id": "DLRdkTUJ-kY",
+     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "Xakbw3sQcd0",
+     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "EXYhTpsYHN8",
+     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
+    },
+    {
+     "id": "Gvmyc2yW_NM",
+     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "9q3uiSeT80M",
+     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
+    },
+    {
+     "id": "aASWMaa5ZU8",
+     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
+    }
+   ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
     {
      "id": "WhkLkNLRZy4",
@@ -539,38 +573,128 @@
      "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
     }
    ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
     {
-     "id": "l5OiIZeOtqs",
-     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
+     "id": "SS6wLHDjoHo",
+     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "iZooMGvvZdo",
-     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
+     "id": "7lKqVUK8cBE",
+     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "DLRdkTUJ-kY",
-     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
+     "id": "uMTvJzgZdok",
+     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
     },
     {
-     "id": "Xakbw3sQcd0",
-     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
+     "id": "78pqWbdd94U",
+     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "EXYhTpsYHN8",
-     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
+     "id": "7OueRkAObfc",
+     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "Gvmyc2yW_NM",
-     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
+     "id": "8s2uNx9jwB4",
+     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "9q3uiSeT80M",
-     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
+     "id": "MZ2POHBVzag",
+     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
     },
     {
-     "id": "aASWMaa5ZU8",
-     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
+     "id": "PxvciYYyziw",
+     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "WdAZB9DkIug",
+     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "_kpAhvBEB_A",
+     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "bkr7TmwEHsA",
+     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ctb9WgXuhP4",
+     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ffH1XDp8ixc",
+     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "nHlg7luxppE",
+     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "IFk-Pdil4MU",
+     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
+    }
+   ],
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+    {
+     "id": "nXvKDYRvTno",
+     "title": "Scary stories to watch in the dark (if you dare…)"
+    },
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
+    },
+    {
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
+    },
+    {
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
+    },
+    {
+     "id": "N2uQWfV6Jr4",
+     "title": "4 ways to fix your attention span - Shannon Odell"
+    },
+    {
+     "id": "bHB5iiDDJ-s",
+     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
+    },
+    {
+     "id": "EMbZ72cCAzI",
+     "title": "How to explain something complicated"
+    },
+    {
+     "id": "I8XaYkRW1tA",
+     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
+    },
+    {
+     "id": "_gP3aXvNmv8",
+     "title": "Ever walk into a room and forget what you were doing? - Gabriel Radvansky"
     }
    ],
    "channel:UCoxcjq-8xIDTYp3uz647V5A": [
@@ -653,66 +777,10 @@
      "title": "How To Draw A Halloween Claw Machine"
     }
    ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
     {
-     "id": "nXvKDYRvTno",
-     "title": "Scary stories to watch in the dark (if you dare…)"
-    },
-    {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
-    },
-    {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
-    },
-    {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
-    },
-    {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
-    },
-    {
-     "id": "N2uQWfV6Jr4",
-     "title": "4 ways to fix your attention span - Shannon Odell"
-    },
-    {
-     "id": "bHB5iiDDJ-s",
-     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
-    },
-    {
-     "id": "EMbZ72cCAzI",
-     "title": "How to explain something complicated"
-    },
-    {
-     "id": "I8XaYkRW1tA",
-     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
-    },
-    {
-     "id": "_gP3aXvNmv8",
-     "title": "Ever walk into a room and forget what you were doing? - Gabriel Radvansky"
+     "id": "cr2TDSSSzPk",
+     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
     }
    ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
@@ -727,74 +795,6 @@
     {
      "id": "XoDxtMWNAAg",
      "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
-    }
-   ],
-   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
-    {
-     "id": "SS6wLHDjoHo",
-     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "7lKqVUK8cBE",
-     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "uMTvJzgZdok",
-     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
-    },
-    {
-     "id": "78pqWbdd94U",
-     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "7OueRkAObfc",
-     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "8s2uNx9jwB4",
-     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "MZ2POHBVzag",
-     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "PxvciYYyziw",
-     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "WdAZB9DkIug",
-     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "_kpAhvBEB_A",
-     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "bkr7TmwEHsA",
-     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "ctb9WgXuhP4",
-     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "ffH1XDp8ixc",
-     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "nHlg7luxppE",
-     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "IFk-Pdil4MU",
-     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
-    }
-   ],
-   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
-    {
-     "id": "cr2TDSSSzPk",
-     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
