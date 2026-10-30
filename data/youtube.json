@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-30T03:27:51.865Z",
- "commit": "46eaf51",
+ "publishedAt": "2026-10-30T07:25:45.975Z",
+ "commit": "7d982da",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,8 +263,44 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-30T03:27:13.821Z",
+  "builtAt": "2026-10-30T07:25:45.005Z",
   "sources": {
+   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+    {
+     "id": "6gsZY_-kT3U",
+     "title": "This Device Turns Anything into a Suction Cup"
+    },
+    {
+     "id": "k3Q9UWWiPsQ",
+     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+    },
+    {
+     "id": "NvkZaWLe0Sk",
+     "title": "This Device Goes Past Equilibrium"
+    },
+    {
+     "id": "ti2qiU_JTUQ",
+     "title": "The Euler Disc Is The Wrong Shape"
+    },
+    {
+     "id": "1EyN9_QO4_A",
+     "title": "The Arm Spin That Stops a Fall"
+    },
+    {
+     "id": "EP1mYq8hLIY",
+     "title": "The Anti Trampoline Effect"
+    }
+   ],
+   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
+    {
+     "id": "26P1KyvrmjI",
+     "title": "I Solved Every Board Game"
+    },
+    {
+     "id": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000"
+    }
+   ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
     {
      "id": "pXypQ6d_iDg",
@@ -327,68 +363,6 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
-    {
-     "id": "26P1KyvrmjI",
-     "title": "I Solved Every Board Game"
-    },
-    {
-     "id": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000"
-    }
-   ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "5_Fayfx2NUM",
-     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
-    },
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
-   "channel:UCEIwxahdLz7bap-VDs9h35A": [
-    {
-     "id": "6gsZY_-kT3U",
-     "title": "This Device Turns Anything into a Suction Cup"
-    },
-    {
-     "id": "k3Q9UWWiPsQ",
-     "title": "The \"Perpetual Motion\" Pump That Actually Works"
-    },
-    {
-     "id": "NvkZaWLe0Sk",
-     "title": "This Device Goes Past Equilibrium"
-    },
-    {
-     "id": "ti2qiU_JTUQ",
-     "title": "The Euler Disc Is The Wrong Shape"
-    },
-    {
-     "id": "1EyN9_QO4_A",
-     "title": "The Arm Spin That Stops a Fall"
-    },
-    {
-     "id": "EP1mYq8hLIY",
-     "title": "The Anti Trampoline Effect"
-    }
-   ],
    "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
     {
      "id": "4VinwOQkHGg",
@@ -445,10 +419,74 @@
     {
      "id": "6WNHyAXIN8c",
      "title": "How Ears Let Us Hear the World! | SciShow Kids"
+    }
+   ],
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+    {
+     "id": "5_Fayfx2NUM",
+     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
     },
     {
-     "id": "r2xP7heE0wk",
-     "title": "How Eyes Let Us See The World | SciShow Kids"
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
+    },
+    {
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
+    },
+    {
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
+    },
+    {
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
+    },
+    {
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
+    }
+   ],
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+    {
+     "id": "WhkLkNLRZy4",
+     "title": "BITTEN by a Vampire Bat!"
+    },
+    {
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+    },
+    {
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+    },
+    {
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
+    },
+    {
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
+    },
+    {
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+    },
+    {
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
+    },
+    {
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
+    },
+    {
+     "id": "qlQESwyZGTk",
+     "title": "Would You Enter a Venomous Snake-Infested Forest?"
+    },
+    {
+     "id": "AtXdKfwJeQ0",
+     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
     }
    ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
@@ -575,46 +613,38 @@
      "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
     }
    ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
     {
-     "id": "EgnAN0ZUl08",
-     "title": "Squaring the Triangle - Numberphile"
+     "id": "IQB-_QkWhng",
+     "title": "How to Draw a Cute Witch and Her Cauldron"
     },
     {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
+     "id": "QDU7Qr8-JUc",
+     "title": "How To Draw A Black Cat Folding Surprise"
     },
     {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+     "id": "cQvh1XLB2Ws",
+     "title": "How To Draw A Cute Ghost Holding Balloons"
     },
     {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+     "id": "EcVNQhah89Q",
+     "title": "How To Draw A Scarecrow Folding Surprise"
     },
     {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
+     "id": "bPzs8S3UB9Q",
+     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
     },
     {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+     "id": "yjuQptALLzM",
+     "title": "Our NEW Drawing App for Kids! 🎨"
     },
     {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+     "id": "zvAW8WE0VD4",
+     "title": "How To Draw A Frankenstein Milkshake"
     },
     {
-     "id": "3geDF-DAwpg",
-     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
-    },
-    {
-     "id": "oax6t6Of2WY",
-     "title": "The Biggest Gaps Between Primes - Numberphile"
-    },
-    {
-     "id": "A020pGO5MBs",
-     "title": "The Immortal Kangaroo Sequence - Numberphile"
+     "id": "l4JNjGkQnuM",
+     "title": "How To Draw A Vampire Pizza"
     }
    ],
    "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
@@ -649,96 +679,6 @@
     {
      "id": "9q3uiSeT80M",
      "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
-    },
-    {
-     "id": "aASWMaa5ZU8",
-     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "t8cKaMY_sCE",
-     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
-    },
-    {
-     "id": "adABRbEs4G4",
-     "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "I3abQzLOv2A",
-     "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "AOSjUmwVFt4",
-     "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids"
-    },
-    {
-     "id": "CGEtugYEJok",
-     "title": "Pigs vs. Cows vs. Goats: Barnyard Showdown! | Whoa Factor | Nat Geo Kids"
-    },
-    {
-     "id": "Uk7NdsKaREM",
-     "title": "Kids React to Black Rain Frogs | Africa Earth's Wild Home | Nat Geo Kids"
-    }
-   ],
-   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
-    {
-     "id": "WhkLkNLRZy4",
-     "title": "BITTEN by a Vampire Bat!"
-    },
-    {
-     "id": "k4gbweQTL50",
-     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
-    },
-    {
-     "id": "oEIp2piNUso",
-     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
-    },
-    {
-     "id": "TMtQfzcKFCI",
-     "title": "Most Remote Fly Fishing in the USA!"
-    },
-    {
-     "id": "nuEQmSs1H38",
-     "title": "Why This Giant Killer Snake is Destroying Florida"
-    },
-    {
-     "id": "mdR_f4p1b6A",
-     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
-    },
-    {
-     "id": "mPOf2fpy7B4",
-     "title": "Deep Sea Worm Attacks Everything!"
-    },
-    {
-     "id": "xSxhX1g3Zss",
-     "title": "Bitten by an Angry Gecko!"
-    },
-    {
-     "id": "qlQESwyZGTk",
-     "title": "Would You Enter a Venomous Snake-Infested Forest?"
-    },
-    {
-     "id": "AtXdKfwJeQ0",
-     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
-    },
-    {
-     "id": "gUKCSkegtKY",
-     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
-    },
-    {
-     "id": "Bg_mcjX_iDM",
-     "title": "Catching Weirdest Bugs on Earth!"
-    },
-    {
-     "id": "5qt0TxOmR3Y",
-     "title": "Should Science Bring Back These 5 Extinct Animals?"
-    },
-    {
-     "id": "NbPN331vzis",
-     "title": "Genetic Breakthrough! My Private Tour of a Top-Secret BioLab"
-    },
-    {
-     "id": "0d8uGJ9uLNY",
-     "title": "500-Pound DINO BIRD Brought Back from the Dead!"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -803,66 +743,52 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
     {
-     "id": "IQB-_QkWhng",
-     "title": "How to Draw a Cute Witch and Her Cauldron"
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
     },
     {
-     "id": "QDU7Qr8-JUc",
-     "title": "How To Draw A Black Cat Folding Surprise"
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
     },
     {
-     "id": "cQvh1XLB2Ws",
-     "title": "How To Draw A Cute Ghost Holding Balloons"
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
     },
     {
-     "id": "EcVNQhah89Q",
-     "title": "How To Draw A Scarecrow Folding Surprise"
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
     },
     {
-     "id": "bPzs8S3UB9Q",
-     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
     },
     {
-     "id": "yjuQptALLzM",
-     "title": "Our NEW Drawing App for Kids! 🎨"
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
     },
     {
-     "id": "zvAW8WE0VD4",
-     "title": "How To Draw A Frankenstein Milkshake"
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
     },
     {
-     "id": "l4JNjGkQnuM",
-     "title": "How To Draw A Vampire Pizza"
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
     },
     {
-     "id": "j8kA0Lav4io",
-     "title": "How To Draw A Halloween Claw Machine"
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
     },
     {
-     "id": "2trpMnBYbHo",
-     "title": "How To Draw A Caramel Apple Monster"
-    },
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    }
+   ],
+   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
     {
-     "id": "ga8wyomPt68",
-     "title": "How To Draw Frankenstein Big Mouth"
-    },
-    {
-     "id": "TxQ8haK5u6Q",
-     "title": "How To Draw A Halloween Pumpkin House"
-    },
-    {
-     "id": "dgMuNfIZ0Kw",
-     "title": "1 Hour of Halloween Drawing Fun! 🎃 Easy Art Lessons for Kids"
-    },
-    {
-     "id": "k6RHLmAL-NU",
-     "title": "How To Draw A Haunted School Bus"
-    },
-    {
-     "id": "7tylcOBB2Ts",
-     "title": "How To Draw A Skateboarding Skeleton"
+     "id": "cr2TDSSSzPk",
+     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
     }
    ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
@@ -877,54 +803,6 @@
     {
      "id": "mplhg3tYKwg",
      "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
-    },
-    {
-     "id": "XoDxtMWNAAg",
-     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
-    },
-    {
-     "id": "lpNtEz9yOmU",
-     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
-    },
-    {
-     "id": "ZVO8K102WQU",
-     "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
-    },
-    {
-     "id": "FU-ONL0tVyw",
-     "title": "Stop Wasting Time on Useless Soccer Skills (Learn These Moves Instead)"
-    },
-    {
-     "id": "eX8fcZa-x4c",
-     "title": "How to Shoot a Soccer Ball Harder (Get More Power With Less Effort)"
-    },
-    {
-     "id": "u6PzfPq3cT4",
-     "title": "Stop Using Useless Soccer Tricks! Learn These 9 Skills Instead"
-    },
-    {
-     "id": "0XyLOEtXNaY",
-     "title": "Stop Making Bad Passes in Soccer (Easy Drills for Young Players)"
-    },
-    {
-     "id": "pwl-aXDtJs0",
-     "title": "Kids Keep Missing Soccer Shots? Fix These Shooting Mistakes"
-    },
-    {
-     "id": "c-D6YuIpLlY",
-     "title": "I’m NOT a Pro Soccer Player… So Why Should You Listen to Me?"
-    },
-    {
-     "id": "wt6QUF624XY",
-     "title": "Play Soccer Faster Without Running Faster (Improve Your Speed of Play)"
-    },
-    {
-     "id": "5oJuPmjWKsI",
-     "title": "How to Strike a Soccer Ball Harder (Get More Power With Less Effort)"
-    },
-    {
-     "id": "Grc90D6Onz0",
-     "title": "Soccer Shooting Mistakes You NEED to Stop Making (Easy Fixes)"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
@@ -983,72 +861,6 @@
     {
      "id": "El7YKGhryOw",
      "title": "Young Entrepreneur - Seymour The Savvy Saver"
-    },
-    {
-     "id": "Jc1NwLnJMQM",
-     "title": "Movin' On Out | Biz Kid$ Episode 503"
-    }
-   ],
-   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
-    {
-     "id": "cr2TDSSSzPk",
-     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
-    },
-    {
-     "id": "YZl6HArvSRs",
-     "title": "Feelings Thermometer For Kids | Identify And Manage Big Emotions"
-    },
-    {
-     "id": "cfwPN5OrauQ",
-     "title": "Perfectionism for Kids | 5 Skills to Handle Mistakes and Let Go of Perfect"
-    },
-    {
-     "id": "TUkKPLvrh10",
-     "title": "Boredom for Kids | \"I'M BORED!\" | What to Do When You Feel Bored"
-    },
-    {
-     "id": "oMOX2wex1I4",
-     "title": "Optimism and Positive Thinking for Kids | How to Build a Hopeful Mindset"
-    },
-    {
-     "id": "4f9EqokN4M0",
-     "title": "Mindfulness for Kids | More Than Just Meditation | 5 Easy Ways to Practice Every Day"
-    },
-    {
-     "id": "Y_7ip4c6eIg",
-     "title": "Overthinking for Kids | 7 Ways To Manage Worries"
-    },
-    {
-     "id": "138er8o7lmE",
-     "title": "Perseverance for Kids – Skills To Develop Grit and Persistence"
-    },
-    {
-     "id": "ce_h87keUz4",
-     "title": "Kindness For Kids | How To Show Kindness Video | How To Be Kind | Elementary-Middle School Students"
-    },
-    {
-     "id": "Q5hR34g3kLc",
-     "title": "SMART Goals for Kids and Teens | Goal Setting for Students"
-    },
-    {
-     "id": "dhUY0WK1nFU",
-     "title": "Yoga for Childrens Mental Health | Easy Poses for Calm & Focus-Yoga Brain Breaks for Anxiety, Stress"
-    },
-    {
-     "id": "WBtprj6N_mg",
-     "title": "Flexible Thinking For Kids | Cognitive Flexibility For Middle School-Elementary Students"
-    },
-    {
-     "id": "sBolsBnFsnc",
-     "title": "Empathy For Kids | How To Practice and Improve Empathy | Elementary-Middle School Students"
-    },
-    {
-     "id": "0AFRnZEkqq4",
-     "title": "Self Control for Kids - Impulse Control Skills | Elementary and Middle School Students"
-    },
-    {
-     "id": "BmX6GXDvlLM",
-     "title": "Social Anxiety for Kids and Teens | Tips and Coping Skills | Courage Ladder"
     }
    ]
   },
