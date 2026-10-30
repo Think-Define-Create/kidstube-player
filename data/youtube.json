@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-30T11:25:06.826Z",
- "commit": "07d8a83",
+ "publishedAt": "2026-10-30T15:23:47.640Z",
+ "commit": "1ee8b70",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,18 +263,8 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-30T11:25:05.641Z",
+  "builtAt": "2026-10-30T15:23:42.406Z",
   "sources": {
-   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
-    {
-     "id": "26P1KyvrmjI",
-     "title": "I Solved Every Board Game"
-    },
-    {
-     "id": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000"
-    }
-   ],
    "channel:UCEIwxahdLz7bap-VDs9h35A": [
     {
      "id": "6gsZY_-kT3U",
@@ -301,66 +291,72 @@
      "title": "The Anti Trampoline Effect"
     }
    ],
-   "channel:UC6107grRI4m0o2-emgoDnAA": [
+   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
-     "id": "pXypQ6d_iDg",
-     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
+     "id": "26P1KyvrmjI",
+     "title": "I Solved Every Board Game"
     },
     {
-     "id": "vS6HEes8daw",
-     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
+     "id": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
     },
     {
-     "id": "5lCWqEFVzbY",
-     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
     },
     {
-     "id": "WtQ64nSbdY4",
-     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
     },
     {
-     "id": "-0JKHuzJ67A",
-     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
     },
     {
-     "id": "XwBZx1cXEdM",
-     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
     },
     {
-     "id": "v0afQ6w3Bjw",
-     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
     },
     {
-     "id": "dt_CG_xRnrY",
-     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
     },
     {
-     "id": "cRaKMTK7ea0",
-     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
     },
     {
-     "id": "3ZTGwcHQfLY",
-     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
     },
     {
-     "id": "8nilP--GFLY",
-     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
     },
     {
-     "id": "JVROsxtjoCw",
-     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
     },
     {
-     "id": "lylCYkgC63Q",
-     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
     },
     {
-     "id": "jDusS--bZZA",
-     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
     },
     {
-     "id": "JJofuF2zcTE",
-     "title": "I Called the Space Station - Smarter Every Day 303"
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
@@ -425,91 +421,11 @@
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
-    {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
-    },
-    {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
-    },
-    {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
-    },
-    {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
-    },
-    {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
-    },
-    {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
-    }
-   ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "5_Fayfx2NUM",
-     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
-    },
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
    "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "svaGnbGxrs4",
+     "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids"
+    },
     {
      "id": "OFLJN2J0-l8",
      "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids"
@@ -537,10 +453,6 @@
     {
      "id": "Gvmyc2yW_NM",
      "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
-    },
-    {
-     "id": "9q3uiSeT80M",
-     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
     }
    ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
@@ -583,110 +495,6 @@
     {
      "id": "AtXdKfwJeQ0",
      "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
-    }
-   ],
-   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
-    {
-     "id": "SS6wLHDjoHo",
-     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "7lKqVUK8cBE",
-     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "uMTvJzgZdok",
-     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
-    },
-    {
-     "id": "78pqWbdd94U",
-     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "7OueRkAObfc",
-     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "8s2uNx9jwB4",
-     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "MZ2POHBVzag",
-     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "PxvciYYyziw",
-     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "WdAZB9DkIug",
-     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "_kpAhvBEB_A",
-     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "bkr7TmwEHsA",
-     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "ctb9WgXuhP4",
-     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "ffH1XDp8ixc",
-     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "nHlg7luxppE",
-     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
-    },
-    {
-     "id": "IFk-Pdil4MU",
-     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
-    }
-   ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
-    {
-     "id": "EgnAN0ZUl08",
-     "title": "Squaring the Triangle - Numberphile"
-    },
-    {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
-    },
-    {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
-    },
-    {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
-    },
-    {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
-    },
-    {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
-    },
-    {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
-    },
-    {
-     "id": "3geDF-DAwpg",
-     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
-    },
-    {
-     "id": "oax6t6Of2WY",
-     "title": "The Biggest Gaps Between Primes - Numberphile"
-    },
-    {
-     "id": "A020pGO5MBs",
-     "title": "The Immortal Kangaroo Sequence - Numberphile"
     }
    ],
    "channel:UCsooa4yRKGN_zEE8iknghZA": [
@@ -751,18 +559,72 @@
      "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
     }
    ],
-   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
     {
-     "id": "33D9m0CpTCc",
-     "title": "Keep Losing the Ball in Soccer? Fix These 5 Common Mistakes"
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
     },
     {
-     "id": "MvfzpZteFEY",
-     "title": "7 Soccer Skills Defenders Should Practice (Easy to Learn)"
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
     },
     {
-     "id": "mplhg3tYKwg",
-     "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    },
+    {
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+    },
+    {
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
+    },
+    {
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    }
+   ],
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+    {
+     "id": "5_Fayfx2NUM",
+     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
+    },
+    {
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
+    },
+    {
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
+    },
+    {
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
+    },
+    {
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
+    },
+    {
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
     }
    ],
    "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
@@ -799,10 +661,86 @@
      "title": "How To Draw A Vampire Pizza"
     }
    ],
+   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
+    {
+     "id": "33D9m0CpTCc",
+     "title": "Keep Losing the Ball in Soccer? Fix These 5 Common Mistakes"
+    },
+    {
+     "id": "MvfzpZteFEY",
+     "title": "7 Soccer Skills Defenders Should Practice (Easy to Learn)"
+    },
+    {
+     "id": "mplhg3tYKwg",
+     "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
+    }
+   ],
    "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
     {
      "id": "cr2TDSSSzPk",
      "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
+    }
+   ],
+   "channel:UC6107grRI4m0o2-emgoDnAA": [
+    {
+     "id": "pXypQ6d_iDg",
+     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
+    },
+    {
+     "id": "vS6HEes8daw",
+     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
+    },
+    {
+     "id": "5lCWqEFVzbY",
+     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
+    },
+    {
+     "id": "WtQ64nSbdY4",
+     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
+    },
+    {
+     "id": "-0JKHuzJ67A",
+     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
+    },
+    {
+     "id": "XwBZx1cXEdM",
+     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
+    },
+    {
+     "id": "v0afQ6w3Bjw",
+     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
+    },
+    {
+     "id": "dt_CG_xRnrY",
+     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
+    },
+    {
+     "id": "cRaKMTK7ea0",
+     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
+    },
+    {
+     "id": "3ZTGwcHQfLY",
+     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
+    },
+    {
+     "id": "8nilP--GFLY",
+     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
+    },
+    {
+     "id": "JVROsxtjoCw",
+     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
+    },
+    {
+     "id": "lylCYkgC63Q",
+     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
+    },
+    {
+     "id": "jDusS--bZZA",
+     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
+    },
+    {
+     "id": "JJofuF2zcTE",
+     "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
@@ -861,6 +799,68 @@
     {
      "id": "El7YKGhryOw",
      "title": "Young Entrepreneur - Seymour The Savvy Saver"
+    }
+   ],
+   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
+    {
+     "id": "SS6wLHDjoHo",
+     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "7lKqVUK8cBE",
+     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "uMTvJzgZdok",
+     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
+    },
+    {
+     "id": "78pqWbdd94U",
+     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "7OueRkAObfc",
+     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "8s2uNx9jwB4",
+     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "MZ2POHBVzag",
+     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "PxvciYYyziw",
+     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "WdAZB9DkIug",
+     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "_kpAhvBEB_A",
+     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "bkr7TmwEHsA",
+     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ctb9WgXuhP4",
+     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ffH1XDp8ixc",
+     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "nHlg7luxppE",
+     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "IFk-Pdil4MU",
+     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ]
   },
