@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-10-30T07:25:45.975Z",
- "commit": "7d982da",
+ "publishedAt": "2026-10-30T11:25:06.826Z",
+ "commit": "07d8a83",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,8 +263,18 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-10-30T07:25:45.005Z",
+  "builtAt": "2026-10-30T11:25:05.641Z",
   "sources": {
+   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
+    {
+     "id": "26P1KyvrmjI",
+     "title": "I Solved Every Board Game"
+    },
+    {
+     "id": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000"
+    }
+   ],
    "channel:UCEIwxahdLz7bap-VDs9h35A": [
     {
      "id": "6gsZY_-kT3U",
@@ -289,16 +299,6 @@
     {
      "id": "EP1mYq8hLIY",
      "title": "The Anti Trampoline Effect"
-    }
-   ],
-   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
-    {
-     "id": "26P1KyvrmjI",
-     "title": "I Solved Every Board Game"
-    },
-    {
-     "id": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -361,6 +361,68 @@
     {
      "id": "JJofuF2zcTE",
      "title": "I Called the Space Station - Smarter Every Day 303"
+    }
+   ],
+   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
+    {
+     "id": "3WWm929hbTw",
+     "title": "Crash Course Kids Literature • Full Series"
+    },
+    {
+     "id": "PkWU-lMdnJg",
+     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
+    },
+    {
+     "id": "klu7TNy-7qw",
+     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
+    },
+    {
+     "id": "ML2oX207Mwc",
+     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
+    },
+    {
+     "id": "QVw521JjRjA",
+     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
+    },
+    {
+     "id": "WrUX6j9MwUY",
+     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
+    },
+    {
+     "id": "XjR2B3YJH9U",
+     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
+    },
+    {
+     "id": "ui86G8Q5GhQ",
+     "title": "Crash Course Kids Literature Preview"
+    },
+    {
+     "id": "JcxTM7knO80",
+     "title": "Welcome to Crash Course Kids!"
+    },
+    {
+     "id": "EwY6p-r_hyU",
+     "title": "Gravity Compilation: Crash Course Kids"
+    },
+    {
+     "id": "wyRy8kowyM8",
+     "title": "Matter Compilation: Crash Course Kids"
+    },
+    {
+     "id": "CZhE2p46vJk",
+     "title": "Food Chains Compilation: Crash Course Kids"
+    },
+    {
+     "id": "Td_A9H69eE8",
+     "title": "Space Compilation: Crash Course Kids"
+    },
+    {
+     "id": "qDcMq1SjR_I",
+     "title": "Engineering Compilation: Crash Course Kids"
+    },
+    {
+     "id": "s__sgOHWNIA",
+     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
    "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
@@ -447,6 +509,40 @@
      "title": "This Woman Cured Her Cancer with an Insane Method"
     }
    ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "OFLJN2J0-l8",
+     "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids"
+    },
+    {
+     "id": "l5OiIZeOtqs",
+     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "iZooMGvvZdo",
+     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
+    },
+    {
+     "id": "DLRdkTUJ-kY",
+     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "Xakbw3sQcd0",
+     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "EXYhTpsYHN8",
+     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
+    },
+    {
+     "id": "Gvmyc2yW_NM",
+     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "9q3uiSeT80M",
+     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
+    }
+   ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
     {
      "id": "WhkLkNLRZy4",
@@ -487,198 +583,6 @@
     {
      "id": "AtXdKfwJeQ0",
      "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
-    }
-   ],
-   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
-    {
-     "id": "3WWm929hbTw",
-     "title": "Crash Course Kids Literature • Full Series"
-    },
-    {
-     "id": "PkWU-lMdnJg",
-     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
-    },
-    {
-     "id": "klu7TNy-7qw",
-     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
-    },
-    {
-     "id": "ML2oX207Mwc",
-     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
-    },
-    {
-     "id": "QVw521JjRjA",
-     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
-    },
-    {
-     "id": "WrUX6j9MwUY",
-     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
-    },
-    {
-     "id": "XjR2B3YJH9U",
-     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
-    },
-    {
-     "id": "ui86G8Q5GhQ",
-     "title": "Crash Course Kids Literature Preview"
-    },
-    {
-     "id": "JcxTM7knO80",
-     "title": "Welcome to Crash Course Kids!"
-    },
-    {
-     "id": "EwY6p-r_hyU",
-     "title": "Gravity Compilation: Crash Course Kids"
-    },
-    {
-     "id": "wyRy8kowyM8",
-     "title": "Matter Compilation: Crash Course Kids"
-    },
-    {
-     "id": "CZhE2p46vJk",
-     "title": "Food Chains Compilation: Crash Course Kids"
-    },
-    {
-     "id": "Td_A9H69eE8",
-     "title": "Space Compilation: Crash Course Kids"
-    },
-    {
-     "id": "qDcMq1SjR_I",
-     "title": "Engineering Compilation: Crash Course Kids"
-    },
-    {
-     "id": "s__sgOHWNIA",
-     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
-    }
-   ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
-    {
-     "id": "8RPK5KwYhgA",
-     "title": "What if you didn’t brush your teeth for a year? - Justin Meritt"
-    },
-    {
-     "id": "nXvKDYRvTno",
-     "title": "Scary stories to watch in the dark (if you dare…)"
-    },
-    {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
-    },
-    {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
-    },
-    {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
-    },
-    {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
-    },
-    {
-     "id": "N2uQWfV6Jr4",
-     "title": "4 ways to fix your attention span - Shannon Odell"
-    },
-    {
-     "id": "bHB5iiDDJ-s",
-     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
-    },
-    {
-     "id": "EMbZ72cCAzI",
-     "title": "How to explain something complicated"
-    },
-    {
-     "id": "I8XaYkRW1tA",
-     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
-    }
-   ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
-    {
-     "id": "IQB-_QkWhng",
-     "title": "How to Draw a Cute Witch and Her Cauldron"
-    },
-    {
-     "id": "QDU7Qr8-JUc",
-     "title": "How To Draw A Black Cat Folding Surprise"
-    },
-    {
-     "id": "cQvh1XLB2Ws",
-     "title": "How To Draw A Cute Ghost Holding Balloons"
-    },
-    {
-     "id": "EcVNQhah89Q",
-     "title": "How To Draw A Scarecrow Folding Surprise"
-    },
-    {
-     "id": "bPzs8S3UB9Q",
-     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
-    },
-    {
-     "id": "yjuQptALLzM",
-     "title": "Our NEW Drawing App for Kids! 🎨"
-    },
-    {
-     "id": "zvAW8WE0VD4",
-     "title": "How To Draw A Frankenstein Milkshake"
-    },
-    {
-     "id": "l4JNjGkQnuM",
-     "title": "How To Draw A Vampire Pizza"
-    }
-   ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "OFLJN2J0-l8",
-     "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids"
-    },
-    {
-     "id": "l5OiIZeOtqs",
-     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "iZooMGvvZdo",
-     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
-    },
-    {
-     "id": "DLRdkTUJ-kY",
-     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "Xakbw3sQcd0",
-     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "EXYhTpsYHN8",
-     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
-    },
-    {
-     "id": "Gvmyc2yW_NM",
-     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
-    },
-    {
-     "id": "9q3uiSeT80M",
-     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -785,10 +689,66 @@
      "title": "The Immortal Kangaroo Sequence - Numberphile"
     }
    ],
-   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
     {
-     "id": "cr2TDSSSzPk",
-     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
+     "id": "8RPK5KwYhgA",
+     "title": "What if you didn’t brush your teeth for a year? - Justin Meritt"
+    },
+    {
+     "id": "nXvKDYRvTno",
+     "title": "Scary stories to watch in the dark (if you dare…)"
+    },
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
+    },
+    {
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
+    },
+    {
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
+    },
+    {
+     "id": "N2uQWfV6Jr4",
+     "title": "4 ways to fix your attention span - Shannon Odell"
+    },
+    {
+     "id": "bHB5iiDDJ-s",
+     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
+    },
+    {
+     "id": "EMbZ72cCAzI",
+     "title": "How to explain something complicated"
+    },
+    {
+     "id": "I8XaYkRW1tA",
+     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
     }
    ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
@@ -803,6 +763,46 @@
     {
      "id": "mplhg3tYKwg",
      "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
+    }
+   ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "IQB-_QkWhng",
+     "title": "How to Draw a Cute Witch and Her Cauldron"
+    },
+    {
+     "id": "QDU7Qr8-JUc",
+     "title": "How To Draw A Black Cat Folding Surprise"
+    },
+    {
+     "id": "cQvh1XLB2Ws",
+     "title": "How To Draw A Cute Ghost Holding Balloons"
+    },
+    {
+     "id": "EcVNQhah89Q",
+     "title": "How To Draw A Scarecrow Folding Surprise"
+    },
+    {
+     "id": "bPzs8S3UB9Q",
+     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
+    },
+    {
+     "id": "yjuQptALLzM",
+     "title": "Our NEW Drawing App for Kids! 🎨"
+    },
+    {
+     "id": "zvAW8WE0VD4",
+     "title": "How To Draw A Frankenstein Milkshake"
+    },
+    {
+     "id": "l4JNjGkQnuM",
+     "title": "How To Draw A Vampire Pizza"
+    }
+   ],
+   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
+    {
+     "id": "cr2TDSSSzPk",
+     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
