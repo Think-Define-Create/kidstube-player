@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "learn",
- "publishedAt": "2026-11-01T03:31:24.751Z",
- "commit": "fc41f5b",
+ "publishedAt": "2026-11-01T07:27:20.892Z",
+ "commit": "2b806d0",
  "config": {
   "rewardMinutes": 30,
   "passScore": "all",
