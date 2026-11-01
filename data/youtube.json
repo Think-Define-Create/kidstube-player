@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-01T15:25:00.885Z",
- "commit": "fe51b8d",
+ "publishedAt": "2026-11-01T19:32:01.235Z",
+ "commit": "5ef3faa",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,7 +263,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-01T15:24:58.763Z",
+  "builtAt": "2026-11-01T19:32:00.190Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -305,62 +305,30 @@
      "title": "The Anti Trampoline Effect"
     }
    ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
     {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+     "id": "5_Fayfx2NUM",
+     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
     },
     {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
     },
     {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
     },
     {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
     },
     {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
     },
     {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -425,30 +393,38 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
     {
-     "id": "5_Fayfx2NUM",
-     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
+     "id": "5rYfZXlqLvM",
+     "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids"
     },
     {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
+     "id": "lT3AZws4JvE",
+     "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀"
     },
     {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
+     "id": "PZ5ZJYuD1vw",
+     "title": "How does a Beaver build a Dam and a Lodge? 🦫 Animal Card Quest | Nat Geo Kids"
     },
     {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
+     "id": "QNzpynjWGcw",
+     "title": "Kids React to Slippery Slimy Creepy Crawly Animals! | Nat Geo Kids"
     },
     {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
+     "id": "svaGnbGxrs4",
+     "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids"
     },
     {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
+     "id": "OFLJN2J0-l8",
+     "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids"
+    },
+    {
+     "id": "l5OiIZeOtqs",
+     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "iZooMGvvZdo",
+     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
     }
    ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
@@ -513,38 +489,62 @@
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
     {
-     "id": "5rYfZXlqLvM",
-     "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids"
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
     },
     {
-     "id": "lT3AZws4JvE",
-     "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀"
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
     },
     {
-     "id": "PZ5ZJYuD1vw",
-     "title": "How does a Beaver build a Dam and a Lodge? 🦫 Animal Card Quest | Nat Geo Kids"
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
     },
     {
-     "id": "QNzpynjWGcw",
-     "title": "Kids React to Slippery Slimy Creepy Crawly Animals! | Nat Geo Kids"
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
     },
     {
-     "id": "svaGnbGxrs4",
-     "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids"
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
     },
     {
-     "id": "OFLJN2J0-l8",
-     "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids"
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
     },
     {
-     "id": "l5OiIZeOtqs",
-     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
     },
     {
-     "id": "iZooMGvvZdo",
-     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
@@ -591,102 +591,6 @@
     {
      "id": "AtXdKfwJeQ0",
      "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
-    }
-   ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
-    {
-     "id": "IQB-_QkWhng",
-     "title": "How to Draw a Cute Witch and Her Cauldron"
-    },
-    {
-     "id": "QDU7Qr8-JUc",
-     "title": "How To Draw A Black Cat Folding Surprise"
-    },
-    {
-     "id": "cQvh1XLB2Ws",
-     "title": "How To Draw A Cute Ghost Holding Balloons"
-    },
-    {
-     "id": "EcVNQhah89Q",
-     "title": "How To Draw A Scarecrow Folding Surprise"
-    },
-    {
-     "id": "bPzs8S3UB9Q",
-     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
-    },
-    {
-     "id": "yjuQptALLzM",
-     "title": "Our NEW Drawing App for Kids! 🎨"
-    },
-    {
-     "id": "zvAW8WE0VD4",
-     "title": "How To Draw A Frankenstein Milkshake"
-    },
-    {
-     "id": "l4JNjGkQnuM",
-     "title": "How To Draw A Vampire Pizza"
-    }
-   ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
-    {
-     "id": "8RPK5KwYhgA",
-     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
-    },
-    {
-     "id": "nXvKDYRvTno",
-     "title": "Scary stories to watch in the dark (if you dare…)"
-    },
-    {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
-    },
-    {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
-    },
-    {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
-    },
-    {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
-    },
-    {
-     "id": "N2uQWfV6Jr4",
-     "title": "4 ways to fix your attention span - Shannon Odell"
-    },
-    {
-     "id": "bHB5iiDDJ-s",
-     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
-    },
-    {
-     "id": "EMbZ72cCAzI",
-     "title": "How to explain something complicated"
-    },
-    {
-     "id": "I8XaYkRW1tA",
-     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -791,6 +695,102 @@
     {
      "id": "oax6t6Of2WY",
      "title": "The Biggest Gaps Between Primes - Numberphile"
+    }
+   ],
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+    {
+     "id": "8RPK5KwYhgA",
+     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
+    },
+    {
+     "id": "nXvKDYRvTno",
+     "title": "Scary stories to watch in the dark (if you dare…)"
+    },
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
+    },
+    {
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
+    },
+    {
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
+    },
+    {
+     "id": "N2uQWfV6Jr4",
+     "title": "4 ways to fix your attention span - Shannon Odell"
+    },
+    {
+     "id": "bHB5iiDDJ-s",
+     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
+    },
+    {
+     "id": "EMbZ72cCAzI",
+     "title": "How to explain something complicated"
+    },
+    {
+     "id": "I8XaYkRW1tA",
+     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
+    }
+   ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "IQB-_QkWhng",
+     "title": "How to Draw a Cute Witch and Her Cauldron"
+    },
+    {
+     "id": "QDU7Qr8-JUc",
+     "title": "How To Draw A Black Cat Folding Surprise"
+    },
+    {
+     "id": "cQvh1XLB2Ws",
+     "title": "How To Draw A Cute Ghost Holding Balloons"
+    },
+    {
+     "id": "EcVNQhah89Q",
+     "title": "How To Draw A Scarecrow Folding Surprise"
+    },
+    {
+     "id": "bPzs8S3UB9Q",
+     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
+    },
+    {
+     "id": "yjuQptALLzM",
+     "title": "Our NEW Drawing App for Kids! 🎨"
+    },
+    {
+     "id": "zvAW8WE0VD4",
+     "title": "How To Draw A Frankenstein Milkshake"
+    },
+    {
+     "id": "l4JNjGkQnuM",
+     "title": "How To Draw A Vampire Pizza"
     }
    ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
