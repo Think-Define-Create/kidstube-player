@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-01T23:25:40.199Z",
- "commit": "6a0be15",
+ "publishedAt": "2026-11-02T03:32:54.115Z",
+ "commit": "49b8151",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,18 +263,8 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-01T23:25:39.228Z",
+  "builtAt": "2026-11-02T03:31:57.878Z",
   "sources": {
-   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
-    {
-     "id": "26P1KyvrmjI",
-     "title": "I Solved Every Board Game"
-    },
-    {
-     "id": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000"
-    }
-   ],
    "channel:UCEIwxahdLz7bap-VDs9h35A": [
     {
      "id": "Z-2pTzSZtLU",
@@ -361,140 +351,10 @@
     {
      "id": "6WNHyAXIN8c",
      "title": "How Ears Let Us Hear the World! | SciShow Kids"
-    }
-   ],
-   "channel:UC6107grRI4m0o2-emgoDnAA": [
-    {
-     "id": "pXypQ6d_iDg",
-     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
     },
     {
-     "id": "vS6HEes8daw",
-     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
-    },
-    {
-     "id": "5lCWqEFVzbY",
-     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
-    },
-    {
-     "id": "WtQ64nSbdY4",
-     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
-    },
-    {
-     "id": "-0JKHuzJ67A",
-     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
-    },
-    {
-     "id": "XwBZx1cXEdM",
-     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
-    },
-    {
-     "id": "v0afQ6w3Bjw",
-     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
-    },
-    {
-     "id": "dt_CG_xRnrY",
-     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
-    },
-    {
-     "id": "cRaKMTK7ea0",
-     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
-    },
-    {
-     "id": "3ZTGwcHQfLY",
-     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
-    },
-    {
-     "id": "8nilP--GFLY",
-     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
-    },
-    {
-     "id": "JVROsxtjoCw",
-     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
-    },
-    {
-     "id": "lylCYkgC63Q",
-     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
-    },
-    {
-     "id": "jDusS--bZZA",
-     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
-    },
-    {
-     "id": "JJofuF2zcTE",
-     "title": "I Called the Space Station - Smarter Every Day 303"
-    }
-   ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "5_Fayfx2NUM",
-     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
-    },
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
-   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
-    {
-     "id": "QqaMGTeWcTg",
-     "title": "STUNG by a Tiger Bee!"
-    },
-    {
-     "id": "WhkLkNLRZy4",
-     "title": "BITTEN by a Vampire Bat!"
-    },
-    {
-     "id": "k4gbweQTL50",
-     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
-    },
-    {
-     "id": "oEIp2piNUso",
-     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
-    },
-    {
-     "id": "TMtQfzcKFCI",
-     "title": "Most Remote Fly Fishing in the USA!"
-    },
-    {
-     "id": "nuEQmSs1H38",
-     "title": "Why This Giant Killer Snake is Destroying Florida"
-    },
-    {
-     "id": "mdR_f4p1b6A",
-     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
-    },
-    {
-     "id": "mPOf2fpy7B4",
-     "title": "Deep Sea Worm Attacks Everything!"
-    },
-    {
-     "id": "xSxhX1g3Zss",
-     "title": "Bitten by an Angry Gecko!"
-    },
-    {
-     "id": "qlQESwyZGTk",
-     "title": "Would You Enter a Venomous Snake-Infested Forest?"
-    },
-    {
-     "id": "AtXdKfwJeQ0",
-     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+     "id": "r2xP7heE0wk",
+     "title": "How Eyes Let Us See The World | SciShow Kids"
     }
    ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
@@ -559,176 +419,128 @@
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+   "channel:UC6107grRI4m0o2-emgoDnAA": [
     {
-     "id": "5rYfZXlqLvM",
-     "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids"
+     "id": "pXypQ6d_iDg",
+     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
     },
     {
-     "id": "lT3AZws4JvE",
-     "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀"
+     "id": "vS6HEes8daw",
+     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
     },
     {
-     "id": "PZ5ZJYuD1vw",
-     "title": "How does a Beaver build a Dam and a Lodge? 🦫 Animal Card Quest | Nat Geo Kids"
+     "id": "5lCWqEFVzbY",
+     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
     },
     {
-     "id": "QNzpynjWGcw",
-     "title": "Kids React to Slippery Slimy Creepy Crawly Animals! | Nat Geo Kids"
+     "id": "WtQ64nSbdY4",
+     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
     },
     {
-     "id": "svaGnbGxrs4",
-     "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids"
+     "id": "-0JKHuzJ67A",
+     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
     },
     {
-     "id": "OFLJN2J0-l8",
-     "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids"
+     "id": "XwBZx1cXEdM",
+     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
     },
     {
-     "id": "l5OiIZeOtqs",
-     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
+     "id": "v0afQ6w3Bjw",
+     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
     },
     {
-     "id": "iZooMGvvZdo",
-     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
+     "id": "dt_CG_xRnrY",
+     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
+    },
+    {
+     "id": "cRaKMTK7ea0",
+     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
+    },
+    {
+     "id": "3ZTGwcHQfLY",
+     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
+    },
+    {
+     "id": "8nilP--GFLY",
+     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
+    },
+    {
+     "id": "JVROsxtjoCw",
+     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
+    },
+    {
+     "id": "lylCYkgC63Q",
+     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
+    },
+    {
+     "id": "jDusS--bZZA",
+     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
+    },
+    {
+     "id": "JJofuF2zcTE",
+     "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
-     "id": "vCAD3W43lIk",
-     "title": "Who's Richer, Mario or Sonic? - Numberphile"
+     "id": "26P1KyvrmjI",
+     "title": "I Solved Every Board Game"
     },
     {
-     "id": "EgnAN0ZUl08",
-     "title": "Squaring the Triangle - Numberphile"
+     "id": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000"
     },
     {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
+     "id": "h0EGCnBjTVk",
+     "title": "I Outsmarted Pro Car Thieves"
     },
     {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+     "id": "S7UM5lSgAg8",
+     "title": "I Engineered The Perfect First Date"
     },
     {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+     "id": "Xg1ro-zG7AM",
+     "title": "Engineers vs Junkyard RC Car Death Match"
     },
     {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
+     "id": "jjpjjcMeujM",
+     "title": "Ronaldo vs My Unbeatable Goalie Robot"
     },
     {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+     "id": "pLtHyLlLt4Y",
+     "title": "How to Escape Alcatraz With Basic Engineering"
     },
     {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+     "id": "0XgcOz95hTs",
+     "title": "I Blew Up A 24 Story Building"
     },
     {
-     "id": "3geDF-DAwpg",
-     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+     "id": "q2C1JpQi5G4",
+     "title": "Uncovering America's Underwater City"
     },
     {
-     "id": "oax6t6Of2WY",
-     "title": "The Biggest Gaps Between Primes - Numberphile"
-    }
-   ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
-    {
-     "id": "8RPK5KwYhgA",
-     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
+     "id": "KRhofr57Na8",
+     "title": "Can You Safely Drink Your Own Pee?"
     },
     {
-     "id": "nXvKDYRvTno",
-     "title": "Scary stories to watch in the dark (if you dare…)"
+     "id": "9IiYOTzJ2uw",
+     "title": "I Built a Roller Coaster In My Lab"
     },
     {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
+     "id": "qr1AvisQcV8",
+     "title": "I Spent $5,000,000 So You Can Go To Space For FREE"
     },
     {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
+     "id": "g6tlNyr5sl8",
+     "title": "Testing What Happens If You Jump On A Moving Train"
     },
     {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
+     "id": "IQJL3htsDyQ",
+     "title": "Can You Fool A Self Driving Car?"
     },
     {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
-    },
-    {
-     "id": "N2uQWfV6Jr4",
-     "title": "4 ways to fix your attention span - Shannon Odell"
-    },
-    {
-     "id": "bHB5iiDDJ-s",
-     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
-    },
-    {
-     "id": "EMbZ72cCAzI",
-     "title": "How to explain something complicated"
-    },
-    {
-     "id": "I8XaYkRW1tA",
-     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
-    }
-   ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
-    {
-     "id": "IQB-_QkWhng",
-     "title": "How to Draw a Cute Witch and Her Cauldron"
-    },
-    {
-     "id": "QDU7Qr8-JUc",
-     "title": "How To Draw A Black Cat Folding Surprise"
-    },
-    {
-     "id": "cQvh1XLB2Ws",
-     "title": "How To Draw A Cute Ghost Holding Balloons"
-    },
-    {
-     "id": "EcVNQhah89Q",
-     "title": "How To Draw A Scarecrow Folding Surprise"
-    },
-    {
-     "id": "bPzs8S3UB9Q",
-     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
-    },
-    {
-     "id": "yjuQptALLzM",
-     "title": "Our NEW Drawing App for Kids! 🎨"
-    },
-    {
-     "id": "zvAW8WE0VD4",
-     "title": "How To Draw A Frankenstein Milkshake"
-    },
-    {
-     "id": "l4JNjGkQnuM",
-     "title": "How To Draw A Vampire Pizza"
+     "id": "tpg3VvoIVfA",
+     "title": "Testing The World's Smartest Crow"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -793,6 +605,378 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "5rYfZXlqLvM",
+     "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "lT3AZws4JvE",
+     "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀"
+    },
+    {
+     "id": "PZ5ZJYuD1vw",
+     "title": "How does a Beaver build a Dam and a Lodge? 🦫 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "QNzpynjWGcw",
+     "title": "Kids React to Slippery Slimy Creepy Crawly Animals! | Nat Geo Kids"
+    },
+    {
+     "id": "svaGnbGxrs4",
+     "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids"
+    },
+    {
+     "id": "OFLJN2J0-l8",
+     "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids"
+    },
+    {
+     "id": "l5OiIZeOtqs",
+     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "iZooMGvvZdo",
+     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
+    },
+    {
+     "id": "DLRdkTUJ-kY",
+     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "Xakbw3sQcd0",
+     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "EXYhTpsYHN8",
+     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
+    },
+    {
+     "id": "Gvmyc2yW_NM",
+     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "9q3uiSeT80M",
+     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
+    },
+    {
+     "id": "aASWMaa5ZU8",
+     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "t8cKaMY_sCE",
+     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
+    }
+   ],
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+    {
+     "id": "5_Fayfx2NUM",
+     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
+    },
+    {
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
+    },
+    {
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
+    },
+    {
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
+    },
+    {
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
+    },
+    {
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
+    },
+    {
+     "id": "Cyl3X88KEgg",
+     "title": "Why Humanity Will Never Leave The Solar System"
+    },
+    {
+     "id": "PqtggjVAi8M",
+     "title": "How Are Memories Stored Inside Your Brain?"
+    },
+    {
+     "id": "8qQW4LTWgtc",
+     "title": "Why Earth Sucks Compared to the Planet Hestia"
+    },
+    {
+     "id": "TYhNHX372ek",
+     "title": "The Uncomfortable Truth About Ozempic (Updated Version)"
+    },
+    {
+     "id": "n-gYFcVx-8Y",
+     "title": "GERMANY IS OVER"
+    },
+    {
+     "id": "dl0-TveDDGA",
+     "title": "Our Minds Are Weirder than You Think"
+    },
+    {
+     "id": "h3DCdWyb0cc",
+     "title": "The Most Insane Megaproject You Never Heard About"
+    },
+    {
+     "id": "yDAAlojz8NU",
+     "title": "This Is the Scariest Place in The Universe"
+    },
+    {
+     "id": "D0WQK7cMJn8",
+     "title": "We Made A New Channel!"
+    }
+   ],
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+    {
+     "id": "QqaMGTeWcTg",
+     "title": "STUNG by a Tiger Bee!"
+    },
+    {
+     "id": "WhkLkNLRZy4",
+     "title": "BITTEN by a Vampire Bat!"
+    },
+    {
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+    },
+    {
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+    },
+    {
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
+    },
+    {
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
+    },
+    {
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+    },
+    {
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
+    },
+    {
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
+    },
+    {
+     "id": "qlQESwyZGTk",
+     "title": "Would You Enter a Venomous Snake-Infested Forest?"
+    },
+    {
+     "id": "AtXdKfwJeQ0",
+     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+    },
+    {
+     "id": "gUKCSkegtKY",
+     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
+    },
+    {
+     "id": "Bg_mcjX_iDM",
+     "title": "Catching Weirdest Bugs on Earth!"
+    },
+    {
+     "id": "5qt0TxOmR3Y",
+     "title": "Should Science Bring Back These 5 Extinct Animals?"
+    },
+    {
+     "id": "NbPN331vzis",
+     "title": "Genetic Breakthrough! My Private Tour of a Top-Secret BioLab"
+    }
+   ],
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+    {
+     "id": "vCAD3W43lIk",
+     "title": "Who's Richer, Mario or Sonic? - Numberphile"
+    },
+    {
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
+    },
+    {
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
+    },
+    {
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    },
+    {
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+    },
+    {
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
+    },
+    {
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    },
+    {
+     "id": "-mXaU3N9e8Y",
+     "title": "2.685 is (almost) everywhere - Numberphile"
+    },
+    {
+     "id": "0aTUTxOiRgU",
+     "title": "291 Holes - Numberphile"
+    },
+    {
+     "id": "oYGBRhS1Ujo",
+     "title": "Cutting Moons  - Numberphile"
+    },
+    {
+     "id": "JEPqrqNqkHw",
+     "title": "The Mountain Climbing Theorem - Numberphile"
+    }
+   ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "IQB-_QkWhng",
+     "title": "How to Draw a Cute Witch and Her Cauldron"
+    },
+    {
+     "id": "QDU7Qr8-JUc",
+     "title": "How To Draw A Black Cat Folding Surprise"
+    },
+    {
+     "id": "cQvh1XLB2Ws",
+     "title": "How To Draw A Cute Ghost Holding Balloons"
+    },
+    {
+     "id": "EcVNQhah89Q",
+     "title": "How To Draw A Scarecrow Folding Surprise"
+    },
+    {
+     "id": "bPzs8S3UB9Q",
+     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
+    },
+    {
+     "id": "yjuQptALLzM",
+     "title": "Our NEW Drawing App for Kids! 🎨"
+    },
+    {
+     "id": "zvAW8WE0VD4",
+     "title": "How To Draw A Frankenstein Milkshake"
+    },
+    {
+     "id": "l4JNjGkQnuM",
+     "title": "How To Draw A Vampire Pizza"
+    },
+    {
+     "id": "j8kA0Lav4io",
+     "title": "How To Draw A Halloween Claw Machine"
+    },
+    {
+     "id": "2trpMnBYbHo",
+     "title": "How To Draw A Caramel Apple Monster"
+    },
+    {
+     "id": "ga8wyomPt68",
+     "title": "How To Draw Frankenstein Big Mouth"
+    },
+    {
+     "id": "TxQ8haK5u6Q",
+     "title": "How To Draw A Halloween Pumpkin House"
+    },
+    {
+     "id": "dgMuNfIZ0Kw",
+     "title": "1 Hour of Halloween Drawing Fun! 🎃 Easy Art Lessons for Kids"
+    },
+    {
+     "id": "k6RHLmAL-NU",
+     "title": "How To Draw A Haunted School Bus"
+    },
+    {
+     "id": "7tylcOBB2Ts",
+     "title": "How To Draw A Skateboarding Skeleton"
+    }
+   ],
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+    {
+     "id": "8RPK5KwYhgA",
+     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
+    },
+    {
+     "id": "nXvKDYRvTno",
+     "title": "Scary stories to watch in the dark (if you dare…)"
+    },
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
+    },
+    {
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
+    },
+    {
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
+    },
+    {
+     "id": "N2uQWfV6Jr4",
+     "title": "4 ways to fix your attention span - Shannon Odell"
+    },
+    {
+     "id": "bHB5iiDDJ-s",
+     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
+    },
+    {
+     "id": "EMbZ72cCAzI",
+     "title": "How to explain something complicated"
+    },
+    {
+     "id": "I8XaYkRW1tA",
+     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
+    }
+   ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
     {
      "id": "wMfaQNedQ3Q",
@@ -805,12 +989,116 @@
     {
      "id": "MvfzpZteFEY",
      "title": "7 Soccer Skills Defenders Should Practice (Easy to Learn)"
+    },
+    {
+     "id": "mplhg3tYKwg",
+     "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
+    },
+    {
+     "id": "XoDxtMWNAAg",
+     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
+    },
+    {
+     "id": "lpNtEz9yOmU",
+     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
+    },
+    {
+     "id": "ZVO8K102WQU",
+     "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
+    },
+    {
+     "id": "FU-ONL0tVyw",
+     "title": "Stop Wasting Time on Useless Soccer Skills (Learn These Moves Instead)"
+    },
+    {
+     "id": "eX8fcZa-x4c",
+     "title": "How to Shoot a Soccer Ball Harder (Get More Power With Less Effort)"
+    },
+    {
+     "id": "u6PzfPq3cT4",
+     "title": "Stop Using Useless Soccer Tricks! Learn These 9 Skills Instead"
+    },
+    {
+     "id": "0XyLOEtXNaY",
+     "title": "Stop Making Bad Passes in Soccer (Easy Drills for Young Players)"
+    },
+    {
+     "id": "pwl-aXDtJs0",
+     "title": "Kids Keep Missing Soccer Shots? Fix These Shooting Mistakes"
+    },
+    {
+     "id": "c-D6YuIpLlY",
+     "title": "I’m NOT a Pro Soccer Player… So Why Should You Listen to Me?"
+    },
+    {
+     "id": "wt6QUF624XY",
+     "title": "Play Soccer Faster Without Running Faster (Improve Your Speed of Play)"
+    },
+    {
+     "id": "5oJuPmjWKsI",
+     "title": "How to Strike a Soccer Ball Harder (Get More Power With Less Effort)"
     }
    ],
    "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
     {
      "id": "cr2TDSSSzPk",
      "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
+    },
+    {
+     "id": "YZl6HArvSRs",
+     "title": "Feelings Thermometer For Kids | Identify And Manage Big Emotions"
+    },
+    {
+     "id": "cfwPN5OrauQ",
+     "title": "Perfectionism for Kids | 5 Skills to Handle Mistakes and Let Go of Perfect"
+    },
+    {
+     "id": "TUkKPLvrh10",
+     "title": "Boredom for Kids | \"I'M BORED!\" | What to Do When You Feel Bored"
+    },
+    {
+     "id": "oMOX2wex1I4",
+     "title": "Optimism and Positive Thinking for Kids | How to Build a Hopeful Mindset"
+    },
+    {
+     "id": "4f9EqokN4M0",
+     "title": "Mindfulness for Kids | More Than Just Meditation | 5 Easy Ways to Practice Every Day"
+    },
+    {
+     "id": "Y_7ip4c6eIg",
+     "title": "Overthinking for Kids | 7 Ways To Manage Worries"
+    },
+    {
+     "id": "138er8o7lmE",
+     "title": "Perseverance for Kids – Skills To Develop Grit and Persistence"
+    },
+    {
+     "id": "ce_h87keUz4",
+     "title": "Kindness For Kids | How To Show Kindness Video | How To Be Kind | Elementary-Middle School Students"
+    },
+    {
+     "id": "Q5hR34g3kLc",
+     "title": "SMART Goals for Kids and Teens | Goal Setting for Students"
+    },
+    {
+     "id": "dhUY0WK1nFU",
+     "title": "Yoga for Childrens Mental Health | Easy Poses for Calm & Focus-Yoga Brain Breaks for Anxiety, Stress"
+    },
+    {
+     "id": "WBtprj6N_mg",
+     "title": "Flexible Thinking For Kids | Cognitive Flexibility For Middle School-Elementary Students"
+    },
+    {
+     "id": "sBolsBnFsnc",
+     "title": "Empathy For Kids | How To Practice and Improve Empathy | Elementary-Middle School Students"
+    },
+    {
+     "id": "0AFRnZEkqq4",
+     "title": "Self Control for Kids - Impulse Control Skills | Elementary and Middle School Students"
+    },
+    {
+     "id": "BmX6GXDvlLM",
+     "title": "Social Anxiety for Kids and Teens | Tips and Coping Skills | Courage Ladder"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
@@ -869,6 +1157,10 @@
     {
      "id": "El7YKGhryOw",
      "title": "Young Entrepreneur - Seymour The Savvy Saver"
+    },
+    {
+     "id": "Jc1NwLnJMQM",
+     "title": "Movin' On Out | Biz Kid$ Episode 503"
     }
    ]
   },
