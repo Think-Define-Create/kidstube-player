@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-02T03:32:54.115Z",
- "commit": "49b8151",
+ "publishedAt": "2026-11-02T07:26:55.457Z",
+ "commit": "9574855",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,36 +263,68 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-02T03:31:57.878Z",
+  "builtAt": "2026-11-02T07:26:04.280Z",
   "sources": {
-   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+   "channel:UC6107grRI4m0o2-emgoDnAA": [
     {
-     "id": "Z-2pTzSZtLU",
-     "title": "This Material Sorts Itself"
+     "id": "pXypQ6d_iDg",
+     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
     },
     {
-     "id": "6gsZY_-kT3U",
-     "title": "This Device Turns Anything into a Suction Cup"
+     "id": "vS6HEes8daw",
+     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
     },
     {
-     "id": "k3Q9UWWiPsQ",
-     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+     "id": "5lCWqEFVzbY",
+     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
     },
     {
-     "id": "NvkZaWLe0Sk",
-     "title": "This Device Goes Past Equilibrium"
+     "id": "WtQ64nSbdY4",
+     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
     },
     {
-     "id": "ti2qiU_JTUQ",
-     "title": "The Euler Disc Is The Wrong Shape"
+     "id": "-0JKHuzJ67A",
+     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
     },
     {
-     "id": "1EyN9_QO4_A",
-     "title": "The Arm Spin That Stops a Fall"
+     "id": "XwBZx1cXEdM",
+     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
     },
     {
-     "id": "EP1mYq8hLIY",
-     "title": "The Anti Trampoline Effect"
+     "id": "v0afQ6w3Bjw",
+     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
+    },
+    {
+     "id": "dt_CG_xRnrY",
+     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
+    },
+    {
+     "id": "cRaKMTK7ea0",
+     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
+    },
+    {
+     "id": "3ZTGwcHQfLY",
+     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
+    },
+    {
+     "id": "8nilP--GFLY",
+     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
+    },
+    {
+     "id": "JVROsxtjoCw",
+     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
+    },
+    {
+     "id": "lylCYkgC63Q",
+     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
+    },
+    {
+     "id": "jDusS--bZZA",
+     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
+    },
+    {
+     "id": "JJofuF2zcTE",
+     "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
    "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
@@ -357,128 +389,66 @@
      "title": "How Eyes Let Us See The World | SciShow Kids"
     }
    ],
-   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
+   "channel:UCEIwxahdLz7bap-VDs9h35A": [
     {
-     "id": "3WWm929hbTw",
-     "title": "Crash Course Kids Literature • Full Series"
+     "id": "Z-2pTzSZtLU",
+     "title": "These Tiny Beads Sort Themselves"
     },
     {
-     "id": "PkWU-lMdnJg",
-     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
+     "id": "6gsZY_-kT3U",
+     "title": "This Device Turns Anything into a Suction Cup"
     },
     {
-     "id": "klu7TNy-7qw",
-     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
+     "id": "k3Q9UWWiPsQ",
+     "title": "The \"Perpetual Motion\" Pump That Actually Works"
     },
     {
-     "id": "ML2oX207Mwc",
-     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
+     "id": "NvkZaWLe0Sk",
+     "title": "This Device Goes Past Equilibrium"
     },
     {
-     "id": "QVw521JjRjA",
-     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
+     "id": "ti2qiU_JTUQ",
+     "title": "The Euler Disc Is The Wrong Shape"
     },
     {
-     "id": "WrUX6j9MwUY",
-     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
+     "id": "1EyN9_QO4_A",
+     "title": "The Arm Spin That Stops a Fall"
     },
     {
-     "id": "XjR2B3YJH9U",
-     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
+     "id": "EP1mYq8hLIY",
+     "title": "The Anti Trampoline Effect"
     },
     {
-     "id": "ui86G8Q5GhQ",
-     "title": "Crash Course Kids Literature Preview"
+     "id": "IFqI11SIGXo",
+     "title": "Steel Absorbs Gas Like a Sponge"
     },
     {
-     "id": "JcxTM7knO80",
-     "title": "Welcome to Crash Course Kids!"
+     "id": "-DyrBDsKA5s",
+     "title": "You've Never Seen a Real Photo"
     },
     {
-     "id": "EwY6p-r_hyU",
-     "title": "Gravity Compilation: Crash Course Kids"
+     "id": "BViIGAg-eVI",
+     "title": "A New Type of Levitation"
     },
     {
-     "id": "wyRy8kowyM8",
-     "title": "Matter Compilation: Crash Course Kids"
+     "id": "B_JavY7pSfE",
+     "title": "Surely it Breaks The 2nd Law"
     },
     {
-     "id": "CZhE2p46vJk",
-     "title": "Food Chains Compilation: Crash Course Kids"
+     "id": "RaQfGqsB30o",
+     "title": "Can You Turn a Rainbow Back into White Light?"
     },
     {
-     "id": "Td_A9H69eE8",
-     "title": "Space Compilation: Crash Course Kids"
+     "id": "RWbCC6f_k1c",
+     "title": "The Liquid Hammer Toy You Can't Buy"
     },
     {
-     "id": "qDcMq1SjR_I",
-     "title": "Engineering Compilation: Crash Course Kids"
+     "id": "kuMUquaeE6g",
+     "title": "Amplifying Invisible Motion"
     },
     {
-     "id": "s__sgOHWNIA",
-     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
-    }
-   ],
-   "channel:UC6107grRI4m0o2-emgoDnAA": [
-    {
-     "id": "pXypQ6d_iDg",
-     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
-    },
-    {
-     "id": "vS6HEes8daw",
-     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
-    },
-    {
-     "id": "5lCWqEFVzbY",
-     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
-    },
-    {
-     "id": "WtQ64nSbdY4",
-     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
-    },
-    {
-     "id": "-0JKHuzJ67A",
-     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
-    },
-    {
-     "id": "XwBZx1cXEdM",
-     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
-    },
-    {
-     "id": "v0afQ6w3Bjw",
-     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
-    },
-    {
-     "id": "dt_CG_xRnrY",
-     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
-    },
-    {
-     "id": "cRaKMTK7ea0",
-     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
-    },
-    {
-     "id": "3ZTGwcHQfLY",
-     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
-    },
-    {
-     "id": "8nilP--GFLY",
-     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
-    },
-    {
-     "id": "JVROsxtjoCw",
-     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
-    },
-    {
-     "id": "lylCYkgC63Q",
-     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
-    },
-    {
-     "id": "jDusS--bZZA",
-     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
-    },
-    {
-     "id": "JJofuF2zcTE",
-     "title": "I Called the Space Station - Smarter Every Day 303"
+     "id": "-NzfTE8RI4w",
+     "title": "The Weirdest Microscope"
     }
    ],
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
@@ -543,128 +513,66 @@
      "title": "Testing The World's Smartest Crow"
     }
    ],
-   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
+   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
     {
-     "id": "SS6wLHDjoHo",
-     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "3WWm929hbTw",
+     "title": "Crash Course Kids Literature • Full Series"
     },
     {
-     "id": "7lKqVUK8cBE",
-     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "PkWU-lMdnJg",
+     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
     },
     {
-     "id": "uMTvJzgZdok",
-     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
+     "id": "klu7TNy-7qw",
+     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
     },
     {
-     "id": "78pqWbdd94U",
-     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "ML2oX207Mwc",
+     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
     },
     {
-     "id": "7OueRkAObfc",
-     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "QVw521JjRjA",
+     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
     },
     {
-     "id": "8s2uNx9jwB4",
-     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "WrUX6j9MwUY",
+     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
     },
     {
-     "id": "MZ2POHBVzag",
-     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "XjR2B3YJH9U",
+     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
     },
     {
-     "id": "PxvciYYyziw",
-     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "ui86G8Q5GhQ",
+     "title": "Crash Course Kids Literature Preview"
     },
     {
-     "id": "WdAZB9DkIug",
-     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "JcxTM7knO80",
+     "title": "Welcome to Crash Course Kids!"
     },
     {
-     "id": "_kpAhvBEB_A",
-     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "EwY6p-r_hyU",
+     "title": "Gravity Compilation: Crash Course Kids"
     },
     {
-     "id": "bkr7TmwEHsA",
-     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "wyRy8kowyM8",
+     "title": "Matter Compilation: Crash Course Kids"
     },
     {
-     "id": "ctb9WgXuhP4",
-     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "CZhE2p46vJk",
+     "title": "Food Chains Compilation: Crash Course Kids"
     },
     {
-     "id": "ffH1XDp8ixc",
-     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "Td_A9H69eE8",
+     "title": "Space Compilation: Crash Course Kids"
     },
     {
-     "id": "nHlg7luxppE",
-     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "qDcMq1SjR_I",
+     "title": "Engineering Compilation: Crash Course Kids"
     },
     {
-     "id": "IFk-Pdil4MU",
-     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
-    }
-   ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "5rYfZXlqLvM",
-     "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids"
-    },
-    {
-     "id": "lT3AZws4JvE",
-     "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀"
-    },
-    {
-     "id": "PZ5ZJYuD1vw",
-     "title": "How does a Beaver build a Dam and a Lodge? 🦫 Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "QNzpynjWGcw",
-     "title": "Kids React to Slippery Slimy Creepy Crawly Animals! | Nat Geo Kids"
-    },
-    {
-     "id": "svaGnbGxrs4",
-     "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids"
-    },
-    {
-     "id": "OFLJN2J0-l8",
-     "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids"
-    },
-    {
-     "id": "l5OiIZeOtqs",
-     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "iZooMGvvZdo",
-     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
-    },
-    {
-     "id": "DLRdkTUJ-kY",
-     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "Xakbw3sQcd0",
-     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "EXYhTpsYHN8",
-     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
-    },
-    {
-     "id": "Gvmyc2yW_NM",
-     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
-    },
-    {
-     "id": "9q3uiSeT80M",
-     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
-    },
-    {
-     "id": "aASWMaa5ZU8",
-     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "t8cKaMY_sCE",
-     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
+     "id": "s__sgOHWNIA",
+     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
    "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
@@ -729,6 +637,68 @@
      "title": "We Made A New Channel!"
     }
    ],
+   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
+    {
+     "id": "SS6wLHDjoHo",
+     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "7lKqVUK8cBE",
+     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "uMTvJzgZdok",
+     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
+    },
+    {
+     "id": "78pqWbdd94U",
+     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "7OueRkAObfc",
+     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "8s2uNx9jwB4",
+     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "MZ2POHBVzag",
+     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "PxvciYYyziw",
+     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "WdAZB9DkIug",
+     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "_kpAhvBEB_A",
+     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "bkr7TmwEHsA",
+     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ctb9WgXuhP4",
+     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ffH1XDp8ixc",
+     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "nHlg7luxppE",
+     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "IFk-Pdil4MU",
+     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
+    }
+   ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
     {
      "id": "QqaMGTeWcTg",
@@ -789,6 +759,68 @@
     {
      "id": "NbPN331vzis",
      "title": "Genetic Breakthrough! My Private Tour of a Top-Secret BioLab"
+    }
+   ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "5rYfZXlqLvM",
+     "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "lT3AZws4JvE",
+     "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀"
+    },
+    {
+     "id": "PZ5ZJYuD1vw",
+     "title": "How does a Beaver build a Dam and a Lodge? 🦫 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "QNzpynjWGcw",
+     "title": "Kids React to Slippery Slimy Creepy Crawly Animals! | Nat Geo Kids"
+    },
+    {
+     "id": "svaGnbGxrs4",
+     "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids"
+    },
+    {
+     "id": "OFLJN2J0-l8",
+     "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids"
+    },
+    {
+     "id": "l5OiIZeOtqs",
+     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "iZooMGvvZdo",
+     "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids"
+    },
+    {
+     "id": "DLRdkTUJ-kY",
+     "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "Xakbw3sQcd0",
+     "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "EXYhTpsYHN8",
+     "title": "Kids React to More Animals from Africa! | Nat Geo Kids"
+    },
+    {
+     "id": "Gvmyc2yW_NM",
+     "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "9q3uiSeT80M",
+     "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids"
+    },
+    {
+     "id": "aASWMaa5ZU8",
+     "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "t8cKaMY_sCE",
+     "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids"
     }
    ],
    "channel:UCoxcjq-8xIDTYp3uz647V5A": [
