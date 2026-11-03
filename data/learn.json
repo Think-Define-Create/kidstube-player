@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "learn",
- "publishedAt": "2026-11-03T03:27:49.867Z",
- "commit": "f63a34a",
+ "publishedAt": "2026-11-03T06:43:45.314Z",
+ "commit": "8ae03d4",
  "config": {
   "rewardMinutes": 30,
   "passScore": "all",
@@ -429,6 +429,1970 @@
      }
     ]
    }
-  ]
+  ],
+  "curriculum": {
+   "format": 2,
+   "attribution": {
+    "text": "Skills and prerequisites are based on the Marble Skill Taxonomy (v1), © Generative Spark, Inc. (Marble), withmarble.com, github.com/withmarbleapp/os-taxonomy.",
+    "license": "The taxonomy database is licensed under ODbL 1.0 and its text under CC BY-SA 4.0. Skill titles were shortened, and lessons and quiz questions were written for this app."
+   },
+   "rewards": {
+    "skillsPerReward": 2,
+    "maxRewardsPerDay": 1
+   },
+   "strands": [
+    {
+     "id": "g2-place-value",
+     "title": "Place value to 1000",
+     "grade": 2,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g2-counting",
+     "title": "Skip counting",
+     "grade": 2,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g2-add-sub",
+     "title": "Adding and subtracting",
+     "grade": 2,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g2-money",
+     "title": "Money",
+     "grade": 2,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g2-time",
+     "title": "Telling time",
+     "grade": 2,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g5-fractions",
+     "title": "Fractions",
+     "grade": 5,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g5-matter",
+     "title": "Matter and how it changes",
+     "grade": 5,
+     "subject": "Science"
+    },
+    {
+     "id": "g5-earth-sun",
+     "title": "Earth, Sun and shadows",
+     "grade": 5,
+     "subject": "Science"
+    }
+   ],
+   "skills": [
+    {
+     "id": "mt_8gy7uxRlF6",
+     "title": "100 is ten tens",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-place-value",
+     "goal": "I can show that 10 tens make 100.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "a4FXl4zb3E4",
+      "channel": "Numberock",
+      "videoTitle": "Place Value Song For Kids | Ones, Tens, & Hundreds | 1st - 3rd Grade"
+     },
+     "practice": {
+      "kind": "placeValue",
+      "params": {
+       "target": "bundle",
+       "max": 100
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "How many tens make 100?",
+       "answers": [
+        "5",
+        "10",
+        "100"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "You have 10 bundles of 10 sticks. How many sticks is that?",
+       "answers": [
+        "20",
+        "100",
+        "110"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Which is the same as 1 hundred?",
+       "answers": [
+        "10 ones",
+        "10 tens",
+        "100 tens"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_aPBzD28_mT",
+     "title": "Hundreds, tens and ones",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-place-value",
+     "goal": "I can tell what each digit in a 3-digit number is worth.",
+     "requires": [
+      "mt_8gy7uxRlF6"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "qeAVXeETETI",
+      "channel": "Numberock",
+      "videoTitle": "Place Value | Expanded, Word, and Standard Form Song | 2nd Grade - 3rd Grade"
+     },
+     "practice": null,
+     "questions": [
+      {
+       "q": "In 362, what does the 3 stand for?",
+       "answers": [
+        "3 ones",
+        "3 tens",
+        "3 hundreds"
+       ],
+       "correct": 2
+      },
+      {
+       "q": "485 = 400 + 80 + ?",
+       "answers": [
+        "5",
+        "50",
+        "500"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "In 706, which digit is in the tens place?",
+       "answers": [
+        "7",
+        "0",
+        "6"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_98c2qwEF7Q",
+     "title": "Place value puzzles",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-place-value",
+     "goal": "I can solve number puzzles using hundreds, tens and ones.",
+     "requires": [
+      "mt_aPBzD28_mT"
+     ],
+     "recommends": [
+      "mt_izien3ZX51"
+     ],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "Every 3-digit number is made of hundreds, tens and ones.",
+        "visual": {
+         "kind": "blocks",
+         "n": 342
+        }
+       },
+       {
+        "text": "3 hundreds, 4 tens and 2 ones make 342.",
+        "visual": {
+         "kind": "blocks",
+         "n": 342
+        }
+       },
+       {
+        "text": "A zero holds a place: 5 hundreds, 0 tens and 8 ones is 508.",
+        "visual": {
+         "kind": "blocks",
+         "n": 508
+        }
+       }
+      ]
+     },
+     "practice": {
+      "kind": "placeValue",
+      "params": {
+       "min": 100,
+       "max": 999,
+       "modes": [
+        "build",
+        "readBlocks",
+        "whichDigit"
+       ]
+      },
+      "count": 8,
+      "passCount": 7
+     },
+     "questions": [
+      {
+       "q": "Sam has 3 hundred-blocks, 4 ten-sticks and 2 ones. What number is that?",
+       "answers": [
+        "342",
+        "324",
+        "9"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "What number is 5 hundreds, 0 tens and 8 ones?",
+       "answers": [
+        "58",
+        "508",
+        "580"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Which number has a 6 in the tens place?",
+       "answers": [
+        "614",
+        "163",
+        "356"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_izien3ZX51",
+     "title": "10 or 100 more or less",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-place-value",
+     "goal": "I can find 10 or 100 more or less than a number.",
+     "requires": [
+      "mt_aPBzD28_mT"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "u1N-GUjj2Bo",
+      "channel": "Numberock",
+      "videoTitle": "Adding and Subtracting by 10 and 100 Song | With Base 10 Blocks"
+     },
+     "practice": {
+      "kind": "choice",
+      "params": {
+       "gen": "plusMinus",
+       "deltas": [
+        10,
+        -10,
+        100,
+        -100
+       ],
+       "min": 100,
+       "max": 899
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "What is 10 more than 453?",
+       "answers": [
+        "454",
+        "463",
+        "553"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "What is 100 less than 620?",
+       "answers": [
+        "520",
+        "610",
+        "720"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "What is 10 less than 305?",
+       "answers": [
+        "295",
+        "304",
+        "205"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_AQcVRBddko",
+     "title": "Compare numbers to 1000",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-place-value",
+     "goal": "I can compare numbers using <, = and >.",
+     "requires": [
+      "mt_aPBzD28_mT"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "3qisu9NF1_0",
+      "channel": "Numberock",
+      "videoTitle": "Greater Than Less Than Song for Kids | Comparing Numbers to 1000"
+     },
+     "practice": {
+      "kind": "compare",
+      "params": {
+       "min": 100,
+       "max": 999
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Which is true?",
+       "answers": [
+        "452 > 425",
+        "452 < 425",
+        "452 = 425"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which number is the biggest?",
+       "answers": [
+        "389",
+        "398",
+        "299"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Which list goes from smallest to biggest?",
+       "answers": [
+        "215, 251, 512",
+        "251, 215, 512",
+        "512, 251, 215"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_IzQvs7k_sE",
+     "title": "Skip count by 4s, 8s, 50s, 100s",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-counting",
+     "goal": "I can count by 4s, 8s, 50s and 100s.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "pkcIJn5HrMI",
+      "channel": "Scratch Garden",
+      "videoTitle": "The Counting by Fours Song | Counting Songs | Scratch Garden"
+     },
+     "practice": {
+      "kind": "sequence",
+      "params": {
+       "steps": [
+        4,
+        8,
+        50,
+        100
+       ],
+       "from": 0
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Count by 4s: 4, 8, 12, ...",
+       "answers": [
+        "14",
+        "16",
+        "20"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Count by 50s: 50, 100, 150, ...",
+       "answers": [
+        "160",
+        "200",
+        "250"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Count by 8s: 8, 16, 24, ...",
+       "answers": [
+        "30",
+        "32",
+        "36"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_M2v1A9OEuM",
+     "title": "Counting to 1000",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-counting",
+     "goal": "I can count forwards and backwards from any number up to 1000.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "Counting by 5s: the last digit goes 0, 5, 0, 5...",
+        "visual": {
+         "kind": "run",
+         "start": 385,
+         "step": 5
+        }
+       },
+       {
+        "text": "Counting by 100s: only the hundreds digit changes.",
+        "visual": {
+         "kind": "run",
+         "start": 150,
+         "step": 100
+        }
+       },
+       {
+        "text": "Counting back: 603, 602, 601, 600...",
+        "visual": {
+         "kind": "run",
+         "start": 603,
+         "step": -1
+        }
+       }
+      ]
+     },
+     "practice": {
+      "kind": "sequence",
+      "params": {
+       "steps": [
+        1,
+        -1,
+        5,
+        10,
+        -10,
+        100
+       ],
+       "min": 0,
+       "max": 1000,
+       "anyStart": true
+      },
+      "count": 8,
+      "passCount": 7
+     },
+     "questions": [
+      {
+       "q": "Count by 5s: 385, 390, 395, ...",
+       "answers": [
+        "396",
+        "400",
+        "405"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Count by 100s: 150, 250, 350, ...",
+       "answers": [
+        "360",
+        "400",
+        "450"
+       ],
+       "correct": 2
+      },
+      {
+       "q": "Count backwards: 603, 602, 601, ...",
+       "answers": [
+        "600",
+        "599",
+        "610"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt__t4afSyZRm",
+     "title": "Facts to 20, fast!",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-add-sub",
+     "goal": "I know my addition and subtraction facts to 20.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "Make a ten: 8 + 7 is 8 + 2 + 5 = 15.",
+        "visual": {
+         "kind": "tenFrame",
+         "a": 8,
+         "b": 7
+        }
+       },
+       {
+        "text": "Fact families: 9 + 4 = 13, so 13 - 4 = 9.",
+        "visual": {
+         "kind": "family",
+         "a": 9,
+         "b": 4
+        }
+       }
+      ]
+     },
+     "practice": {
+      "kind": "arith",
+      "params": {
+       "ops": [
+        "+",
+        "-"
+       ],
+       "max": 20,
+       "answerMode": "choice3",
+       "targetSeconds": 5
+      },
+      "count": 10,
+      "passCount": 9
+     },
+     "questions": [
+      {
+       "q": "8 + 7 = ?",
+       "answers": [
+        "14",
+        "15",
+        "16"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "15 - 8 = ?",
+       "answers": [
+        "6",
+        "7",
+        "8"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "If 9 + 4 = 13, what is 13 - 4?",
+       "answers": [
+        "9",
+        "4",
+        "17"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_cChv2j_-Da",
+     "title": "Add and subtract to 100",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-add-sub",
+     "goal": "I can add and subtract 2-digit numbers.",
+     "requires": [
+      "mt__t4afSyZRm"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "rT55rmXXLrg",
+      "channel": "Free School",
+      "videoTitle": "2 Digit Addition with Regrouping - Carrying and Place Value for Kids - FreeSchool"
+     },
+     "practice": {
+      "kind": "arith",
+      "params": {
+       "ops": [
+        "+",
+        "-"
+       ],
+       "min": 10,
+       "max": 99,
+       "resultMax": 100,
+       "regroup": "mixed",
+       "answerMode": "keypad"
+      },
+      "count": 8,
+      "passCount": 7
+     },
+     "questions": [
+      {
+       "q": "46 + 37 = ?",
+       "answers": [
+        "73",
+        "83",
+        "713"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "83 - 25 = ?",
+       "answers": [
+        "58",
+        "62",
+        "68"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "To add 49 + 26, you can do 50 + 26 and then...",
+       "answers": [
+        "take away 1",
+        "add 1",
+        "add 10"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_ewmuMMPAzP",
+     "title": "Add and subtract to 1000",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-add-sub",
+     "goal": "I can add and subtract 3-digit numbers.",
+     "requires": [
+      "mt_aPBzD28_mT",
+      "mt_cChv2j_-Da"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "Hc9mcx739js",
+      "channel": "Khan Academy",
+      "videoTitle": "Breaking apart 3-digit addition problems | 2nd grade | Khan Academy"
+     },
+     "practice": {
+      "kind": "arith",
+      "params": {
+       "ops": [
+        "+",
+        "-"
+       ],
+       "min": 100,
+       "max": 999,
+       "resultMax": 1000,
+       "regroup": "mixed",
+       "answerMode": "keypad"
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "245 + 132 = ?",
+       "answers": [
+        "377",
+        "367",
+        "387"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "468 + 357 = ?",
+       "answers": [
+        "715",
+        "825",
+        "815"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "502 - 148 = ?",
+       "answers": [
+        "354",
+        "446",
+        "364"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_yTWxkzzoOZ",
+     "title": "Two-step word problems",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-add-sub",
+     "goal": "I can solve a story problem that takes two steps.",
+     "requires": [
+      "mt_cChv2j_-Da"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "IW8qg7eZOTo",
+      "channel": "Khan Academy",
+      "videoTitle": "Adding and subtracting 2-step word problems | Khan Academy"
+     },
+     "practice": {
+      "kind": "choice",
+      "params": {
+       "gen": "twoStep",
+       "max": 100
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "Mia had 25 stickers. She got 12 more, then gave away 9. How many does she have now?",
+       "answers": [
+        "28",
+        "46",
+        "22"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A bus has 40 people. 15 get off and 8 get on. How many are on the bus now?",
+       "answers": [
+        "33",
+        "47",
+        "17"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Tom has 34 marbles. Ana has 18 more than Tom. How many does Ana have?",
+       "answers": [
+        "16",
+        "52",
+        "42"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_pbuhUQJjtt",
+     "title": "Coins and cents",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-money",
+     "goal": "I know coin values and that 100 cents make $1.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "MbtmucV-U2c",
+      "channel": "Numberock",
+      "videoTitle": "Counting Coins Song for Kids | Penny, Nickel, Dime, Quarter | 2nd Grade"
+     },
+     "practice": {
+      "kind": "coins",
+      "params": {
+       "mode": "countUp",
+       "maxCents": 100
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "How many cents make 1 dollar?",
+       "answers": [
+        "10",
+        "50",
+        "100"
+       ],
+       "correct": 2
+      },
+      {
+       "q": "Which is the same as $2.70?",
+       "answers": [
+        "27¢",
+        "270¢",
+        "2,070¢"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "A quarter, a dime and a nickel. How much is that?",
+       "answers": [
+        "35¢",
+        "40¢",
+        "45¢"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_AF2BeFQwfX",
+     "title": "Same money, different coins",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-money",
+     "goal": "I can make the same amount with different coins.",
+     "requires": [
+      "mt_pbuhUQJjtt"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "50¢ can be 2 quarters...",
+        "visual": {
+         "kind": "coins",
+         "set": [
+          25,
+          25
+         ]
+        }
+       },
+       {
+        "text": "...or 5 dimes...",
+        "visual": {
+         "kind": "coins",
+         "set": [
+          10,
+          10,
+          10,
+          10,
+          10
+         ]
+        }
+       },
+       {
+        "text": "...or 1 quarter, 2 dimes and 1 nickel.",
+        "visual": {
+         "kind": "coins",
+         "set": [
+          25,
+          10,
+          10,
+          5
+         ]
+        }
+       }
+      ]
+     },
+     "practice": {
+      "kind": "coins",
+      "params": {
+       "mode": "makeTarget",
+       "targets": [
+        25,
+        30,
+        50,
+        75,
+        100
+       ],
+       "mustDiffer": true
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "Which coins make 50¢?",
+       "answers": [
+        "2 quarters",
+        "5 nickels",
+        "4 dimes"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which one is NOT 25¢?",
+       "answers": [
+        "1 quarter",
+        "2 dimes and 1 nickel",
+        "3 dimes"
+       ],
+       "correct": 2
+      },
+      {
+       "q": "How many dimes make $1?",
+       "answers": [
+        "5",
+        "10",
+        "100"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_HNOPGJYiRK",
+     "title": "Time to 5 minutes",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-time",
+     "goal": "I can read a clock to the nearest 5 minutes.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "h6RNkQ7lU8Y",
+      "channel": "Numberock",
+      "videoTitle": "Telling Time Song for Kids | Telling Time to 5 Minutes"
+     },
+     "practice": {
+      "kind": "clock",
+      "params": {
+       "step": 5,
+       "modes": [
+        "readAnalog",
+        "setHands"
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "The minute hand points to the 5. How many minutes past the hour is it?",
+       "answers": [
+        "5",
+        "25",
+        "50"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "\"Quarter past 9\" is...",
+       "answers": [
+        "9:15",
+        "9:45",
+        "9:25"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "\"Twenty to four\" is...",
+       "answers": [
+        "4:20",
+        "3:40",
+        "4:40"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_4m8BimI4G5",
+     "title": "a.m. and p.m.",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-time",
+     "goal": "I know when to say a.m. and p.m.",
+     "requires": [
+      "mt_HNOPGJYiRK"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "zaOc-4TA4lk",
+      "channel": "Numberock",
+      "videoTitle": "Telling Time Song For Kids (AM & PM)"
+     },
+     "practice": {
+      "kind": "choice",
+      "params": {
+       "gen": "ampm",
+       "events": [
+        "breakfast",
+        "school starts",
+        "lunch",
+        "after school",
+        "dinner",
+        "bedtime"
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "Which time is most likely bedtime?",
+       "answers": [
+        "7:30 a.m.",
+        "7:30 p.m.",
+        "12:00 noon"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "What do we call 12 o'clock in the middle of the day?",
+       "answers": [
+        "Midnight",
+        "Noon",
+        "Evening"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "\"Twenty-five past four in the afternoon\" is...",
+       "answers": [
+        "4:25 a.m.",
+        "4:25 p.m.",
+        "4:52 p.m."
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_09sySPqM9Z",
+     "title": "Fractions are built from unit fractions",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can write a fraction as a sum of unit fractions.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "_E9fG8BYcBo",
+      "channel": "Khan Academy",
+      "videoTitle": "Decomposing a fraction visually | Fractions | Pre-Algebra | Khan Academy"
+     },
+     "practice": {
+      "kind": "fraction",
+      "params": {
+       "mode": "decompose",
+       "maxDen": 10
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "3/5 is the same as...",
+       "answers": [
+        "1/5 + 1/5 + 1/5",
+        "3/5 + 3/5 + 3/5",
+        "1/3 + 1/3 + 1/3 + 1/3 + 1/3"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "How many 1/8s make 5/8?",
+       "answers": [
+        "1",
+        "5",
+        "8"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "1/4 + 1/4 + 1/4 + 1/4 + 1/4 + 1/4 + 1/4 = ?",
+       "answers": [
+        "7/4",
+        "7/28",
+        "1/28"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_Kr3IyA6m-O",
+     "title": "Fractions on a number line",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can place fractions on a number line.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "Z0WsfO-RI8Y",
+      "channel": "Khan Academy",
+      "videoTitle": "Fractions on a number line | Fractions | 3rd grade | Khan Academy"
+     },
+     "practice": {
+      "kind": "numberLine",
+      "params": {
+       "dens": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+       ],
+       "range": [
+        0,
+        2
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "A number line from 0 to 1 is split into 4 equal parts. What is the first mark after 0?",
+       "answers": [
+        "1/4",
+        "1/3",
+        "4"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which fraction is between 0 and 1/2?",
+       "answers": [
+        "1/3",
+        "3/4",
+        "2/2"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Where is 3/4 on a number line from 0 to 1?",
+       "answers": [
+        "Between 1/2 and 1",
+        "Between 0 and 1/4",
+        "After 1"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_a1FdAsRKOF",
+     "title": "Add and subtract like fractions",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can add and subtract fractions with the same denominator.",
+     "requires": [
+      "mt_Kr3IyA6m-O"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "XnKwpS7TaFg",
+      "channel": "Numberock",
+      "videoTitle": "Add & Subtract Fractions with Like Denominators | 3rd - 4th Grade"
+     },
+     "practice": {
+      "kind": "fraction",
+      "params": {
+       "op": [
+        "+",
+        "-"
+       ],
+       "sameDen": true,
+       "maxDen": 12,
+       "resultMax": 1
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "2/5 + 2/5 = ?",
+       "answers": [
+        "4/10",
+        "4/5",
+        "2/5"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "6/8 - 3/8 = ?",
+       "answers": [
+        "3/8",
+        "3/0",
+        "9/8"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "When the denominators (bottom numbers) are the same, you add the...",
+       "answers": [
+        "top numbers only",
+        "bottom numbers only",
+        "top and bottom numbers"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_CBHwluE6Lp",
+     "title": "Fraction sums bigger than 1",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can add like fractions even when the answer is more than 1 whole.",
+     "requires": [
+      "mt_a1FdAsRKOF"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "3/5 + 4/5 = 7/5. That is more than 5/5, which is one whole.",
+        "visual": {
+         "kind": "fractionBars",
+         "parts": [
+          3,
+          4
+         ],
+         "den": 5
+        }
+       },
+       {
+        "text": "7/5 = 1 whole and 2/5 more = 1 2/5.",
+        "visual": {
+         "kind": "fractionBars",
+         "parts": [
+          5,
+          2
+         ],
+         "den": 5
+        }
+       }
+      ]
+     },
+     "practice": {
+      "kind": "fraction",
+      "params": {
+       "op": [
+        "+",
+        "-"
+       ],
+       "sameDen": true,
+       "maxDen": 12,
+       "allowOverOne": true,
+       "askMixed": true
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "3/5 + 4/5 = ?",
+       "answers": [
+        "7/10",
+        "7/5",
+        "1/5"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "7/8 + 3/8 is...",
+       "answers": [
+        "less than 1",
+        "exactly 1",
+        "more than 1"
+       ],
+       "correct": 2
+      },
+      {
+       "q": "5/6 - 2/6 = ?",
+       "answers": [
+        "3/6",
+        "3/0",
+        "7/6"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_o_p-3tCxiM",
+     "title": "Mixed numbers and improper fractions",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can switch between mixed numbers and improper fractions.",
+     "requires": [
+      "mt_09sySPqM9Z"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "EpXCr2iax5E",
+      "channel": "Math with Mr. J",
+      "videoTitle": "Improper Fractions to Mixed Numbers | How to Convert | Math with Mr. J"
+     },
+     "practice": {
+      "kind": "fraction",
+      "params": {
+       "mode": "convertMixed",
+       "maxDen": 10,
+       "maxWhole": 5
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "11/4 as a mixed number is...",
+       "answers": [
+        "2 3/4",
+        "3 1/4",
+        "2 1/4"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "3 2/5 as an improper fraction is...",
+       "answers": [
+        "17/5",
+        "15/5",
+        "32/5"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "6/5 + 4/5 = 10/5. That is the same as...",
+       "answers": [
+        "2",
+        "1 1/5",
+        "10"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_ebPelt-qAl",
+     "title": "Equivalent fractions",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can make fractions that are worth the same.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "N1X0vf5PUz4",
+      "channel": "Khan Academy",
+      "videoTitle": "Intro to equivalent fractions | Fractions | 4th grade | Khan Academy"
+     },
+     "practice": {
+      "kind": "fraction",
+      "params": {
+       "mode": "equivalent",
+       "maxDen": 12
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Which fraction is equal to 2/3?",
+       "answers": [
+        "4/6",
+        "2/6",
+        "3/4"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "To make an equivalent fraction, multiply the top and bottom by...",
+       "answers": [
+        "the same number",
+        "different numbers",
+        "only the top number"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "3/5 = ?/10",
+       "answers": [
+        "5",
+        "6",
+        "8"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_-V7EnqU7gG",
+     "title": "Add fractions with different denominators",
+     "grade": 6,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can find a common denominator to add fractions.",
+     "requires": [
+      "mt_ebPelt-qAl"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "zkJ1gOrYhEg",
+      "channel": "Khan Academy",
+      "videoTitle": "Adding fractions with unlike denominators introduction"
+     },
+     "practice": {
+      "kind": "fraction",
+      "params": {
+       "op": [
+        "+",
+        "-"
+       ],
+       "sameDen": false,
+       "denPairs": "multiples",
+       "maxDen": 12
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "1/3 + 1/6 = ?",
+       "answers": [
+        "2/9",
+        "1/2",
+        "1/6"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "To add 3/4 and 1/8, first change 3/4 into...",
+       "answers": [
+        "6/8",
+        "3/8",
+        "4/8"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "2/5 + 3/10 = ?",
+       "answers": [
+        "5/15",
+        "7/10",
+        "5/10"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_YQkUdIHO8L",
+     "title": "Solids, liquids and gases",
+     "grade": 3,
+     "subject": "Science",
+     "strand": "g5-matter",
+     "goal": "I can sort materials into solids, liquids and gases.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "wclY8F-UoTE",
+      "channel": "Free School",
+      "videoTitle": "3 States of Matter for Kids (Solid, Liquid, Gas): Science for Children - FreeSchool"
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "Solid",
+        "Liquid",
+        "Gas"
+       ],
+       "items": [
+        [
+         "rock",
+         0
+        ],
+        [
+         "juice",
+         1
+        ],
+        [
+         "steam",
+         2
+        ],
+        [
+         "pencil",
+         0
+        ],
+        [
+         "milk",
+         1
+        ],
+        [
+         "air in a balloon",
+         2
+        ],
+        [
+         "ice cube",
+         0
+        ],
+        [
+         "honey",
+         1
+        ],
+        [
+         "sand",
+         0
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Which one takes the shape of its container but keeps the same amount (volume)?",
+       "answers": [
+        "A solid",
+        "A liquid",
+        "A gas"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Which one spreads out to fill all the space it is in?",
+       "answers": [
+        "A solid",
+        "A liquid",
+        "A gas"
+       ],
+       "correct": 2
+      },
+      {
+       "q": "Sand can be poured. But what is each grain of sand?",
+       "answers": [
+        "A solid",
+        "A liquid",
+        "A gas"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_ylruY6VhOf",
+     "title": "Matter is made of particles",
+     "grade": 5,
+     "subject": "Science",
+     "strand": "g5-matter",
+     "goal": "I can use tiny particles to explain solids, liquids and gases.",
+     "requires": [
+      "mt_YQkUdIHO8L"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "npv74D2MO6Q",
+      "channel": "Crash Course Kids",
+      "videoTitle": "Part(icles) of Your World: Crash Course Kids #3.2",
+      "displayChannel": "Crash Course"
+     },
+     "practice": null,
+     "questions": [
+      {
+       "q": "Matter is made of particles that are...",
+       "answers": [
+        "too small to see",
+        "as big as marbles",
+        "only found in liquids"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "In which state are the particles packed tightly together?",
+       "answers": [
+        "Solid",
+        "Liquid",
+        "Gas"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "When you heat ice, its particles...",
+       "answers": [
+        "move faster and spread apart",
+        "stop moving",
+        "turn into sand"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_UKmtuAsSLN",
+     "title": "Changes you can undo",
+     "grade": 6,
+     "subject": "Science",
+     "strand": "g5-matter",
+     "goal": "I can give examples of reversible changes.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "x49BtB5dOwg",
+      "channel": "Free School",
+      "videoTitle": "Physical and Chemical Changes: Chemistry for Kids - FreeSchool"
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "Can be undone",
+        "Makes something new"
+       ],
+       "items": [
+        [
+         "melting chocolate",
+         0
+        ],
+        [
+         "freezing juice",
+         0
+        ],
+        [
+         "dissolving salt in water",
+         0
+        ],
+        [
+         "burning wood",
+         1
+        ],
+        [
+         "baking a cake",
+         1
+        ],
+        [
+         "rusting nail",
+         1
+        ],
+        [
+         "evaporating a puddle",
+         0
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Which one is a reversible change?",
+       "answers": [
+        "Melting chocolate",
+        "Burning wood",
+        "Baking a cake"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Salt is dissolved in water. How can you get the salt back?",
+       "answers": [
+        "Let the water evaporate",
+        "Stir it faster",
+        "Shake it"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "In a reversible change, new materials are...",
+       "answers": [
+        "not made",
+        "always made",
+        "made only when it is cold"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_rbPioPELM1",
+     "title": "Changes that make something new",
+     "grade": 5,
+     "subject": "Science",
+     "strand": "g5-matter",
+     "goal": "I can spot irreversible changes like burning and rusting.",
+     "requires": [
+      "mt_UKmtuAsSLN"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "37pir0ej_SE",
+      "channel": "Crash Course Kids",
+      "videoTitle": "Chemical Changes: Crash Course Kids #19.2",
+      "displayChannel": "Crash Course"
+     },
+     "practice": null,
+     "questions": [
+      {
+       "q": "Which one is an irreversible change?",
+       "answers": [
+        "Freezing water",
+        "Rusting iron",
+        "Melting butter"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Mixing baking soda and vinegar makes bubbles. The bubbles are...",
+       "answers": [
+        "a new gas",
+        "air from the bottle",
+        "melted baking soda"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which one is a sign that a new material was made?",
+       "answers": [
+        "A gas or a new color appears",
+        "It changed shape",
+        "It was cut in half"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_ehC1wsdmUz",
+     "title": "Mass stays the same",
+     "grade": 5,
+     "subject": "Science",
+     "strand": "g5-matter",
+     "goal": "I can explain that the total mass stays the same when matter changes.",
+     "requires": [
+      "mt_rbPioPELM1",
+      "mt_UKmtuAsSLN"
+     ],
+     "recommends": [
+      "mt_ylruY6VhOf"
+     ],
+     "lesson": {
+      "type": "video",
+      "videoId": "3lHHOiTdmK4",
+      "channel": "Crash Course Kids",
+      "videoTitle": "Vacation or Conservation (Of Mass): Crash Course Kids #23.1",
+      "displayChannel": "Crash Course"
+     },
+     "practice": null,
+     "questions": [
+      {
+       "q": "You dissolve 10 g of sugar in 100 g of water. What is the total mass?",
+       "answers": [
+        "100 g",
+        "110 g",
+        "90 g"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "When an ice cube melts into water, its mass...",
+       "answers": [
+        "stays the same",
+        "goes up",
+        "goes down"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "In a closed jar, two things react and make a new substance. The total mass...",
+       "answers": [
+        "stays the same",
+        "doubles",
+        "disappears"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_w2xiMNkyyX",
+     "title": "Earth spins and orbits",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g5-earth-sun",
+     "goal": "I know Earth spins once a day and goes around the Sun once a year.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "cDed5eXmngE",
+      "channel": "Happy Learning English",
+      "videoTitle": "Rotation and Revolution of Earth | Educational Video for Kids",
+      "displayChannel": "Happy Learning"
+     },
+     "practice": null,
+     "questions": [
+      {
+       "q": "How long does Earth take to spin around once?",
+       "answers": [
+        "About 1 hour",
+        "About 24 hours",
+        "About 365 days"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "How long does Earth take to go around the Sun once?",
+       "answers": [
+        "About 1 day",
+        "About 1 month",
+        "About 365 days"
+       ],
+       "correct": 2
+      },
+      {
+       "q": "It is night where you are because...",
+       "answers": [
+        "your side of Earth faces away from the Sun",
+        "the Sun turns off",
+        "the Moon covers the Sun"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_q15w--Fb5H",
+     "title": "Day, night and the moving Sun",
+     "grade": 5,
+     "subject": "Science",
+     "strand": "g5-earth-sun",
+     "goal": "I can explain why the Sun seems to move across the sky.",
+     "requires": [],
+     "recommends": [
+      "mt_w2xiMNkyyX"
+     ],
+     "lesson": {
+      "type": "video",
+      "videoId": "l64YwNl1wr0",
+      "channel": "Crash Course Kids",
+      "videoTitle": "Earth's Rotation & Revolution: Crash Course Kids 8.1",
+      "displayChannel": "Crash Course"
+     },
+     "practice": null,
+     "questions": [
+      {
+       "q": "Why does the Sun seem to move across the sky?",
+       "answers": [
+        "Earth is spinning",
+        "The Sun goes around Earth every day",
+        "Clouds push it"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Where does the Sun rise?",
+       "answers": [
+        "In the east",
+        "In the west",
+        "In the north"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Earth spins around an imaginary line called its...",
+       "answers": [
+        "axis",
+        "orbit",
+        "equator"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_tMLsTPQHwF",
+     "title": "Shadows through the day",
+     "grade": 5,
+     "subject": "Science",
+     "strand": "g5-earth-sun",
+     "goal": "I can describe how shadows change during the day.",
+     "requires": [
+      "mt_q15w--Fb5H"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "1SN1BOpLZAs",
+      "channel": "Crash Course Kids",
+      "videoTitle": "Following the Sun: Crash Course Kids #8.2",
+      "displayChannel": "Crash Course"
+     },
+     "practice": {
+      "kind": "choice",
+      "params": {
+       "gen": "shadowChart",
+       "times": [
+        "8 a.m.",
+        "10 a.m.",
+        "12 noon",
+        "2 p.m.",
+        "4 p.m."
+       ]
+      },
+      "count": 4,
+      "passCount": 3
+     },
+     "questions": [
+      {
+       "q": "When is your shadow shortest on a sunny day?",
+       "answers": [
+        "Early morning",
+        "Around noon",
+        "Late evening"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "In the morning the Sun is in the east. Which way does your shadow point?",
+       "answers": [
+        "East",
+        "West",
+        "Straight up"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Why do shadows change during the day?",
+       "answers": [
+        "Earth spins, so the Sun's place in the sky changes",
+        "The Sun gets smaller",
+        "Your body grows"
+       ],
+       "correct": 0
+      }
+     ]
+    }
+   ]
+  }
  }
 }
