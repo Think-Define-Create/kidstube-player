@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-03T07:43:14.939Z",
- "commit": "cd6a23d",
+ "publishedAt": "2026-11-03T07:46:13.068Z",
+ "commit": "b1815b2",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,70 +263,8 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-03T07:42:23.831Z",
+  "builtAt": "2026-11-03T07:45:21.809Z",
   "sources": {
-   "channel:UC6107grRI4m0o2-emgoDnAA": [
-    {
-     "id": "pXypQ6d_iDg",
-     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
-    },
-    {
-     "id": "vS6HEes8daw",
-     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
-    },
-    {
-     "id": "5lCWqEFVzbY",
-     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
-    },
-    {
-     "id": "WtQ64nSbdY4",
-     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
-    },
-    {
-     "id": "-0JKHuzJ67A",
-     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
-    },
-    {
-     "id": "XwBZx1cXEdM",
-     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
-    },
-    {
-     "id": "v0afQ6w3Bjw",
-     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
-    },
-    {
-     "id": "dt_CG_xRnrY",
-     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
-    },
-    {
-     "id": "cRaKMTK7ea0",
-     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
-    },
-    {
-     "id": "3ZTGwcHQfLY",
-     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
-    },
-    {
-     "id": "8nilP--GFLY",
-     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
-    },
-    {
-     "id": "JVROsxtjoCw",
-     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
-    },
-    {
-     "id": "lylCYkgC63Q",
-     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
-    },
-    {
-     "id": "jDusS--bZZA",
-     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
-    },
-    {
-     "id": "JJofuF2zcTE",
-     "title": "I Called the Space Station - Smarter Every Day 303"
-    }
-   ],
    "channel:UCEIwxahdLz7bap-VDs9h35A": [
     {
      "id": "Z-2pTzSZtLU",
@@ -389,66 +327,66 @@
      "title": "The Weirdest Microscope"
     }
    ],
-   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
+   "channel:UC6107grRI4m0o2-emgoDnAA": [
     {
-     "id": "26P1KyvrmjI",
-     "title": "I Solved Every Board Game"
+     "id": "pXypQ6d_iDg",
+     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
     },
     {
-     "id": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000"
+     "id": "vS6HEes8daw",
+     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
     },
     {
-     "id": "h0EGCnBjTVk",
-     "title": "I Outsmarted Pro Car Thieves"
+     "id": "5lCWqEFVzbY",
+     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
     },
     {
-     "id": "S7UM5lSgAg8",
-     "title": "I Engineered The Perfect First Date"
+     "id": "WtQ64nSbdY4",
+     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
     },
     {
-     "id": "Xg1ro-zG7AM",
-     "title": "Engineers vs Junkyard RC Car Death Match"
+     "id": "-0JKHuzJ67A",
+     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
     },
     {
-     "id": "jjpjjcMeujM",
-     "title": "Ronaldo vs My Unbeatable Goalie Robot"
+     "id": "XwBZx1cXEdM",
+     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
     },
     {
-     "id": "pLtHyLlLt4Y",
-     "title": "How to Escape Alcatraz With Basic Engineering"
+     "id": "v0afQ6w3Bjw",
+     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
     },
     {
-     "id": "0XgcOz95hTs",
-     "title": "I Blew Up A 24 Story Building"
+     "id": "dt_CG_xRnrY",
+     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
     },
     {
-     "id": "q2C1JpQi5G4",
-     "title": "Uncovering America's Underwater City"
+     "id": "cRaKMTK7ea0",
+     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
     },
     {
-     "id": "KRhofr57Na8",
-     "title": "Can You Safely Drink Your Own Pee?"
+     "id": "3ZTGwcHQfLY",
+     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
     },
     {
-     "id": "9IiYOTzJ2uw",
-     "title": "I Built a Roller Coaster In My Lab"
+     "id": "8nilP--GFLY",
+     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
     },
     {
-     "id": "qr1AvisQcV8",
-     "title": "I Spent $5,000,000 So You Can Go To Space For FREE"
+     "id": "JVROsxtjoCw",
+     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
     },
     {
-     "id": "g6tlNyr5sl8",
-     "title": "Testing What Happens If You Jump On A Moving Train"
+     "id": "lylCYkgC63Q",
+     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
     },
     {
-     "id": "IQJL3htsDyQ",
-     "title": "Can You Fool A Self Driving Car?"
+     "id": "jDusS--bZZA",
+     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
     },
     {
-     "id": "tpg3VvoIVfA",
-     "title": "Testing The World's Smartest Crow"
+     "id": "JJofuF2zcTE",
+     "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
    "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
@@ -513,66 +451,66 @@
      "title": "How Eyes Let Us See The World | SciShow Kids"
     }
    ],
-   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
+   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
-     "id": "3WWm929hbTw",
-     "title": "Crash Course Kids Literature • Full Series"
+     "id": "26P1KyvrmjI",
+     "title": "I Solved Every Board Game"
     },
     {
-     "id": "PkWU-lMdnJg",
-     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
+     "id": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000"
     },
     {
-     "id": "klu7TNy-7qw",
-     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
+     "id": "h0EGCnBjTVk",
+     "title": "I Outsmarted Pro Car Thieves"
     },
     {
-     "id": "ML2oX207Mwc",
-     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
+     "id": "S7UM5lSgAg8",
+     "title": "I Engineered The Perfect First Date"
     },
     {
-     "id": "QVw521JjRjA",
-     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
+     "id": "Xg1ro-zG7AM",
+     "title": "Engineers vs Junkyard RC Car Death Match"
     },
     {
-     "id": "WrUX6j9MwUY",
-     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
+     "id": "jjpjjcMeujM",
+     "title": "Ronaldo vs My Unbeatable Goalie Robot"
     },
     {
-     "id": "XjR2B3YJH9U",
-     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
+     "id": "pLtHyLlLt4Y",
+     "title": "How to Escape Alcatraz With Basic Engineering"
     },
     {
-     "id": "ui86G8Q5GhQ",
-     "title": "Crash Course Kids Literature Preview"
+     "id": "0XgcOz95hTs",
+     "title": "I Blew Up A 24 Story Building"
     },
     {
-     "id": "JcxTM7knO80",
-     "title": "Welcome to Crash Course Kids!"
+     "id": "q2C1JpQi5G4",
+     "title": "Uncovering America's Underwater City"
     },
     {
-     "id": "EwY6p-r_hyU",
-     "title": "Gravity Compilation: Crash Course Kids"
+     "id": "KRhofr57Na8",
+     "title": "Can You Safely Drink Your Own Pee?"
     },
     {
-     "id": "wyRy8kowyM8",
-     "title": "Matter Compilation: Crash Course Kids"
+     "id": "9IiYOTzJ2uw",
+     "title": "I Built a Roller Coaster In My Lab"
     },
     {
-     "id": "CZhE2p46vJk",
-     "title": "Food Chains Compilation: Crash Course Kids"
+     "id": "qr1AvisQcV8",
+     "title": "I Spent $5,000,000 So You Can Go To Space For FREE"
     },
     {
-     "id": "Td_A9H69eE8",
-     "title": "Space Compilation: Crash Course Kids"
+     "id": "g6tlNyr5sl8",
+     "title": "Testing What Happens If You Jump On A Moving Train"
     },
     {
-     "id": "qDcMq1SjR_I",
-     "title": "Engineering Compilation: Crash Course Kids"
+     "id": "IQJL3htsDyQ",
+     "title": "Can You Fool A Self Driving Car?"
     },
     {
-     "id": "s__sgOHWNIA",
-     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
+     "id": "tpg3VvoIVfA",
+     "title": "Testing The World's Smartest Crow"
     }
    ],
    "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
@@ -635,6 +573,68 @@
     {
      "id": "aASWMaa5ZU8",
      "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids"
+    }
+   ],
+   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
+    {
+     "id": "3WWm929hbTw",
+     "title": "Crash Course Kids Literature • Full Series"
+    },
+    {
+     "id": "PkWU-lMdnJg",
+     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
+    },
+    {
+     "id": "klu7TNy-7qw",
+     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
+    },
+    {
+     "id": "ML2oX207Mwc",
+     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
+    },
+    {
+     "id": "QVw521JjRjA",
+     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
+    },
+    {
+     "id": "WrUX6j9MwUY",
+     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
+    },
+    {
+     "id": "XjR2B3YJH9U",
+     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
+    },
+    {
+     "id": "ui86G8Q5GhQ",
+     "title": "Crash Course Kids Literature Preview"
+    },
+    {
+     "id": "JcxTM7knO80",
+     "title": "Welcome to Crash Course Kids!"
+    },
+    {
+     "id": "EwY6p-r_hyU",
+     "title": "Gravity Compilation: Crash Course Kids"
+    },
+    {
+     "id": "wyRy8kowyM8",
+     "title": "Matter Compilation: Crash Course Kids"
+    },
+    {
+     "id": "CZhE2p46vJk",
+     "title": "Food Chains Compilation: Crash Course Kids"
+    },
+    {
+     "id": "Td_A9H69eE8",
+     "title": "Space Compilation: Crash Course Kids"
+    },
+    {
+     "id": "qDcMq1SjR_I",
+     "title": "Engineering Compilation: Crash Course Kids"
+    },
+    {
+     "id": "s__sgOHWNIA",
+     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
    "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
@@ -885,68 +885,6 @@
      "title": "Why do some people have a better sense of direction than others? - Oliver Baumann"
     }
    ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
-    {
-     "id": "vCAD3W43lIk",
-     "title": "Who's Richer, Mario or Sonic? - Numberphile"
-    },
-    {
-     "id": "EgnAN0ZUl08",
-     "title": "Squaring the Triangle - Numberphile"
-    },
-    {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
-    },
-    {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
-    },
-    {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
-    },
-    {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
-    },
-    {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
-    },
-    {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
-    },
-    {
-     "id": "3geDF-DAwpg",
-     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
-    },
-    {
-     "id": "oax6t6Of2WY",
-     "title": "The Biggest Gaps Between Primes - Numberphile"
-    },
-    {
-     "id": "A020pGO5MBs",
-     "title": "The Immortal Kangaroo Sequence - Numberphile"
-    },
-    {
-     "id": "-mXaU3N9e8Y",
-     "title": "2.685 is (almost) everywhere - Numberphile"
-    },
-    {
-     "id": "0aTUTxOiRgU",
-     "title": "291 Holes - Numberphile"
-    },
-    {
-     "id": "oYGBRhS1Ujo",
-     "title": "Cutting Moons  - Numberphile"
-    },
-    {
-     "id": "JEPqrqNqkHw",
-     "title": "The Mountain Climbing Theorem - Numberphile"
-    }
-   ],
    "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
     {
      "id": "fc3IIwGIr2Y",
@@ -1007,6 +945,68 @@
     {
      "id": "k6RHLmAL-NU",
      "title": "How To Draw A Haunted School Bus"
+    }
+   ],
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+    {
+     "id": "vCAD3W43lIk",
+     "title": "Who's Richer, Mario or Sonic? - Numberphile"
+    },
+    {
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
+    },
+    {
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
+    },
+    {
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    },
+    {
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+    },
+    {
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
+    },
+    {
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    },
+    {
+     "id": "-mXaU3N9e8Y",
+     "title": "2.685 is (almost) everywhere - Numberphile"
+    },
+    {
+     "id": "0aTUTxOiRgU",
+     "title": "291 Holes - Numberphile"
+    },
+    {
+     "id": "oYGBRhS1Ujo",
+     "title": "Cutting Moons  - Numberphile"
+    },
+    {
+     "id": "JEPqrqNqkHw",
+     "title": "The Mountain Climbing Theorem - Numberphile"
     }
    ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
@@ -1071,68 +1071,6 @@
      "title": "How to Strike a Soccer Ball Harder (Get More Power With Less Effort)"
     }
    ],
-   "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
-    {
-     "id": "6B5gNBLfHoE",
-     "title": "How To Think Like A Successful Entrepreneur"
-    },
-    {
-     "id": "N6-4EYfI_JQ",
-     "title": "Stop Wasting Money: Smart Spending for Teens"
-    },
-    {
-     "id": "xUcjWtKlH3A",
-     "title": "Are You Financially Literate?! Watch This To Find Out!"
-    },
-    {
-     "id": "CLMQVex7rpo",
-     "title": "Saving vs. Investing: What's the Difference?"
-    },
-    {
-     "id": "qoS4sYhNyf4",
-     "title": "Why You Need An Account At A Bank Or Credit Union"
-    },
-    {
-     "id": "6vaIZxyr628",
-     "title": "Allowance Explained: Should Teens Earn One?"
-    },
-    {
-     "id": "S6LvtvIxRB4",
-     "title": "The Best Ways Kids Can Make Money"
-    },
-    {
-     "id": "4AtWZZafdhQ",
-     "title": "Budgeting for Teens: Where Your Money Should Go"
-    },
-    {
-     "id": "DfTwO6agO78",
-     "title": "Biz Kid$ | How To Build Your Credit Score"
-    },
-    {
-     "id": "Fz5t-UC-kDw",
-     "title": "How to Actually Reach Your Money Goals"
-    },
-    {
-     "id": "GjM_z30CwQI",
-     "title": "Young Entrepreneur - D'Anna's House of Fashion"
-    },
-    {
-     "id": "A7OYZv3XUxk",
-     "title": "Two young entrepreneurs get loans from Young Americans Center to launch their businesses."
-    },
-    {
-     "id": "9meZaOfG1gE",
-     "title": "Biz Kid$ TV Series Trailer"
-    },
-    {
-     "id": "El7YKGhryOw",
-     "title": "Young Entrepreneur - Seymour The Savvy Saver"
-    },
-    {
-     "id": "Jc1NwLnJMQM",
-     "title": "Movin' On Out | Biz Kid$ Episode 503"
-    }
-   ],
    "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
     {
      "id": "CQjHvM2GcVw",
@@ -1193,6 +1131,68 @@
     {
      "id": "0AFRnZEkqq4",
      "title": "Self Control for Kids - Impulse Control Skills | Elementary and Middle School Students"
+    }
+   ],
+   "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
+    {
+     "id": "6B5gNBLfHoE",
+     "title": "How To Think Like A Successful Entrepreneur"
+    },
+    {
+     "id": "N6-4EYfI_JQ",
+     "title": "Stop Wasting Money: Smart Spending for Teens"
+    },
+    {
+     "id": "xUcjWtKlH3A",
+     "title": "Are You Financially Literate?! Watch This To Find Out!"
+    },
+    {
+     "id": "CLMQVex7rpo",
+     "title": "Saving vs. Investing: What's the Difference?"
+    },
+    {
+     "id": "qoS4sYhNyf4",
+     "title": "Why You Need An Account At A Bank Or Credit Union"
+    },
+    {
+     "id": "6vaIZxyr628",
+     "title": "Allowance Explained: Should Teens Earn One?"
+    },
+    {
+     "id": "S6LvtvIxRB4",
+     "title": "The Best Ways Kids Can Make Money"
+    },
+    {
+     "id": "4AtWZZafdhQ",
+     "title": "Budgeting for Teens: Where Your Money Should Go"
+    },
+    {
+     "id": "DfTwO6agO78",
+     "title": "Biz Kid$ | How To Build Your Credit Score"
+    },
+    {
+     "id": "Fz5t-UC-kDw",
+     "title": "How to Actually Reach Your Money Goals"
+    },
+    {
+     "id": "GjM_z30CwQI",
+     "title": "Young Entrepreneur - D'Anna's House of Fashion"
+    },
+    {
+     "id": "A7OYZv3XUxk",
+     "title": "Two young entrepreneurs get loans from Young Americans Center to launch their businesses."
+    },
+    {
+     "id": "9meZaOfG1gE",
+     "title": "Biz Kid$ TV Series Trailer"
+    },
+    {
+     "id": "El7YKGhryOw",
+     "title": "Young Entrepreneur - Seymour The Savvy Saver"
+    },
+    {
+     "id": "Jc1NwLnJMQM",
+     "title": "Movin' On Out | Biz Kid$ Episode 503"
     }
    ]
   },

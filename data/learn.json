@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "learn",
- "publishedAt": "2026-11-03T07:43:14.939Z",
- "commit": "cd6a23d",
+ "publishedAt": "2026-11-03T07:46:13.068Z",
+ "commit": "b1815b2",
  "config": {
   "rewardMinutes": 30,
   "passScore": "all",
@@ -524,6 +524,36 @@
      "title": "Expressions and order of operations",
      "grade": 5,
      "subject": "Mathematics"
+    },
+    {
+     "id": "g2-plants",
+     "title": "Plants",
+     "grade": 2,
+     "subject": "Science"
+    },
+    {
+     "id": "g2-land-water",
+     "title": "Land, water and weather",
+     "grade": 2,
+     "subject": "Science"
+    },
+    {
+     "id": "g2-light-space",
+     "title": "Light, shadows and space",
+     "grade": 2,
+     "subject": "Science"
+    },
+    {
+     "id": "g5-food-energy",
+     "title": "Plants, food and energy",
+     "grade": 5,
+     "subject": "Science"
+    },
+    {
+     "id": "g5-forces",
+     "title": "Forces and gravity",
+     "grade": 5,
+     "subject": "Science"
     }
    ],
    "skills": [
@@ -3536,7 +3566,9 @@
      "strand": "g5-earth-sun",
      "goal": "I know Earth spins once a day and goes around the Sun once a year.",
      "requires": [],
-     "recommends": [],
+     "recommends": [
+      "mt_u3Y3Tb-G_n"
+     ],
      "lesson": {
       "type": "video",
       "videoId": "cDed5eXmngE",
@@ -3576,13 +3608,224 @@
      ]
     },
     {
+     "id": "mt_5l7iGkf1Tp",
+     "title": "The solar system",
+     "grade": 6,
+     "subject": "Science",
+     "strand": "g5-earth-sun",
+     "goal": "I can describe the Sun, Earth and Moon and how planets orbit the Sun.",
+     "requires": [],
+     "recommends": [
+      "mt_EHuU1ZeUFA"
+     ],
+     "lesson": {
+      "type": "video",
+      "videoId": "e8YzKyot4Pc",
+      "channel": "Learn Bright",
+      "videoTitle": "Planets in the Solar System for Kids | Learn about the sun and the eight planets"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "The Sun, Earth and Moon are shaped like...",
+         "balls (spheres)",
+         [
+          "flat plates",
+          "cubes"
+         ]
+        ],
+        [
+         "What does the Moon orbit?",
+         "Earth",
+         [
+          "The Sun only",
+          "Mars"
+         ]
+        ],
+        [
+         "What is at the center of our solar system?",
+         "The Sun",
+         [
+          "Earth",
+          "The Moon"
+         ]
+        ],
+        [
+         "How long does Earth take to orbit the Sun?",
+         "About 1 year",
+         [
+          "About 1 day",
+          "About 1 hour"
+         ]
+        ],
+        [
+         "Which planet is between Earth and Jupiter?",
+         "Mars",
+         [
+          "Venus",
+          "Saturn"
+         ]
+        ],
+        [
+         "Planets far from the Sun are...",
+         "colder",
+         [
+          "hotter",
+          "brighter"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "What is at the center of the solar system?",
+       "answers": [
+        "the Sun",
+        "Earth",
+        "the Moon"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "What moves around Earth?",
+       "answers": [
+        "the Moon",
+        "the Sun",
+        "Mars"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "How many planets orbit the Sun?",
+       "answers": [
+        "8",
+        "10",
+        "3"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_ZhKuYCbXz1",
+     "title": "Why the Sun looks brightest",
+     "grade": 5,
+     "subject": "Science",
+     "strand": "g5-earth-sun",
+     "goal": "I can explain that stars look brighter or dimmer mainly because of distance.",
+     "requires": [
+      "mt_5l7iGkf1Tp"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "M41yLjQ2ot0",
+      "channel": "Crash Course Kids",
+      "videoTitle": "Seeing Stars: Crash Course Kids #20.1",
+      "displayChannel": "Crash Course"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "A flashlight far away looks...",
+         "dimmer",
+         [
+          "brighter",
+          "bigger"
+         ]
+        ],
+        [
+         "The Sun looks brighter than other stars because it is...",
+         "much closer",
+         [
+          "much bigger than all stars",
+          "not a star"
+         ]
+        ],
+        [
+         "Stars make light from energy in their...",
+         "core",
+         [
+          "rings",
+          "moons"
+         ]
+        ],
+        [
+         "Why can't we see stars in the day?",
+         "The Sun is so bright",
+         [
+          "They go away",
+          "They turn off"
+         ]
+        ],
+        [
+         "Two same stars: one near, one far. The far one looks...",
+         "dimmer",
+         [
+          "brighter",
+          "the same"
+         ]
+        ],
+        [
+         "Stars are giant balls of...",
+         "hot gas",
+         [
+          "ice",
+          "rock"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "A star is a bright object in space that...",
+       "answers": [
+        "gives off its own light",
+        "only reflects light",
+        "is always small"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Is the Sun a star?",
+       "answers": [
+        "yes",
+        "no",
+        "only in summer"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Why does the Sun look much brighter than other stars?",
+       "answers": [
+        "it is much closer to Earth",
+        "it is the biggest star in space",
+        "other stars have no light"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
      "id": "mt_q15w--Fb5H",
      "title": "Day, night and the moving Sun",
      "grade": 5,
      "subject": "Science",
      "strand": "g5-earth-sun",
      "goal": "I can explain why the Sun seems to move across the sky.",
-     "requires": [],
+     "requires": [
+      "mt_5l7iGkf1Tp"
+     ],
      "recommends": [
       "mt_w2xiMNkyyX"
      ],
@@ -3634,7 +3877,9 @@
      "requires": [
       "mt_q15w--Fb5H"
      ],
-     "recommends": [],
+     "recommends": [
+      "mt_Oru08pKlxd"
+     ],
      "lesson": {
       "type": "video",
       "videoId": "1SN1BOpLZAs",
@@ -7096,6 +7341,1982 @@
         "do first",
         "skip",
         "do last"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_3v0VNkwquK",
+     "title": "What plants need",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-plants",
+     "goal": "I can name what a plant needs to grow.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "u46A0WKp2nk",
+      "channel": "Learn Bright",
+      "videoTitle": "How Plants Grow for Kids | Learn about photosynthesis and what plants need"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Which does a plant need to grow?",
+         "Water",
+         [
+          "Candy",
+          "Plastic"
+         ]
+        ],
+        [
+         "A plant kept in a dark closet will most likely...",
+         "grow weak and pale",
+         [
+          "grow faster",
+          "turn into a tree"
+         ]
+        ],
+        [
+         "A plant with no water will...",
+         "wilt and dry up",
+         [
+          "grow taller",
+          "make more flowers"
+         ]
+        ],
+        [
+         "Plants use sunlight to...",
+         "make their own food",
+         [
+          "stay cold",
+          "walk around"
+         ]
+        ],
+        [
+         "Which is NOT something plants need?",
+         "Television",
+         [
+          "Sunlight",
+          "Water"
+         ]
+        ],
+        [
+         "Where do roots take water from?",
+         "The soil",
+         [
+          "The sky",
+          "The flowers"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "Which three things help a plant grow?",
+       "answers": [
+        "sunlight, water and air",
+        "juice, sand and noise",
+        "darkness, ice and salt"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Plants make their own food using...",
+       "answers": [
+        "sunlight",
+        "moonlight",
+        "music"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "What happens to a plant without water?",
+       "answers": [
+        "it wilts and can die",
+        "it grows faster",
+        "nothing"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_lutxvMlkwS",
+     "title": "Helping plants thrive",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-plants",
+     "goal": "I can explain what plants need to stay healthy.",
+     "requires": [
+      "mt_3v0VNkwquK"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "DPL0F2V9_gY",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "videoTitle": "What a Plant Needs to Stay Alive | Springtime Song",
+      "displayChannel": "Jack Hartmann"
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "Plants need it",
+        "Plants do not need it"
+       ],
+       "items": [
+        [
+         "sunlight",
+         0
+        ],
+        [
+         "water",
+         0
+        ],
+        [
+         "air",
+         0
+        ],
+        [
+         "nutrients from soil",
+         0
+        ],
+        [
+         "candy",
+         1
+        ],
+        [
+         "a TV",
+         1
+        ],
+        [
+         "toys",
+         1
+        ],
+        [
+         "space to grow",
+         0
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "In the song, what four things do plants need?",
+       "answers": [
+        "water, nutrients, sunlight and air",
+        "milk, toys, rain and snow",
+        "rocks, wind, noise and sugar"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Sunlight gives a plant...",
+       "answers": [
+        "energy and warmth",
+        "a bath",
+        "a home"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which comes from plants?",
+       "answers": [
+        "paper",
+        "glass",
+        "metal"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_6xsEXxKdUX",
+     "title": "Plant parts and jobs",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-plants",
+     "goal": "I can tell what roots, stems, leaves and flowers do.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "70zRAsa_8ko",
+      "channel": "Scratch Garden",
+      "videoTitle": "The Parts of a Plant Song | Science Songs"
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flower"
+       ],
+       "items": [
+        [
+         "takes in water from the soil",
+         0
+        ],
+        [
+         "holds the plant in the ground",
+         0
+        ],
+        [
+         "carries water up the plant",
+         1
+        ],
+        [
+         "holds the plant up",
+         1
+        ],
+        [
+         "makes food from sunlight",
+         2
+        ],
+        [
+         "usually green and flat",
+         2
+        ],
+        [
+         "makes seeds",
+         3
+        ],
+        [
+         "attracts bees",
+         3
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "A plant starts as a...",
+       "answers": [
+        "seed",
+        "leaf",
+        "flower"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "With help from water, which part grows down into the ground?",
+       "answers": [
+        "roots",
+        "leaves",
+        "flowers"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "What pokes up straight into the air?",
+       "answers": [
+        "the stem",
+        "the roots",
+        "the seed"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Fruit holds...",
+       "answers": [
+        "seeds that grow new plants",
+        "roots",
+        "leaves"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_GF6L7J4MNN",
+     "title": "How water travels in plants",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-plants",
+     "goal": "I can explain how water moves up a plant.",
+     "requires": [
+      "mt_6xsEXxKdUX"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "KIug9Foou3s",
+      "channel": "SciShow Kids",
+      "videoTitle": "The Color-Changing Celery Experiment!",
+      "displayChannel": "SciShow"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Celery sits in blue water for a day. The leaves turn...",
+         "blue",
+         [
+          "red",
+          "black"
+         ]
+        ],
+        [
+         "Water moves up a plant through...",
+         "tiny tubes in the stem",
+         [
+          "the flowers",
+          "the air"
+         ]
+        ],
+        [
+         "Which part of the plant does the water reach last?",
+         "The leaves",
+         [
+          "The roots",
+          "The bottom of the stem"
+         ]
+        ],
+        [
+         "Why did the celery change color?",
+         "It drank the colored water",
+         [
+          "It got cold",
+          "It was painted"
+         ]
+        ],
+        [
+         "Food coloring in the experiment helps us...",
+         "see where the water goes",
+         [
+          "make the celery tasty",
+          "stop the water"
+         ]
+        ]
+       ]
+      },
+      "count": 4,
+      "passCount": 3
+     },
+     "questions": [
+      {
+       "q": "In the experiment, celery is put in...",
+       "answers": [
+        "colored water",
+        "sand",
+        "milk"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "What does the color show?",
+       "answers": [
+        "the path water takes up the plant",
+        "that celery is sick",
+        "how heavy celery is"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Water travels from the roots up to the...",
+       "answers": [
+        "leaves",
+        "soil",
+        "ground"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_WNBHZ1d94L",
+     "title": "How seeds travel",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-plants",
+     "goal": "I can explain how seeds get to new places.",
+     "requires": [
+      "mt_6xsEXxKdUX"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "WqgVks9NViQ",
+      "channel": "SciShow Kids",
+      "videoTitle": "How Do Plant Seeds Travel? | Spring is Here!",
+      "displayChannel": "SciShow"
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "Wind",
+        "Animals",
+        "Water"
+       ],
+       "items": [
+        [
+         "dandelion fluff",
+         0
+        ],
+        [
+         "maple seed helicopter",
+         0
+        ],
+        [
+         "burr stuck on a dog",
+         1
+        ],
+        [
+         "berry eaten by a bird",
+         1
+        ],
+        [
+         "coconut floating away",
+         2
+        ],
+        [
+         "acorn buried by a squirrel",
+         1
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "How do dandelion seeds travel?",
+       "answers": [
+        "blown by the wind",
+        "carried in a backpack",
+        "they stay put"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A sticky seed that catches on fur travels by...",
+       "answers": [
+        "animals",
+        "water",
+        "wind only"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Why is it good for seeds to travel?",
+       "answers": [
+        "so new plants have room to grow",
+        "so they can rest",
+        "to get wet"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_KsKLVW_ssY",
+     "title": "Landforms",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-land-water",
+     "goal": "I can name landforms like mountains, valleys and plains.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "FN6QX43QB4g",
+      "channel": "Crash Course Kids",
+      "videoTitle": "Landforms, Hey!: Crash Course Kids #17.1",
+      "displayChannel": "Crash Course"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "A very high, steep landform is a...",
+         "mountain",
+         [
+          "valley",
+          "plain"
+         ]
+        ],
+        [
+         "Low land between hills or mountains is a...",
+         "valley",
+         [
+          "peak",
+          "island"
+         ]
+        ],
+        [
+         "Wide, flat land is a...",
+         "plain",
+         [
+          "canyon",
+          "mountain"
+         ]
+        ],
+        [
+         "Land with water all around it is an...",
+         "island",
+         [
+          "ocean",
+          "valley"
+         ]
+        ],
+        [
+         "A deep, narrow valley with steep sides is a...",
+         "canyon",
+         [
+          "plain",
+          "hill"
+         ]
+        ],
+        [
+         "A huge body of salt water is an...",
+         "ocean",
+         [
+          "pond",
+          "island"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "Shapes of the land, like mountains, are called...",
+       "answers": [
+        "landforms",
+        "weather",
+        "planets"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "What slowly shapes the land?",
+       "answers": [
+        "wind and water (weathering and erosion)",
+        "people only",
+        "nothing, it never changes"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Low land between mountains is a...",
+       "answers": [
+        "valley",
+        "peak",
+        "plateau"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_nRF_VRntrW",
+     "title": "Where water is found",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-land-water",
+     "goal": "I can name places on Earth where water is found.",
+     "requires": [
+      "mt_KsKLVW_ssY"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "5Ssty1ejoek",
+      "channel": "SciShow Kids",
+      "videoTitle": "Where Can We Find Water? | SciShow Kids",
+      "displayChannel": "SciShow"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Where is most of Earth's water?",
+         "In the oceans",
+         [
+          "In rivers",
+          "In clouds"
+         ]
+        ],
+        [
+         "Water can be found frozen as...",
+         "ice and snow",
+         [
+          "sand",
+          "wood"
+         ]
+        ],
+        [
+         "Some drinking water comes from...",
+         "under the ground",
+         [
+          "the Moon",
+          "inside the faucet"
+         ]
+        ],
+        [
+         "A river is water that...",
+         "flows across the land",
+         [
+          "never moves",
+          "is frozen"
+         ]
+        ],
+        [
+         "A lake is...",
+         "water with land all around it",
+         [
+          "a mountain",
+          "a cloud"
+         ]
+        ],
+        [
+         "Is ocean water salty or fresh?",
+         "Salty",
+         [
+          "Fresh",
+          "Sweet"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "Does the water in a faucet come from inside the faucet?",
+       "answers": [
+        "No, it comes from somewhere else",
+        "Yes, it is made there",
+        "Yes, a tiny person adds it"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Some drinking water comes from...",
+       "answers": [
+        "underground",
+        "the Sun",
+        "the Moon"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which holds the most water on Earth?",
+       "answers": [
+        "oceans",
+        "puddles",
+        "bathtubs"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_IhWzO4sQPg",
+     "title": "Kinds of clouds",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-land-water",
+     "goal": "I can tell cumulus, stratus, cirrus and storm clouds apart.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "o9ZEktQHHas",
+      "channel": "Nat Geo Kids",
+      "videoTitle": "4 Types of Clouds & How to Spot Them | The Wonder List",
+      "displayChannel": "Nat Geo"
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "Cumulus",
+        "Stratus",
+        "Cirrus",
+        "Cumulonimbus"
+       ],
+       "items": [
+        [
+         "puffy and fluffy",
+         0
+        ],
+        [
+         "gray blanket across the sky",
+         1
+        ],
+        [
+         "fog on the ground",
+         1
+        ],
+        [
+         "thin and wispy like hair",
+         2
+        ],
+        [
+         "the highest clouds",
+         2
+        ],
+        [
+         "big, dark storm cloud",
+         3
+        ],
+        [
+         "brings thunder and lightning",
+         3
+        ],
+        [
+         "good day to play outside",
+         0
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Puffy, fluffy clouds on a nice day are...",
+       "answers": [
+        "cumulus",
+        "cirrus",
+        "stratus"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Big, dark gray clouds that bring storms are...",
+       "answers": [
+        "cumulonimbus",
+        "cirrus",
+        "cumulus"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Fog is really a ___ cloud at ground level.",
+       "answers": [
+        "stratus",
+        "cirrus",
+        "cumulus"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Thin, wispy clouds that are the highest in the sky are...",
+       "answers": [
+        "cirrus",
+        "stratus",
+        "cumulonimbus"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_fhqVdj4BYr",
+     "title": "The water cycle",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-land-water",
+     "goal": "I can explain evaporation, condensation and precipitation.",
+     "requires": [
+      "mt_IhWzO4sQPg"
+     ],
+     "recommends": [
+      "mt_nRF_VRntrW"
+     ],
+     "lesson": {
+      "type": "video",
+      "videoId": "ncORPosDrjI",
+      "channel": "Peekaboo Kidz",
+      "videoTitle": "The Water Cycle | The Dr. Binocs Show"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Water heated by the Sun turns into vapor. This is...",
+         "evaporation",
+         [
+          "condensation",
+          "precipitation"
+         ]
+        ],
+        [
+         "Water vapor cools and forms clouds. This is...",
+         "condensation",
+         [
+          "evaporation",
+          "collection"
+         ]
+        ],
+        [
+         "Rain, snow and hail are...",
+         "precipitation",
+         [
+          "evaporation",
+          "condensation"
+         ]
+        ],
+        [
+         "After rain falls, water collects in...",
+         "rivers, lakes and oceans",
+         [
+          "the Sun",
+          "clouds only"
+         ]
+        ],
+        [
+         "What gives the water cycle its energy?",
+         "The Sun",
+         [
+          "The Moon",
+          "Wind only"
+         ]
+        ],
+        [
+         "Which comes right after evaporation?",
+         "Condensation",
+         [
+          "Precipitation",
+          "Collection"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "When the Sun heats water and it rises as vapor, it is called...",
+       "answers": [
+        "evaporation",
+        "condensation",
+        "precipitation"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "When vapor cools and makes clouds, it is called...",
+       "answers": [
+        "condensation",
+        "evaporation",
+        "collection"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Rain and snow falling are called...",
+       "answers": [
+        "precipitation",
+        "evaporation",
+        "condensation"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_YPSx5pbpVl",
+     "title": "Light and sound words",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-light-space",
+     "goal": "I can use words like light source, shadow, vibrate and loud.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "A light source makes its own light, like the Sun, a lamp or a flashlight."
+       },
+       {
+        "text": "Sound is made when something vibrates (shakes back and forth), like a drum or a guitar string."
+       },
+       {
+        "text": "A shadow is a dark shape made when something blocks light."
+       }
+      ]
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "Makes light",
+        "Makes sound"
+       ],
+       "items": [
+        [
+         "the Sun",
+         0
+        ],
+        [
+         "a flashlight",
+         0
+        ],
+        [
+         "a candle flame",
+         0
+        ],
+        [
+         "a drum",
+         1
+        ],
+        [
+         "a bell",
+         1
+        ],
+        [
+         "a guitar string",
+         1
+        ],
+        [
+         "a lamp",
+         0
+        ],
+        [
+         "a barking dog",
+         1
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Which is a light source?",
+       "answers": [
+        "the Sun",
+        "the Moon",
+        "a mirror"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Sound is made when things...",
+       "answers": [
+        "vibrate",
+        "freeze",
+        "disappear"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A shadow forms when something...",
+       "answers": [
+        "blocks light",
+        "makes a sound",
+        "gets wet"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_Oru08pKlxd",
+     "title": "How shadows form",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-light-space",
+     "goal": "I can explain that a shadow forms when an object blocks light.",
+     "requires": [
+      "mt_YPSx5pbpVl"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "lOIGOT88Aqc",
+      "channel": "Peekaboo Kidz",
+      "videoTitle": "Shadow | The Dr. Binocs Show"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "A shadow forms when an object...",
+         "blocks the light",
+         [
+          "makes light",
+          "is see-through"
+         ]
+        ],
+        [
+         "Which makes the darkest shadow?",
+         "A wooden block",
+         [
+          "Clear glass",
+          "Air"
+         ]
+        ],
+        [
+         "Move a toy closer to the flashlight. Its shadow gets...",
+         "bigger",
+         [
+          "smaller",
+          "disappears"
+         ]
+        ],
+        [
+         "Can you see your shadow in a totally dark room?",
+         "No",
+         [
+          "Yes",
+          "Only at noon"
+         ]
+        ],
+        [
+         "Light travels in...",
+         "straight lines",
+         [
+          "circles",
+          "zigzags"
+         ]
+        ],
+        [
+         "When the Sun is low in the sky, shadows are...",
+         "long",
+         [
+          "short",
+          "gone"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "What do you need to make a shadow?",
+       "answers": [
+        "light and an object that blocks it",
+        "only water",
+        "a mirror and sound"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A shadow is where light cannot...",
+       "answers": [
+        "pass through an object",
+        "make a sound",
+        "get wet"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Light travels in...",
+       "answers": [
+        "straight lines",
+        "circles",
+        "curves around things"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_u3Y3Tb-G_n",
+     "title": "The Sun is a star",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-light-space",
+     "goal": "I can explain that the Sun is a star, close to Earth.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "0b3GcLE4Vlg",
+      "channel": "SciShow Kids",
+      "videoTitle": "What Is the Sun?",
+      "displayChannel": "SciShow"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "The Sun is a...",
+         "star",
+         [
+          "planet",
+          "moon"
+         ]
+        ],
+        [
+         "Why does the Sun look bigger than other stars?",
+         "It is much closer",
+         [
+          "It is the only star",
+          "It is made of gold"
+         ]
+        ],
+        [
+         "The Sun is made of...",
+         "hot gases",
+         [
+          "rock",
+          "ice"
+         ]
+        ],
+        [
+         "The Sun gives Earth...",
+         "light and heat",
+         [
+          "rain only",
+          "moonlight"
+         ]
+        ],
+        [
+         "Should you look straight at the Sun?",
+         "No, it can hurt your eyes",
+         [
+          "Yes, always",
+          "Only at noon"
+         ]
+        ]
+       ]
+      },
+      "count": 4,
+      "passCount": 3
+     },
+     "questions": [
+      {
+       "q": "What is the Sun?",
+       "answers": [
+        "a star",
+        "a planet",
+        "a moon"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Why does the Sun look so much bigger than other stars?",
+       "answers": [
+        "it is much closer to us",
+        "it is the biggest star there is",
+        "the other stars are tiny lights"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "What does the Sun give us?",
+       "answers": [
+        "light and heat",
+        "snow",
+        "rain clouds"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_EHuU1ZeUFA",
+     "title": "Naming the planets",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-light-space",
+     "goal": "I can name the 8 planets in order from the Sun.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "ZcRG9GxZrNw",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "videoTitle": "The Eight Planets of the Solar System | Planets Song",
+      "displayChannel": "Jack Hartmann"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Which planet is closest to the Sun?",
+         "Mercury",
+         [
+          "Earth",
+          "Neptune"
+         ]
+        ],
+        [
+         "Which planet do we live on?",
+         "Earth",
+         [
+          "Mars",
+          "Venus"
+         ]
+        ],
+        [
+         "Which planet is farthest from the Sun?",
+         "Neptune",
+         [
+          "Mercury",
+          "Jupiter"
+         ]
+        ],
+        [
+         "Which planet is the biggest?",
+         "Jupiter",
+         [
+          "Earth",
+          "Mars"
+         ]
+        ],
+        [
+         "Which planet has big bright rings?",
+         "Saturn",
+         [
+          "Mercury",
+          "Mars"
+         ]
+        ],
+        [
+         "Which planet is called the red planet?",
+         "Mars",
+         [
+          "Venus",
+          "Neptune"
+         ]
+        ],
+        [
+         "Which planet comes after Earth?",
+         "Mars",
+         [
+          "Venus",
+          "Jupiter"
+         ]
+        ],
+        [
+         "How many planets are in our solar system?",
+         "8",
+         [
+          "9",
+          "12"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "How many planets are there in our solar system?",
+       "answers": [
+        "8",
+        "9",
+        "6"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which planet is closest to the Sun?",
+       "answers": [
+        "Mercury",
+        "Venus",
+        "Earth"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which planet is the third from the Sun?",
+       "answers": [
+        "Earth",
+        "Mars",
+        "Venus"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_AVk2EmSULC",
+     "title": "The eight planets",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g2-light-space",
+     "goal": "I can describe some planets and how they move around the Sun.",
+     "requires": [
+      "mt_u3Y3Tb-G_n"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "w36yxLgwUOc",
+      "channel": "Peekaboo Kidz",
+      "videoTitle": "SOLAR SYSTEM - The Dr. Binocs Show"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "All the planets move around the...",
+         "Sun",
+         [
+          "Moon",
+          "Earth"
+         ]
+        ],
+        [
+         "Which planet is the hottest?",
+         "Venus",
+         [
+          "Neptune",
+          "Mars"
+         ]
+        ],
+        [
+         "Jupiter is a giant planet made mostly of...",
+         "gas",
+         [
+          "ice cream",
+          "rock only"
+         ]
+        ],
+        [
+         "The path of a planet around the Sun is an...",
+         "orbit",
+         [
+          "axis",
+          "eclipse"
+         ]
+        ],
+        [
+         "Which planets are rocky and close to the Sun?",
+         "Mercury, Venus, Earth, Mars",
+         [
+          "Jupiter, Saturn, Uranus, Neptune",
+          "Only Earth"
+         ]
+        ],
+        [
+         "Which planet has the most famous rings?",
+         "Saturn",
+         [
+          "Mars",
+          "Earth"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "What do the planets move around?",
+       "answers": [
+        "the Sun",
+        "the Moon",
+        "Jupiter"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which planet is the largest?",
+       "answers": [
+        "Jupiter",
+        "Earth",
+        "Mercury"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which planet is known for its rings?",
+       "answers": [
+        "Saturn",
+        "Mars",
+        "Venus"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_E1wR8IfCV6",
+     "title": "What animals eat",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g5-food-energy",
+     "goal": "I can sort animals into plant-eaters, meat-eaters and both.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "hoFN6_l5J9c",
+      "channel": "Smile and Learn - English",
+      "videoTitle": "CARNIVORES, HERBIVORES and OMNIVORES - Eating Habits",
+      "displayChannel": "Smile and Learn"
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "Herbivore",
+        "Carnivore",
+        "Omnivore"
+       ],
+       "items": [
+        [
+         "cow",
+         0
+        ],
+        [
+         "rabbit",
+         0
+        ],
+        [
+         "lion",
+         1
+        ],
+        [
+         "shark",
+         1
+        ],
+        [
+         "bear",
+         2
+        ],
+        [
+         "human",
+         2
+        ],
+        [
+         "giraffe",
+         0
+        ],
+        [
+         "wolf",
+         1
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "An animal that eats only plants is a...",
+       "answers": [
+        "herbivore",
+        "carnivore",
+        "omnivore"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "An animal that eats only other animals is a...",
+       "answers": [
+        "carnivore",
+        "herbivore",
+        "omnivore"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "An animal that eats plants and animals is an...",
+       "answers": [
+        "omnivore",
+        "herbivore",
+        "carnivore"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_3-ii06P4YS",
+     "title": "Where plants get their mass",
+     "grade": 5,
+     "subject": "Science",
+     "strand": "g5-food-energy",
+     "goal": "I can explain that plants grow mainly from air and water, not soil.",
+     "requires": [],
+     "recommends": [
+      "mt_lutxvMlkwS",
+      "mt_GF6L7J4MNN"
+     ],
+     "lesson": {
+      "type": "video",
+      "videoId": "eCSIrlk0GTs",
+      "channel": "Crash Course Kids",
+      "videoTitle": "Who Needs Dirt?: Crash Course Kids #27.1",
+      "displayChannel": "Crash Course"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Most of a tree's mass comes from...",
+         "air and water",
+         [
+          "soil",
+          "sunlight itself"
+         ]
+        ],
+        [
+         "Plants take in which gas from the air?",
+         "Carbon dioxide",
+         [
+          "Oxygen only",
+          "Helium"
+         ]
+        ],
+        [
+         "Can some plants grow without soil?",
+         "Yes, with water and nutrients",
+         [
+          "No, never",
+          "Only in the dark"
+         ]
+        ],
+        [
+         "Plants use light energy to turn air and water into...",
+         "food (sugar)",
+         [
+          "rocks",
+          "soil"
+         ]
+        ],
+        [
+         "A big tree grew, but the soil around it barely changed. So the tree's mass came mostly from...",
+         "air and water",
+         [
+          "the soil",
+          "the roots of other trees"
+         ]
+        ]
+       ]
+      },
+      "count": 4,
+      "passCount": 3
+     },
+     "questions": [
+      {
+       "q": "Plants get most of the material they need to grow from...",
+       "answers": [
+        "air and water",
+        "soil",
+        "other plants"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which gas do plants take from the air?",
+       "answers": [
+        "carbon dioxide",
+        "oxygen",
+        "helium"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Can plants grow without soil?",
+       "answers": [
+        "yes, if they get water and nutrients",
+        "no, never",
+        "only in winter"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_PYPs2yD2sn",
+     "title": "Energy from the Sun to food",
+     "grade": 5,
+     "subject": "Science",
+     "strand": "g5-food-energy",
+     "goal": "I can explain that the energy in food first came from the Sun.",
+     "requires": [
+      "mt_3-ii06P4YS",
+      "mt_E1wR8IfCV6"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "MuKs9o1s8h8",
+      "channel": "Crash Course Kids",
+      "videoTitle": "Fabulous Food Chains: Crash Course Kids #7.1",
+      "displayChannel": "Crash Course"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "The energy in a food chain starts with...",
+         "the Sun",
+         [
+          "the lion",
+          "the soil"
+         ]
+        ],
+        [
+         "Plants are called producers because they...",
+         "make their own food",
+         [
+          "eat animals",
+          "make noise"
+         ]
+        ],
+        [
+         "In grass → rabbit → fox, what does the fox get energy from?",
+         "Eating the rabbit",
+         [
+          "The soil",
+          "Rain"
+         ]
+        ],
+        [
+         "An animal that eats other living things is a...",
+         "consumer",
+         [
+          "producer",
+          "rock"
+         ]
+        ],
+        [
+         "Arrows in a food chain show...",
+         "which way energy flows",
+         [
+          "who is the biggest",
+          "where animals live"
+         ]
+        ],
+        [
+         "In grass → grasshopper → frog, the producer is...",
+         "the grass",
+         [
+          "the frog",
+          "the grasshopper"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "A food chain shows how ___ moves between living things.",
+       "answers": [
+        "energy",
+        "water",
+        "rocks"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Where does the energy in food chains come from first?",
+       "answers": [
+        "the Sun",
+        "the Moon",
+        "the ocean floor"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Plants take energy from the Sun and change it into...",
+       "answers": [
+        "chemical energy (food)",
+        "sound",
+        "rocks"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_-p_xp4hMvh",
+     "title": "Friction",
+     "grade": 2,
+     "subject": "Science",
+     "strand": "g5-forces",
+     "goal": "I can explain that rough surfaces make more friction than smooth ones.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "Ps90zArJEJY",
+      "channel": "SciShow Kids",
+      "videoTitle": "Slipping, Sliding Science! | Physics for Kids",
+      "displayChannel": "SciShow"
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "More friction",
+        "Less friction"
+       ],
+       "items": [
+        [
+         "sliding on carpet",
+         0
+        ],
+        [
+         "sliding on ice",
+         1
+        ],
+        [
+         "rubber shoe soles",
+         0
+        ],
+        [
+         "socks on a smooth floor",
+         1
+        ],
+        [
+         "sandpaper",
+         0
+        ],
+        [
+         "a wet, soapy slide",
+         1
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Friction is a force that...",
+       "answers": [
+        "slows things down when surfaces rub",
+        "makes things float",
+        "pulls things to the Moon"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which surface has more friction?",
+       "answers": [
+        "rough carpet",
+        "smooth ice",
+        "a wet slide"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Why is it easy to slide on ice?",
+       "answers": [
+        "ice is smooth, so there is little friction",
+        "ice is sticky",
+        "ice is warm"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_lcf8lx-LkZ",
+     "title": "Contact and non-contact forces",
+     "grade": 4,
+     "subject": "Science",
+     "strand": "g5-forces",
+     "goal": "I can sort forces into touching and acting from a distance.",
+     "requires": [
+      "mt_-p_xp4hMvh"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "48BeaFwV374",
+      "channel": "FuseSchool - Global Education",
+      "videoTitle": "How Objects Interact | Force & Motion | Physics",
+      "displayChannel": "FuseSchool"
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "Contact force",
+        "Non-contact force"
+       ],
+       "items": [
+        [
+         "kicking a ball",
+         0
+        ],
+        [
+         "a magnet pulling a nail",
+         1
+        ],
+        [
+         "friction on a slide",
+         0
+        ],
+        [
+         "gravity pulling an apple down",
+         1
+        ],
+        [
+         "pushing a door",
+         0
+        ],
+        [
+         "magnets pushing apart",
+         1
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "A contact force needs objects to...",
+       "answers": [
+        "touch",
+        "be far apart",
+        "be magnets"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which is a non-contact force?",
+       "answers": [
+        "magnetism",
+        "friction",
+        "a push"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A force can change an object's...",
+       "answers": [
+        "speed, direction or shape",
+        "color",
+        "name"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_AvrQauS_zX",
+     "title": "Gravity",
+     "grade": 5,
+     "subject": "Science",
+     "strand": "g5-forces",
+     "goal": "I can explain that gravity pulls things down toward the center of Earth.",
+     "requires": [
+      "mt_lcf8lx-LkZ"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "ljRlB6TuMOU",
+      "channel": "Crash Course Kids",
+      "videoTitle": "Defining Gravity: Crash Course Kids #4.1",
+      "displayChannel": "Crash Course"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Gravity is a...",
+         "pull",
+         [
+          "push away",
+          "kind of light"
+         ]
+        ],
+        [
+         "A dropped ball falls...",
+         "down toward Earth",
+         [
+          "up",
+          "sideways forever"
+         ]
+        ],
+        [
+         "People in Australia fall toward...",
+         "the center of Earth too",
+         [
+          "the sky",
+          "the North Pole"
+         ]
+        ],
+        [
+         "Is gravity a contact or non-contact force?",
+         "Non-contact",
+         [
+          "Contact",
+          "Neither"
+         ]
+        ],
+        [
+         "What keeps us on the ground?",
+         "Gravity",
+         [
+          "Wind",
+          "Magnets in our shoes"
+         ]
+        ]
+       ]
+      },
+      "count": 4,
+      "passCount": 3
+     },
+     "questions": [
+      {
+       "q": "Gravity is a force that...",
+       "answers": [
+        "pulls objects toward each other",
+        "pushes everything up",
+        "only works on magnets"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Gravity pulls everything toward the...",
+       "answers": [
+        "ground",
+        "sky",
+        "Sun"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Does gravity need to touch an object to pull it?",
+       "answers": [
+        "no",
+        "yes",
+        "only on Tuesdays"
        ],
        "correct": 0
       }
