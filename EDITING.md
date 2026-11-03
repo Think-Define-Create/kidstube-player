@@ -165,6 +165,69 @@ Add a block to `"lessons"`:
 The **unlock code** and **settings PIN** are changed only in `/workspace/learnearn/config.json` on the
 box, followed by a rebuild and reinstall of Learn & Earn.
 
+## Learn & Earn 2.0 curriculum: `"curriculum"` in `config/learn.json`
+
+Learn & Earn 2.0 shows a **skill map**. Each skill has a short lesson (a video or a few "teach" screens),
+an optional practice round, and a quiz. A skill unlocks when the skills in its `requires` list are passed.
+A reward comes after `rewards.skillsPerReward` new skills in a day (at most `maxRewardsPerDay`).
+Older app versions (1.x) ignore `"curriculum"` and keep using `"lessons"`.
+
+The curriculum is generated on the box by `/workspace/learnearn-curriculum/build/curriculum.py --write`
+from `pilot.json` and `build/batches/*.json`. That script recomputes `requires` and `recommends`
+from the prerequisite graph and sorts the skills. If you edit `config/learn.json` by hand, a
+later run of `curriculum.py --write` overwrites the `curriculum` block. Make lasting changes in
+the batch files, or tell the bot.
+
+### Shape
+```json
+"curriculum": {
+  "attribution": { "text": "...", "license": "..." },
+  "rewards": { "skillsPerReward": 2, "maxRewardsPerDay": 1 },
+  "strands": [ { "id": "g2-time", "title": "Telling time", "grade": 2, "subject": "Math" } ],
+  "skills": [ {
+    "id": "mt_HNOPGJYiRK", "title": "Time to 5 minutes", "grade": 2, "subject": "Math",
+    "strand": "g2-time", "goal": "I can read a clock to the nearest 5 minutes.",
+    "requires": ["mt_..."], "recommends": [],
+    "lesson": { "type": "video", "videoId": "...", "channel": "...", "displayChannel": "...", "videoTitle": "..." },
+    "practice": { "kind": "clock", "params": { "step": 5 }, "count": 6, "passCount": 5 },
+    "questions": [ { "q": "...", "answers": ["...", "...", "..."], "correct": 0 } ]
+  } ]
+}
+```
+- **Never rename or reuse a skill `id`.** Progress on the TV is saved by id, so a renamed skill shows as not done.
+- `grade` on a strand decides where it appears on the map (2 = younger player, 5 = older player).
+- `requires` must list ids that exist in `skills`. A skill whose required skill is missing
+  stays locked, and publish reports an error.
+- `lesson.type` is `"video"` (an embeddable YouTube video) or `"interactive"`, which has
+  `"teach": [ { "text": "...", "visual": { ... } } ]` screens. Use `interactive` when no good short video exists.
+- `displayChannel` (optional) is the channel name shown on screen. Use it to keep "kids" out of names
+  such as "Crash Course Kids" → "Crash Course".
+- `questions`: 3 to 5, each with 3 or 4 answers. `correct` counts from 0. Answers are shuffled on screen.
+  Every quiz question must be answerable from the lesson.
+- `practice` may be `null` (quiz only). `passCount` of `count` rounds must be right.
+
+### Practice kinds (built into the app; a new kind needs a new app version)
+| `kind` | `params` |
+|---|---|
+| `bank` | `{ "bank": [ ["question", "right answer", ["wrong 1", "wrong 2"]], ... ] }`: fixed multiple-choice questions, picked at random |
+| `sort` | `{ "bins": ["Solid", "Liquid"], "items": [ ["rock", 0], ["juice", 1] ] }`: the number is the bin, counting from 0 |
+| `arith` | sums and differences, for example `{ "ops": ["+", "-"], "max": 20, "answerMode": "choice3", "targetSeconds": 5 }` |
+| `sequence` | skip counting, for example `{ "steps": [4, 8, 50, 100], "from": 0 }` |
+| `placeValue` | `{ "target": "bundle", "max": 100 }`; target is `build`, `readBlocks`, `whichDigit` or `bundle` |
+| `coins` | `{ "mode": "countUp", "maxCents": 100 }`; mode is `countUp` or `makeTarget` |
+| `clock` | `{ "step": 5, "modes": ["readAnalog", "setHands"] }` |
+| `compare` | `{ "min": 100, "max": 999 }` |
+| `fraction` | `{ "mode": "decompose", "maxDen": 10 }`; mode is `op`, `decompose`, `equivalent` or `convertMixed` |
+| `numberLine` | `{ "dens": [2, 3, 4], "range": [0, 2] }`: place fractions or decimals on a line |
+| `array` | `{ "maxRows": 5, "maxCols": 5, "modes": ["total", "sum"] }` |
+| `grid` | `{ "size": 6 }`: plot or read points on a coordinate grid |
+| `choice` | a built-in generator, for example `{ "gen": "plusMinus", "deltas": [10, -10], "min": 100, "max": 899 }`; gen is `plusMinus`, `ampm`, `twoStep` or `shadowChart` |
+
+Copy the `params` of an existing skill of the same kind rather than guessing. Publish
+(`./tools/publish.sh --dry-run`) checks the shape and embed-checks every curriculum video.
+
+The settings PIN and unlock code are **not** part of the curriculum and never go in this repo.
+
 ## How the TV decides what to show
 On every launch each app downloads `config/<app>.json` and `data/<app>.json` from
 `https://think-define-create.github.io/kidstube-player/` (with `?t=<time>` so no old cached copy is used,
