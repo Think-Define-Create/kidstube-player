@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "learn",
- "publishedAt": "2026-11-03T07:31:11.745Z",
- "commit": "8c49ed5",
+ "publishedAt": "2026-11-03T07:43:14.939Z",
+ "commit": "cd6a23d",
  "config": {
   "rewardMinutes": 30,
   "passScore": "all",
@@ -488,6 +488,42 @@
      "title": "Earth, Sun and shadows",
      "grade": 5,
      "subject": "Science"
+    },
+    {
+     "id": "g2-arrays",
+     "title": "Equal groups and arrays",
+     "grade": 2,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g2-length",
+     "title": "Measuring length",
+     "grade": 2,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g2-graphs-shapes",
+     "title": "Graphs, shapes and equal shares",
+     "grade": 2,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g5-decimals",
+     "title": "Decimals",
+     "grade": 5,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g5-coordinates",
+     "title": "Lines and the coordinate grid",
+     "grade": 5,
+     "subject": "Mathematics"
+    },
+    {
+     "id": "g5-expressions",
+     "title": "Expressions and order of operations",
+     "grade": 5,
+     "subject": "Mathematics"
     }
    ],
    "skills": [
@@ -941,6 +977,144 @@
      ]
     },
     {
+     "id": "mt_hniI4E-OCE",
+     "title": "Odd or even?",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-counting",
+     "goal": "I can tell if a number is odd or even.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "3iQqmmG8wQQ",
+      "channel": "Homeschool Pop",
+      "videoTitle": "Even and Odd Numbers for Kids | Elementary Math Lesson"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Is 8 odd or even?",
+         "Even",
+         [
+          "Odd"
+         ]
+        ],
+        [
+         "Is 12 odd or even?",
+         "Even",
+         [
+          "Odd"
+         ]
+        ],
+        [
+         "Is 13 odd or even?",
+         "Odd",
+         [
+          "Even"
+         ]
+        ],
+        [
+         "Is 37 odd or even?",
+         "Odd",
+         [
+          "Even"
+         ]
+        ],
+        [
+         "Is 15 odd or even?",
+         "Odd",
+         [
+          "Even"
+         ]
+        ],
+        [
+         "Is 11 odd or even?",
+         "Odd",
+         [
+          "Even"
+         ]
+        ],
+        [
+         "Is 4 odd or even?",
+         "Even",
+         [
+          "Odd"
+         ]
+        ],
+        [
+         "Is 19 odd or even?",
+         "Odd",
+         [
+          "Even"
+         ]
+        ],
+        [
+         "Is 34 odd or even?",
+         "Even",
+         [
+          "Odd"
+         ]
+        ],
+        [
+         "Is 32 odd or even?",
+         "Even",
+         [
+          "Odd"
+         ]
+        ],
+        [
+         "Is 26 odd or even?",
+         "Even",
+         [
+          "Odd"
+         ]
+        ],
+        [
+         "Is 24 odd or even?",
+         "Even",
+         [
+          "Odd"
+         ]
+        ]
+       ]
+      },
+      "count": 8,
+      "passCount": 7
+     },
+     "questions": [
+      {
+       "q": "An even number of socks can be put into...",
+       "answers": [
+        "pairs with none left over",
+        "pairs with one left over",
+        "groups of three"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which number is odd?",
+       "answers": [
+        "14",
+        "9",
+        "20"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Even numbers end in...",
+       "answers": [
+        "0, 2, 4, 6 or 8",
+        "1, 3, 5, 7 or 9",
+        "any digit"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
      "id": "mt__t4afSyZRm",
      "title": "Facts to 20, fast!",
      "grade": 2,
@@ -1349,6 +1523,143 @@
      ]
     },
     {
+     "id": "mt_3tz3Otap5j",
+     "title": "Money word problems",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-money",
+     "goal": "I can solve money stories with dollars and cents.",
+     "requires": [
+      "mt_cChv2j_-Da"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "2smR0fvsmWw",
+      "channel": "MooMooMath and Science",
+      "videoTitle": "Money Word Problems - Addition and Subtraction",
+      "displayChannel": "MooMooMath"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "A toy costs $8 and a book costs $22. How much together?",
+         "$30",
+         [
+          "$14",
+          "$40"
+         ]
+        ],
+        [
+         "A toy costs $17 and a book costs $6. How much together?",
+         "$23",
+         [
+          "$11",
+          "$33"
+         ]
+        ],
+        [
+         "You have 71¢. You spend 16¢. How much is left?",
+         "55¢",
+         [
+          "87¢",
+          "65¢"
+         ]
+        ],
+        [
+         "A toy costs $24 and a book costs $29. How much together?",
+         "$53",
+         [
+          "$5",
+          "$63"
+         ]
+        ],
+        [
+         "You have 72¢. You spend 20¢. How much is left?",
+         "52¢",
+         [
+          "92¢",
+          "62¢"
+         ]
+        ],
+        [
+         "A toy costs $9 and a book costs $16. How much together?",
+         "$25",
+         [
+          "$7",
+          "$35"
+         ]
+        ],
+        [
+         "You have 74¢. You spend 22¢. How much is left?",
+         "52¢",
+         [
+          "96¢",
+          "62¢"
+         ]
+        ],
+        [
+         "You have 60¢. You spend 10¢. How much is left?",
+         "50¢",
+         [
+          "70¢",
+          "60¢"
+         ]
+        ],
+        [
+         "A toy costs $25 and a book costs $18. How much together?",
+         "$43",
+         [
+          "$7",
+          "$53"
+         ]
+        ],
+        [
+         "A toy costs $6 and a book costs $5. How much together?",
+         "$11",
+         [
+          "$1",
+          "$21"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Emily had $45. She spent $12 and $8. How much is left?",
+       "answers": [
+        "$25",
+        "$65",
+        "$33"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "When you spend money, you...",
+       "answers": [
+        "subtract",
+        "add",
+        "multiply"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "You have 50¢ and get 25¢ more. How much now?",
+       "answers": [
+        "75¢",
+        "25¢",
+        "70¢"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
      "id": "mt_HNOPGJYiRK",
      "title": "Time to 5 minutes",
      "grade": 2,
@@ -1469,6 +1780,390 @@
      ]
     },
     {
+     "id": "mt_TcG90kS8nu",
+     "title": "Quicker, slower, earlier, later",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-time",
+     "goal": "I can compare how long things take.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "Quicker means it takes less time. Slower means it takes more time."
+       },
+       {
+        "text": "Earlier means before. Later means after. Breakfast is earlier than dinner."
+       },
+       {
+        "text": "In a race, the one who takes the least time finishes first."
+       }
+      ]
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Which takes longer?",
+         "Eating a meal",
+         [
+          "Blinking",
+          "Clapping once"
+         ]
+        ],
+        [
+         "Which is quicker?",
+         "Sneezing",
+         [
+          "Watching a movie",
+          "Sleeping at night"
+         ]
+        ],
+        [
+         "Breakfast happens ___ than dinner.",
+         "earlier",
+         [
+          "later",
+          "slower"
+         ]
+        ],
+        [
+         "A race: Sam took 20 seconds, Mia took 15 seconds. Who was faster?",
+         "Mia",
+         [
+          "Sam",
+          "They tied"
+         ]
+        ],
+        [
+         "Bedtime is ___ than lunchtime.",
+         "later",
+         [
+          "earlier",
+          "quicker"
+         ]
+        ],
+        [
+         "Who finished first if Ava took 3 minutes and Leo took 5 minutes?",
+         "Ava",
+         [
+          "Leo",
+          "Neither"
+         ]
+        ],
+        [
+         "A snail is ___ than a rabbit.",
+         "slower",
+         [
+          "quicker",
+          "earlier"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Which is quicker?",
+       "answers": [
+        "a blink",
+        "a bath",
+        "a car trip"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Lunch is ___ than breakfast.",
+       "answers": [
+        "later",
+        "earlier",
+        "slower"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Tom ran in 30 seconds. Kim ran in 25 seconds. Who was faster?",
+       "answers": [
+        "Kim",
+        "Tom",
+        "they tied"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt__N55B7u7HD",
+     "title": "Seconds, minutes and hours",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-time",
+     "goal": "I can tell seconds, minutes and hours apart.",
+     "requires": [
+      "mt_TcG90kS8nu"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "A second is very short: about one clap."
+       },
+       {
+        "text": "A minute is 60 seconds: about brushing your teeth for half the time."
+       },
+       {
+        "text": "An hour is 60 minutes: about one long TV show."
+       }
+      ]
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "How many seconds are in 1 minute?",
+         "60",
+         [
+          "100",
+          "24"
+         ]
+        ],
+        [
+         "Which is the longest?",
+         "1 hour",
+         [
+          "1 minute",
+          "1 second"
+         ]
+        ],
+        [
+         "About how long does it take to clap once?",
+         "1 second",
+         [
+          "1 minute",
+          "1 hour"
+         ]
+        ],
+        [
+         "About how long does a movie last?",
+         "2 hours",
+         [
+          "2 seconds",
+          "2 minutes"
+         ]
+        ],
+        [
+         "About how long does it take to brush your teeth?",
+         "2 minutes",
+         [
+          "2 hours",
+          "2 seconds"
+         ]
+        ],
+        [
+         "Which is the shortest?",
+         "1 second",
+         [
+          "1 minute",
+          "1 hour"
+         ]
+        ],
+        [
+         "A stopwatch measures...",
+         "how long something takes",
+         [
+          "how heavy it is",
+          "how tall it is"
+         ]
+        ],
+        [
+         "2 minutes = ? seconds",
+         "120",
+         [
+          "60",
+          "200"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "How many seconds are in a minute?",
+       "answers": [
+        "60",
+        "10",
+        "100"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which is longest?",
+       "answers": [
+        "an hour",
+        "a minute",
+        "a second"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "About how long does it take to tie your shoe?",
+       "answers": [
+        "a few seconds",
+        "a few hours",
+        "a few days"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_2XDGT5tei1",
+     "title": "60 minutes, 24 hours",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-time",
+     "goal": "I know 60 minutes make an hour and 24 hours make a day.",
+     "requires": [
+      "mt__N55B7u7HD"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "The minute hand goes all the way around the clock in 60 minutes. That is 1 hour.",
+        "visual": {
+         "kind": "clock",
+         "h": 3,
+         "m": 0
+        }
+       },
+       {
+        "text": "Half way around is 30 minutes: half past.",
+        "visual": {
+         "kind": "clock",
+         "h": 3,
+         "m": 30
+        }
+       },
+       {
+        "text": "A whole day and night is 24 hours. The hour hand goes around twice."
+       }
+      ]
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "How many minutes are in 1 hour?",
+         "60",
+         [
+          "100",
+          "24"
+         ]
+        ],
+        [
+         "How many hours are in 1 day?",
+         "24",
+         [
+          "12",
+          "60"
+         ]
+        ],
+        [
+         "How many minutes are in 2 hours?",
+         "120",
+         [
+          "60",
+          "200"
+         ]
+        ],
+        [
+         "Half an hour is how many minutes?",
+         "30",
+         [
+          "50",
+          "15"
+         ]
+        ],
+        [
+         "From 2:00 to 3:00 is how long?",
+         "1 hour",
+         [
+          "1 minute",
+          "60 hours"
+         ]
+        ],
+        [
+         "A day and a night together last...",
+         "24 hours",
+         [
+          "12 hours",
+          "60 minutes"
+         ]
+        ],
+        [
+         "90 minutes is...",
+         "1 hour and 30 minutes",
+         [
+          "9 hours",
+          "1 hour and 9 minutes"
+         ]
+        ],
+        [
+         "A quarter of an hour is...",
+         "15 minutes",
+         [
+          "25 minutes",
+          "4 minutes"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "How many minutes are in an hour?",
+       "answers": [
+        "60",
+        "30",
+        "100"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "How many hours are in a day?",
+       "answers": [
+        "24",
+        "12",
+        "60"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "How long is it from 4:00 to 5:00?",
+       "answers": [
+        "1 hour",
+        "1 minute",
+        "4 hours"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
      "id": "mt_09sySPqM9Z",
      "title": "Fractions are built from unit fractions",
      "grade": 4,
@@ -1530,7 +2225,9 @@
      "strand": "g5-fractions",
      "goal": "I can place fractions on a number line.",
      "requires": [],
-     "recommends": [],
+     "recommends": [
+      "mt_YzM5goBctT"
+     ],
      "lesson": {
       "type": "video",
       "videoId": "Z0WsfO-RI8Y",
@@ -1899,6 +2596,604 @@
         "5/10"
        ],
        "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_TgHxujL81r",
+     "title": "Fraction times a whole number",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can work out 3 × 2/5 = 6/5.",
+     "requires": [
+      "mt_09sySPqM9Z"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "NnyzzkIVNSQ",
+      "channel": "Numberock",
+      "videoTitle": "Multiplying Fractions with Whole Numbers Song"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "5 × 4/5 = ?",
+         "20/5",
+         [
+          "20/25",
+          "4/25"
+         ]
+        ],
+        [
+         "2 × 3/6 = ?",
+         "6/6",
+         [
+          "6/12",
+          "3/12"
+         ]
+        ],
+        [
+         "3 × 2/6 = ?",
+         "6/6",
+         [
+          "6/18",
+          "2/18"
+         ]
+        ],
+        [
+         "2 × 2/5 = ?",
+         "4/5",
+         [
+          "4/10",
+          "2/10"
+         ]
+        ],
+        [
+         "4 × 2/8 = ?",
+         "8/8",
+         [
+          "8/32",
+          "2/32"
+         ]
+        ],
+        [
+         "3 × 3/6 = ?",
+         "9/6",
+         [
+          "9/18",
+          "3/18"
+         ]
+        ],
+        [
+         "4 × 3/6 = ?",
+         "12/6",
+         [
+          "12/24",
+          "3/24"
+         ]
+        ],
+        [
+         "2 × 2/3 = ?",
+         "4/3",
+         [
+          "4/6",
+          "2/6"
+         ]
+        ],
+        [
+         "6 × 2/8 = ?",
+         "12/8",
+         [
+          "12/48",
+          "2/48"
+         ]
+        ],
+        [
+         "6 × 2/3 = ?",
+         "12/3",
+         [
+          "12/18",
+          "2/18"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "To find 3/4 of 8 miles, multiply 8 by 3 and then...",
+       "answers": [
+        "divide by 4",
+        "add 4",
+        "divide by 3"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "5/6 of 12 blocks is how many blocks?",
+       "answers": [
+        "10",
+        "60",
+        "2"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "1/2 + 1/2 + 1/2 is the same as 1/2 × 3. What is it?",
+       "answers": [
+        "3/2, which is 1 and a half",
+        "3/6",
+        "1/6"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "3 × 2/5 = ?",
+       "answers": [
+        "6/5",
+        "6/15",
+        "2/15"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_FHIAv6dfhU",
+     "title": "Factors and multiples",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can find factor pairs and multiples of a number.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "1qPfLkOEuYY",
+      "channel": "Math with Mr. J",
+      "videoTitle": "Multiples vs. Factors | What are Multiples and Factors?"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Which is a factor of 16?",
+         "2",
+         [
+          "5",
+          "9"
+         ]
+        ],
+        [
+         "Which is a factor of 18?",
+         "2",
+         [
+          "4",
+          "8"
+         ]
+        ],
+        [
+         "Which is a factor of 36?",
+         "18",
+         [
+          "10",
+          "11"
+         ]
+        ],
+        [
+         "Which is a factor of 15?",
+         "3",
+         [
+          "8",
+          "9"
+         ]
+        ],
+        [
+         "Which is a factor of 20?",
+         "10",
+         [
+          "3",
+          "9"
+         ]
+        ],
+        [
+         "Which is a factor of 30?",
+         "5",
+         [
+          "9",
+          "4"
+         ]
+        ],
+        [
+         "Which is a factor of 28?",
+         "4",
+         [
+          "9",
+          "6"
+         ]
+        ],
+        [
+         "Which is a factor of 42?",
+         "21",
+         [
+          "5",
+          "10"
+         ]
+        ],
+        [
+         "Which is a factor of 24?",
+         "8",
+         [
+          "13",
+          "9"
+         ]
+        ],
+        [
+         "Which is a factor of 12?",
+         "4",
+         [
+          "5",
+          "7"
+         ]
+        ],
+        [
+         "Which is a multiple of 6?",
+         "36",
+         [
+          "19",
+          "28"
+         ]
+        ],
+        [
+         "Which is a multiple of 7?",
+         "21",
+         [
+          "22",
+          "33"
+         ]
+        ],
+        [
+         "Which is a multiple of 8?",
+         "24",
+         [
+          "25",
+          "38"
+         ]
+        ],
+        [
+         "Which is a multiple of 9?",
+         "36",
+         [
+          "28",
+          "43"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Which list shows multiples of 8?",
+       "answers": [
+        "8, 16, 24",
+        "1, 2, 4, 8",
+        "8, 18, 28"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which list shows the factors of 8?",
+       "answers": [
+        "1, 2, 4, 8",
+        "8, 16, 24",
+        "2, 3, 8"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Finding multiples is like...",
+       "answers": [
+        "skip counting",
+        "rounding",
+        "subtracting"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_b7T-CjOYUR",
+     "title": "Simplifying fractions",
+     "grade": 7,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can write a fraction in simplest form, like 6/8 = 3/4.",
+     "requires": [
+      "mt_ebPelt-qAl",
+      "mt_FHIAv6dfhU"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "U-1KjlJAA6M",
+      "channel": "Numberock",
+      "videoTitle": "Simplest Form Song: Simplifying Fractions"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Simplify 2/4.",
+         "1/2",
+         [
+          "1/3",
+          "1/4"
+         ]
+        ],
+        [
+         "Simplify 3/6.",
+         "1/2",
+         [
+          "2/5",
+          "1/6"
+         ]
+        ],
+        [
+         "Simplify 4/8.",
+         "1/2",
+         [
+          "3/7",
+          "1/8"
+         ]
+        ],
+        [
+         "Simplify 6/9.",
+         "2/3",
+         [
+          "5/8",
+          "2/9"
+         ]
+        ],
+        [
+         "Simplify 5/10.",
+         "1/2",
+         [
+          "4/9",
+          "1/10"
+         ]
+        ],
+        [
+         "Simplify 8/12.",
+         "2/3",
+         [
+          "7/11",
+          "2/12"
+         ]
+        ],
+        [
+         "Simplify 6/8.",
+         "3/4",
+         [
+          "5/7",
+          "3/8"
+         ]
+        ],
+        [
+         "Simplify 9/12.",
+         "3/4",
+         [
+          "8/11",
+          "3/12"
+         ]
+        ],
+        [
+         "Simplify 10/15.",
+         "2/3",
+         [
+          "9/14",
+          "2/15"
+         ]
+        ],
+        [
+         "Simplify 12/16.",
+         "3/4",
+         [
+          "11/15",
+          "3/16"
+         ]
+        ],
+        [
+         "Simplify 4/10.",
+         "2/5",
+         [
+          "3/9",
+          "2/10"
+         ]
+        ],
+        [
+         "Simplify 14/21.",
+         "2/3",
+         [
+          "13/20",
+          "2/21"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Simplify 6/8.",
+       "answers": [
+        "3/4",
+        "2/3",
+        "6/4"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "To simplify, divide the top and bottom by...",
+       "answers": [
+        "a common factor",
+        "different numbers",
+        "zero"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Is 1/2 in simplest form?",
+       "answers": [
+        "Yes",
+        "No",
+        "Only with a 2"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_AabJisinfi",
+     "title": "Multiplying two fractions",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-fractions",
+     "goal": "I can multiply fractions: 2/3 × 4/5 = 8/15.",
+     "requires": [
+      "mt_b7T-CjOYUR",
+      "mt_TgHxujL81r"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "alstJ37BoZo",
+      "channel": "Math with Mr. J",
+      "videoTitle": "How to Multiply Two Fractions | Multiplying Fractions"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "3/5 × 1/4 = ?",
+         "3/20",
+         [
+          "4/9",
+          "3/9"
+         ]
+        ],
+        [
+         "1/4 × 1/4 = ?",
+         "1/16",
+         [
+          "2/8",
+          "1/8"
+         ]
+        ],
+        [
+         "2/3 × 1/4 = ?",
+         "2/12",
+         [
+          "3/7",
+          "2/7"
+         ]
+        ],
+        [
+         "1/4 × 3/4 = ?",
+         "3/16",
+         [
+          "4/8",
+          "3/8"
+         ]
+        ],
+        [
+         "1/2 × 3/4 = ?",
+         "3/8",
+         [
+          "4/6",
+          "3/6"
+         ]
+        ],
+        [
+         "2/3 × 2/3 = ?",
+         "4/9",
+         [
+          "4/6"
+         ]
+        ],
+        [
+         "2/5 × 2/4 = ?",
+         "4/20",
+         [
+          "4/9"
+         ]
+        ],
+        [
+         "2/6 × 1/3 = ?",
+         "2/18",
+         [
+          "3/9",
+          "2/9"
+         ]
+        ],
+        [
+         "1/2 × 2/3 = ?",
+         "2/6",
+         [
+          "3/5",
+          "2/5"
+         ]
+        ],
+        [
+         "1/2 × 1/2 = ?",
+         "1/4",
+         [
+          "2/4"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "2/3 × 4/5 = ?",
+       "answers": [
+        "8/15",
+        "6/8",
+        "8/8"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "To multiply fractions, you multiply the numerators and...",
+       "answers": [
+        "the denominators",
+        "add the denominators",
+        "keep one denominator"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "1/2 × 1/2 = ?",
+       "answers": [
+        "1/4",
+        "1",
+        "2/4"
+       ],
+       "correct": 0
       }
      ]
     },
@@ -2387,6 +3682,3420 @@
         "Earth spins, so the Sun's place in the sky changes",
         "The Sun gets smaller",
         "Your body grows"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_PZ909yPrEC",
+     "title": "Equal groups",
+     "grade": 1,
+     "subject": "Mathematics",
+     "strand": "g2-arrays",
+     "goal": "I can add equal groups to find how many in all.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "gzFbUZ8VjEg",
+      "channel": "Numberock",
+      "videoTitle": "Equal Groups Multiplication Song | Repeated Addition Using Arrays"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "2 groups of 3. Which addition matches?",
+         "3 + 3",
+         [
+          "2 + 2 + 2",
+          "2 + 3"
+         ]
+        ],
+        [
+         "5 groups of 3. Which addition matches?",
+         "3 + 3 + 3 + 3 + 3",
+         [
+          "5 + 5 + 5",
+          "5 + 3"
+         ]
+        ],
+        [
+         "4 groups of 6. Which addition matches?",
+         "6 + 6 + 6 + 6",
+         [
+          "4 + 4 + 4 + 4 + 4 + 4",
+          "4 + 6"
+         ]
+        ],
+        [
+         "3 groups of 4. Which addition matches?",
+         "4 + 4 + 4",
+         [
+          "3 + 3 + 3 + 3",
+          "3 + 4"
+         ]
+        ],
+        [
+         "4 groups of 5. Which addition matches?",
+         "5 + 5 + 5 + 5",
+         [
+          "4 + 4 + 4 + 4 + 4",
+          "4 + 5"
+         ]
+        ],
+        [
+         "3 groups of 3. Which addition matches?",
+         "3 + 3 + 3",
+         [
+          "3 + 3 + 3 + 3",
+          "3 + 3"
+         ]
+        ],
+        [
+         "2 groups of 2. Which addition matches?",
+         "2 + 2",
+         [
+          "2 + 2 + 2"
+         ]
+        ],
+        [
+         "2 groups of 4. Which addition matches?",
+         "4 + 4",
+         [
+          "2 + 2 + 2 + 2",
+          "2 + 4"
+         ]
+        ],
+        [
+         "3 groups of 6. Which addition matches?",
+         "6 + 6 + 6",
+         [
+          "3 + 3 + 3 + 3 + 3 + 3",
+          "3 + 6"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "3 bags with 4 apples in each bag. How many apples?",
+       "answers": [
+        "7",
+        "12",
+        "34"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "Equal groups means every group has...",
+       "answers": [
+        "the same number",
+        "a different number",
+        "only one thing"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which addition shows 5 groups of 2?",
+       "answers": [
+        "5 + 2",
+        "2 + 2 + 2 + 2 + 2",
+        "5 + 5"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_LpSuPgL31x",
+     "title": "Sharing equally",
+     "grade": 3,
+     "subject": "Mathematics",
+     "strand": "g2-arrays",
+     "goal": "I can share things equally into groups.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "Sharing equally means everyone gets the same amount.",
+        "visual": {
+         "kind": "array",
+         "rows": 2,
+         "cols": 5
+        }
+       },
+       {
+        "text": "10 cookies shared by 2 friends: give one each, again and again. Each friend gets 5.",
+        "visual": {
+         "kind": "array",
+         "rows": 2,
+         "cols": 5
+        }
+       },
+       {
+        "text": "12 cookies in groups of 4: count 4, 8, 12. That makes 3 groups.",
+        "visual": {
+         "kind": "array",
+         "rows": 3,
+         "cols": 4
+        }
+       }
+      ]
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Share 10 cookies equally between 2 friends. How many each?",
+         "5",
+         [
+          "6",
+          "8",
+          "4"
+         ]
+        ],
+        [
+         "Share 12 cookies equally between 3 friends. How many each?",
+         "4",
+         [
+          "5",
+          "9",
+          "3"
+         ]
+        ],
+        [
+         "Share 8 cookies equally between 4 friends. How many each?",
+         "2",
+         [
+          "3",
+          "4",
+          "1"
+         ]
+        ],
+        [
+         "Share 15 cookies equally between 5 friends. How many each?",
+         "3",
+         [
+          "4",
+          "10",
+          "2"
+         ]
+        ],
+        [
+         "Share 6 cookies equally between 2 friends. How many each?",
+         "3",
+         [
+          "4",
+          "2"
+         ]
+        ],
+        [
+         "Share 16 cookies equally between 4 friends. How many each?",
+         "4",
+         [
+          "5",
+          "12",
+          "3"
+         ]
+        ],
+        [
+         "Share 9 cookies equally between 3 friends. How many each?",
+         "3",
+         [
+          "4",
+          "6",
+          "2"
+         ]
+        ],
+        [
+         "Share 20 cookies equally between 5 friends. How many each?",
+         "4",
+         [
+          "5",
+          "15",
+          "3"
+         ]
+        ],
+        [
+         "Share 14 cookies equally between 2 friends. How many each?",
+         "7",
+         [
+          "8",
+          "12",
+          "6"
+         ]
+        ],
+        [
+         "Share 18 cookies equally between 3 friends. How many each?",
+         "6",
+         [
+          "7",
+          "15",
+          "5"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "8 grapes shared equally by 2 children. How many each?",
+       "answers": [
+        "4",
+        "6",
+        "10"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Sharing equally means...",
+       "answers": [
+        "everyone gets the same",
+        "the biggest gets more",
+        "one person gets all"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "How many groups of 5 can you make from 15?",
+       "answers": [
+        "5",
+        "3",
+        "10"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_GRWwTDZ3wD",
+     "title": "Arrays",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-arrays",
+     "goal": "I can use rows and columns to find how many.",
+     "requires": [
+      "mt_LpSuPgL31x",
+      "mt_PZ909yPrEC"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "lRgKavUxvKY",
+      "channel": "MooMooMath and Science",
+      "videoTitle": "Array Multiplication ( Array Math )",
+      "displayChannel": "MooMooMath"
+     },
+     "practice": {
+      "kind": "array",
+      "params": {
+       "maxRows": 5,
+       "maxCols": 5,
+       "modes": [
+        "total"
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "An array has 3 rows with 5 in each row. How many in all?",
+       "answers": [
+        "8",
+        "15",
+        "35"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "In an array, rows go...",
+       "answers": [
+        "across (side to side)",
+        "up and down",
+        "in a circle"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "2 rows of 6 is the same total as...",
+       "answers": [
+        "6 rows of 2",
+        "2 rows of 2",
+        "8 rows of 6"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_B1zj1RwQ3a",
+     "title": "Arrays and adding",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-arrays",
+     "goal": "I can write an addition for an array, like 4 + 4 + 4 = 12.",
+     "requires": [
+      "mt_GRWwTDZ3wD",
+      "mt_PZ909yPrEC"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "interactive",
+      "teach": [
+       {
+        "text": "Each row in an array has the same number of dots.",
+        "visual": {
+         "kind": "array",
+         "rows": 3,
+         "cols": 4
+        }
+       },
+       {
+        "text": "3 rows of 4: add the rows. 4 + 4 + 4 = 12.",
+        "visual": {
+         "kind": "array",
+         "rows": 3,
+         "cols": 4
+        }
+       },
+       {
+        "text": "2 rows of 5: 5 + 5 = 10.",
+        "visual": {
+         "kind": "array",
+         "rows": 2,
+         "cols": 5
+        }
+       }
+      ]
+     },
+     "practice": {
+      "kind": "array",
+      "params": {
+       "maxRows": 5,
+       "maxCols": 5,
+       "modes": [
+        "sum",
+        "total"
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Which addition matches 4 rows of 3?",
+       "answers": [
+        "3 + 3 + 3 + 3",
+        "4 + 3",
+        "4 + 4 + 4 + 4"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "5 + 5 + 5 = ?",
+       "answers": [
+        "10",
+        "15",
+        "555"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "An array with 2 rows of 4 has how many?",
+       "answers": [
+        "6",
+        "8",
+        "24"
+       ],
+       "correct": 1
+      }
+     ]
+    },
+    {
+     "id": "mt_UTnDKQkVX5",
+     "title": "Rows and columns of squares",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-arrays",
+     "goal": "I can split a rectangle into equal squares and count them.",
+     "requires": [
+      "mt_B1zj1RwQ3a"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "8AdcPD50aTQ",
+      "channel": "Khan Academy",
+      "videoTitle": "Partitioning rectangles"
+     },
+     "practice": {
+      "kind": "array",
+      "params": {
+       "maxRows": 5,
+       "maxCols": 5,
+       "modes": [
+        "total",
+        "sum"
+       ],
+       "squares": true
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "A rectangle has 2 rows and 5 columns of squares. How many squares?",
+       "answers": [
+        "7",
+        "10",
+        "25"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "A row goes...",
+       "answers": [
+        "from left to right",
+        "from top to bottom",
+        "around the edge"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "The squares in a split rectangle should be...",
+       "answers": [
+        "the same size",
+        "different sizes",
+        "circles"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_cqSf213hSa",
+     "title": "What is length?",
+     "grade": 1,
+     "subject": "Mathematics",
+     "strand": "g2-length",
+     "goal": "I can measure how long something is with units.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "2wUsdsae0ro",
+      "channel": "Scratch Garden",
+      "videoTitle": "Measuring! | Mini Math Movies"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Which tool is best for measuring a pencil?",
+         "A ruler",
+         [
+          "A clock",
+          "A scale"
+         ]
+        ],
+        [
+         "Where do you line up the end of the object on a ruler?",
+         "At 0",
+         [
+          "At 1",
+          "At the middle"
+         ]
+        ],
+        [
+         "Which is longer?",
+         "1 meter",
+         [
+          "1 centimeter",
+          "1 inch"
+         ]
+        ],
+        [
+         "Which tool is best for measuring a room?",
+         "A measuring tape",
+         [
+          "A cup",
+          "A ruler marked only to 6 inches"
+         ]
+        ],
+        [
+         "How many inches are in a foot?",
+         "12",
+         [
+          "10",
+          "100"
+         ]
+        ],
+        [
+         "How many centimeters are in a meter?",
+         "100",
+         [
+          "10",
+          "12"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "Length tells us...",
+       "answers": [
+        "how long something is",
+        "how heavy something is",
+        "how hot something is"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "When you measure with units, they should...",
+       "answers": [
+        "touch end to end, not overlap",
+        "have big spaces between",
+        "pile on top of each other"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which is a unit of length?",
+       "answers": [
+        "inch",
+        "pound",
+        "hour"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_e4x3l2JeLI",
+     "title": "Using a ruler",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-length",
+     "goal": "I can choose a tool and measure in inches, feet, centimeters and meters.",
+     "requires": [
+      "mt_cqSf213hSa"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "muC7HMIEYDU",
+      "channel": "Khan Academy",
+      "videoTitle": "Measuring lengths 2 | Measurement and data | Early Math"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Which tool is best for measuring a pencil?",
+         "A ruler",
+         [
+          "A clock",
+          "A scale"
+         ]
+        ],
+        [
+         "Where do you line up the end of the object on a ruler?",
+         "At 0",
+         [
+          "At 1",
+          "At the middle"
+         ]
+        ],
+        [
+         "Which is longer?",
+         "1 meter",
+         [
+          "1 centimeter",
+          "1 inch"
+         ]
+        ],
+        [
+         "Which tool is best for measuring a room?",
+         "A measuring tape",
+         [
+          "A cup",
+          "A ruler marked only to 6 inches"
+         ]
+        ],
+        [
+         "A crayon starts at 0 and ends at 9 on a centimeter ruler. How long is it?",
+         "9 cm",
+         [
+          "10 cm",
+          "8 cm"
+         ]
+        ],
+        [
+         "A ribbon starts at 2 and ends at 7 on an inch ruler. How long is it?",
+         "5 inches",
+         [
+          "7 inches",
+          "9 inches"
+         ]
+        ],
+        [
+         "A pencil starts at 3 and ends at 10 on a centimeter ruler. How long is it?",
+         "7 cm",
+         [
+          "10 cm",
+          "13 cm"
+         ]
+        ],
+        [
+         "Which unit would you use for the length of a bed?",
+         "Feet",
+         [
+          "Centimeters of a bug",
+          "Hours"
+         ]
+        ],
+        [
+         "How many inches are in a foot?",
+         "12",
+         [
+          "10",
+          "100"
+         ]
+        ],
+        [
+         "How many centimeters are in a meter?",
+         "100",
+         [
+          "10",
+          "12"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "A key goes from 0 to 6 on a centimeter ruler. How long is it?",
+       "answers": [
+        "5 cm",
+        "6 cm",
+        "7 cm"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "A leaf goes from 2 to 8 on a ruler. How many units long?",
+       "answers": [
+        "6",
+        "8",
+        "10"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which is the best tool to measure a book?",
+       "answers": [
+        "ruler",
+        "thermometer",
+        "clock"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_xWg0lI_gG4",
+     "title": "How much longer?",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-length",
+     "goal": "I can measure two things and find how much longer one is.",
+     "requires": [
+      "mt_e4x3l2JeLI"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "o-D-8B_5ibU",
+      "channel": "Khan Academy",
+      "videoTitle": "Comparing lengths | Measurement and data | Early Math"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "A rope is 35 cm. A string is 55 cm. How much longer is the string?",
+         "20 cm",
+         [
+          "90 cm",
+          "30 cm"
+         ]
+        ],
+        [
+         "A rope is 30 cm. A string is 64 cm. How much longer is the string?",
+         "34 cm",
+         [
+          "94 cm",
+          "44 cm"
+         ]
+        ],
+        [
+         "A rope is 10 cm. A string is 72 cm. How much longer is the string?",
+         "62 cm",
+         [
+          "82 cm",
+          "72 cm"
+         ]
+        ],
+        [
+         "A rope is 17 inches. A string is 78 inches. How much longer is the string?",
+         "61 inches",
+         [
+          "95 inches",
+          "71 inches"
+         ]
+        ],
+        [
+         "A rope is 21 cm. A string is 43 cm. How much longer is the string?",
+         "22 cm",
+         [
+          "64 cm",
+          "32 cm"
+         ]
+        ],
+        [
+         "A rope is 26 inches. A string is 54 inches. How much longer is the string?",
+         "28 inches",
+         [
+          "80 inches",
+          "38 inches"
+         ]
+        ],
+        [
+         "A rope is 19 inches. A string is 89 inches. How much longer is the string?",
+         "70 inches",
+         [
+          "108 inches",
+          "80 inches"
+         ]
+        ],
+        [
+         "A rope is 6 inches. A string is 82 inches. How much longer is the string?",
+         "76 inches",
+         [
+          "88 inches",
+          "86 inches"
+         ]
+        ],
+        [
+         "A rope is 15 cm. A string is 87 cm. How much longer is the string?",
+         "72 cm",
+         [
+          "102 cm",
+          "82 cm"
+         ]
+        ],
+        [
+         "A rope is 13 cm. A string is 73 cm. How much longer is the string?",
+         "60 cm",
+         [
+          "86 cm",
+          "70 cm"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "A pencil is 15 cm. A crayon is 9 cm. How much longer is the pencil?",
+       "answers": [
+        "6 cm",
+        "24 cm",
+        "9 cm"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "To find how much longer, you...",
+       "answers": [
+        "subtract the lengths",
+        "add the lengths",
+        "count the colors"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A worm is 7 inches. A snake is 20 inches. How much longer is the snake?",
+       "answers": [
+        "13 inches",
+        "27 inches",
+        "7 inches"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_OzRZ89GrQW",
+     "title": "Estimating length",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-length",
+     "goal": "I can make a good guess of a length, then check it.",
+     "requires": [
+      "mt_cqSf213hSa"
+     ],
+     "recommends": [
+      "mt_e4x3l2JeLI"
+     ],
+     "lesson": {
+      "type": "video",
+      "videoId": "0B91xPrwcPE",
+      "channel": "Khan Academy",
+      "videoTitle": "Estimating lengths | Measurement and data | Early Math"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "About how long is a new crayon?",
+         "About 9 cm",
+         [
+          "About 9 m",
+          "About 90 cm"
+         ]
+        ],
+        [
+         "About how long is a car?",
+         "About 4 meters",
+         [
+          "About 4 cm",
+          "About 40 meters"
+         ]
+        ],
+        [
+         "About how tall is a door?",
+         "About 2 meters",
+         [
+          "About 2 cm",
+          "About 20 meters"
+         ]
+        ],
+        [
+         "About how wide is your finger?",
+         "About 1 cm",
+         [
+          "About 1 m",
+          "About 10 cm"
+         ]
+        ],
+        [
+         "About how long is a pencil?",
+         "About 7 inches",
+         [
+          "About 7 feet",
+          "About 70 inches"
+         ]
+        ],
+        [
+         "About how long is a school bus?",
+         "About 40 feet",
+         [
+          "About 40 inches",
+          "About 4 inches"
+         ]
+        ],
+        [
+         "About how long is a paper clip?",
+         "About 1 inch",
+         [
+          "About 1 foot",
+          "About 10 inches"
+         ]
+        ],
+        [
+         "About how tall is an adult?",
+         "About 6 feet",
+         [
+          "About 6 inches",
+          "About 60 feet"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "An estimate is...",
+       "answers": [
+        "a careful guess",
+        "an exact measurement",
+        "a wild guess"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A 1-inch block fits about 4 times along a toy car. The car is about...",
+       "answers": [
+        "4 inches",
+        "1 inch",
+        "40 inches"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "About how long is a crayon?",
+       "answers": [
+        "9 centimeters",
+        "9 meters",
+        "90 meters"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_jHv4BgRK8B",
+     "title": "Different units",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-length",
+     "goal": "I can measure with two units and explain why the numbers differ.",
+     "requires": [
+      "mt_e4x3l2JeLI"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "9dur4s-4lhk",
+      "channel": "Khan Academy",
+      "videoTitle": "Measuring lengths in different units"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "A desk is 60 cm or 24 inches long. Why is the cm number bigger?",
+         "A centimeter is smaller",
+         [
+          "A centimeter is bigger",
+          "The desk grew"
+         ]
+        ],
+        [
+         "Which takes more to measure a book: paper clips or pencils?",
+         "Paper clips",
+         [
+          "Pencils",
+          "The same"
+         ]
+        ],
+        [
+         "Smaller unit means...",
+         "a bigger number",
+         [
+          "a smaller number",
+          "the same number"
+         ]
+        ],
+        [
+         "A rug is 3 feet long. In inches it would be...",
+         "more than 3",
+         [
+          "less than 3",
+          "exactly 3"
+         ]
+        ],
+        [
+         "Which is a bigger unit?",
+         "Foot",
+         [
+          "Inch",
+          "Centimeter"
+         ]
+        ],
+        [
+         "A table is 2 meters. In centimeters it is...",
+         "200 cm",
+         [
+          "2 cm",
+          "20 cm"
+         ]
+        ]
+       ]
+      },
+      "count": 5,
+      "passCount": 4
+     },
+     "questions": [
+      {
+       "q": "A rectangle is 10 paper clips or 30 centimeters wide. Which unit is smaller?",
+       "answers": [
+        "the centimeter",
+        "the paper clip",
+        "they are the same"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "When the unit is smaller, the number is...",
+       "answers": [
+        "bigger",
+        "smaller",
+        "zero"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Did the rectangle change size when measured two ways?",
+       "answers": [
+        "No",
+        "Yes, it grew",
+        "Yes, it shrank"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_DLcEzmmj2r",
+     "title": "Length word problems",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-length",
+     "goal": "I can solve length stories with adding and subtracting.",
+     "requires": [
+      "mt_xWg0lI_gG4"
+     ],
+     "recommends": [
+      "mt_cChv2j_-Da"
+     ],
+     "lesson": {
+      "type": "video",
+      "videoId": "Ei5mgFtUGns",
+      "channel": "Khan Academy",
+      "videoTitle": "Length word problems | Measurement and data | Early Math"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "A rope is 75 cm. You cut off 17 cm. How long is it now?",
+         "58 cm",
+         [
+          "92 cm",
+          "68 cm"
+         ]
+        ],
+        [
+         "A path is 63 m. Then 8 m more is added. How long now?",
+         "71 m",
+         [
+          "55 m",
+          "81 m"
+         ]
+        ],
+        [
+         "A rope is 71 cm. You cut off 9 cm. How long is it now?",
+         "62 cm",
+         [
+          "80 cm",
+          "72 cm"
+         ]
+        ],
+        [
+         "A path is 51 m. Then 6 m more is added. How long now?",
+         "57 m",
+         [
+          "45 m",
+          "67 m"
+         ]
+        ],
+        [
+         "A path is 43 m. Then 10 m more is added. How long now?",
+         "53 m",
+         [
+          "33 m",
+          "63 m"
+         ]
+        ],
+        [
+         "A path is 57 m. Then 6 m more is added. How long now?",
+         "63 m",
+         [
+          "51 m",
+          "73 m"
+         ]
+        ],
+        [
+         "A path is 46 m. Then 23 m more is added. How long now?",
+         "69 m",
+         [
+          "23 m",
+          "79 m"
+         ]
+        ],
+        [
+         "A path is 70 m. Then 15 m more is added. How long now?",
+         "85 m",
+         [
+          "55 m",
+          "95 m"
+         ]
+        ],
+        [
+         "A path is 58 m. Then 20 m more is added. How long now?",
+         "78 m",
+         [
+          "38 m",
+          "88 m"
+         ]
+        ],
+        [
+         "A rope is 56 cm. You cut off 12 cm. How long is it now?",
+         "44 cm",
+         [
+          "68 cm",
+          "54 cm"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "A blue line is 58 cm. A pink line is 14 cm longer. How long is the pink line?",
+       "answers": [
+        "44 cm",
+        "72 cm",
+        "14 cm"
+       ],
+       "correct": 1
+      },
+      {
+       "q": "A ribbon is 45 cm. You cut off 18 cm. How long is it now?",
+       "answers": [
+        "27 cm",
+        "63 cm",
+        "33 cm"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Drawing a picture of the lengths helps you...",
+       "answers": [
+        "see whether to add or subtract",
+        "skip the math",
+        "change the numbers"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_VhBH8wrFC6",
+     "title": "Picture graphs and bar graphs",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-graphs-shapes",
+     "goal": "I can read a bar graph and answer how many more.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "bmY28wdGL9M",
+      "channel": "Learn Bright",
+      "videoTitle": "Graphs | Learn all about basic graphs"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Votes: cats 8, dogs 3, fish 6. How many more votes for cats than fish?",
+         "2",
+         [
+          "14",
+          "3"
+         ]
+        ],
+        [
+         "Votes: red 8, blue 3, green 6. How many votes in all?",
+         "17",
+         [
+          "11",
+          "19"
+         ]
+        ],
+        [
+         "Votes: cats 9, dogs 3, fish 4. How many more votes for cats than fish?",
+         "5",
+         [
+          "13",
+          "6"
+         ]
+        ],
+        [
+         "Votes: red 9, blue 3, green 4. How many votes in all?",
+         "16",
+         [
+          "12",
+          "18"
+         ]
+        ],
+        [
+         "Votes: cats 2, dogs 8, fish 5. How many more votes for fish than cats?",
+         "3",
+         [
+          "7",
+          "4"
+         ]
+        ],
+        [
+         "Votes: red 2, blue 8, green 5. How many votes in all?",
+         "15",
+         [
+          "10",
+          "17"
+         ]
+        ],
+        [
+         "Votes: cats 5, dogs 9, fish 2. How many more votes for cats than fish?",
+         "3",
+         [
+          "7",
+          "4"
+         ]
+        ],
+        [
+         "Votes: red 5, blue 9, green 2. How many votes in all?",
+         "16",
+         [
+          "14",
+          "18"
+         ]
+        ],
+        [
+         "Votes: cats 8, dogs 3, fish 5. How many more votes for cats than fish?",
+         "3",
+         [
+          "13",
+          "4"
+         ]
+        ],
+        [
+         "Votes: red 8, blue 3, green 5. How many votes in all?",
+         "16",
+         [
+          "11",
+          "18"
+         ]
+        ],
+        [
+         "Votes: cats 8, dogs 6, fish 2. How many more votes for cats than fish?",
+         "6",
+         [
+          "10",
+          "7"
+         ]
+        ],
+        [
+         "Votes: red 8, blue 6, green 2. How many votes in all?",
+         "16",
+         [
+          "14",
+          "18"
+         ]
+        ],
+        [
+         "Votes: cats 8, dogs 7, fish 5. How many more votes for cats than fish?",
+         "3",
+         [
+          "13",
+          "4"
+         ]
+        ],
+        [
+         "Votes: red 8, blue 7, green 5. How many votes in all?",
+         "20",
+         [
+          "15",
+          "22"
+         ]
+        ],
+        [
+         "Votes: cats 4, dogs 2, fish 6. How many more votes for fish than cats?",
+         "2",
+         [
+          "10",
+          "3"
+         ]
+        ],
+        [
+         "Votes: red 4, blue 2, green 6. How many votes in all?",
+         "12",
+         [
+          "6",
+          "14"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "A pictograph shows information with...",
+       "answers": [
+        "pictures",
+        "clocks",
+        "coins"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "In the video's pictograph, one smiley face equals 5 votes. How many votes do 3 smiley faces show?",
+       "answers": [
+        "15",
+        "3",
+        "8"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A bar graph shows the same information using...",
+       "answers": [
+        "bars instead of pictures",
+        "only words",
+        "music"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Apples 7, bananas 3. How many more apples than bananas?",
+       "answers": [
+        "4",
+        "10",
+        "3"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_zuOGOGFAKb",
+     "title": "Naming shapes by sides",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-graphs-shapes",
+     "goal": "I can name triangles, quadrilaterals, pentagons and hexagons.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "DUGkQMLowXA",
+      "channel": "Smile and Learn - English",
+      "videoTitle": "Polygons - Geometry for Kids",
+      "displayChannel": "Smile and Learn"
+     },
+     "practice": {
+      "kind": "sort",
+      "params": {
+       "bins": [
+        "Triangle",
+        "Quadrilateral",
+        "Pentagon",
+        "Hexagon"
+       ],
+       "items": [
+        [
+         "a shape with 3 sides",
+         0
+        ],
+        [
+         "a shape with 4 sides",
+         1
+        ],
+        [
+         "a shape with 5 sides",
+         2
+        ],
+        [
+         "a shape with 6 sides",
+         3
+        ],
+        [
+         "a square",
+         1
+        ],
+        [
+         "a shape with 6 corners",
+         3
+        ],
+        [
+         "a rectangle",
+         1
+        ],
+        [
+         "a shape with 3 corners",
+         0
+        ],
+        [
+         "a shape with 5 corners",
+         2
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "How many sides does a pentagon have?",
+       "answers": [
+        "5",
+        "6",
+        "4"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Is a circle a polygon?",
+       "answers": [
+        "No, it has a curved side",
+        "Yes",
+        "Only if it is big"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A shape with 6 sides is a...",
+       "answers": [
+        "hexagon",
+        "pentagon",
+        "triangle"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_Xp-rj46S2w",
+     "title": "Halves, thirds and fourths",
+     "grade": 2,
+     "subject": "Mathematics",
+     "strand": "g2-graphs-shapes",
+     "goal": "I can cut shapes into 2, 3 or 4 equal shares.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "Hy6rE0V2aQ4",
+      "channel": "Learn Bright",
+      "videoTitle": "Equal Parts for Kids | Teach your kids how to divide equally"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Which shows halves?",
+         "2 equal parts",
+         [
+          "2 unequal parts",
+          "3 equal parts"
+         ],
+         {
+          "kind": "fractionBars",
+          "parts": [
+           1
+          ],
+          "den": 2
+         }
+        ],
+        [
+         "A pizza cut into 3 equal parts. Each part is a...",
+         "third",
+         [
+          "half",
+          "fourth"
+         ],
+         {
+          "kind": "fractionBars",
+          "parts": [
+           1
+          ],
+          "den": 3
+         }
+        ],
+        [
+         "A sandwich cut into 4 equal parts. Each part is a...",
+         "fourth",
+         [
+          "third",
+          "half"
+         ],
+         {
+          "kind": "fractionBars",
+          "parts": [
+           1
+          ],
+          "den": 4
+         }
+        ],
+        [
+         "How many halves make a whole?",
+         "2",
+         [
+          "3",
+          "4"
+         ],
+         {
+          "kind": "fractionBars",
+          "parts": [
+           2
+          ],
+          "den": 2
+         }
+        ],
+        [
+         "How many thirds make a whole?",
+         "3",
+         [
+          "2",
+          "4"
+         ],
+         {
+          "kind": "fractionBars",
+          "parts": [
+           3
+          ],
+          "den": 3
+         }
+        ],
+        [
+         "How many fourths make a whole?",
+         "4",
+         [
+          "3",
+          "2"
+         ],
+         {
+          "kind": "fractionBars",
+          "parts": [
+           4
+          ],
+          "den": 4
+         }
+        ],
+        [
+         "Which piece is bigger?",
+         "a half",
+         [
+          "a fourth",
+          "a third"
+         ]
+        ],
+        [
+         "Two halves of the same paper look different. Are they the same size?",
+         "Yes, if each is half",
+         [
+          "No, never",
+          "Only if they are squares"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "A half means the whole is cut into...",
+       "answers": [
+        "2 equal parts",
+        "2 parts of any size",
+        "4 equal parts"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A circle cut into 4 equal parts shows...",
+       "answers": [
+        "fourths",
+        "thirds",
+        "halves"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Equal shares must be...",
+       "answers": [
+        "the same size",
+        "different sizes",
+        "the same color"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_YzM5goBctT",
+     "title": "Tenths",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-decimals",
+     "goal": "I can show tenths as 1 whole cut into 10 equal parts.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "asOD7H6C8ig",
+      "channel": "Math with Mr. J",
+      "videoTitle": "Decimal Models: Tenths"
+     },
+     "practice": {
+      "kind": "numberLine",
+      "params": {
+       "dens": [
+        10
+       ],
+       "range": [
+        0,
+        1
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "One whole split into 10 equal parts. Each part is...",
+       "answers": [
+        "one tenth",
+        "one hundredth",
+        "one half"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "0.7 is the same as...",
+       "answers": [
+        "7/10",
+        "7/100",
+        "70"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "How many tenths make one whole?",
+       "answers": [
+        "10",
+        "100",
+        "1"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_TqDq6jyOmL",
+     "title": "Tenths and hundredths as decimals",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-decimals",
+     "goal": "I can write 3/10 as 0.3 and 27/100 as 0.27.",
+     "requires": [],
+     "recommends": [
+      "mt_aPBzD28_mT"
+     ],
+     "lesson": {
+      "type": "video",
+      "videoId": "ibR_iBxnITE",
+      "channel": "Math with Mr. J",
+      "videoTitle": "Writing Tenths and Hundredths (Decimals and Fractions)"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "76/100 as a decimal is...",
+         "0.76",
+         [
+          "76.0",
+          "0.076"
+         ]
+        ],
+        [
+         "74/100 as a decimal is...",
+         "0.74",
+         [
+          "74.0",
+          "0.074"
+         ]
+        ],
+        [
+         "9/10 as a decimal is...",
+         "0.9",
+         [
+          "0.09",
+          "9.0"
+         ]
+        ],
+        [
+         "8/10 as a decimal is...",
+         "0.8",
+         [
+          "0.08",
+          "8.0"
+         ]
+        ],
+        [
+         "1/10 as a decimal is...",
+         "0.1",
+         [
+          "0.01",
+          "1.0"
+         ]
+        ],
+        [
+         "91/100 as a decimal is...",
+         "0.91",
+         [
+          "91.0",
+          "0.091"
+         ]
+        ],
+        [
+         "75/100 as a decimal is...",
+         "0.75",
+         [
+          "75.0",
+          "0.075"
+         ]
+        ],
+        [
+         "82/100 as a decimal is...",
+         "0.82",
+         [
+          "82.0",
+          "0.082"
+         ]
+        ],
+        [
+         "7/10 as a decimal is...",
+         "0.7",
+         [
+          "0.07",
+          "7.0"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "3/10 as a decimal is...",
+       "answers": [
+        "0.3",
+        "0.03",
+        "3.0"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "27/100 as a decimal is...",
+       "answers": [
+        "0.27",
+        "2.7",
+        "0.027"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "The second digit after the decimal point is the...",
+       "answers": [
+        "hundredths place",
+        "tenths place",
+        "ones place"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_Fl7b8q9pI1",
+     "title": "Rounding to a whole number",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-decimals",
+     "goal": "I can round 3.7 to 4 and 3.2 to 3.",
+     "requires": [
+      "mt_TqDq6jyOmL"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "FZhWVy8INyk",
+      "channel": "Math with Mr. J",
+      "videoTitle": "Rounding to the Nearest Whole Number with Decimals"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Round 27.8 to the nearest whole number.",
+         "28",
+         [
+          "27",
+          "278"
+         ]
+        ],
+        [
+         "Round 2.1 to the nearest whole number.",
+         "2",
+         [
+          "3",
+          "21"
+         ]
+        ],
+        [
+         "Round 1.0 to the nearest whole number.",
+         "1",
+         [
+          "2",
+          "10"
+         ]
+        ],
+        [
+         "Round 18.7 to the nearest whole number.",
+         "19",
+         [
+          "18",
+          "187"
+         ]
+        ],
+        [
+         "Round 19.2 to the nearest whole number.",
+         "19",
+         [
+          "20",
+          "192"
+         ]
+        ],
+        [
+         "Round 29.1 to the nearest whole number.",
+         "29",
+         [
+          "30",
+          "291"
+         ]
+        ],
+        [
+         "Round 20.4 to the nearest whole number.",
+         "20",
+         [
+          "21",
+          "204"
+         ]
+        ],
+        [
+         "Round 28.2 to the nearest whole number.",
+         "28",
+         [
+          "29",
+          "282"
+         ]
+        ],
+        [
+         "Round 12.5 to the nearest whole number.",
+         "13",
+         [
+          "12",
+          "125"
+         ]
+        ],
+        [
+         "Round 19.5 to the nearest whole number.",
+         "20",
+         [
+          "19",
+          "195"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Round 5.3 to the nearest whole number.",
+       "answers": [
+        "5",
+        "6",
+        "5.3"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "To round to the nearest whole, look at the...",
+       "answers": [
+        "tenths digit",
+        "ones digit only",
+        "last digit of the page"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Round 8.5 to the nearest whole number.",
+       "answers": [
+        "9",
+        "8",
+        "85"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_Ii1hV4V5ql",
+     "title": "Rounding to a tenth",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-decimals",
+     "goal": "I can round 3.47 to 3.5.",
+     "requires": [
+      "mt_Fl7b8q9pI1"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "32gDF10ZXOA",
+      "channel": "Math with Mr. J",
+      "videoTitle": "Rounding Decimals | Round to the Nearest Tenth"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Round 3.11 to the nearest tenth.",
+         "3.1",
+         [
+          "3.2",
+          "3"
+         ]
+        ],
+        [
+         "Round 8.67 to the nearest tenth.",
+         "8.7",
+         [
+          "8.6",
+          "8"
+         ]
+        ],
+        [
+         "Round 4.80 to the nearest tenth.",
+         "4.8",
+         [
+          "4.9",
+          "4"
+         ]
+        ],
+        [
+         "Round 15.59 to the nearest tenth.",
+         "15.6",
+         [
+          "15.5",
+          "15"
+         ]
+        ],
+        [
+         "Round 19.56 to the nearest tenth.",
+         "19.6",
+         [
+          "19.5",
+          "19"
+         ]
+        ],
+        [
+         "Round 6.53 to the nearest tenth.",
+         "6.5",
+         [
+          "6.6",
+          "6"
+         ]
+        ],
+        [
+         "Round 16.58 to the nearest tenth.",
+         "16.6",
+         [
+          "16.5",
+          "16"
+         ]
+        ],
+        [
+         "Round 3.75 to the nearest tenth.",
+         "3.8",
+         [
+          "3.7",
+          "3"
+         ]
+        ],
+        [
+         "Round 6.47 to the nearest tenth.",
+         "6.5",
+         [
+          "6.4",
+          "6"
+         ]
+        ],
+        [
+         "Round 16.36 to the nearest tenth.",
+         "16.4",
+         [
+          "16.3",
+          "16"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Round 3.47 to the nearest tenth.",
+       "answers": [
+        "3.5",
+        "3.4",
+        "3.0"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "When rounding, you look next door to the...",
+       "answers": [
+        "right",
+        "left",
+        "top"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "If the digit next door is 5 or more, you...",
+       "answers": [
+        "round up",
+        "stay the same",
+        "make it zero and stop"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_IegHBHERVa",
+     "title": "Decimal place value",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-decimals",
+     "goal": "I can name the tenths and hundredths digits in a decimal.",
+     "requires": [
+      "mt_TqDq6jyOmL"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "fxCXHQBUidU",
+      "channel": "Numberock",
+      "videoTitle": "Decimal Place Value Song | Tenths and Hundredths | 5th Grade"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "In 7.91, which digit is in the ones place?",
+         "7",
+         [
+          "9",
+          "1"
+         ]
+        ],
+        [
+         "In 6.58, which digit is in the tenths place?",
+         "5",
+         [
+          "6",
+          "8"
+         ]
+        ],
+        [
+         "In 3.92, which digit is in the ones place?",
+         "3",
+         [
+          "9",
+          "2"
+         ]
+        ],
+        [
+         "In 9.92, which digit is in the hundredths place?",
+         "2",
+         [
+          "9"
+         ]
+        ],
+        [
+         "In 1.17, which digit is in the ones place?",
+         "1",
+         [
+          "7"
+         ]
+        ],
+        [
+         "In 5.59, which digit is in the ones place?",
+         "5",
+         [
+          "9"
+         ]
+        ],
+        [
+         "In 2.67, which digit is in the tenths place?",
+         "6",
+         [
+          "2",
+          "7"
+         ]
+        ],
+        [
+         "In 9.37, which digit is in the tenths place?",
+         "3",
+         [
+          "9",
+          "7"
+         ]
+        ],
+        [
+         "In 7.89, which digit is in the ones place?",
+         "7",
+         [
+          "8",
+          "9"
+         ]
+        ],
+        [
+         "In 8.63, which digit is in the tenths place?",
+         "6",
+         [
+          "8",
+          "3"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "In 4.68, which digit is in the tenths place?",
+       "answers": [
+        "6",
+        "8",
+        "4"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "In 4.68, the 8 is worth...",
+       "answers": [
+        "8 hundredths",
+        "8 tenths",
+        "8 ones"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "The first place to the right of the decimal point is the...",
+       "answers": [
+        "tenths",
+        "hundredths",
+        "tens"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_933BohS9BH",
+     "title": "Comparing decimals",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-decimals",
+     "goal": "I can compare decimals like 0.45 and 0.5.",
+     "requires": [
+      "mt_IegHBHERVa"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "RHUl4kZDD6c",
+      "channel": "Numberock",
+      "videoTitle": "Comparing Decimals | Less Than and Greater Than Decimals | Grades 4-6"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Which sign goes in the middle?   0.92  ?  0.5",
+         ">",
+         [
+          "<",
+          "="
+         ]
+        ],
+        [
+         "Which sign goes in the middle?   0.87  ?  0.37",
+         ">",
+         [
+          "<",
+          "="
+         ]
+        ],
+        [
+         "Which sign goes in the middle?   0.77  ?  0.8",
+         "<",
+         [
+          "=",
+          ">"
+         ]
+        ],
+        [
+         "Which sign goes in the middle?   0.85  ?  0.01",
+         ">",
+         [
+          "<",
+          "="
+         ]
+        ],
+        [
+         "Which sign goes in the middle?   0.50  ?  0.42",
+         ">",
+         [
+          "<",
+          "="
+         ]
+        ],
+        [
+         "Which sign goes in the middle?   0.18  ?  0.77",
+         "<",
+         [
+          "=",
+          ">"
+         ]
+        ],
+        [
+         "Which sign goes in the middle?   0.01  ?  0.1",
+         "<",
+         [
+          "=",
+          ">"
+         ]
+        ],
+        [
+         "Which sign goes in the middle?   0.48  ?  0.67",
+         "<",
+         [
+          "=",
+          ">"
+         ]
+        ],
+        [
+         "Which sign goes in the middle?   0.67  ?  0.7",
+         "<",
+         [
+          "=",
+          ">"
+         ]
+        ],
+        [
+         "Which sign goes in the middle?   0.11  ?  0.6",
+         "<",
+         [
+          "=",
+          ">"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Which is greater: 0.5 or 0.45?",
+       "answers": [
+        "0.5",
+        "0.45",
+        "they are equal"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "To compare decimals, first line up the...",
+       "answers": [
+        "decimal points",
+        "last digits",
+        "first and last digits"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "0.7 and 0.70 are...",
+       "answers": [
+        "equal",
+        "different",
+        "not numbers"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_QqG6IdmTSE",
+     "title": "Each place is 10 times bigger",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-decimals",
+     "goal": "I can explain that a digit is worth 10 times more one place to the left.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "dZPOCU10TqY",
+      "channel": "Khan Academy",
+      "videoTitle": "Comparing place values | Arithmetic properties | Pre-Algebra"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "The 3 in 3,000 is how many times the 3 in 300?",
+         "10",
+         [
+          "100",
+          "3"
+         ]
+        ],
+        [
+         "700 ÷ 70 = ?",
+         "10",
+         [
+          "100",
+          "7"
+         ]
+        ],
+        [
+         "The 5 in 50,000 is how many times the 5 in 5,000?",
+         "10",
+         [
+          "5",
+          "1,000"
+         ]
+        ],
+        [
+         "Moving one place to the left makes a digit worth...",
+         "10 times as much",
+         [
+          "half as much",
+          "the same"
+         ]
+        ],
+        [
+         "The value of the 4 in 4,200 is...",
+         "4,000",
+         [
+          "400",
+          "40"
+         ]
+        ],
+        [
+         "The value of the 6 in 960 is...",
+         "60",
+         [
+          "600",
+          "6"
+         ]
+        ],
+        [
+         "80 is how many times 8?",
+         "10",
+         [
+          "100",
+          "8"
+         ]
+        ],
+        [
+         "The 2 in 520 is worth...",
+         "20",
+         [
+          "200",
+          "2"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "The 3 in 300 is how many times the 3 in 30?",
+       "answers": [
+        "10",
+        "100",
+        "3"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Each place is worth ___ times the place to its right.",
+       "answers": [
+        "10",
+        "2",
+        "100"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "400 ÷ 40 = ?",
+       "answers": [
+        "10",
+        "100",
+        "4"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_EDgw64OmfA",
+     "title": "Times 10 and divided by 10",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-decimals",
+     "goal": "I can multiply and divide decimals by 10 by moving the digits.",
+     "requires": [
+      "mt_QqG6IdmTSE"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "YJdCw2fK-Og",
+      "channel": "Khan Academy",
+      "videoTitle": "Powers of 10: patterns | Place value and decimals | 5th grade"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "26.1 × 10 = ?",
+         "261",
+         [
+          "2610",
+          "2.61"
+         ]
+        ],
+        [
+         "12.5 ÷ 10 = ?",
+         "1.25",
+         [
+          "0.125",
+          "125"
+         ]
+        ],
+        [
+         "0.3 × 10 = ?",
+         "3",
+         [
+          "30",
+          "0.03"
+         ]
+        ],
+        [
+         "4.06 ÷ 10 = ?",
+         "0.406",
+         [
+          "0.0406",
+          "40.6"
+         ]
+        ],
+        [
+         "3.4 ÷ 10 = ?",
+         "0.34",
+         [
+          "0.034",
+          "34"
+         ]
+        ],
+        [
+         "7.25 × 10 = ?",
+         "72.5",
+         [
+          "725",
+          "0.725"
+         ]
+        ],
+        [
+         "0.56 × 10 = ?",
+         "5.6",
+         [
+          "56",
+          "0.056"
+         ]
+        ],
+        [
+         "26.1 ÷ 10 = ?",
+         "2.61",
+         [
+          "0.261",
+          "261"
+         ]
+        ],
+        [
+         "4.06 × 10 = ?",
+         "40.6",
+         [
+          "406",
+          "0.406"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "3.4 × 10 = ?",
+       "answers": [
+        "34",
+        "0.34",
+        "340"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "5.6 ÷ 10 = ?",
+       "answers": [
+        "0.56",
+        "56",
+        "0.056"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "The 4 in 0.04 is ___ of the 4 in 0.4.",
+       "answers": [
+        "1/10",
+        "10 times",
+        "the same"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_JH_6RpNWjr",
+     "title": "Adding and subtracting decimals",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-decimals",
+     "goal": "I can add and subtract decimals by lining up the decimal points.",
+     "requires": [
+      "mt_TqDq6jyOmL"
+     ],
+     "recommends": [
+      "mt_EDgw64OmfA"
+     ],
+     "lesson": {
+      "type": "video",
+      "videoId": "n-OcbG1FlBQ",
+      "channel": "Numberock",
+      "videoTitle": "Adding & Subtracting Decimals Song | 4th & 5th Grade"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "2.25 + 2.24 = ?",
+         "4.49",
+         [
+          "4.59",
+          "3.49"
+         ]
+        ],
+        [
+         "4.59 − 3.39 = ?",
+         "1.20",
+         [
+          "1.30",
+          "7.98"
+         ]
+        ],
+        [
+         "6.49 − 4.91 = ?",
+         "1.58",
+         [
+          "1.68",
+          "11.40"
+         ]
+        ],
+        [
+         "7.59 − 4.88 = ?",
+         "2.71",
+         [
+          "2.81",
+          "12.47"
+         ]
+        ],
+        [
+         "8.42 + 4.81 = ?",
+         "13.23",
+         [
+          "13.33",
+          "12.23"
+         ]
+        ],
+        [
+         "2.93 − 1.67 = ?",
+         "1.26",
+         [
+          "1.36",
+          "4.60"
+         ]
+        ],
+        [
+         "7.53 − 3.39 = ?",
+         "4.14",
+         [
+          "4.24",
+          "10.92"
+         ]
+        ],
+        [
+         "6.57 − 3.83 = ?",
+         "2.74",
+         [
+          "2.84",
+          "10.40"
+         ]
+        ],
+        [
+         "4.61 − 3.3 = ?",
+         "1.31",
+         [
+          "1.41",
+          "7.91"
+         ]
+        ],
+        [
+         "4.5 + 4.2 = ?",
+         "8.7",
+         [
+          "8.8",
+          "7.7"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "When adding decimals, first line up the...",
+       "answers": [
+        "decimal points",
+        "first digits",
+        "last digits"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "3.45 + 2.5 = ?",
+       "answers": [
+        "5.95",
+        "3.70",
+        "5.50"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "6.0 − 2.4 = ?",
+       "answers": [
+        "3.6",
+        "4.4",
+        "8.4"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_QysgF57dxh",
+     "title": "Lines, rays and angles",
+     "grade": 4,
+     "subject": "Mathematics",
+     "strand": "g5-coordinates",
+     "goal": "I can name lines, segments, rays, and right, acute and obtuse angles.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "JcqCf762y9w",
+      "channel": "Khan Academy",
+      "videoTitle": "Intro to lines, line segments, and rays | Geometry"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "A line that goes on forever in both directions is a...",
+         "line",
+         [
+          "line segment",
+          "ray"
+         ]
+        ],
+        [
+         "A straight path with two endpoints is a...",
+         "line segment",
+         [
+          "ray",
+          "line"
+         ]
+        ],
+        [
+         "A ray has...",
+         "one endpoint",
+         [
+          "two endpoints",
+          "no endpoints"
+         ]
+        ],
+        [
+         "Lines that never meet are...",
+         "parallel",
+         [
+          "perpendicular",
+          "curved"
+         ]
+        ],
+        [
+         "Lines that cross to make square corners are...",
+         "perpendicular",
+         [
+          "parallel",
+          "rays"
+         ]
+        ],
+        [
+         "An angle smaller than a right angle is...",
+         "acute",
+         [
+          "obtuse",
+          "straight"
+         ]
+        ],
+        [
+         "An angle bigger than a right angle (but less than straight) is...",
+         "obtuse",
+         [
+          "acute",
+          "right"
+         ]
+        ],
+        [
+         "The corner of a book is a...",
+         "right angle",
+         [
+          "acute angle",
+          "obtuse angle"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "A line segment has...",
+       "answers": [
+        "two endpoints",
+        "one endpoint",
+        "no endpoints"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A ray starts at one point and...",
+       "answers": [
+        "goes on forever in one direction",
+        "stops at a second point",
+        "curves around"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A line goes on forever in...",
+       "answers": [
+        "both directions",
+        "one direction",
+        "no direction"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_oDlduFnemk",
+     "title": "The coordinate grid",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-coordinates",
+     "goal": "I can explain that (3, 5) means 3 across and 5 up.",
+     "requires": [
+      "mt_QysgF57dxh"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "d6vhjpnfd3c",
+      "channel": "Numberock",
+      "videoTitle": "Coordinate Plane and Ordered Pairs Song | 1st Quadrant"
+     },
+     "practice": {
+      "kind": "grid",
+      "params": {
+       "size": 6
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "The point (0, 0) is called the...",
+       "answers": [
+        "origin",
+        "axis",
+        "quadrant"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "In (3, 5), the first number tells you to go...",
+       "answers": [
+        "across (x)",
+        "up (y)",
+        "down"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Are (2, 4) and (4, 2) the same point?",
+       "answers": [
+        "No",
+        "Yes",
+        "Only on Tuesdays"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_snlqRCiA1R",
+     "title": "Plotting points",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-coordinates",
+     "goal": "I can plot and read points like (4, 7) on a grid.",
+     "requires": [
+      "mt_oDlduFnemk"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "v4vXkDHYDyk",
+      "channel": "Math with Mr. J",
+      "videoTitle": "Plotting Points on a Coordinate Plane | Quadrant 1"
+     },
+     "practice": {
+      "kind": "grid",
+      "params": {
+       "size": 8
+      },
+      "count": 8,
+      "passCount": 7
+     },
+     "questions": [
+      {
+       "q": "To plot (4, 7), start at the origin and go...",
+       "answers": [
+        "4 right, then 7 up",
+        "7 right, then 4 up",
+        "4 up, then 7 right"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "A point is 2 to the right and 6 up. Its coordinates are...",
+       "answers": [
+        "(2, 6)",
+        "(6, 2)",
+        "(2, 2)"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Which number in an ordered pair comes first?",
+       "answers": [
+        "x",
+        "y",
+        "either"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_8jFSnXxqQD",
+     "title": "Brackets first",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-expressions",
+     "goal": "I can work out what is inside brackets first.",
+     "requires": [],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "bLvYvo_rt0Y",
+      "channel": "Smile and Learn - English",
+      "videoTitle": "COMBINED OPERATIONS With and Without Parentheses | Math for Kids",
+      "displayChannel": "Smile and Learn"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "2 × (9 + 9) = ?",
+         "36",
+         [
+          "27",
+          "20"
+         ]
+        ],
+        [
+         "4 × (4 + 8) = ?",
+         "48",
+         [
+          "24",
+          "16"
+         ]
+        ],
+        [
+         "7 × (1 + 6) = ?",
+         "49",
+         [
+          "13",
+          "14"
+         ]
+        ],
+        [
+         "6 × (6 + 1) = ?",
+         "42",
+         [
+          "37",
+          "13"
+         ]
+        ],
+        [
+         "9 × (6 + 3) = ?",
+         "81",
+         [
+          "57",
+          "18"
+         ]
+        ],
+        [
+         "5 × (3 + 7) = ?",
+         "50",
+         [
+          "22",
+          "15"
+         ]
+        ],
+        [
+         "5 × (6 + 8) = ?",
+         "70",
+         [
+          "38",
+          "19"
+         ]
+        ],
+        [
+         "6 × (6 + 8) = ?",
+         "84",
+         [
+          "44",
+          "20"
+         ]
+        ],
+        [
+         "3 × (9 + 8) = ?",
+         "51",
+         [
+          "35",
+          "20"
+         ]
+        ],
+        [
+         "4 × (6 + 4) = ?",
+         "40",
+         [
+          "28",
+          "14"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "3 × (4 + 5) = ?",
+       "answers": [
+        "27",
+        "17",
+        "12"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "What do you do first in 20 − (6 + 4)?",
+       "answers": [
+        "6 + 4",
+        "20 − 6",
+        "nothing"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "(8 − 3) × 2 = ?",
+       "answers": [
+        "10",
+        "2",
+        "13"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_jHgRQ4hR0g",
+     "title": "Order of operations",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-expressions",
+     "goal": "I can do × and ÷ before + and −, left to right.",
+     "requires": [
+      "mt_8jFSnXxqQD"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "ZzeDWFhYv3E",
+      "channel": "Numberock",
+      "videoTitle": "Order of Operations Song | PEMDAS Rap for 5th Grade"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "13 − 5 + 3 = ?",
+         "11",
+         [
+          "5",
+          "12"
+         ]
+        ],
+        [
+         "20 − 4 + 8 = ?",
+         "24",
+         [
+          "8",
+          "25"
+         ]
+        ],
+        [
+         "5 − 3 + 4 = ?",
+         "6",
+         [
+          "-2",
+          "7"
+         ]
+        ],
+        [
+         "9 + 3 × 5 = ?",
+         "24",
+         [
+          "60",
+          "25"
+         ]
+        ],
+        [
+         "8 + 2 × 5 = ?",
+         "18",
+         [
+          "50",
+          "19"
+         ]
+        ],
+        [
+         "19 × 5 − 8 = ?",
+         "87",
+         [
+          "-57",
+          "88"
+         ]
+        ],
+        [
+         "16 × 6 − 8 = ?",
+         "88",
+         [
+          "-32",
+          "89"
+         ]
+        ],
+        [
+         "8 + 3 × 8 = ?",
+         "32",
+         [
+          "88",
+          "33"
+         ]
+        ],
+        [
+         "6 − 4 + 8 = ?",
+         "10",
+         [
+          "-6",
+          "11"
+         ]
+        ],
+        [
+         "7 + 3 × 9 = ?",
+         "34",
+         [
+          "90",
+          "35"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "8 + 2 × 5 = ?",
+       "answers": [
+        "18",
+        "50",
+        "15"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "What comes first?",
+       "answers": [
+        "parentheses",
+        "adding",
+        "subtracting"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "12 ÷ 3 + 4 × 2 = ?",
+       "answers": [
+        "12",
+        "16",
+        "14"
+       ],
+       "correct": 0
+      }
+     ]
+    },
+    {
+     "id": "mt_4WaKWECpcv",
+     "title": "Writing expressions",
+     "grade": 5,
+     "subject": "Mathematics",
+     "strand": "g5-expressions",
+     "goal": "I can write calculations with brackets and read them without solving.",
+     "requires": [
+      "mt_8jFSnXxqQD"
+     ],
+     "recommends": [],
+     "lesson": {
+      "type": "video",
+      "videoId": "FCSD8AQS27g",
+      "channel": "Numberock",
+      "videoTitle": "Writing and Interpreting Numerical Expressions Song for 5th Grade"
+     },
+     "practice": {
+      "kind": "bank",
+      "params": {
+       "bank": [
+        [
+         "Which shows \"add 8 and 7, then multiply by 2\"?",
+         "(8 + 7) × 2",
+         [
+          "8 + 7 × 2",
+          "8 × 2 + 7"
+         ]
+        ],
+        [
+         "Which shows \"multiply 4 by the sum of 3 and 5\"?",
+         "4 × (3 + 5)",
+         [
+          "4 × 3 + 5",
+          "4 + 3 × 5"
+         ]
+        ],
+        [
+         "Which shows \"subtract 2 from 9, then divide by 7\"?",
+         "(9 − 2) ÷ 7",
+         [
+          "9 − 2 ÷ 7",
+          "2 − 9 ÷ 7"
+         ]
+        ],
+        [
+         "3 × (25 + 10) is ___ times as large as 25 + 10.",
+         "3",
+         [
+          "10",
+          "25"
+         ]
+        ],
+        [
+         "Which is larger: 5 × (40 + 2) or 40 + 2?",
+         "5 × (40 + 2)",
+         [
+          "40 + 2",
+          "They are equal"
+         ]
+        ],
+        [
+         "Which shows \"double the difference of 10 and 4\"?",
+         "2 × (10 − 4)",
+         [
+          "2 × 10 − 4",
+          "10 − 4 × 2"
+         ]
+        ],
+        [
+         "(18 + 6) ÷ 2 means...",
+         "half of 18 + 6",
+         [
+          "18 plus half of 6",
+          "double 18 + 6"
+         ]
+        ],
+        [
+         "Which shows \"4 times the quotient of 20 and 10\"?",
+         "4 × (20 ÷ 10)",
+         [
+          "4 × 20 ÷ 4",
+          "20 ÷ 10 + 4"
+         ]
+        ]
+       ]
+      },
+      "count": 6,
+      "passCount": 5
+     },
+     "questions": [
+      {
+       "q": "Four times the quotient of twenty and ten is...",
+       "answers": [
+        "4 × (20 ÷ 10)",
+        "4 × 20 ÷ 4",
+        "4 + 20 ÷ 10"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Its value is...",
+       "answers": [
+        "8",
+        "20",
+        "6"
+       ],
+       "correct": 0
+      },
+      {
+       "q": "Brackets show which part to...",
+       "answers": [
+        "do first",
+        "skip",
+        "do last"
        ],
        "correct": 0
       }
