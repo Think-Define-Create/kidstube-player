@@ -10,7 +10,7 @@ const PL_RE = /^[A-Za-z0-9_-]{10,}$/;
 const SECRET_KEYS = ['unlockCode', 'adminPin', 'pin', 'code', 'youtubeApiKey', 'apiKey'];
 // Keys the YouTube app takes from the published data (everything else stays packaged in the app).
 const YT_KEYS = ['videosSectionTitle', 'maxVideosPerChannel', 'maxVideosPerRow', 'hideShorts', 'afterVideo', 'rows', 'videos', 'channels', 'playlists'];
-const LEARN_KEYS = ['rewardMinutes', 'passScore', 'watchPercent', 'allowReshowCode', 'shuffleAnswers', 'lessons'];
+const LEARN_KEYS = ['rewardMinutes', 'passScore', 'watchPercent', 'allowReshowCode', 'shuffleAnswers', 'lessons', 'curriculum'];
 
 function readJson(file) {
   const fs = require('fs');
@@ -116,7 +116,79 @@ function validateLearn(cfg) {
     const m = shown.match(/\b(kids?|parents?|parental)\b/i);
     if (m) warnings.push(`${at} shows the word "${m[0]}" on screen.`);
   });
+  if (cfg.curriculum !== undefined) { const vc = validateCurriculum(cfg.curriculum); errors.push(...vc.errors); warnings.push(...vc.warnings); }
   return { errors, warnings };
+}
+
+/* ---- Learn & Earn 2.0 curriculum (skill map). Same rules as checkCurriculum() in the app; any error rejects the file.
+ * { format: 2, attribution: {...}, rewards: { skillsPerReward, maxRewardsPerDay }, strands: [{ id, title, grade, subject }],
+ *   skills: [{ id, title, grade, subject, strand, goal, requires: [ids], recommends: [ids],
+ *              lesson: { type: 'video', videoId, channel, displayChannel?, videoTitle } | { type: 'interactive', teach: [{ text, visual? }] },
+ *              practice: null | { kind, params, count, passCount }, questions: [3-5 x { q, answers: [2-4], correct }] }] } */
+const SKILL_ID_RE = /^[A-Za-z0-9_-]{2,40}$/;
+function validateCurriculum(c) {
+  const errors = [], warnings = [];
+  const E = m => errors.push('curriculum: ' + m), W = m => warnings.push('curriculum: ' + m);
+  if (!c || typeof c !== 'object' || Array.isArray(c)) { E('must be an object'); return { errors, warnings }; }
+  if (c.format !== 2) E('format must be 2');
+  if (!Array.isArray(c.strands) || !c.strands.length) E('strands must be a non-empty list');
+  if (!Array.isArray(c.skills) || !c.skills.length) { E('skills must be a non-empty list'); return { errors, warnings }; }
+  const st = {}, ids = {}, vids = {};
+  (c.strands || []).forEach((s, i) => {
+    if (!s || typeof s.id !== 'string' || !s.id || st[s.id]) E(`strands[${i}] has a missing or repeated id`);
+    else st[s.id] = s;
+    if (!s || typeof s.title !== 'string' || !s.title) E(`strands[${i}] needs a title`);
+  });
+  c.skills.forEach((s, i) => {
+    const at = `skills[${i}]` + (s && s.title ? ` ("${s.title}")` : '');
+    if (!s || typeof s !== 'object') { E(at + ' is not an object'); return; }
+    if (!SKILL_ID_RE.test(s.id || '') || ids[s.id]) E(at + ` id "${s.id}" is missing, invalid or repeated`);
+    ids[s.id] = true;
+    if (!s.title || typeof s.title !== 'string') E(at + ' needs a title');
+    if (!st[s.strand]) E(at + ` uses unknown strand "${s.strand}"`);
+    const L = s.lesson || {};
+    if (L.type === 'video') {
+      if (!ID_RE.test(L.videoId || '')) E(at + ` lesson.videoId "${L.videoId}" is not a YouTube video ID`);
+      else { if (vids[L.videoId]) W(`${at} reuses the video of ${vids[L.videoId]}`); vids[L.videoId] = s.id; }
+    } else if (L.type === 'interactive') {
+      if (!Array.isArray(L.teach) || !L.teach.length || L.teach.some(t => !t || typeof t.text !== 'string' || !t.text)) E(at + ' interactive lesson needs teach cards with text');
+      if (!s.practice) W(at + ' is interactive but has no practice');
+    } else E(at + ' lesson.type must be "video" or "interactive"');
+    const qs = s.questions;
+    if (!Array.isArray(qs) || qs.length < 3 || qs.length > 5) E(at + ' must have 3 to 5 questions');
+    else qs.forEach((q, j) => {
+      const qa = `${at}.questions[${j}]`;
+      if (!q || !q.q || typeof q.q !== 'string') { E(qa + ' text missing'); return; }
+      if (!Array.isArray(q.answers) || q.answers.length < 2 || q.answers.length > 4 || q.answers.some(a => typeof a !== 'string' || !a.trim())) E(qa + ' needs 2-4 non-empty answers');
+      else if (!Number.isInteger(q.correct) || q.correct < 0 || q.correct >= q.answers.length) E(qa + '.correct is out of range');
+      else if (new Set(q.answers.map(a => a.trim().toLowerCase())).size !== q.answers.length) E(qa + ' has two identical answers');
+    });
+    ['requires', 'recommends'].forEach(k => { if (s[k] !== undefined && !Array.isArray(s[k])) E(`${at}.${k} must be a list`); });
+    const P = s.practice;
+    if (P !== undefined && P !== null) {
+      if (typeof P !== 'object' || typeof P.kind !== 'string' || !P.kind) E(at + ' practice needs a kind');
+      else if (!Number.isInteger(P.count) || P.count < 1 || P.count > 20 || !Number.isInteger(P.passCount) || P.passCount < 1 || P.passCount > P.count) E(at + ' practice count/passCount are invalid');
+    }
+    const shown = [s.title, s.goal, L.displayChannel || L.channel].concat((qs || []).map(q => q ? [q.q].concat(q.answers || []).join(' ') : ''), (L.teach || []).map(t => t && t.text)).join(' ');
+    const m = shown.match(/\b(kids?|parents?|parental)\b/i);
+    if (m) W(`${at} shows the word "${m[0]}" on screen`);
+  });
+  const byId = {}; c.skills.forEach(s => { if (s && s.id) byId[s.id] = s; });
+  c.skills.forEach((s, i) => {
+    if (!s) return;
+    (s.requires || []).concat(s.recommends || []).forEach(r => { if (!byId[r] || r === s.id) E(`skills[${i}] ("${s.title}") links to unknown skill "${r}"`); });
+  });
+  const mark = {};
+  const loop = id => { if (mark[id] === 2 || !byId[id]) return false; if (mark[id] === 1) return true; mark[id] = 1; for (const r of byId[id].requires || []) if (loop(r)) return true; mark[id] = 2; return false; };
+  for (const s of c.skills) if (s && s.id && loop(s.id)) { E('requires has a loop at ' + s.id); break; }
+  return { errors, warnings };
+}
+/** All lesson videos (old lessons + curriculum) as [{ videoId, title, where }]. */
+function learnVideos(cfg) {
+  const out = (cfg.lessons || []).map(l => ({ videoId: l.videoId, title: l.title, where: 'lesson' }));
+  const cur = cfg.curriculum;
+  if (cur && Array.isArray(cur.skills)) cur.skills.forEach(s => { if (s && s.lesson && s.lesson.type === 'video') out.push({ videoId: s.lesson.videoId, title: s.title, where: 'skill' }); });
+  return out;
 }
 
 /* ---- YouTube resolution (same rules the app uses: RSS feed, no Shorts, valid IDs, embeddable) ---- */
@@ -257,4 +329,4 @@ async function resolveYoutube(cfg, opts) {
   return { snapshot, warnings, feedsOk: okCount, feedsTotal: srcs.length };
 }
 
-module.exports = { secs, searchVideos, channelPageVideos, ID_RE, CH_RE, YT_KEYS, LEARN_KEYS, SECRET_KEYS, readJson, findSecrets, pick, validateYoutube, validateLearn, parseRss, checkEmbed, resolveYoutube };
+module.exports = { secs, searchVideos, channelPageVideos, ID_RE, CH_RE, YT_KEYS, LEARN_KEYS, SECRET_KEYS, readJson, findSecrets, pick, validateYoutube, validateLearn, validateCurriculum, learnVideos, parseRss, checkEmbed, resolveYoutube };

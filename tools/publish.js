@@ -101,7 +101,7 @@ async function main() {
   vl.errors.forEach(e => console.error('ERROR config/learn.json: ' + e));
   if (vy.errors.length || vl.errors.length) die('fix the errors above (see EDITING.md).');
   const warnings = vy.warnings.map(w => 'config/youtube.json: ' + w).concat(vl.warnings.map(w => 'config/learn.json: ' + w));
-  console.log('Config OK: ' + (yt.channels || []).length + ' channels, ' + (yt.videos || []).filter(v => !v.row).length + ' Featured + ' + (yt.videos || []).filter(v => v.row).length + ' hand-picked row videos, ' + learn.lessons.length + ' lessons.');
+  console.log('Config OK: ' + (yt.channels || []).length + ' channels, ' + (yt.videos || []).filter(v => !v.row).length + ' Featured + ' + (yt.videos || []).filter(v => v.row).length + ' hand-picked row videos, ' + learn.lessons.length + ' lessons' + (learn.curriculum ? ', ' + learn.curriculum.skills.length + ' curriculum skills' : '') + '.');
 
   // ---- 3. resolve
   console.log('Reading YouTube feeds...');
@@ -112,12 +112,14 @@ async function main() {
   const r = await L.resolveYoutube(yt, { previous, checkEmbeds: !has('--no-embed-check') });
   warnings.push(...r.warnings);
   if (r.feedsTotal && !r.feedsOk && !has('--force')) die('no YouTube feed could be read (is the internet down?). Run again later, or use --force to publish the last saved videos.');
-  const lchecks = await Promise.all(learn.lessons.map(l => L.checkEmbed(l.videoId)));
-  learn.lessons.forEach((l, i) => {
+  // Embed check for every lesson video: the old lessons and the curriculum skills (a few at a time).
+  const lvids = L.learnVideos(learn), lchecks = [];
+  for (let i = 0; i < lvids.length; i += 6) lchecks.push(...await Promise.all(lvids.slice(i, i + 6).map(l => L.checkEmbed(l.videoId))));
+  lvids.forEach((l, i) => {
     const c = lchecks[i];
-    if (c.status === 'blocked') warnings.push(`lesson "${l.title}" (${l.videoId}) does not allow embedding - it will not play.`);
-    else if (c.status === 'gone') warnings.push(`lesson "${l.title}" (${l.videoId}) was not found on YouTube.`);
-    else if (c.status === 'unknown') warnings.push(`could not check lesson video ${l.videoId}: ${c.why}`);
+    if (c.status === 'blocked') warnings.push(`${l.where} "${l.title}" (${l.videoId}) does not allow embedding - it will not play.`);
+    else if (c.status === 'gone') warnings.push(`${l.where} "${l.title}" (${l.videoId}) was not found on YouTube.`);
+    else if (c.status === 'unknown') warnings.push(`could not check ${l.where} video ${l.videoId}: ${c.why}`);
   });
 
   const commit = gitTry(['rev-parse', '--short', 'HEAD']).out;
