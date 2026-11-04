@@ -1,10 +1,10 @@
 {
  "format": 1,
  "app": "learn",
- "publishedAt": "2026-11-04T00:33:12.553Z",
- "commit": "8497d52",
+ "publishedAt": "2026-11-04T00:41:55.795Z",
+ "commit": "bf6948d",
  "config": {
-  "rewardMinutes": 30,
+  "rewardMinutes": 20,
   "passScore": "all",
   "watchPercent": 85,
   "allowReshowCode": true,
@@ -438,7 +438,7 @@
    },
    "rewards": {
     "skillsPerReward": 1,
-    "maxRewardsPerDay": 1
+    "maxRewardsPerDay": 3
    },
    "strands": [
     {
