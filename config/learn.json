@@ -1,6 +1,6 @@
 {
  "_help": "Lessons for the Learn & Earn app on the TV. Edit, commit, and the TV uses it the next time the app opens. See EDITING.md. The unlock code and settings PIN are NOT in this file and must never be added here (this repo is public).",
- "rewardMinutes": 30,
+ "rewardMinutes": 20,
  "passScore": "all",
  "watchPercent": 85,
  "allowReshowCode": true,
@@ -434,7 +434,7 @@
   },
   "rewards": {
    "skillsPerReward": 1,
-   "maxRewardsPerDay": 1
+   "maxRewardsPerDay": 3
   },
   "strands": [
    {
