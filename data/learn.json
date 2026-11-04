@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "learn",
- "publishedAt": "2026-11-03T23:26:56.876Z",
- "commit": "42153bc",
+ "publishedAt": "2026-11-04T00:33:12.553Z",
+ "commit": "8497d52",
  "config": {
   "rewardMinutes": 30,
   "passScore": "all",
@@ -437,7 +437,7 @@
     "license": "The taxonomy database is licensed under ODbL 1.0 and its text under CC BY-SA 4.0. Skill titles were shortened, and lessons and quiz questions were written for this app."
    },
    "rewards": {
-    "skillsPerReward": 2,
+    "skillsPerReward": 1,
     "maxRewardsPerDay": 1
    },
    "strands": [
