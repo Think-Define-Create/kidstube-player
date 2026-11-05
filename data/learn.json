@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "learn",
- "publishedAt": "2026-11-05T07:28:14.128Z",
- "commit": "2a02926",
+ "publishedAt": "2026-11-05T11:29:17.342Z",
+ "commit": "edf2372",
  "config": {
   "rewardMinutes": 20,
   "passScore": "all",
