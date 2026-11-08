@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-08T03:30:39.848Z",
- "commit": "a57cfc0",
+ "publishedAt": "2026-11-08T07:24:30.927Z",
+ "commit": "f58b079",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,130 +263,36 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-08T03:29:46.124Z",
+  "builtAt": "2026-11-08T07:23:48.675Z",
   "sources": {
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+   "channel:UCEIwxahdLz7bap-VDs9h35A": [
     {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+     "id": "Z-2pTzSZtLU",
+     "title": "This Material Sorts Itself"
     },
     {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+     "id": "6gsZY_-kT3U",
+     "title": "This Device Turns Anything into a Suction Cup"
     },
     {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
+     "id": "k3Q9UWWiPsQ",
+     "title": "The \"Perpetual Motion\" Pump That Actually Works"
     },
     {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+     "id": "NvkZaWLe0Sk",
+     "title": "This Device Goes Past Equilibrium"
     },
     {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+     "id": "ti2qiU_JTUQ",
+     "title": "The Euler Disc Is The Wrong Shape"
     },
     {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
+     "id": "1EyN9_QO4_A",
+     "title": "The Arm Spin That Stops a Fall"
     },
     {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
-    },
-    {
-     "id": "r2xP7heE0wk",
-     "title": "How Eyes Let Us See The World | SciShow Kids"
-    }
-   ],
-   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
-    {
-     "id": "26P1KyvrmjI",
-     "title": "I Solved Every Board Game"
-    },
-    {
-     "id": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000"
-    },
-    {
-     "id": "h0EGCnBjTVk",
-     "title": "I Outsmarted Pro Car Thieves"
-    },
-    {
-     "id": "S7UM5lSgAg8",
-     "title": "I Engineered The Perfect First Date"
-    },
-    {
-     "id": "Xg1ro-zG7AM",
-     "title": "Engineers vs Junkyard RC Car Death Match"
-    },
-    {
-     "id": "jjpjjcMeujM",
-     "title": "Ronaldo vs My Unbeatable Goalie Robot"
-    },
-    {
-     "id": "pLtHyLlLt4Y",
-     "title": "How to Escape Alcatraz With Basic Engineering"
-    },
-    {
-     "id": "0XgcOz95hTs",
-     "title": "I Blew Up A 24 Story Building"
-    },
-    {
-     "id": "q2C1JpQi5G4",
-     "title": "Uncovering America's Underwater City"
-    },
-    {
-     "id": "KRhofr57Na8",
-     "title": "Can You Safely Drink Your Own Pee?"
-    },
-    {
-     "id": "9IiYOTzJ2uw",
-     "title": "I Built a Roller Coaster In My Lab"
-    },
-    {
-     "id": "qr1AvisQcV8",
-     "title": "I Spent $5,000,000 So You Can Go To Space For FREE"
-    },
-    {
-     "id": "g6tlNyr5sl8",
-     "title": "Testing What Happens If You Jump On A Moving Train"
-    },
-    {
-     "id": "IQJL3htsDyQ",
-     "title": "Can You Fool A Self Driving Car?"
-    },
-    {
-     "id": "tpg3VvoIVfA",
-     "title": "Testing The World's Smartest Crow"
+     "id": "EP1mYq8hLIY",
+     "title": "The Anti Trampoline Effect"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -451,66 +357,76 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
-     "id": "Z-2pTzSZtLU",
-     "title": "This Material Sorts Itself"
+     "id": "26P1KyvrmjI",
+     "title": "I Solved Every Board Game"
     },
     {
-     "id": "6gsZY_-kT3U",
-     "title": "This Device Turns Anything into a Suction Cup"
+     "id": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
     },
     {
-     "id": "k3Q9UWWiPsQ",
-     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
     },
     {
-     "id": "NvkZaWLe0Sk",
-     "title": "This Device Goes Past Equilibrium"
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
     },
     {
-     "id": "ti2qiU_JTUQ",
-     "title": "The Euler Disc Is The Wrong Shape"
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
     },
     {
-     "id": "1EyN9_QO4_A",
-     "title": "The Arm Spin That Stops a Fall"
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
     },
     {
-     "id": "EP1mYq8hLIY",
-     "title": "The Anti Trampoline Effect"
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
     },
     {
-     "id": "IFqI11SIGXo",
-     "title": "Steel Absorbs Gas Like a Sponge"
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
     },
     {
-     "id": "-DyrBDsKA5s",
-     "title": "You've Never Seen a Real Photo"
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
     },
     {
-     "id": "BViIGAg-eVI",
-     "title": "A New Type of Levitation"
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
     },
     {
-     "id": "B_JavY7pSfE",
-     "title": "Surely it Breaks The 2nd Law"
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
     },
     {
-     "id": "RaQfGqsB30o",
-     "title": "Can You Turn a Rainbow Back into White Light?"
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
     },
     {
-     "id": "RWbCC6f_k1c",
-     "title": "The Liquid Hammer Toy You Can't Buy"
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
     },
     {
-     "id": "kuMUquaeE6g",
-     "title": "Amplifying Invisible Motion"
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
     },
     {
-     "id": "-NzfTE8RI4w",
-     "title": "The Weirdest Microscope"
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+    },
+    {
+     "id": "r2xP7heE0wk",
+     "title": "How Eyes Let Us See The World | SciShow Kids"
     }
    ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
@@ -699,6 +615,68 @@
      "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids"
     }
    ],
+   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
+    {
+     "id": "SS6wLHDjoHo",
+     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "7lKqVUK8cBE",
+     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "uMTvJzgZdok",
+     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
+    },
+    {
+     "id": "78pqWbdd94U",
+     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "7OueRkAObfc",
+     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "8s2uNx9jwB4",
+     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "MZ2POHBVzag",
+     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "PxvciYYyziw",
+     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "WdAZB9DkIug",
+     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "_kpAhvBEB_A",
+     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "bkr7TmwEHsA",
+     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ctb9WgXuhP4",
+     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "ffH1XDp8ixc",
+     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "nHlg7luxppE",
+     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
+    },
+    {
+     "id": "IFk-Pdil4MU",
+     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
+    }
+   ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
     {
      "id": "cXQbh93Gg40",
@@ -761,66 +739,66 @@
      "title": "Should Science Bring Back These 5 Extinct Animals?"
     }
    ],
-   "channel:UCQJDFI9j8UeNoqra37p5OkA": [
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
     {
-     "id": "SS6wLHDjoHo",
-     "title": "Getting a Cast For a Broken Bone 🦴 | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "bw5tzcoEG88",
+     "title": "How to effectively use visuals in your presentation"
     },
     {
-     "id": "7lKqVUK8cBE",
-     "title": "Fixing a Dislocated Jaw 😲 | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "8EtdC9Bjubk",
+     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
     },
     {
-     "id": "uMTvJzgZdok",
-     "title": "Is Kissing Disgusting? 💋🦠 | #Clip | TV Show for Kids | @OperationOuch"
+     "id": "8RPK5KwYhgA",
+     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
     },
     {
-     "id": "78pqWbdd94U",
-     "title": "Leg Injury | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "nXvKDYRvTno",
+     "title": "Scary stories to watch in the dark (if you dare…)"
     },
     {
-     "id": "7OueRkAObfc",
-     "title": "Blood Equipment | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
     },
     {
-     "id": "8s2uNx9jwB4",
-     "title": "How Kidneys Work | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
     },
     {
-     "id": "MZ2POHBVzag",
-     "title": "Head Strike! | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
     },
     {
-     "id": "PxvciYYyziw",
-     "title": "Casper's Bone Graft | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
     },
     {
-     "id": "WdAZB9DkIug",
-     "title": "Hayden's Major Surgery | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
     },
     {
-     "id": "_kpAhvBEB_A",
-     "title": "Pasta or Multigrain Biscuit? | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
     },
     {
-     "id": "bkr7TmwEHsA",
-     "title": "Dead Skin Cells | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
     },
     {
-     "id": "ctb9WgXuhP4",
-     "title": "How Many Times Do We Breathe In A Day? | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
     },
     {
-     "id": "ffH1XDp8ixc",
-     "title": "Neck Injuries | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
     },
     {
-     "id": "nHlg7luxppE",
-     "title": "Spring Stuck to Finger | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "N2uQWfV6Jr4",
+     "title": "4 ways to fix your attention span - Shannon Odell"
     },
     {
-     "id": "IFk-Pdil4MU",
-     "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
+     "id": "bHB5iiDDJ-s",
+     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
     }
    ],
    "channel:UCoxcjq-8xIDTYp3uz647V5A": [
@@ -945,68 +923,6 @@
     {
      "id": "ga8wyomPt68",
      "title": "How To Draw Frankenstein Big Mouth"
-    }
-   ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
-    {
-     "id": "bw5tzcoEG88",
-     "title": "How to effectively use visuals in your presentation"
-    },
-    {
-     "id": "8EtdC9Bjubk",
-     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
-    },
-    {
-     "id": "8RPK5KwYhgA",
-     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
-    },
-    {
-     "id": "nXvKDYRvTno",
-     "title": "Scary stories to watch in the dark (if you dare…)"
-    },
-    {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
-    },
-    {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
-    },
-    {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
-    },
-    {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
-    },
-    {
-     "id": "N2uQWfV6Jr4",
-     "title": "4 ways to fix your attention span - Shannon Odell"
-    },
-    {
-     "id": "bHB5iiDDJ-s",
-     "title": "Why is it so easy for birds to spread illness? - Benjamin Anderson"
     }
    ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
