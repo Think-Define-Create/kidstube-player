@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-10T19:30:36.501Z",
- "commit": "2510752",
+ "publishedAt": "2026-11-10T23:28:10.691Z",
+ "commit": "64cddee",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,7 +263,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-10T19:30:28.799Z",
+  "builtAt": "2026-11-10T23:28:08.199Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -273,6 +273,124 @@
     {
      "id": "_L1Rim7-IPo",
      "title": "Last Cheater Standing Wins $10,000"
+    }
+   ],
+   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+    {
+     "id": "Z-2pTzSZtLU",
+     "title": "This Material Sorts Itself"
+    },
+    {
+     "id": "6gsZY_-kT3U",
+     "title": "This Device Turns Anything into a Suction Cup"
+    },
+    {
+     "id": "k3Q9UWWiPsQ",
+     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+    },
+    {
+     "id": "NvkZaWLe0Sk",
+     "title": "This Device Goes Past Equilibrium"
+    },
+    {
+     "id": "ti2qiU_JTUQ",
+     "title": "The Euler Disc Is The Wrong Shape"
+    },
+    {
+     "id": "1EyN9_QO4_A",
+     "title": "The Arm Spin That Stops a Fall"
+    },
+    {
+     "id": "EP1mYq8hLIY",
+     "title": "The Anti Trampoline Effect"
+    }
+   ],
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+    {
+     "id": "fEjvSbI_PT4",
+     "title": "What Happens When You Die? (Minute by Minute)"
+    },
+    {
+     "id": "5_Fayfx2NUM",
+     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
+    },
+    {
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
+    },
+    {
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
+    },
+    {
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
+    },
+    {
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
+    },
+    {
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+    },
+    {
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+    },
+    {
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
+    },
+    {
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+    },
+    {
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+    },
+    {
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
+    },
+    {
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
@@ -399,36 +517,6 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "fEjvSbI_PT4",
-     "title": "What Happens When You Die? (Minute by Minute)"
-    },
-    {
-     "id": "5_Fayfx2NUM",
-     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
-    },
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
    "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
     {
      "id": "EN8EOvgAvyM",
@@ -525,54 +613,42 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
-   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
     {
-     "id": "cXQbh93Gg40",
-     "title": "BITTEN by an Alligator Snapping Turtle!"
+     "id": "p2AAz24AzU4",
+     "title": "Terence Tao's Math(s) Essentials - Numberphile"
     },
     {
-     "id": "QqaMGTeWcTg",
-     "title": "STUNG by a Tiger Bee!"
+     "id": "vCAD3W43lIk",
+     "title": "Who's Richer, Mario or Sonic? - Numberphile"
     },
     {
-     "id": "WhkLkNLRZy4",
-     "title": "BITTEN by a Vampire Bat!"
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
     },
     {
-     "id": "k4gbweQTL50",
-     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
     },
     {
-     "id": "oEIp2piNUso",
-     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
     },
     {
-     "id": "TMtQfzcKFCI",
-     "title": "Most Remote Fly Fishing in the USA!"
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
     },
     {
-     "id": "nuEQmSs1H38",
-     "title": "Why This Giant Killer Snake is Destroying Florida"
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
     },
     {
-     "id": "mdR_f4p1b6A",
-     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
     },
     {
-     "id": "mPOf2fpy7B4",
-     "title": "Deep Sea Worm Attacks Everything!"
-    },
-    {
-     "id": "xSxhX1g3Zss",
-     "title": "Bitten by an Angry Gecko!"
-    },
-    {
-     "id": "qlQESwyZGTk",
-     "title": "Would You Enter a Venomous Snake-Infested Forest?"
-    },
-    {
-     "id": "AtXdKfwJeQ0",
-     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
     }
    ],
    "channel:UCsooa4yRKGN_zEE8iknghZA": [
@@ -637,92 +713,54 @@
      "title": "4 ways to fix your attention span - Shannon Odell"
     }
    ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
     {
-     "id": "5jYyqfDI8Fo",
-     "title": "How To Draw A Pumpkin Pie Sailboat"
+     "id": "cXQbh93Gg40",
+     "title": "BITTEN by an Alligator Snapping Turtle!"
     },
     {
-     "id": "Mux6Lzw0QC4",
-     "title": "How To Draw Cosmo The Space Mouse"
+     "id": "QqaMGTeWcTg",
+     "title": "STUNG by a Tiger Bee!"
     },
     {
-     "id": "0G_FsSKlTKA",
-     "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub"
+     "id": "WhkLkNLRZy4",
+     "title": "BITTEN by a Vampire Bat!"
     },
     {
-     "id": "9C6nMo5FmpM",
-     "title": "How To Draw A Cute Fall Leaf With Rain Boots"
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
     },
     {
-     "id": "Mbka697fEUc",
-     "title": "How To Draw A Cute Acorn Camper"
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
     },
     {
-     "id": "fc3IIwGIr2Y",
-     "title": "How To Draw Cookie Monster Celebrating His Birthday"
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
     },
     {
-     "id": "IQB-_QkWhng",
-     "title": "How to Draw a Cute Witch and Her Cauldron"
-    }
-   ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
-    {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
     },
     {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
     },
     {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
     },
     {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
     },
     {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+     "id": "qlQESwyZGTk",
+     "title": "Would You Enter a Venomous Snake-Infested Forest?"
     },
     {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+     "id": "AtXdKfwJeQ0",
+     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
     }
    ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
@@ -745,54 +783,6 @@
     {
      "id": "wMfaQNedQ3Q",
      "title": "How to Get Better at Soccer FAST (The Complete Training Plan)"
-    }
-   ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
-    {
-     "id": "p2AAz24AzU4",
-     "title": "Terence Tao's Math(s) Essentials - Numberphile"
-    },
-    {
-     "id": "vCAD3W43lIk",
-     "title": "Who's Richer, Mario or Sonic? - Numberphile"
-    },
-    {
-     "id": "EgnAN0ZUl08",
-     "title": "Squaring the Triangle - Numberphile"
-    },
-    {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
-    },
-    {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
-    },
-    {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
-    },
-    {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
-    },
-    {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
-    },
-    {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
-    }
-   ],
-   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
-    {
-     "id": "CQjHvM2GcVw",
-     "title": "The Depression Jigsaw Puzzle | Coping Skills for Kids Who Feel Sad or Down"
-    },
-    {
-     "id": "cr2TDSSSzPk",
-     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
@@ -853,34 +843,40 @@
      "title": "Two young entrepreneurs get loans from Young Americans Center to launch their businesses."
     }
    ],
-   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
     {
-     "id": "Z-2pTzSZtLU",
-     "title": "This Material Sorts Itself"
+     "id": "CQjHvM2GcVw",
+     "title": "The Depression Jigsaw Puzzle | Coping Skills for Kids Who Feel Sad or Down"
     },
     {
-     "id": "6gsZY_-kT3U",
-     "title": "This Device Turns Anything into a Suction Cup"
+     "id": "cr2TDSSSzPk",
+     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
+    }
+   ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "5jYyqfDI8Fo",
+     "title": "How To Draw A Pumpkin Pie Sailboat"
     },
     {
-     "id": "k3Q9UWWiPsQ",
-     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+     "id": "Mux6Lzw0QC4",
+     "title": "How To Draw Cosmo The Space Mouse"
     },
     {
-     "id": "NvkZaWLe0Sk",
-     "title": "This Device Goes Past Equilibrium"
+     "id": "0G_FsSKlTKA",
+     "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub"
     },
     {
-     "id": "ti2qiU_JTUQ",
-     "title": "The Euler Disc Is The Wrong Shape"
+     "id": "9C6nMo5FmpM",
+     "title": "How To Draw A Cute Fall Leaf With Rain Boots"
     },
     {
-     "id": "1EyN9_QO4_A",
-     "title": "The Arm Spin That Stops a Fall"
+     "id": "Mbka697fEUc",
+     "title": "How To Draw A Cute Acorn Camper"
     },
     {
-     "id": "EP1mYq8hLIY",
-     "title": "The Anti Trampoline Effect"
+     "id": "fc3IIwGIr2Y",
+     "title": "How To Draw Cookie Monster Celebrating His Birthday"
     }
    ]
   },
