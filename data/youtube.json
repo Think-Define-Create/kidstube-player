@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-12T11:30:06.506Z",
- "commit": "13a4f35",
+ "publishedAt": "2026-11-12T15:23:58.908Z",
+ "commit": "cf070f9",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,7 +263,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-12T11:30:04.981Z",
+  "builtAt": "2026-11-12T15:23:55.659Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -273,6 +273,94 @@
     {
      "id": "_L1Rim7-IPo",
      "title": "Last Cheater Standing Wins $10,000"
+    }
+   ],
+   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+    {
+     "id": "Z-2pTzSZtLU",
+     "title": "This Material Sorts Itself"
+    },
+    {
+     "id": "6gsZY_-kT3U",
+     "title": "This Device Turns Anything into a Suction Cup"
+    },
+    {
+     "id": "k3Q9UWWiPsQ",
+     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+    },
+    {
+     "id": "NvkZaWLe0Sk",
+     "title": "This Device Goes Past Equilibrium"
+    },
+    {
+     "id": "ti2qiU_JTUQ",
+     "title": "The Euler Disc Is The Wrong Shape"
+    },
+    {
+     "id": "1EyN9_QO4_A",
+     "title": "The Arm Spin That Stops a Fall"
+    },
+    {
+     "id": "EP1mYq8hLIY",
+     "title": "The Anti Trampoline Effect"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+    },
+    {
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+    },
+    {
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
+    },
+    {
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+    },
+    {
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+    },
+    {
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
+    },
+    {
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -337,122 +425,34 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
     {
-     "id": "Z-2pTzSZtLU",
-     "title": "This Material Sorts Itself"
+     "id": "RtY1z8-qGYE",
+     "title": "Strange Noses and Silly Animal Names | You're Called What?! Full Episode | Nat Geo Kids"
     },
     {
-     "id": "6gsZY_-kT3U",
-     "title": "This Device Turns Anything into a Suction Cup"
+     "id": "EN8EOvgAvyM",
+     "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids"
     },
     {
-     "id": "k3Q9UWWiPsQ",
-     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+     "id": "nKni5xQ0DFw",
+     "title": "Baby Animals Down Under Full Episode | Koalas, Bats, and More Forest Babies! | Nat Geo Kids"
     },
     {
-     "id": "NvkZaWLe0Sk",
-     "title": "This Device Goes Past Equilibrium"
+     "id": "ziUQS2I_Lco",
+     "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! 🐧 Animal Card Quest | Nat Geo Kids"
     },
     {
-     "id": "ti2qiU_JTUQ",
-     "title": "The Euler Disc Is The Wrong Shape"
+     "id": "F9aEoQeLkD0",
+     "title": "AD | Ready, steady, glow! 🏁 | Nat Geo Kids"
     },
     {
-     "id": "1EyN9_QO4_A",
-     "title": "The Arm Spin That Stops a Fall"
+     "id": "7J1VXQ--ElA",
+     "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids"
     },
     {
-     "id": "EP1mYq8hLIY",
-     "title": "The Anti Trampoline Effect"
-    }
-   ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "fEjvSbI_PT4",
-     "title": "What Actually Happens When You Die?"
-    },
-    {
-     "id": "5_Fayfx2NUM",
-     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
-    },
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
-    {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
-    },
-    {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
-    },
-    {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
-    },
-    {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
-    },
-    {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
-    },
-    {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+     "id": "sZuusYKOcVY",
+     "title": "The Cat in the Funniest Home Videos! | AFV: Animal Edition Full Episode | Nat Geo Kids"
     }
    ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
@@ -517,134 +517,34 @@
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
     {
-     "id": "EN8EOvgAvyM",
-     "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids"
+     "id": "fEjvSbI_PT4",
+     "title": "What Actually Happens When You Die?"
     },
     {
-     "id": "nKni5xQ0DFw",
-     "title": "Baby Animals Down Under Full Episode | Koalas, Bats, and More Forest Babies! | Nat Geo Kids"
+     "id": "5_Fayfx2NUM",
+     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
     },
     {
-     "id": "ziUQS2I_Lco",
-     "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! 🐧 Animal Card Quest | Nat Geo Kids"
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
     },
     {
-     "id": "F9aEoQeLkD0",
-     "title": "AD | Ready, steady, glow! 🏁 | Nat Geo Kids"
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
     },
     {
-     "id": "7J1VXQ--ElA",
-     "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids"
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
     },
     {
-     "id": "sZuusYKOcVY",
-     "title": "The Cat in the Funniest Home Videos! | AFV: Animal Edition Full Episode | Nat Geo Kids"
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
     },
     {
-     "id": "0-RTk1cQ3lU",
-     "title": "🔴 LIVE! 24 Hours of Unlikely Animal Friends Livestream 😻🐶 | Nat Geo Kids"
-    }
-   ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
-    {
-     "id": "nBVuemyrMgE",
-     "title": "Is salt the most important ingredient in history? - Carolyn Beans"
-    },
-    {
-     "id": "bw5tzcoEG88",
-     "title": "How to effectively use visuals in your presentation"
-    },
-    {
-     "id": "8EtdC9Bjubk",
-     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
-    },
-    {
-     "id": "8RPK5KwYhgA",
-     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
-    },
-    {
-     "id": "nXvKDYRvTno",
-     "title": "Scary stories to watch in the dark (if you dare…)"
-    },
-    {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
-    },
-    {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
-    },
-    {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
-    },
-    {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
-    },
-    {
-     "id": "N2uQWfV6Jr4",
-     "title": "4 ways to fix your attention span - Shannon Odell"
-    }
-   ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
-    {
-     "id": "p2AAz24AzU4",
-     "title": "Terence Tao's Math(s) Essentials - Numberphile"
-    },
-    {
-     "id": "vCAD3W43lIk",
-     "title": "Who's Richer, Mario or Sonic? - Numberphile"
-    },
-    {
-     "id": "EgnAN0ZUl08",
-     "title": "Squaring the Triangle - Numberphile"
-    },
-    {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
-    },
-    {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
-    },
-    {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
-    },
-    {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
-    },
-    {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
-    },
-    {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -709,50 +609,6 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
-    {
-     "id": "5jYyqfDI8Fo",
-     "title": "How To Draw A Pumpkin Pie Sailboat"
-    },
-    {
-     "id": "Mux6Lzw0QC4",
-     "title": "How To Draw Cosmo The Space Mouse"
-    },
-    {
-     "id": "0G_FsSKlTKA",
-     "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub"
-    },
-    {
-     "id": "9C6nMo5FmpM",
-     "title": "How To Draw A Cute Fall Leaf With Rain Boots"
-    },
-    {
-     "id": "Mbka697fEUc",
-     "title": "How To Draw A Cute Acorn Camper"
-    },
-    {
-     "id": "fc3IIwGIr2Y",
-     "title": "How To Draw Cookie Monster Celebrating His Birthday"
-    }
-   ],
-   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
-    {
-     "id": "TlzHr0sA3k4",
-     "title": "Slow Feet? Try These Advanced Soccer Footwork Drills"
-    },
-    {
-     "id": "ocJ9F6IcNWk",
-     "title": "5 Easy Soccer Skills That Actually Beat Defenders"
-    },
-    {
-     "id": "4TFhoq-3dAw",
-     "title": "Do This Before Every Soccer Game (10-Minute Warm Up)"
-    },
-    {
-     "id": "ebowt2BZCPY",
-     "title": "Why You Keep Losing the Ball in Soccer (And How to Fix It)"
-    }
-   ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
     {
      "id": "cXQbh93Gg40",
@@ -801,6 +657,128 @@
     {
      "id": "AtXdKfwJeQ0",
      "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+    }
+   ],
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+    {
+     "id": "LxVW3b8jVdE",
+     "title": "A Two-Button Scientific Calculator - Numberphile"
+    },
+    {
+     "id": "p2AAz24AzU4",
+     "title": "Terence Tao's Math(s) Essentials - Numberphile"
+    },
+    {
+     "id": "vCAD3W43lIk",
+     "title": "Who's Richer, Mario or Sonic? - Numberphile"
+    },
+    {
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
+    },
+    {
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
+    },
+    {
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    }
+   ],
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+    {
+     "id": "nBVuemyrMgE",
+     "title": "Is salt the most important ingredient in history? - Carolyn Beans"
+    },
+    {
+     "id": "bw5tzcoEG88",
+     "title": "How to effectively use visuals in your presentation"
+    },
+    {
+     "id": "8EtdC9Bjubk",
+     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
+    },
+    {
+     "id": "8RPK5KwYhgA",
+     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
+    },
+    {
+     "id": "nXvKDYRvTno",
+     "title": "Scary stories to watch in the dark (if you dare…)"
+    },
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
+    },
+    {
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
+    },
+    {
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
+    },
+    {
+     "id": "N2uQWfV6Jr4",
+     "title": "4 ways to fix your attention span - Shannon Odell"
+    }
+   ],
+   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
+    {
+     "id": "QkrZbKJyCRk",
+     "title": "You're Shooting the Soccer Ball WRONG! (Fix These 3 Mistakes)"
+    },
+    {
+     "id": "TlzHr0sA3k4",
+     "title": "Slow Feet? Try These Advanced Soccer Footwork Drills"
+    },
+    {
+     "id": "ocJ9F6IcNWk",
+     "title": "5 Easy Soccer Skills That Actually Beat Defenders"
+    },
+    {
+     "id": "4TFhoq-3dAw",
+     "title": "Do This Before Every Soccer Game (10-Minute Warm Up)"
     }
    ],
    "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
@@ -869,6 +847,32 @@
     {
      "id": "A7OYZv3XUxk",
      "title": "Two young entrepreneurs get loans from Young Americans Center to launch their businesses."
+    }
+   ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "5jYyqfDI8Fo",
+     "title": "How To Draw A Pumpkin Pie Sailboat"
+    },
+    {
+     "id": "Mux6Lzw0QC4",
+     "title": "How To Draw Cosmo The Space Mouse"
+    },
+    {
+     "id": "0G_FsSKlTKA",
+     "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub"
+    },
+    {
+     "id": "9C6nMo5FmpM",
+     "title": "How To Draw A Cute Fall Leaf With Rain Boots"
+    },
+    {
+     "id": "Mbka697fEUc",
+     "title": "How To Draw A Cute Acorn Camper"
+    },
+    {
+     "id": "fc3IIwGIr2Y",
+     "title": "How To Draw Cookie Monster Celebrating His Birthday"
     }
    ]
   },
