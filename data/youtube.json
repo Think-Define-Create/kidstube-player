@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-12T23:29:49.182Z",
- "commit": "4c8313c",
+ "publishedAt": "2026-11-13T03:26:39.625Z",
+ "commit": "364746c",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,46 +263,68 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-12T23:29:47.782Z",
+  "builtAt": "2026-11-13T03:25:47.650Z",
   "sources": {
-   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
     {
-     "id": "26P1KyvrmjI",
-     "title": "I Solved Every Board Game"
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
     },
     {
-     "id": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000"
-    }
-   ],
-   "channel:UCEIwxahdLz7bap-VDs9h35A": [
-    {
-     "id": "Z-2pTzSZtLU",
-     "title": "This Material Sorts Itself"
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
     },
     {
-     "id": "6gsZY_-kT3U",
-     "title": "This Device Turns Anything into a Suction Cup"
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
     },
     {
-     "id": "k3Q9UWWiPsQ",
-     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
     },
     {
-     "id": "NvkZaWLe0Sk",
-     "title": "This Device Goes Past Equilibrium"
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
     },
     {
-     "id": "ti2qiU_JTUQ",
-     "title": "The Euler Disc Is The Wrong Shape"
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
     },
     {
-     "id": "1EyN9_QO4_A",
-     "title": "The Arm Spin That Stops a Fall"
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
     },
     {
-     "id": "EP1mYq8hLIY",
-     "title": "The Anti Trampoline Effect"
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+    },
+    {
+     "id": "r2xP7heE0wk",
+     "title": "How Eyes Let Us See The World | SciShow Kids"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -367,66 +389,128 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
+   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
-     "id": "3WWm929hbTw",
-     "title": "Crash Course Kids Literature • Full Series"
+     "id": "26P1KyvrmjI",
+     "title": "I Solved Every Board Game"
     },
     {
-     "id": "PkWU-lMdnJg",
-     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
+     "id": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000"
     },
     {
-     "id": "klu7TNy-7qw",
-     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
+     "id": "h0EGCnBjTVk",
+     "title": "I Outsmarted Pro Car Thieves"
     },
     {
-     "id": "ML2oX207Mwc",
-     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
+     "id": "S7UM5lSgAg8",
+     "title": "I Engineered The Perfect First Date"
     },
     {
-     "id": "QVw521JjRjA",
-     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
+     "id": "Xg1ro-zG7AM",
+     "title": "Engineers vs Junkyard RC Car Death Match"
     },
     {
-     "id": "WrUX6j9MwUY",
-     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
+     "id": "jjpjjcMeujM",
+     "title": "Ronaldo vs My Unbeatable Goalie Robot"
     },
     {
-     "id": "XjR2B3YJH9U",
-     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
+     "id": "pLtHyLlLt4Y",
+     "title": "How to Escape Alcatraz With Basic Engineering"
     },
     {
-     "id": "ui86G8Q5GhQ",
-     "title": "Crash Course Kids Literature Preview"
+     "id": "0XgcOz95hTs",
+     "title": "I Blew Up A 24 Story Building"
     },
     {
-     "id": "JcxTM7knO80",
-     "title": "Welcome to Crash Course Kids!"
+     "id": "q2C1JpQi5G4",
+     "title": "Uncovering America's Underwater City"
     },
     {
-     "id": "EwY6p-r_hyU",
-     "title": "Gravity Compilation: Crash Course Kids"
+     "id": "KRhofr57Na8",
+     "title": "Can You Safely Drink Your Own Pee?"
     },
     {
-     "id": "wyRy8kowyM8",
-     "title": "Matter Compilation: Crash Course Kids"
+     "id": "9IiYOTzJ2uw",
+     "title": "I Built a Roller Coaster In My Lab"
     },
     {
-     "id": "CZhE2p46vJk",
-     "title": "Food Chains Compilation: Crash Course Kids"
+     "id": "qr1AvisQcV8",
+     "title": "I Spent $5,000,000 So You Can Go To Space For FREE"
     },
     {
-     "id": "Td_A9H69eE8",
-     "title": "Space Compilation: Crash Course Kids"
+     "id": "g6tlNyr5sl8",
+     "title": "Testing What Happens If You Jump On A Moving Train"
     },
     {
-     "id": "qDcMq1SjR_I",
-     "title": "Engineering Compilation: Crash Course Kids"
+     "id": "IQJL3htsDyQ",
+     "title": "Can You Fool A Self Driving Car?"
     },
     {
-     "id": "s__sgOHWNIA",
-     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
+     "id": "tpg3VvoIVfA",
+     "title": "Testing The World's Smartest Crow"
+    }
+   ],
+   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+    {
+     "id": "Z-2pTzSZtLU",
+     "title": "This Material Sorts Itself"
+    },
+    {
+     "id": "6gsZY_-kT3U",
+     "title": "This Device Turns Anything into a Suction Cup"
+    },
+    {
+     "id": "k3Q9UWWiPsQ",
+     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+    },
+    {
+     "id": "NvkZaWLe0Sk",
+     "title": "This Device Goes Past Equilibrium"
+    },
+    {
+     "id": "ti2qiU_JTUQ",
+     "title": "The Euler Disc Is The Wrong Shape"
+    },
+    {
+     "id": "1EyN9_QO4_A",
+     "title": "The Arm Spin That Stops a Fall"
+    },
+    {
+     "id": "EP1mYq8hLIY",
+     "title": "The Anti Trampoline Effect"
+    },
+    {
+     "id": "IFqI11SIGXo",
+     "title": "Steel Absorbs Gas Like a Sponge"
+    },
+    {
+     "id": "-DyrBDsKA5s",
+     "title": "You've Never Seen a Real Photo"
+    },
+    {
+     "id": "BViIGAg-eVI",
+     "title": "A New Type of Levitation"
+    },
+    {
+     "id": "B_JavY7pSfE",
+     "title": "Surely it Breaks The 2nd Law"
+    },
+    {
+     "id": "RaQfGqsB30o",
+     "title": "Can You Turn a Rainbow Back into White Light?"
+    },
+    {
+     "id": "RWbCC6f_k1c",
+     "title": "The Liquid Hammer Toy You Can't Buy"
+    },
+    {
+     "id": "kuMUquaeE6g",
+     "title": "Amplifying Invisible Motion"
+    },
+    {
+     "id": "-NzfTE8RI4w",
+     "title": "The Weirdest Microscope"
     }
    ],
    "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
@@ -457,248 +541,6 @@
     {
      "id": "0NY2gAftzJE",
      "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
-    {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
-    },
-    {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
-    },
-    {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
-    },
-    {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
-    },
-    {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
-    },
-    {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
-    }
-   ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "RtY1z8-qGYE",
-     "title": "Strange Noses and Silly Animal Names | You're Called What?! | Nat Geo Kids"
-    },
-    {
-     "id": "EN8EOvgAvyM",
-     "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "nKni5xQ0DFw",
-     "title": "Baby Animals Down Under Full Episode | Koalas, Bats, and More Forest Babies! | Nat Geo Kids"
-    },
-    {
-     "id": "ziUQS2I_Lco",
-     "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! 🐧 Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "F9aEoQeLkD0",
-     "title": "AD | Ready, steady, glow! 🏁 | Nat Geo Kids"
-    },
-    {
-     "id": "7J1VXQ--ElA",
-     "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "sZuusYKOcVY",
-     "title": "The Cat in the Funniest Home Videos! | AFV: Animal Edition Full Episode | Nat Geo Kids"
-    }
-   ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
-    {
-     "id": "LxVW3b8jVdE",
-     "title": "A Two-Button Calculator That Does Everything - Numberphile"
-    },
-    {
-     "id": "p2AAz24AzU4",
-     "title": "Terence Tao's Math(s) Essentials - Numberphile"
-    },
-    {
-     "id": "vCAD3W43lIk",
-     "title": "Who's Richer, Mario or Sonic? - Numberphile"
-    },
-    {
-     "id": "EgnAN0ZUl08",
-     "title": "Squaring the Triangle - Numberphile"
-    },
-    {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
-    },
-    {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
-    },
-    {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
-    },
-    {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
-    },
-    {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
-    },
-    {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
-    }
-   ],
-   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
-    {
-     "id": "cXQbh93Gg40",
-     "title": "BITTEN by an Alligator Snapping Turtle!"
-    },
-    {
-     "id": "QqaMGTeWcTg",
-     "title": "STUNG by a Tiger Bee!"
-    },
-    {
-     "id": "WhkLkNLRZy4",
-     "title": "BITTEN by a Vampire Bat!"
-    },
-    {
-     "id": "k4gbweQTL50",
-     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
-    },
-    {
-     "id": "oEIp2piNUso",
-     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
-    },
-    {
-     "id": "TMtQfzcKFCI",
-     "title": "Most Remote Fly Fishing in the USA!"
-    },
-    {
-     "id": "nuEQmSs1H38",
-     "title": "Why This Giant Killer Snake is Destroying Florida"
-    },
-    {
-     "id": "mdR_f4p1b6A",
-     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
-    },
-    {
-     "id": "mPOf2fpy7B4",
-     "title": "Deep Sea Worm Attacks Everything!"
-    },
-    {
-     "id": "xSxhX1g3Zss",
-     "title": "Bitten by an Angry Gecko!"
-    },
-    {
-     "id": "qlQESwyZGTk",
-     "title": "Would You Enter a Venomous Snake-Infested Forest?"
-    },
-    {
-     "id": "AtXdKfwJeQ0",
-     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
-    }
-   ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
-    {
-     "id": "aDblEBU41nA",
-     "title": "Why is pepper such a popular spice? - Carolyn Beans"
-    },
-    {
-     "id": "nBVuemyrMgE",
-     "title": "Is salt the most important ingredient in history? - Carolyn Beans"
-    },
-    {
-     "id": "bw5tzcoEG88",
-     "title": "How to effectively use visuals in your presentation"
-    },
-    {
-     "id": "8EtdC9Bjubk",
-     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
-    },
-    {
-     "id": "8RPK5KwYhgA",
-     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
-    },
-    {
-     "id": "nXvKDYRvTno",
-     "title": "Scary stories to watch in the dark (if you dare…)"
-    },
-    {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
-    },
-    {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
-    },
-    {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
-    },
-    {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -763,14 +605,252 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
-   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
     {
-     "id": "CQjHvM2GcVw",
-     "title": "The Depression Jigsaw Puzzle | Coping Skills for Kids Who Feel Sad or Down"
+     "id": "RtY1z8-qGYE",
+     "title": "Strange Noses and Silly Animal Names | You're Called What?! | Nat Geo Kids"
     },
     {
-     "id": "cr2TDSSSzPk",
-     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
+     "id": "EN8EOvgAvyM",
+     "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "nKni5xQ0DFw",
+     "title": "Baby Animals Down Under Full Episode | Koalas, Bats, and More Forest Babies! | Nat Geo Kids"
+    },
+    {
+     "id": "ziUQS2I_Lco",
+     "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! 🐧 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "F9aEoQeLkD0",
+     "title": "AD | Ready, steady, glow! 🏁 | Nat Geo Kids"
+    },
+    {
+     "id": "7J1VXQ--ElA",
+     "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "sZuusYKOcVY",
+     "title": "The Cat in the Funniest Home Videos! | AFV: Animal Edition Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "DpIfdt0ge58",
+     "title": "1.5 Hours of Relaxing with Animals Across America's National Parks | Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "5rYfZXlqLvM",
+     "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "lT3AZws4JvE",
+     "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀 | Nat Geo Kids"
+    },
+    {
+     "id": "PZ5ZJYuD1vw",
+     "title": "How does a Beaver build a Dam and a Lodge? 🦫 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "QNzpynjWGcw",
+     "title": "Kids React to Slippery Slimy Creepy Crawly Animals! | Nat Geo Kids"
+    },
+    {
+     "id": "svaGnbGxrs4",
+     "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids"
+    },
+    {
+     "id": "OFLJN2J0-l8",
+     "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids"
+    },
+    {
+     "id": "l5OiIZeOtqs",
+     "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids"
+    }
+   ],
+   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
+    {
+     "id": "3WWm929hbTw",
+     "title": "Crash Course Kids Literature • Full Series"
+    },
+    {
+     "id": "PkWU-lMdnJg",
+     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
+    },
+    {
+     "id": "klu7TNy-7qw",
+     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
+    },
+    {
+     "id": "ML2oX207Mwc",
+     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
+    },
+    {
+     "id": "QVw521JjRjA",
+     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
+    },
+    {
+     "id": "WrUX6j9MwUY",
+     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
+    },
+    {
+     "id": "XjR2B3YJH9U",
+     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
+    },
+    {
+     "id": "ui86G8Q5GhQ",
+     "title": "Crash Course Kids Literature Preview"
+    },
+    {
+     "id": "JcxTM7knO80",
+     "title": "Welcome to Crash Course Kids!"
+    },
+    {
+     "id": "EwY6p-r_hyU",
+     "title": "Gravity Compilation: Crash Course Kids"
+    },
+    {
+     "id": "wyRy8kowyM8",
+     "title": "Matter Compilation: Crash Course Kids"
+    },
+    {
+     "id": "CZhE2p46vJk",
+     "title": "Food Chains Compilation: Crash Course Kids"
+    },
+    {
+     "id": "Td_A9H69eE8",
+     "title": "Space Compilation: Crash Course Kids"
+    },
+    {
+     "id": "qDcMq1SjR_I",
+     "title": "Engineering Compilation: Crash Course Kids"
+    },
+    {
+     "id": "s__sgOHWNIA",
+     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
+    }
+   ],
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+    {
+     "id": "cXQbh93Gg40",
+     "title": "BITTEN by an Alligator Snapping Turtle!"
+    },
+    {
+     "id": "QqaMGTeWcTg",
+     "title": "STUNG by a Tiger Bee!"
+    },
+    {
+     "id": "WhkLkNLRZy4",
+     "title": "BITTEN by a Vampire Bat!"
+    },
+    {
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+    },
+    {
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+    },
+    {
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
+    },
+    {
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
+    },
+    {
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+    },
+    {
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
+    },
+    {
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
+    },
+    {
+     "id": "qlQESwyZGTk",
+     "title": "Would You Enter a Venomous Snake-Infested Forest?"
+    },
+    {
+     "id": "AtXdKfwJeQ0",
+     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+    },
+    {
+     "id": "gUKCSkegtKY",
+     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
+    },
+    {
+     "id": "Bg_mcjX_iDM",
+     "title": "Catching Weirdest Bugs on Earth!"
+    },
+    {
+     "id": "5qt0TxOmR3Y",
+     "title": "Should Science Bring Back These 5 Extinct Animals?"
+    }
+   ],
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+    {
+     "id": "aDblEBU41nA",
+     "title": "Why is pepper such a popular spice? - Carolyn Beans"
+    },
+    {
+     "id": "nBVuemyrMgE",
+     "title": "Is salt the most important ingredient in history? - Carolyn Beans"
+    },
+    {
+     "id": "bw5tzcoEG88",
+     "title": "How to effectively use visuals in your presentation"
+    },
+    {
+     "id": "8EtdC9Bjubk",
+     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
+    },
+    {
+     "id": "8RPK5KwYhgA",
+     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
+    },
+    {
+     "id": "nXvKDYRvTno",
+     "title": "Scary stories to watch in the dark (if you dare…)"
+    },
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
+    },
+    {
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
+    },
+    {
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
     }
    ],
    "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
@@ -801,6 +881,100 @@
     {
      "id": "fc3IIwGIr2Y",
      "title": "How To Draw Cookie Monster Celebrating His Birthday"
+    },
+    {
+     "id": "IQB-_QkWhng",
+     "title": "How to Draw a Cute Witch and Her Cauldron"
+    },
+    {
+     "id": "QDU7Qr8-JUc",
+     "title": "How To Draw A Black Cat Folding Surprise"
+    },
+    {
+     "id": "cQvh1XLB2Ws",
+     "title": "How To Draw A Cute Ghost Holding Balloons"
+    },
+    {
+     "id": "EcVNQhah89Q",
+     "title": "How To Draw A Scarecrow Folding Surprise"
+    },
+    {
+     "id": "bPzs8S3UB9Q",
+     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
+    },
+    {
+     "id": "yjuQptALLzM",
+     "title": "Our NEW Drawing App for Kids! 🎨"
+    },
+    {
+     "id": "zvAW8WE0VD4",
+     "title": "How To Draw A Frankenstein Milkshake"
+    },
+    {
+     "id": "l4JNjGkQnuM",
+     "title": "How To Draw A Vampire Pizza"
+    }
+   ],
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+    {
+     "id": "LxVW3b8jVdE",
+     "title": "A Two-Button Calculator That Does Everything - Numberphile"
+    },
+    {
+     "id": "p2AAz24AzU4",
+     "title": "Terence Tao's Math(s) Essentials - Numberphile"
+    },
+    {
+     "id": "vCAD3W43lIk",
+     "title": "Who's Richer, Mario or Sonic? - Numberphile"
+    },
+    {
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
+    },
+    {
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
+    },
+    {
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    },
+    {
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+    },
+    {
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
+    },
+    {
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    },
+    {
+     "id": "-mXaU3N9e8Y",
+     "title": "2.685 is (almost) everywhere - Numberphile"
+    },
+    {
+     "id": "0aTUTxOiRgU",
+     "title": "291 Holes - Numberphile"
     }
    ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
@@ -819,6 +993,50 @@
     {
      "id": "4TFhoq-3dAw",
      "title": "Do This Before Every Soccer Game (10-Minute Warm Up)"
+    },
+    {
+     "id": "ebowt2BZCPY",
+     "title": "Why You Keep Losing the Ball in Soccer (And How to Fix It)"
+    },
+    {
+     "id": "wMfaQNedQ3Q",
+     "title": "How to Get Better at Soccer FAST (The Complete Training Plan)"
+    },
+    {
+     "id": "33D9m0CpTCc",
+     "title": "Keep Losing the Ball in Soccer? Fix These 5 Common Mistakes"
+    },
+    {
+     "id": "MvfzpZteFEY",
+     "title": "7 Soccer Skills Defenders Should Practice (Easy to Learn)"
+    },
+    {
+     "id": "mplhg3tYKwg",
+     "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
+    },
+    {
+     "id": "XoDxtMWNAAg",
+     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
+    },
+    {
+     "id": "lpNtEz9yOmU",
+     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
+    },
+    {
+     "id": "ZVO8K102WQU",
+     "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
+    },
+    {
+     "id": "FU-ONL0tVyw",
+     "title": "Stop Wasting Time on Useless Soccer Skills (Learn These Moves Instead)"
+    },
+    {
+     "id": "eX8fcZa-x4c",
+     "title": "How to Shoot a Soccer Ball Harder (Get More Power With Less Effort)"
+    },
+    {
+     "id": "u6PzfPq3cT4",
+     "title": "Stop Using Useless Soccer Tricks! Learn These 9 Skills Instead"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
@@ -877,6 +1095,72 @@
     {
      "id": "A7OYZv3XUxk",
      "title": "Two young entrepreneurs get loans from Young Americans Center to launch their businesses."
+    },
+    {
+     "id": "9meZaOfG1gE",
+     "title": "Biz Kid$ TV Series Trailer"
+    }
+   ],
+   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
+    {
+     "id": "CQjHvM2GcVw",
+     "title": "The Depression Jigsaw Puzzle | Coping Skills for Kids Who Feel Sad or Down"
+    },
+    {
+     "id": "cr2TDSSSzPk",
+     "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
+    },
+    {
+     "id": "YZl6HArvSRs",
+     "title": "Feelings Thermometer For Kids | Identify And Manage Big Emotions"
+    },
+    {
+     "id": "cfwPN5OrauQ",
+     "title": "Perfectionism for Kids | 5 Skills to Handle Mistakes and Let Go of Perfect"
+    },
+    {
+     "id": "TUkKPLvrh10",
+     "title": "Boredom for Kids | \"I'M BORED!\" | What to Do When You Feel Bored"
+    },
+    {
+     "id": "oMOX2wex1I4",
+     "title": "Optimism and Positive Thinking for Kids | How to Build a Hopeful Mindset"
+    },
+    {
+     "id": "4f9EqokN4M0",
+     "title": "Mindfulness for Kids | More Than Just Meditation | 5 Easy Ways to Practice Every Day"
+    },
+    {
+     "id": "Y_7ip4c6eIg",
+     "title": "Overthinking for Kids | 7 Ways To Manage Worries"
+    },
+    {
+     "id": "138er8o7lmE",
+     "title": "Perseverance for Kids – Skills To Develop Grit and Persistence"
+    },
+    {
+     "id": "ce_h87keUz4",
+     "title": "Kindness For Kids | How To Show Kindness Video | How To Be Kind | Elementary-Middle School Students"
+    },
+    {
+     "id": "Q5hR34g3kLc",
+     "title": "SMART Goals for Kids and Teens | Goal Setting for Students"
+    },
+    {
+     "id": "dhUY0WK1nFU",
+     "title": "Yoga for Childrens Mental Health | Easy Poses for Calm & Focus-Yoga Brain Breaks for Anxiety, Stress"
+    },
+    {
+     "id": "WBtprj6N_mg",
+     "title": "Flexible Thinking For Kids | Cognitive Flexibility For Middle School-Elementary Students"
+    },
+    {
+     "id": "sBolsBnFsnc",
+     "title": "Empathy For Kids | How To Practice and Improve Empathy | Elementary-Middle School Students"
+    },
+    {
+     "id": "0AFRnZEkqq4",
+     "title": "Self Control for Kids - Impulse Control Skills | Elementary and Middle School Students"
     }
    ]
   },
