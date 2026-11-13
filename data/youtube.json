@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-13T19:22:24.410Z",
- "commit": "414f045",
+ "publishedAt": "2026-11-13T23:24:34.740Z",
+ "commit": "2362c04",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,7 +263,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-13T19:22:22.914Z",
+  "builtAt": "2026-11-13T23:24:08.612Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -273,98 +273,6 @@
     {
      "id": "_L1Rim7-IPo",
      "title": "Last Cheater Standing Wins $10,000"
-    }
-   ],
-   "channel:UCEIwxahdLz7bap-VDs9h35A": [
-    {
-     "id": "Z-2pTzSZtLU",
-     "title": "This Material Sorts Itself"
-    },
-    {
-     "id": "6gsZY_-kT3U",
-     "title": "This Device Turns Anything into a Suction Cup"
-    },
-    {
-     "id": "k3Q9UWWiPsQ",
-     "title": "The \"Perpetual Motion\" Pump That Actually Works"
-    },
-    {
-     "id": "NvkZaWLe0Sk",
-     "title": "This Device Goes Past Equilibrium"
-    },
-    {
-     "id": "ti2qiU_JTUQ",
-     "title": "The Euler Disc Is The Wrong Shape"
-    },
-    {
-     "id": "1EyN9_QO4_A",
-     "title": "The Arm Spin That Stops a Fall"
-    },
-    {
-     "id": "EP1mYq8hLIY",
-     "title": "The Anti Trampoline Effect"
-    }
-   ],
-   "channel:UC6107grRI4m0o2-emgoDnAA": [
-    {
-     "id": "pXypQ6d_iDg",
-     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
-    },
-    {
-     "id": "vS6HEes8daw",
-     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
-    },
-    {
-     "id": "5lCWqEFVzbY",
-     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
-    },
-    {
-     "id": "WtQ64nSbdY4",
-     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
-    },
-    {
-     "id": "-0JKHuzJ67A",
-     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
-    },
-    {
-     "id": "XwBZx1cXEdM",
-     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
-    },
-    {
-     "id": "v0afQ6w3Bjw",
-     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
-    },
-    {
-     "id": "dt_CG_xRnrY",
-     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
-    },
-    {
-     "id": "cRaKMTK7ea0",
-     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
-    },
-    {
-     "id": "3ZTGwcHQfLY",
-     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
-    },
-    {
-     "id": "8nilP--GFLY",
-     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
-    },
-    {
-     "id": "JVROsxtjoCw",
-     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
-    },
-    {
-     "id": "lylCYkgC63Q",
-     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
-    },
-    {
-     "id": "jDusS--bZZA",
-     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
-    },
-    {
-     "id": "JJofuF2zcTE",
-     "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
    "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
@@ -519,6 +427,10 @@
    ],
    "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
     {
+     "id": "OUfzp6awrEc",
+     "title": "AD | Stuck in a tar pit? | Nat Geo Kids"
+    },
+    {
      "id": "EQpTtkRBInA",
      "title": "Baby Hermes Pranks Apollo 🐮 | Greeking Out Podcast | S5 E7 FULL EP | Nat Geo Kids"
     },
@@ -545,10 +457,6 @@
     {
      "id": "7J1VXQ--ElA",
      "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "sZuusYKOcVY",
-     "title": "The Cat in the Funniest Home Videos! | AFV: Animal Edition Full Episode | Nat Geo Kids"
     }
    ],
    "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
@@ -599,48 +507,6 @@
     {
      "id": "AtXdKfwJeQ0",
      "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
-    }
-   ],
-   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
-    {
-     "id": "LxVW3b8jVdE",
-     "title": "A Two-Button Calculator That Does Everything - Numberphile"
-    },
-    {
-     "id": "p2AAz24AzU4",
-     "title": "Terence Tao's Math(s) Essentials - Numberphile"
-    },
-    {
-     "id": "vCAD3W43lIk",
-     "title": "Who's Richer, Mario or Sonic? - Numberphile"
-    },
-    {
-     "id": "EgnAN0ZUl08",
-     "title": "Squaring the Triangle - Numberphile"
-    },
-    {
-     "id": "Uvy5Cs9FDLg",
-     "title": "A New Math Meme - Numberphile"
-    },
-    {
-     "id": "bAnwMdfcMVw",
-     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
-    },
-    {
-     "id": "Zh86i_azaQw",
-     "title": "The End of Mathematical Mountain Climbing - Numberphile"
-    },
-    {
-     "id": "95335U-cUh8",
-     "title": "Big News in Polyhedra - Numberphile"
-    },
-    {
-     "id": "Mzbtj5nkMXI",
-     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
-    },
-    {
-     "id": "9HlIuxnuTKQ",
-     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
     }
    ],
    "channel:UCsooa4yRKGN_zEE8iknghZA": [
@@ -705,6 +571,68 @@
      "title": "Do we actually know how magnets work? - Rachel Yang"
     }
    ],
+   "channel:UC6107grRI4m0o2-emgoDnAA": [
+    {
+     "id": "pXypQ6d_iDg",
+     "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317"
+    },
+    {
+     "id": "vS6HEes8daw",
+     "title": "The PROBLEM with Capitalism - Smarter Every Day 316"
+    },
+    {
+     "id": "5lCWqEFVzbY",
+     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315"
+    },
+    {
+     "id": "WtQ64nSbdY4",
+     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314"
+    },
+    {
+     "id": "-0JKHuzJ67A",
+     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313"
+    },
+    {
+     "id": "XwBZx1cXEdM",
+     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312"
+    },
+    {
+     "id": "v0afQ6w3Bjw",
+     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311"
+    },
+    {
+     "id": "dt_CG_xRnrY",
+     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310"
+    },
+    {
+     "id": "cRaKMTK7ea0",
+     "title": "I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309"
+    },
+    {
+     "id": "3ZTGwcHQfLY",
+     "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308"
+    },
+    {
+     "id": "8nilP--GFLY",
+     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307"
+    },
+    {
+     "id": "JVROsxtjoCw",
+     "title": "I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306"
+    },
+    {
+     "id": "lylCYkgC63Q",
+     "title": "The Backwards Brain Tractor - Smarter Every Day 305"
+    },
+    {
+     "id": "jDusS--bZZA",
+     "title": "The Incredibly Unique Triple Barreled Pistol...  - Smarter Every Day 304"
+    },
+    {
+     "id": "JJofuF2zcTE",
+     "title": "I Called the Space Station - Smarter Every Day 303"
+    }
+   ],
    "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
     {
      "id": "OhmPdBhK4Xs",
@@ -733,6 +661,36 @@
     {
      "id": "Mbka697fEUc",
      "title": "How To Draw A Cute Acorn Camper"
+    }
+   ],
+   "channel:UCEIwxahdLz7bap-VDs9h35A": [
+    {
+     "id": "Z-2pTzSZtLU",
+     "title": "This Material Sorts Itself"
+    },
+    {
+     "id": "6gsZY_-kT3U",
+     "title": "This Device Turns Anything into a Suction Cup"
+    },
+    {
+     "id": "k3Q9UWWiPsQ",
+     "title": "The \"Perpetual Motion\" Pump That Actually Works"
+    },
+    {
+     "id": "NvkZaWLe0Sk",
+     "title": "This Device Goes Past Equilibrium"
+    },
+    {
+     "id": "ti2qiU_JTUQ",
+     "title": "The Euler Disc Is The Wrong Shape"
+    },
+    {
+     "id": "1EyN9_QO4_A",
+     "title": "The Arm Spin That Stops a Fall"
+    },
+    {
+     "id": "EP1mYq8hLIY",
+     "title": "The Anti Trampoline Effect"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -797,6 +755,130 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
+   "channel:UCoxcjq-8xIDTYp3uz647V5A": [
+    {
+     "id": "LxVW3b8jVdE",
+     "title": "A Two-Button Calculator That Does Everything - Numberphile"
+    },
+    {
+     "id": "p2AAz24AzU4",
+     "title": "Terence Tao's Math(s) Essentials - Numberphile"
+    },
+    {
+     "id": "vCAD3W43lIk",
+     "title": "Who's Richer, Mario or Sonic? - Numberphile"
+    },
+    {
+     "id": "EgnAN0ZUl08",
+     "title": "Squaring the Triangle - Numberphile"
+    },
+    {
+     "id": "Uvy5Cs9FDLg",
+     "title": "A New Math Meme - Numberphile"
+    },
+    {
+     "id": "bAnwMdfcMVw",
+     "title": "No More Heroes - Terence Tao Talks to Numberphile About AI"
+    },
+    {
+     "id": "Zh86i_azaQw",
+     "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    },
+    {
+     "id": "95335U-cUh8",
+     "title": "Big News in Polyhedra - Numberphile"
+    },
+    {
+     "id": "Mzbtj5nkMXI",
+     "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile"
+    },
+    {
+     "id": "9HlIuxnuTKQ",
+     "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    },
+    {
+     "id": "3geDF-DAwpg",
+     "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile"
+    },
+    {
+     "id": "oax6t6Of2WY",
+     "title": "The Biggest Gaps Between Primes - Numberphile"
+    },
+    {
+     "id": "A020pGO5MBs",
+     "title": "The Immortal Kangaroo Sequence - Numberphile"
+    },
+    {
+     "id": "-mXaU3N9e8Y",
+     "title": "2.685 is (almost) everywhere - Numberphile"
+    },
+    {
+     "id": "0aTUTxOiRgU",
+     "title": "291 Holes - Numberphile"
+    }
+   ],
+   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
+    {
+     "id": "QkrZbKJyCRk",
+     "title": "You're Shooting the Soccer Ball WRONG! (Fix These 3 Mistakes)"
+    },
+    {
+     "id": "TlzHr0sA3k4",
+     "title": "Slow Feet? Try These Advanced Soccer Footwork Drills"
+    },
+    {
+     "id": "ocJ9F6IcNWk",
+     "title": "5 Easy Soccer Skills That Actually Beat Defenders"
+    },
+    {
+     "id": "4TFhoq-3dAw",
+     "title": "Do This Before Every Soccer Game (10-Minute Warm Up)"
+    },
+    {
+     "id": "ebowt2BZCPY",
+     "title": "Why You Keep Losing the Ball in Soccer (And How to Fix It)"
+    },
+    {
+     "id": "wMfaQNedQ3Q",
+     "title": "How to Get Better at Soccer FAST (The Complete Training Plan)"
+    },
+    {
+     "id": "33D9m0CpTCc",
+     "title": "Keep Losing the Ball in Soccer? Fix These 5 Common Mistakes"
+    },
+    {
+     "id": "MvfzpZteFEY",
+     "title": "7 Soccer Skills Defenders Should Practice (Easy to Learn)"
+    },
+    {
+     "id": "mplhg3tYKwg",
+     "title": "7 Soccer Footwork Drills for Faster Feet & Better Ball Control"
+    },
+    {
+     "id": "XoDxtMWNAAg",
+     "title": "Why Your First Touch Is So Bad in Soccer (5 Easy Fixes)"
+    },
+    {
+     "id": "lpNtEz9yOmU",
+     "title": "Why You're Not Getting Better at Soccer (3 Mistakes to Fix)"
+    },
+    {
+     "id": "ZVO8K102WQU",
+     "title": "How to Curve a Soccer Ball With Power AND Accuracy (Easy Technique)"
+    },
+    {
+     "id": "FU-ONL0tVyw",
+     "title": "Stop Wasting Time on Useless Soccer Skills (Learn These Moves Instead)"
+    },
+    {
+     "id": "eX8fcZa-x4c",
+     "title": "How to Shoot a Soccer Ball Harder (Get More Power With Less Effort)"
+    },
+    {
+     "id": "u6PzfPq3cT4",
+     "title": "Stop Using Useless Soccer Tricks! Learn These 9 Skills Instead"
+    }
+   ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
     {
      "id": "EkWwvlMUaSQ",
@@ -853,24 +935,10 @@
     {
      "id": "A7OYZv3XUxk",
      "title": "Two young entrepreneurs get loans from Young Americans Center to launch their businesses."
-    }
-   ],
-   "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
-    {
-     "id": "QkrZbKJyCRk",
-     "title": "You're Shooting the Soccer Ball WRONG! (Fix These 3 Mistakes)"
     },
     {
-     "id": "TlzHr0sA3k4",
-     "title": "Slow Feet? Try These Advanced Soccer Footwork Drills"
-    },
-    {
-     "id": "ocJ9F6IcNWk",
-     "title": "5 Easy Soccer Skills That Actually Beat Defenders"
-    },
-    {
-     "id": "4TFhoq-3dAw",
-     "title": "Do This Before Every Soccer Game (10-Minute Warm Up)"
+     "id": "9meZaOfG1gE",
+     "title": "Biz Kid$ TV Series Trailer"
     }
    ],
    "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
@@ -881,6 +949,58 @@
     {
      "id": "cr2TDSSSzPk",
      "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
+    },
+    {
+     "id": "YZl6HArvSRs",
+     "title": "Feelings Thermometer For Kids | Identify And Manage Big Emotions"
+    },
+    {
+     "id": "cfwPN5OrauQ",
+     "title": "Perfectionism for Kids | 5 Skills to Handle Mistakes and Let Go of Perfect"
+    },
+    {
+     "id": "TUkKPLvrh10",
+     "title": "Boredom for Kids | \"I'M BORED!\" | What to Do When You Feel Bored"
+    },
+    {
+     "id": "oMOX2wex1I4",
+     "title": "Optimism and Positive Thinking for Kids | How to Build a Hopeful Mindset"
+    },
+    {
+     "id": "4f9EqokN4M0",
+     "title": "Mindfulness for Kids | More Than Just Meditation | 5 Easy Ways to Practice Every Day"
+    },
+    {
+     "id": "Y_7ip4c6eIg",
+     "title": "Overthinking for Kids | 7 Ways To Manage Worries"
+    },
+    {
+     "id": "138er8o7lmE",
+     "title": "Perseverance for Kids – Skills To Develop Grit and Persistence"
+    },
+    {
+     "id": "ce_h87keUz4",
+     "title": "Kindness For Kids | How To Show Kindness Video | How To Be Kind | Elementary-Middle School Students"
+    },
+    {
+     "id": "Q5hR34g3kLc",
+     "title": "SMART Goals for Kids and Teens | Goal Setting for Students"
+    },
+    {
+     "id": "dhUY0WK1nFU",
+     "title": "Yoga for Childrens Mental Health | Easy Poses for Calm & Focus-Yoga Brain Breaks for Anxiety, Stress"
+    },
+    {
+     "id": "WBtprj6N_mg",
+     "title": "Flexible Thinking For Kids | Cognitive Flexibility For Middle School-Elementary Students"
+    },
+    {
+     "id": "sBolsBnFsnc",
+     "title": "Empathy For Kids | How To Practice and Improve Empathy | Elementary-Middle School Students"
+    },
+    {
+     "id": "0AFRnZEkqq4",
+     "title": "Self Control for Kids - Impulse Control Skills | Elementary and Middle School Students"
     }
    ]
   },
