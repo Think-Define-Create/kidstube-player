@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-13T23:24:34.740Z",
- "commit": "2362c04",
+ "publishedAt": "2026-11-14T03:28:05.520Z",
+ "commit": "7e60872",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,18 +263,8 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-13T23:24:08.612Z",
+  "builtAt": "2026-11-14T03:27:13.266Z",
   "sources": {
-   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
-    {
-     "id": "26P1KyvrmjI",
-     "title": "I Solved Every Board Game"
-    },
-    {
-     "id": "_L1Rim7-IPo",
-     "title": "Last Cheater Standing Wins $10,000"
-    }
-   ],
    "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
     {
      "id": "4VinwOQkHGg",
@@ -331,244 +321,10 @@
     {
      "id": "6WNHyAXIN8c",
      "title": "How Ears Let Us Hear the World! | SciShow Kids"
-    }
-   ],
-   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
-    {
-     "id": "3WWm929hbTw",
-     "title": "Crash Course Kids Literature • Full Series"
     },
     {
-     "id": "PkWU-lMdnJg",
-     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
-    },
-    {
-     "id": "klu7TNy-7qw",
-     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
-    },
-    {
-     "id": "ML2oX207Mwc",
-     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
-    },
-    {
-     "id": "QVw521JjRjA",
-     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
-    },
-    {
-     "id": "WrUX6j9MwUY",
-     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
-    },
-    {
-     "id": "XjR2B3YJH9U",
-     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
-    },
-    {
-     "id": "ui86G8Q5GhQ",
-     "title": "Crash Course Kids Literature Preview"
-    },
-    {
-     "id": "JcxTM7knO80",
-     "title": "Welcome to Crash Course Kids!"
-    },
-    {
-     "id": "EwY6p-r_hyU",
-     "title": "Gravity Compilation: Crash Course Kids"
-    },
-    {
-     "id": "wyRy8kowyM8",
-     "title": "Matter Compilation: Crash Course Kids"
-    },
-    {
-     "id": "CZhE2p46vJk",
-     "title": "Food Chains Compilation: Crash Course Kids"
-    },
-    {
-     "id": "Td_A9H69eE8",
-     "title": "Space Compilation: Crash Course Kids"
-    },
-    {
-     "id": "qDcMq1SjR_I",
-     "title": "Engineering Compilation: Crash Course Kids"
-    },
-    {
-     "id": "s__sgOHWNIA",
-     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
-    }
-   ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "fEjvSbI_PT4",
-     "title": "Dying Is Complicated"
-    },
-    {
-     "id": "5_Fayfx2NUM",
-     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
-    },
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "OUfzp6awrEc",
-     "title": "AD | Stuck in a tar pit? | Nat Geo Kids"
-    },
-    {
-     "id": "EQpTtkRBInA",
-     "title": "Baby Hermes Pranks Apollo 🐮 | Greeking Out Podcast | S5 E7 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "RtY1z8-qGYE",
-     "title": "Strange Noses and Silly Animal Names | You're Called What?! | Nat Geo Kids"
-    },
-    {
-     "id": "EN8EOvgAvyM",
-     "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "nKni5xQ0DFw",
-     "title": "Baby Animals Down Under Full Episode | Koalas, Bats, and More Forest Babies! | Nat Geo Kids"
-    },
-    {
-     "id": "ziUQS2I_Lco",
-     "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! 🐧 Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "F9aEoQeLkD0",
-     "title": "AD | Ready, steady, glow! 🏁 | Nat Geo Kids"
-    },
-    {
-     "id": "7J1VXQ--ElA",
-     "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids"
-    }
-   ],
-   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
-    {
-     "id": "cXQbh93Gg40",
-     "title": "BITTEN by an Alligator Snapping Turtle!"
-    },
-    {
-     "id": "QqaMGTeWcTg",
-     "title": "STUNG by a Tiger Bee!"
-    },
-    {
-     "id": "WhkLkNLRZy4",
-     "title": "BITTEN by a Vampire Bat!"
-    },
-    {
-     "id": "k4gbweQTL50",
-     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
-    },
-    {
-     "id": "oEIp2piNUso",
-     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
-    },
-    {
-     "id": "TMtQfzcKFCI",
-     "title": "Most Remote Fly Fishing in the USA!"
-    },
-    {
-     "id": "nuEQmSs1H38",
-     "title": "Why This Giant Killer Snake is Destroying Florida"
-    },
-    {
-     "id": "mdR_f4p1b6A",
-     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
-    },
-    {
-     "id": "mPOf2fpy7B4",
-     "title": "Deep Sea Worm Attacks Everything!"
-    },
-    {
-     "id": "xSxhX1g3Zss",
-     "title": "Bitten by an Angry Gecko!"
-    },
-    {
-     "id": "qlQESwyZGTk",
-     "title": "Would You Enter a Venomous Snake-Infested Forest?"
-    },
-    {
-     "id": "AtXdKfwJeQ0",
-     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
-    }
-   ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
-    {
-     "id": "aDblEBU41nA",
-     "title": "Why is pepper such a popular spice? - Carolyn Beans"
-    },
-    {
-     "id": "nBVuemyrMgE",
-     "title": "Is salt the most important ingredient in history? - Carolyn Beans"
-    },
-    {
-     "id": "bw5tzcoEG88",
-     "title": "How to effectively use visuals in your presentation"
-    },
-    {
-     "id": "8EtdC9Bjubk",
-     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
-    },
-    {
-     "id": "8RPK5KwYhgA",
-     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
-    },
-    {
-     "id": "nXvKDYRvTno",
-     "title": "Scary stories to watch in the dark (if you dare…)"
-    },
-    {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
-    },
-    {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
-    },
-    {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
-    },
-    {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
+     "id": "r2xP7heE0wk",
+     "title": "How Eyes Let Us See The World | SciShow Kids"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -633,36 +389,6 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
-    {
-     "id": "OhmPdBhK4Xs",
-     "title": "1 Hour of Thanksgiving Drawing Fun! 🦃 Art Lessons for Kids"
-    },
-    {
-     "id": "uRqUixWz7R0",
-     "title": "How To Draw Flufferson Squirrel Mailman"
-    },
-    {
-     "id": "5jYyqfDI8Fo",
-     "title": "How To Draw A Pumpkin Pie Sailboat"
-    },
-    {
-     "id": "Mux6Lzw0QC4",
-     "title": "How To Draw Cosmo The Space Mouse"
-    },
-    {
-     "id": "0G_FsSKlTKA",
-     "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub"
-    },
-    {
-     "id": "9C6nMo5FmpM",
-     "title": "How To Draw A Cute Fall Leaf With Rain Boots"
-    },
-    {
-     "id": "Mbka697fEUc",
-     "title": "How To Draw A Cute Acorn Camper"
-    }
-   ],
    "channel:UCEIwxahdLz7bap-VDs9h35A": [
     {
      "id": "Z-2pTzSZtLU",
@@ -691,6 +417,348 @@
     {
      "id": "EP1mYq8hLIY",
      "title": "The Anti Trampoline Effect"
+    },
+    {
+     "id": "IFqI11SIGXo",
+     "title": "Steel Absorbs Gas Like a Sponge"
+    },
+    {
+     "id": "-DyrBDsKA5s",
+     "title": "You've Never Seen a Real Photo"
+    },
+    {
+     "id": "BViIGAg-eVI",
+     "title": "A New Type of Levitation"
+    },
+    {
+     "id": "B_JavY7pSfE",
+     "title": "Surely it Breaks The 2nd Law"
+    },
+    {
+     "id": "RaQfGqsB30o",
+     "title": "Can You Turn a Rainbow Back into White Light?"
+    },
+    {
+     "id": "RWbCC6f_k1c",
+     "title": "The Liquid Hammer Toy You Can't Buy"
+    },
+    {
+     "id": "kuMUquaeE6g",
+     "title": "Amplifying Invisible Motion"
+    },
+    {
+     "id": "-NzfTE8RI4w",
+     "title": "The Weirdest Microscope"
+    }
+   ],
+   "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
+    {
+     "id": "26P1KyvrmjI",
+     "title": "I Solved Every Board Game"
+    },
+    {
+     "id": "_L1Rim7-IPo",
+     "title": "Last Cheater Standing Wins $10,000"
+    },
+    {
+     "id": "h0EGCnBjTVk",
+     "title": "I Outsmarted Pro Car Thieves"
+    },
+    {
+     "id": "S7UM5lSgAg8",
+     "title": "I Engineered The Perfect First Date"
+    },
+    {
+     "id": "Xg1ro-zG7AM",
+     "title": "Engineers vs Junkyard RC Car Death Match"
+    },
+    {
+     "id": "jjpjjcMeujM",
+     "title": "Ronaldo vs My Unbeatable Goalie Robot"
+    },
+    {
+     "id": "pLtHyLlLt4Y",
+     "title": "How to Escape Alcatraz With Basic Engineering"
+    },
+    {
+     "id": "0XgcOz95hTs",
+     "title": "I Blew Up A 24 Story Building"
+    },
+    {
+     "id": "q2C1JpQi5G4",
+     "title": "Uncovering America's Underwater City"
+    },
+    {
+     "id": "KRhofr57Na8",
+     "title": "Can You Safely Drink Your Own Pee?"
+    },
+    {
+     "id": "9IiYOTzJ2uw",
+     "title": "I Built a Roller Coaster In My Lab"
+    },
+    {
+     "id": "qr1AvisQcV8",
+     "title": "I Spent $5,000,000 So You Can Go To Space For FREE"
+    },
+    {
+     "id": "g6tlNyr5sl8",
+     "title": "Testing What Happens If You Jump On A Moving Train"
+    },
+    {
+     "id": "IQJL3htsDyQ",
+     "title": "Can You Fool A Self Driving Car?"
+    },
+    {
+     "id": "tpg3VvoIVfA",
+     "title": "Testing The World's Smartest Crow"
+    }
+   ],
+   "channel:UCONtPx56PSebXJOxbFv-2jQ": [
+    {
+     "id": "3WWm929hbTw",
+     "title": "Crash Course Kids Literature • Full Series"
+    },
+    {
+     "id": "PkWU-lMdnJg",
+     "title": "How to compare and contrast (Little Red Riding Hood): Crash Course Kids Literature #6"
+    },
+    {
+     "id": "klu7TNy-7qw",
+     "title": "Poetry explained (Inside Out & Back Again by Thanhhà Lại): Crash Course Kids Literature #5"
+    },
+    {
+     "id": "ML2oX207Mwc",
+     "title": "Understanding nonfiction: Crash Course Kids Literature #4"
+    },
+    {
+     "id": "QVw521JjRjA",
+     "title": "How to find themes (A Wrinkle in Time): Crash Course Kids Literature #3"
+    },
+    {
+     "id": "WrUX6j9MwUY",
+     "title": "Character Traits Explained (King and the Dragonflies): Crash Course Kids Literature #2"
+    },
+    {
+     "id": "XjR2B3YJH9U",
+     "title": "What is an inference? (Charlotte’s Web): Crash Course Kids Literature #1"
+    },
+    {
+     "id": "ui86G8Q5GhQ",
+     "title": "Crash Course Kids Literature Preview"
+    },
+    {
+     "id": "JcxTM7knO80",
+     "title": "Welcome to Crash Course Kids!"
+    },
+    {
+     "id": "EwY6p-r_hyU",
+     "title": "Gravity Compilation: Crash Course Kids"
+    },
+    {
+     "id": "wyRy8kowyM8",
+     "title": "Matter Compilation: Crash Course Kids"
+    },
+    {
+     "id": "CZhE2p46vJk",
+     "title": "Food Chains Compilation: Crash Course Kids"
+    },
+    {
+     "id": "Td_A9H69eE8",
+     "title": "Space Compilation: Crash Course Kids"
+    },
+    {
+     "id": "qDcMq1SjR_I",
+     "title": "Engineering Compilation: Crash Course Kids"
+    },
+    {
+     "id": "s__sgOHWNIA",
+     "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
+    }
+   ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "OUfzp6awrEc",
+     "title": "AD | Stuck in a tar pit? | Nat Geo Kids"
+    },
+    {
+     "id": "EQpTtkRBInA",
+     "title": "Baby Hermes Pranks Apollo 🐮 | Greeking Out Podcast | S5 E7 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "RtY1z8-qGYE",
+     "title": "Strange Noses and Silly Animal Names | You're Called What?! | Nat Geo Kids"
+    },
+    {
+     "id": "EN8EOvgAvyM",
+     "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "nKni5xQ0DFw",
+     "title": "Baby Animals Down Under Full Episode | Koalas, Bats, and More Forest Babies! | Nat Geo Kids"
+    },
+    {
+     "id": "ziUQS2I_Lco",
+     "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! 🐧 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "F9aEoQeLkD0",
+     "title": "AD | Ready, steady, glow! 🏁 | Nat Geo Kids"
+    },
+    {
+     "id": "7J1VXQ--ElA",
+     "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "sZuusYKOcVY",
+     "title": "The Cat in the Funniest Home Videos! | AFV: Animal Edition Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "DpIfdt0ge58",
+     "title": "1.5 Hours of Relaxing with Animals Across America's National Parks | Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "5rYfZXlqLvM",
+     "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids"
+    },
+    {
+     "id": "lT3AZws4JvE",
+     "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀 | Nat Geo Kids"
+    },
+    {
+     "id": "PZ5ZJYuD1vw",
+     "title": "How does a Beaver build a Dam and a Lodge? 🦫 Animal Card Quest | Nat Geo Kids"
+    },
+    {
+     "id": "QNzpynjWGcw",
+     "title": "Kids React to Slippery Slimy Creepy Crawly Animals! | Nat Geo Kids"
+    },
+    {
+     "id": "svaGnbGxrs4",
+     "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids"
+    }
+   ],
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+    {
+     "id": "fEjvSbI_PT4",
+     "title": "Dying Is Complicated"
+    },
+    {
+     "id": "5_Fayfx2NUM",
+     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
+    },
+    {
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
+    },
+    {
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
+    },
+    {
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
+    },
+    {
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
+    },
+    {
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
+    },
+    {
+     "id": "Cyl3X88KEgg",
+     "title": "Why Humanity Will Never Leave The Solar System"
+    },
+    {
+     "id": "PqtggjVAi8M",
+     "title": "How Are Memories Stored Inside Your Brain?"
+    },
+    {
+     "id": "8qQW4LTWgtc",
+     "title": "Why Earth Sucks Compared to the Planet Hestia"
+    },
+    {
+     "id": "TYhNHX372ek",
+     "title": "The Uncomfortable Truth About Ozempic (Updated Version)"
+    },
+    {
+     "id": "n-gYFcVx-8Y",
+     "title": "GERMANY IS OVER"
+    },
+    {
+     "id": "dl0-TveDDGA",
+     "title": "Our Minds Are Weirder than You Think"
+    },
+    {
+     "id": "h3DCdWyb0cc",
+     "title": "The Most Insane Megaproject You Never Heard About"
+    },
+    {
+     "id": "yDAAlojz8NU",
+     "title": "This Is the Scariest Place in The Universe"
+    }
+   ],
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+    {
+     "id": "-IO6E8FPhWM",
+     "title": "MASSIVE SNAKE! Will it Break the World Record?!"
+    },
+    {
+     "id": "cXQbh93Gg40",
+     "title": "BITTEN by an Alligator Snapping Turtle!"
+    },
+    {
+     "id": "QqaMGTeWcTg",
+     "title": "STUNG by a Tiger Bee!"
+    },
+    {
+     "id": "WhkLkNLRZy4",
+     "title": "BITTEN by a Vampire Bat!"
+    },
+    {
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+    },
+    {
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+    },
+    {
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
+    },
+    {
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
+    },
+    {
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+    },
+    {
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
+    },
+    {
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
+    },
+    {
+     "id": "qlQESwyZGTk",
+     "title": "Would You Enter a Venomous Snake-Infested Forest?"
+    },
+    {
+     "id": "AtXdKfwJeQ0",
+     "title": "Giant Centipede Bite and Worst Stings I’ve Ever Taken!"
+    },
+    {
+     "id": "gUKCSkegtKY",
+     "title": "STUNG by a Wasp & Hornet (Do Not Attempt)!"
+    },
+    {
+     "id": "Bg_mcjX_iDM",
+     "title": "Catching Weirdest Bugs on Earth!"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -753,6 +821,130 @@
     {
      "id": "IFk-Pdil4MU",
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
+    }
+   ],
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+    {
+     "id": "aDblEBU41nA",
+     "title": "Why is pepper such a popular spice? - Carolyn Beans"
+    },
+    {
+     "id": "nBVuemyrMgE",
+     "title": "History’s most influential spice - Carolyn Beans"
+    },
+    {
+     "id": "bw5tzcoEG88",
+     "title": "How to effectively use visuals in your presentation"
+    },
+    {
+     "id": "8EtdC9Bjubk",
+     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
+    },
+    {
+     "id": "8RPK5KwYhgA",
+     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
+    },
+    {
+     "id": "nXvKDYRvTno",
+     "title": "Scary stories to watch in the dark (if you dare…)"
+    },
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
+    },
+    {
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
+    },
+    {
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
+    }
+   ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "OhmPdBhK4Xs",
+     "title": "1 Hour of Thanksgiving Drawing Fun! 🦃 Art Lessons for Kids"
+    },
+    {
+     "id": "uRqUixWz7R0",
+     "title": "How To Draw Flufferson Squirrel Mailman"
+    },
+    {
+     "id": "5jYyqfDI8Fo",
+     "title": "How To Draw A Pumpkin Pie Sailboat"
+    },
+    {
+     "id": "Mux6Lzw0QC4",
+     "title": "How To Draw Cosmo The Space Mouse"
+    },
+    {
+     "id": "0G_FsSKlTKA",
+     "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub"
+    },
+    {
+     "id": "9C6nMo5FmpM",
+     "title": "How To Draw A Cute Fall Leaf With Rain Boots"
+    },
+    {
+     "id": "Mbka697fEUc",
+     "title": "How To Draw A Cute Acorn Camper"
+    },
+    {
+     "id": "fc3IIwGIr2Y",
+     "title": "How To Draw Cookie Monster Celebrating His Birthday"
+    },
+    {
+     "id": "IQB-_QkWhng",
+     "title": "How to Draw a Cute Witch and Her Cauldron"
+    },
+    {
+     "id": "QDU7Qr8-JUc",
+     "title": "How To Draw A Black Cat Folding Surprise"
+    },
+    {
+     "id": "cQvh1XLB2Ws",
+     "title": "How To Draw A Cute Ghost Holding Balloons"
+    },
+    {
+     "id": "EcVNQhah89Q",
+     "title": "How To Draw A Scarecrow Folding Surprise"
+    },
+    {
+     "id": "bPzs8S3UB9Q",
+     "title": "How To Draw A Vampire Bat Holding A Pumpkin"
+    },
+    {
+     "id": "yjuQptALLzM",
+     "title": "Our NEW Drawing App for Kids! 🎨"
+    },
+    {
+     "id": "zvAW8WE0VD4",
+     "title": "How To Draw A Frankenstein Milkshake"
     }
    ],
    "channel:UCoxcjq-8xIDTYp3uz647V5A": [
@@ -879,68 +1071,6 @@
      "title": "Stop Using Useless Soccer Tricks! Learn These 9 Skills Instead"
     }
    ],
-   "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
-    {
-     "id": "EkWwvlMUaSQ",
-     "title": "Launch Your Business with a Simple Business Plan!"
-    },
-    {
-     "id": "sZH7jtLkglk",
-     "title": "Crash Course on Starting a Business Today!!"
-    },
-    {
-     "id": "6B5gNBLfHoE",
-     "title": "How To Think Like A Successful Entrepreneur"
-    },
-    {
-     "id": "N6-4EYfI_JQ",
-     "title": "Stop Wasting Money: Smart Spending for Teens"
-    },
-    {
-     "id": "xUcjWtKlH3A",
-     "title": "Are You Financially Literate?! Watch This To Find Out!"
-    },
-    {
-     "id": "CLMQVex7rpo",
-     "title": "Saving vs. Investing: What's the Difference?"
-    },
-    {
-     "id": "qoS4sYhNyf4",
-     "title": "Why You Need An Account At A Bank Or Credit Union"
-    },
-    {
-     "id": "6vaIZxyr628",
-     "title": "Allowance Explained: Should Teens Earn One?"
-    },
-    {
-     "id": "S6LvtvIxRB4",
-     "title": "The Best Ways Kids Can Make Money"
-    },
-    {
-     "id": "4AtWZZafdhQ",
-     "title": "Budgeting for Teens: Where Your Money Should Go"
-    },
-    {
-     "id": "DfTwO6agO78",
-     "title": "Biz Kid$ | How To Build Your Credit Score"
-    },
-    {
-     "id": "Fz5t-UC-kDw",
-     "title": "How to Actually Reach Your Money Goals"
-    },
-    {
-     "id": "GjM_z30CwQI",
-     "title": "Young Entrepreneur - D'Anna's House of Fashion"
-    },
-    {
-     "id": "A7OYZv3XUxk",
-     "title": "Two young entrepreneurs get loans from Young Americans Center to launch their businesses."
-    },
-    {
-     "id": "9meZaOfG1gE",
-     "title": "Biz Kid$ TV Series Trailer"
-    }
-   ],
    "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
     {
      "id": "CQjHvM2GcVw",
@@ -1001,6 +1131,68 @@
     {
      "id": "0AFRnZEkqq4",
      "title": "Self Control for Kids - Impulse Control Skills | Elementary and Middle School Students"
+    }
+   ],
+   "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
+    {
+     "id": "EkWwvlMUaSQ",
+     "title": "Launch Your Business with a Simple Business Plan!"
+    },
+    {
+     "id": "sZH7jtLkglk",
+     "title": "Crash Course on Starting a Business Today!!"
+    },
+    {
+     "id": "6B5gNBLfHoE",
+     "title": "How To Think Like A Successful Entrepreneur"
+    },
+    {
+     "id": "N6-4EYfI_JQ",
+     "title": "Stop Wasting Money: Smart Spending for Teens"
+    },
+    {
+     "id": "xUcjWtKlH3A",
+     "title": "Are You Financially Literate?! Watch This To Find Out!"
+    },
+    {
+     "id": "CLMQVex7rpo",
+     "title": "Saving vs. Investing: What's the Difference?"
+    },
+    {
+     "id": "qoS4sYhNyf4",
+     "title": "Why You Need An Account At A Bank Or Credit Union"
+    },
+    {
+     "id": "6vaIZxyr628",
+     "title": "Allowance Explained: Should Teens Earn One?"
+    },
+    {
+     "id": "S6LvtvIxRB4",
+     "title": "The Best Ways Kids Can Make Money"
+    },
+    {
+     "id": "4AtWZZafdhQ",
+     "title": "Budgeting for Teens: Where Your Money Should Go"
+    },
+    {
+     "id": "DfTwO6agO78",
+     "title": "Biz Kid$ | How To Build Your Credit Score"
+    },
+    {
+     "id": "Fz5t-UC-kDw",
+     "title": "How to Actually Reach Your Money Goals"
+    },
+    {
+     "id": "GjM_z30CwQI",
+     "title": "Young Entrepreneur - D'Anna's House of Fashion"
+    },
+    {
+     "id": "A7OYZv3XUxk",
+     "title": "Two young entrepreneurs get loans from Young Americans Center to launch their businesses."
+    },
+    {
+     "id": "9meZaOfG1gE",
+     "title": "Biz Kid$ TV Series Trailer"
     }
    ]
   },
