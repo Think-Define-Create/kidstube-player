@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-16T11:35:07.312Z",
- "commit": "6d0c4d6",
+ "publishedAt": "2026-11-16T15:33:23.969Z",
+ "commit": "f6d30e1",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,7 +263,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-16T11:35:01.452Z",
+  "builtAt": "2026-11-16T15:33:22.006Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -367,62 +367,34 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
     {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+     "id": "fEjvSbI_PT4",
+     "title": "Dying Is Complicated"
     },
     {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+     "id": "5_Fayfx2NUM",
+     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
     },
     {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
     },
     {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
     },
     {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
     },
     {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
     },
     {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
     }
    ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
@@ -487,152 +459,112 @@
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
     {
-     "id": "fEjvSbI_PT4",
-     "title": "Dying Is Complicated"
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
     },
     {
-     "id": "5_Fayfx2NUM",
-     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
     },
     {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
     },
     {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
     },
     {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
     },
     {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
     },
     {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
     {
-     "id": "aDblEBU41nA",
-     "title": "Why is pepper such a popular spice? - Carolyn Beans"
+     "id": "-IO6E8FPhWM",
+     "title": "MASSIVE SNAKE! Will it Break the World Record?!"
     },
     {
-     "id": "nBVuemyrMgE",
-     "title": "Is salt the most important ingredient in history? - Carolyn Beans"
+     "id": "cXQbh93Gg40",
+     "title": "BITTEN by an Alligator Snapping Turtle!"
     },
     {
-     "id": "bw5tzcoEG88",
-     "title": "How to effectively use visuals in your presentation"
+     "id": "QqaMGTeWcTg",
+     "title": "STUNG by a Tiger Bee!"
     },
     {
-     "id": "8EtdC9Bjubk",
-     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
+     "id": "WhkLkNLRZy4",
+     "title": "BITTEN by a Vampire Bat!"
     },
     {
-     "id": "8RPK5KwYhgA",
-     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
     },
     {
-     "id": "nXvKDYRvTno",
-     "title": "Scary stories to watch in the dark (if you dare…)"
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
     },
     {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
     },
     {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
     },
     {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
     },
     {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
     },
     {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
     },
     {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
-    },
-    {
-     "id": "z3Y-gsBKChc",
-     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
-    },
-    {
-     "id": "jG7ULeWUfDw",
-     "title": "Do we actually know how magnets work? - Rachel Yang"
-    }
-   ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "2E6-G7PegV8",
-     "title": "Cassini: The Spacecraft That Flew Into Saturn 🪐 | Mission to Saturn Full Special | Nat Geo Kids"
-    },
-    {
-     "id": "AH7KGVjXOkE",
-     "title": "The Floor REALLY IS Lava! 🌋 Fun Volcano Facts | Nat Geo Kids"
-    },
-    {
-     "id": "OUfzp6awrEc",
-     "title": "AD | Stuck in a tar pit? | Nat Geo Kids"
-    },
-    {
-     "id": "EQpTtkRBInA",
-     "title": "Baby Hermes Pranks Apollo 🐮 | Greeking Out Podcast | S5 E7 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "RtY1z8-qGYE",
-     "title": "Strange Noses and Silly Animal Names | You're Called What?! | Nat Geo Kids"
-    },
-    {
-     "id": "EN8EOvgAvyM",
-     "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "nKni5xQ0DFw",
-     "title": "Baby Animals Down Under Full Episode | Koalas, Bats, and More Forest Babies! | Nat Geo Kids"
-    },
-    {
-     "id": "ziUQS2I_Lco",
-     "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! 🐧 Animal Card Quest | Nat Geo Kids"
-    }
-   ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
-    {
-     "id": "OhmPdBhK4Xs",
-     "title": "1 Hour of Thanksgiving Drawing Fun! 🦃 Art Lessons for Kids"
-    },
-    {
-     "id": "uRqUixWz7R0",
-     "title": "How To Draw Flufferson Squirrel Mailman"
-    },
-    {
-     "id": "5jYyqfDI8Fo",
-     "title": "How To Draw A Pumpkin Pie Sailboat"
-    },
-    {
-     "id": "Mux6Lzw0QC4",
-     "title": "How To Draw Cosmo The Space Mouse"
-    },
-    {
-     "id": "0G_FsSKlTKA",
-     "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub"
+     "id": "qlQESwyZGTk",
+     "title": "Would You Enter a Venomous Snake-Infested Forest?"
     }
    ],
    "channel:UCoxcjq-8xIDTYp3uz647V5A": [
@@ -675,6 +607,40 @@
     {
      "id": "9HlIuxnuTKQ",
      "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile"
+    }
+   ],
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
+    {
+     "id": "2E6-G7PegV8",
+     "title": "Cassini: The Spacecraft That Flew Into Saturn 🪐 | Mission to Saturn Full Special | Nat Geo Kids"
+    },
+    {
+     "id": "AH7KGVjXOkE",
+     "title": "The Floor REALLY IS Lava! 🌋 Fun Volcano Facts | Nat Geo Kids"
+    },
+    {
+     "id": "OUfzp6awrEc",
+     "title": "AD | Stuck in a tar pit? | Nat Geo Kids"
+    },
+    {
+     "id": "EQpTtkRBInA",
+     "title": "Baby Hermes Pranks Apollo 🐮 | Greeking Out Podcast | S5 E7 FULL EP | Nat Geo Kids"
+    },
+    {
+     "id": "RtY1z8-qGYE",
+     "title": "Silly Animal Names for Monkeys, Bears, and More 🐵🐻 | You're Called What?! | Nat Geo Kids"
+    },
+    {
+     "id": "EN8EOvgAvyM",
+     "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids"
+    },
+    {
+     "id": "nKni5xQ0DFw",
+     "title": "Baby Animals Down Under Full Episode | Koalas, Bats, and More Forest Babies! | Nat Geo Kids"
+    },
+    {
+     "id": "ziUQS2I_Lco",
+     "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! 🐧 Animal Card Quest | Nat Geo Kids"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -739,7 +705,95 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "OhmPdBhK4Xs",
+     "title": "1 Hour of Thanksgiving Drawing Fun! 🦃 Art Lessons for Kids"
+    },
+    {
+     "id": "uRqUixWz7R0",
+     "title": "How To Draw Flufferson Squirrel Mailman"
+    },
+    {
+     "id": "5jYyqfDI8Fo",
+     "title": "How To Draw A Pumpkin Pie Sailboat"
+    },
+    {
+     "id": "Mux6Lzw0QC4",
+     "title": "How To Draw Cosmo The Space Mouse"
+    },
+    {
+     "id": "0G_FsSKlTKA",
+     "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub"
+    }
+   ],
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+    {
+     "id": "aDblEBU41nA",
+     "title": "Why is pepper such a popular spice? - Carolyn Beans"
+    },
+    {
+     "id": "nBVuemyrMgE",
+     "title": "Is salt the most important ingredient in history? - Carolyn Beans"
+    },
+    {
+     "id": "bw5tzcoEG88",
+     "title": "How to effectively use visuals in your presentation"
+    },
+    {
+     "id": "8EtdC9Bjubk",
+     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
+    },
+    {
+     "id": "8RPK5KwYhgA",
+     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
+    },
+    {
+     "id": "nXvKDYRvTno",
+     "title": "Scary stories to watch in the dark (if you dare…)"
+    },
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
+    },
+    {
+     "id": "z3Y-gsBKChc",
+     "title": "Why are AI data centers using so much electricity? - Sajan Saini"
+    },
+    {
+     "id": "jG7ULeWUfDw",
+     "title": "Do we actually know how magnets work? - Rachel Yang"
+    }
+   ],
    "channel:UCkZM4O__WAhfWIsuH9BeRHw": [
+    {
+     "id": "-W-mme4To_c",
+     "title": "How to Get Faster Feet in Soccer (10-Minute Kids Workout)"
+    },
     {
      "id": "tw18Ftc7euo",
      "title": "5 Simple Soccer Drills to Help Kids Become Better Players FAST"
@@ -747,10 +801,6 @@
     {
      "id": "QkrZbKJyCRk",
      "title": "You're Shooting the Soccer Ball WRONG! (Fix These 3 Mistakes)"
-    },
-    {
-     "id": "TlzHr0sA3k4",
-     "title": "Slow Feet? Try These Advanced Soccer Footwork Drills"
     }
    ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
@@ -819,56 +869,6 @@
     {
      "id": "cr2TDSSSzPk",
      "title": "The Anxiety Iceberg For Kids - What Anxiety Looks Like vs. What It Feels Like"
-    }
-   ],
-   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
-    {
-     "id": "-IO6E8FPhWM",
-     "title": "MASSIVE SNAKE! Will it Break the World Record?!"
-    },
-    {
-     "id": "cXQbh93Gg40",
-     "title": "BITTEN by an Alligator Snapping Turtle!"
-    },
-    {
-     "id": "QqaMGTeWcTg",
-     "title": "STUNG by a Tiger Bee!"
-    },
-    {
-     "id": "WhkLkNLRZy4",
-     "title": "BITTEN by a Vampire Bat!"
-    },
-    {
-     "id": "k4gbweQTL50",
-     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
-    },
-    {
-     "id": "oEIp2piNUso",
-     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
-    },
-    {
-     "id": "TMtQfzcKFCI",
-     "title": "Most Remote Fly Fishing in the USA!"
-    },
-    {
-     "id": "nuEQmSs1H38",
-     "title": "Why This Giant Killer Snake is Destroying Florida"
-    },
-    {
-     "id": "mdR_f4p1b6A",
-     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
-    },
-    {
-     "id": "mPOf2fpy7B4",
-     "title": "Deep Sea Worm Attacks Everything!"
-    },
-    {
-     "id": "xSxhX1g3Zss",
-     "title": "Bitten by an Angry Gecko!"
-    },
-    {
-     "id": "qlQESwyZGTk",
-     "title": "Would You Enter a Venomous Snake-Infested Forest?"
     }
    ]
   },
