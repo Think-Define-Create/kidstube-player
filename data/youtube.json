@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-20T07:34:34.747Z",
- "commit": "36ab8a1",
+ "publishedAt": "2026-11-20T11:29:51.215Z",
+ "commit": "098038d",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,7 +263,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-20T07:34:33.116Z",
+  "builtAt": "2026-11-20T11:29:49.765Z",
   "sources": {
    "channel:UCY1kMZp36IQSyNx_9h4mpCg": [
     {
@@ -273,6 +273,64 @@
     {
      "id": "_L1Rim7-IPo",
      "title": "Last Cheater Standing Wins $10,000"
+    }
+   ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+    },
+    {
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+    },
+    {
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
+    },
+    {
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+    },
+    {
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+    },
+    {
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
+    },
+    {
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
    "channel:UCEIwxahdLz7bap-VDs9h35A": [
@@ -367,36 +425,6 @@
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
-    {
-     "id": "fEjvSbI_PT4",
-     "title": "Dying Is Complicated"
-    },
-    {
-     "id": "5_Fayfx2NUM",
-     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
-    },
-    {
-     "id": "PXbVn-f_wuM",
-     "title": "You Will Only Like Half of This Video"
-    },
-    {
-     "id": "_y9JuojAIg0",
-     "title": "We Finally Know More About Humanity’s First Civilization"
-    },
-    {
-     "id": "ujkD4SxPKOI",
-     "title": "AI Just Crossed the Terrifying Line - Now What?"
-    },
-    {
-     "id": "QW_jlUn4gA8",
-     "title": "This Is What a Godlike Civilization Would Look Like"
-    },
-    {
-     "id": "0NY2gAftzJE",
-     "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
     {
      "id": "pXypQ6d_iDg",
@@ -459,62 +487,68 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
     {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+     "id": "P3eT2eluwHI",
+     "title": "Weird But True Full Episode | Flying High on Roller Coasters and Airplanes | Nat Geo Kids"
     },
     {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+     "id": "X5AvTuQ0jYI",
+     "title": "Kids React to Wolves Up Close | Nat Geo Kids"
     },
     {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
+     "id": "WTBhH1qHOB8",
+     "title": "🔴 LIVE! 24 Hours of Greeking Out Podcast Station⚡🐐🪽 | Nat Geo Kids"
     },
     {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+     "id": "2E6-G7PegV8",
+     "title": "Cassini: The Spacecraft That Flew Into Saturn 🪐 | Mission to Saturn Full Special | Nat Geo Kids"
     },
     {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+     "id": "AH7KGVjXOkE",
+     "title": "The Floor REALLY IS Lava! 🌋 Fun Volcano Facts | Nat Geo Kids"
     },
     {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
+     "id": "OUfzp6awrEc",
+     "title": "AD | Stuck in a tar pit? | Nat Geo Kids"
     },
     {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+     "id": "EQpTtkRBInA",
+     "title": "Baby Hermes Pranks Apollo 🐮 | Greeking Out Podcast | S5 E7 FULL EP | Nat Geo Kids"
     },
     {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+     "id": "RtY1z8-qGYE",
+     "title": "Silly Animal Names for Monkeys, Bears, and More 🐵🐻 | You're Called What?! | Nat Geo Kids"
+    }
+   ],
+   "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
+    {
+     "id": "fEjvSbI_PT4",
+     "title": "Dying Is Complicated"
     },
     {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+     "id": "5_Fayfx2NUM",
+     "title": "How I Survived Late-Stage Cancer (A Fun Story)"
     },
     {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+     "id": "PXbVn-f_wuM",
+     "title": "You Will Only Like Half of This Video"
     },
     {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
+     "id": "_y9JuojAIg0",
+     "title": "We Finally Know More About Humanity’s First Civilization"
     },
     {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
+     "id": "ujkD4SxPKOI",
+     "title": "AI Just Crossed the Terrifying Line - Now What?"
     },
     {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+     "id": "QW_jlUn4gA8",
+     "title": "This Is What a Godlike Civilization Would Look Like"
     },
     {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+     "id": "0NY2gAftzJE",
+     "title": "This Woman Cured Her Cancer with an Insane Method"
     }
    ],
    "channel:UCsooa4yRKGN_zEE8iknghZA": [
@@ -663,70 +697,6 @@
      "title": "Would You Enter a Venomous Snake-Infested Forest?"
     }
    ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "P3eT2eluwHI",
-     "title": "Weird But True Full Episode | Flying High on Roller Coasters and Airplanes | Nat Geo Kids"
-    },
-    {
-     "id": "X5AvTuQ0jYI",
-     "title": "Kids React to Wolves Up Close | Nat Geo Kids"
-    },
-    {
-     "id": "WTBhH1qHOB8",
-     "title": "🔴 LIVE! 24 Hours of Greeking Out Podcast Station⚡🐐🪽 | Nat Geo Kids"
-    },
-    {
-     "id": "2E6-G7PegV8",
-     "title": "Cassini: The Spacecraft That Flew Into Saturn 🪐 | Mission to Saturn Full Special | Nat Geo Kids"
-    },
-    {
-     "id": "AH7KGVjXOkE",
-     "title": "The Floor REALLY IS Lava! 🌋 Fun Volcano Facts | Nat Geo Kids"
-    },
-    {
-     "id": "OUfzp6awrEc",
-     "title": "AD | Stuck in a tar pit? | Nat Geo Kids"
-    },
-    {
-     "id": "EQpTtkRBInA",
-     "title": "Baby Hermes Pranks Apollo 🐮 | Greeking Out Podcast | S5 E7 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "RtY1z8-qGYE",
-     "title": "Silly Animal Names for Monkeys, Bears, and More 🐵🐻 | You're Called What?! | Nat Geo Kids"
-    }
-   ],
-   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
-    {
-     "id": "ADYpYw8nPYU",
-     "title": "How To Draw A Pizza Delivery Turkey"
-    },
-    {
-     "id": "J1EmFaMyNaA",
-     "title": "Our NEW 80-Piece Marker Set Is Here! 🎉"
-    },
-    {
-     "id": "OhmPdBhK4Xs",
-     "title": "1 Hour of Thanksgiving Drawing Fun! 🦃 Art Lessons for Kids"
-    },
-    {
-     "id": "uRqUixWz7R0",
-     "title": "How To Draw Flufferson Squirrel Mailman"
-    },
-    {
-     "id": "5jYyqfDI8Fo",
-     "title": "How To Draw A Pumpkin Pie Sailboat"
-    },
-    {
-     "id": "Mux6Lzw0QC4",
-     "title": "How To Draw Cosmo The Space Mouse"
-    },
-    {
-     "id": "0G_FsSKlTKA",
-     "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub"
-    }
-   ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
     {
      "id": "SS6wLHDjoHo",
@@ -803,12 +773,6 @@
      "title": "5 Simple Soccer Drills to Help Kids Become Better Players FAST"
     }
    ],
-   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
-    {
-     "id": "CQjHvM2GcVw",
-     "title": "The Depression Jigsaw Puzzle | Coping Skills for Kids Who Feel Sad or Down"
-    }
-   ],
    "channel:UCufmiGK0I_9g_iwUR-E8mwA": [
     {
      "id": "M0zsZfKD3Sw",
@@ -865,6 +829,42 @@
     {
      "id": "GjM_z30CwQI",
      "title": "Young Entrepreneur - D'Anna's House of Fashion"
+    }
+   ],
+   "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
+    {
+     "id": "ADYpYw8nPYU",
+     "title": "How To Draw A Pizza Delivery Turkey"
+    },
+    {
+     "id": "J1EmFaMyNaA",
+     "title": "Our NEW 80-Piece Marker Set Is Here! 🎉"
+    },
+    {
+     "id": "OhmPdBhK4Xs",
+     "title": "1 Hour of Thanksgiving Drawing Fun! 🦃 Art Lessons for Kids"
+    },
+    {
+     "id": "uRqUixWz7R0",
+     "title": "How To Draw Flufferson Squirrel Mailman"
+    },
+    {
+     "id": "5jYyqfDI8Fo",
+     "title": "How To Draw A Pumpkin Pie Sailboat"
+    },
+    {
+     "id": "Mux6Lzw0QC4",
+     "title": "How To Draw Cosmo The Space Mouse"
+    },
+    {
+     "id": "0G_FsSKlTKA",
+     "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub"
+    }
+   ],
+   "channel:UCW0vK4fFc2iQdvxtFZutsdA": [
+    {
+     "id": "CQjHvM2GcVw",
+     "title": "The Depression Jigsaw Puzzle | Coping Skills for Kids Who Feel Sad or Down"
     }
    ]
   },
