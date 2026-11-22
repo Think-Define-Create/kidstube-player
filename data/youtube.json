@@ -1,8 +1,8 @@
 {
  "format": 1,
  "app": "youtube",
- "publishedAt": "2026-11-22T15:29:53.995Z",
- "commit": "05018e3",
+ "publishedAt": "2026-11-22T19:33:57.494Z",
+ "commit": "1c7f6dd",
  "config": {
   "videosSectionTitle": "Featured",
   "maxVideosPerChannel": 15,
@@ -263,7 +263,7 @@
   "playlists": []
  },
  "snapshot": {
-  "builtAt": "2026-11-22T15:29:52.313Z",
+  "builtAt": "2026-11-22T19:33:55.494Z",
   "sources": {
    "channel:UCEIwxahdLz7bap-VDs9h35A": [
     {
@@ -311,64 +311,6 @@
     {
      "id": "_L1Rim7-IPo",
      "title": "Last Cheater Standing Wins $10,000"
-    }
-   ],
-   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
-    {
-     "id": "4VinwOQkHGg",
-     "title": "The Yuckiest Animals | SciShow Kids Compilation"
-    },
-    {
-     "id": "WX_E1CAZjaQ",
-     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
-    },
-    {
-     "id": "0jKoOUZ1GBM",
-     "title": "Every Kind of Volcano | SciShow Kids"
-    },
-    {
-     "id": "8qdYCpSW2eY",
-     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
-    },
-    {
-     "id": "YR4wtGWK7eE",
-     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
-    },
-    {
-     "id": "RvRU_4XWPlw",
-     "title": "Solving Problems Around the Fort! | SciShow Kids"
-    },
-    {
-     "id": "v8cDsAf0nN0",
-     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
-    },
-    {
-     "id": "kKqd0_cydZM",
-     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
-    },
-    {
-     "id": "HhXnRfyUbeQ",
-     "title": "The Fiordlands of New Zealand! | SciShow Kids"
-    },
-    {
-     "id": "0U4lOGo593k",
-     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
-    },
-    {
-     "id": "annJ7XUxMjk",
-     "title": "Going to the Doctor! | SciShow Kids Compilation"
-    },
-    {
-     "id": "XtSq1wcFSEI",
-     "title": "Your Body's Senses | SciShow Kids Compilation"
-    },
-    {
-     "id": "vKxpbmdPSyk",
-     "title": "Senses You Didn’t Know You Have | SciShow Kids"
-    },
-    {
-     "id": "6WNHyAXIN8c",
-     "title": "How Ears Let Us Hear the World! | SciShow Kids"
     }
    ],
    "channel:UC6107grRI4m0o2-emgoDnAA": [
@@ -433,6 +375,64 @@
      "title": "I Called the Space Station - Smarter Every Day 303"
     }
    ],
+   "channel:UCRFIPG2u1DxKLNuE3y2SjHA": [
+    {
+     "id": "4VinwOQkHGg",
+     "title": "The Yuckiest Animals | SciShow Kids Compilation"
+    },
+    {
+     "id": "WX_E1CAZjaQ",
+     "title": "KABOOM! All About Volcanoes! | SciShow Kids Compilation"
+    },
+    {
+     "id": "0jKoOUZ1GBM",
+     "title": "Every Kind of Volcano | SciShow Kids"
+    },
+    {
+     "id": "8qdYCpSW2eY",
+     "title": "The Biggest Volcano Ever is in Space! | SciShow Kids"
+    },
+    {
+     "id": "YR4wtGWK7eE",
+     "title": "Hawai’i: Land of Volcanoes | SciShow Kids"
+    },
+    {
+     "id": "RvRU_4XWPlw",
+     "title": "Solving Problems Around the Fort! | SciShow Kids"
+    },
+    {
+     "id": "v8cDsAf0nN0",
+     "title": "Squeaks' Adventure Around The World! | SciShow Kids"
+    },
+    {
+     "id": "kKqd0_cydZM",
+     "title": "Iceland: A Land of Ice AND Fire! | SciShow Kids"
+    },
+    {
+     "id": "HhXnRfyUbeQ",
+     "title": "The Fiordlands of New Zealand! | SciShow Kids"
+    },
+    {
+     "id": "0U4lOGo593k",
+     "title": "Yellowstone: The World’s First National Park! | SciShow Kids"
+    },
+    {
+     "id": "annJ7XUxMjk",
+     "title": "Going to the Doctor! | SciShow Kids Compilation"
+    },
+    {
+     "id": "XtSq1wcFSEI",
+     "title": "Your Body's Senses | SciShow Kids Compilation"
+    },
+    {
+     "id": "vKxpbmdPSyk",
+     "title": "Senses You Didn’t Know You Have | SciShow Kids"
+    },
+    {
+     "id": "6WNHyAXIN8c",
+     "title": "How Ears Let Us Hear the World! | SciShow Kids"
+    }
+   ],
    "channel:UCsXVk37bltHxD1rDPwtNM8Q": [
     {
      "id": "fEjvSbI_PT4",
@@ -461,94 +461,6 @@
     {
      "id": "0NY2gAftzJE",
      "title": "This Woman Cured Her Cancer with an Insane Method"
-    }
-   ],
-   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
-    {
-     "id": "Cjh80E5ihIk",
-     "title": "Underwater Best Buds 🤿🐙 |  My Best Friend's an Animal Full Episode (4K) | Nat Geo Kids"
-    },
-    {
-     "id": "cuBPUN5p_wM",
-     "title": "The Surprising Secret Lives of Wild Turkeys! 🦃 Animal Card Quest | Nat Geo Kids"
-    },
-    {
-     "id": "OIEwaIhEOJI",
-     "title": "All About Puppies and Dogs 🐶 | 2 Hour Full Episode Compilation | Nat Geo Kids"
-    },
-    {
-     "id": "yCnIuD6IX08",
-     "title": "AD | Build Your Own Glow-In-The-Dark Scorpion Wall Crawler 🦂 | Nat Geo Kids"
-    },
-    {
-     "id": "5wANYZSdl5s",
-     "title": "Circe’s Potions, Spells, and Big Mistakes | Greeking Out Podcast | S5 E8 FULL EP | Nat Geo Kids"
-    },
-    {
-     "id": "P3eT2eluwHI",
-     "title": "Weird But True Full Episode | Flying High on Roller Coasters and Airplanes | Nat Geo Kids"
-    },
-    {
-     "id": "X5AvTuQ0jYI",
-     "title": "Kids React to Wolves Up Close | Nat Geo Kids"
-    },
-    {
-     "id": "WTBhH1qHOB8",
-     "title": "🔴 LIVE! 24 Hours of Greeking Out Podcast Station⚡🐐🪽 | Nat Geo Kids"
-    },
-    {
-     "id": "2E6-G7PegV8",
-     "title": "Cassini: The Spacecraft That Flew Into Saturn 🪐 | Mission to Saturn Full Special | Nat Geo Kids"
-    }
-   ],
-   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
-    {
-     "id": "3917XrJVM_I",
-     "title": "Swarmed by Hair Cutting Bees!"
-    },
-    {
-     "id": "-IO6E8FPhWM",
-     "title": "World Record Snake Measuring Gone Wrong!"
-    },
-    {
-     "id": "cXQbh93Gg40",
-     "title": "BITTEN by an Alligator Snapping Turtle!"
-    },
-    {
-     "id": "QqaMGTeWcTg",
-     "title": "STUNG by a Tiger Bee!"
-    },
-    {
-     "id": "WhkLkNLRZy4",
-     "title": "BITTEN by a Vampire Bat!"
-    },
-    {
-     "id": "k4gbweQTL50",
-     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
-    },
-    {
-     "id": "oEIp2piNUso",
-     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
-    },
-    {
-     "id": "TMtQfzcKFCI",
-     "title": "Most Remote Fly Fishing in the USA!"
-    },
-    {
-     "id": "nuEQmSs1H38",
-     "title": "Why This Giant Killer Snake is Destroying Florida"
-    },
-    {
-     "id": "mdR_f4p1b6A",
-     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
-    },
-    {
-     "id": "mPOf2fpy7B4",
-     "title": "Deep Sea Worm Attacks Everything!"
-    },
-    {
-     "id": "xSxhX1g3Zss",
-     "title": "Bitten by an Angry Gecko!"
     }
    ],
    "channel:UCONtPx56PSebXJOxbFv-2jQ": [
@@ -613,66 +525,42 @@
      "title": "The End Is Only The Beginning: Crash Course Kids #48.2"
     }
    ],
-   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+   "channel:UCXVCgDuD_QCkI7gTKU7-tpg": [
     {
-     "id": "fqL9dt6QHWg",
-     "title": "5 of the most dangerous scientific discoveries - Shannon Odell"
+     "id": "Cjh80E5ihIk",
+     "title": "Underwater Best Buds 🤿🐙 |  My Best Friend's an Animal Full Episode (4K) | Nat Geo Kids"
     },
     {
-     "id": "dkocGur84i8",
-     "title": "The three words that power every device you own - Lane Gunderman"
+     "id": "cuBPUN5p_wM",
+     "title": "The Surprising Secret Lives of Wild Turkeys! 🦃 Animal Card Quest | Nat Geo Kids"
     },
     {
-     "id": "aDblEBU41nA",
-     "title": "Why is pepper such a popular spice? - Carolyn Beans"
+     "id": "OIEwaIhEOJI",
+     "title": "All About Puppies and Dogs 🐶 | 2 Hour Full Episode Compilation | Nat Geo Kids"
     },
     {
-     "id": "nBVuemyrMgE",
-     "title": "Is salt the most important ingredient in history? - Carolyn Beans"
+     "id": "yCnIuD6IX08",
+     "title": "AD | Build Your Own Glow-In-The-Dark Scorpion Wall Crawler 🦂 | Nat Geo Kids"
     },
     {
-     "id": "bw5tzcoEG88",
-     "title": "How to effectively use visuals in your presentation"
+     "id": "5wANYZSdl5s",
+     "title": "Circe’s Potions, Spells, and Big Mistakes | Greeking Out Podcast | S5 E8 FULL EP | Nat Geo Kids"
     },
     {
-     "id": "8EtdC9Bjubk",
-     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
+     "id": "P3eT2eluwHI",
+     "title": "Weird But True Full Episode | Flying High on Roller Coasters and Airplanes | Nat Geo Kids"
     },
     {
-     "id": "8RPK5KwYhgA",
-     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
+     "id": "X5AvTuQ0jYI",
+     "title": "Kids React to Wolves Up Close | Nat Geo Kids"
     },
     {
-     "id": "nXvKDYRvTno",
-     "title": "Scary stories to watch in the dark (if you dare…)"
+     "id": "WTBhH1qHOB8",
+     "title": "🔴 LIVE! 24 Hours of Greeking Out Podcast Station⚡🐐🪽 | Nat Geo Kids"
     },
     {
-     "id": "a_4eFB8pPwI",
-     "title": "5 sneaky ways stores get you to spend more"
-    },
-    {
-     "id": "NPJ9KZqrl50",
-     "title": "Why does this animal never age? - Raymond Adkins"
-    },
-    {
-     "id": "av3zdxYvCp8",
-     "title": "3 things to never do with a credit card"
-    },
-    {
-     "id": "1uTRlM6MbMo",
-     "title": "How to present your ideas effectively"
-    },
-    {
-     "id": "h6CmKF-mN2U",
-     "title": "Which is better: Buying or renting a home? - Ella Feldman"
-    },
-    {
-     "id": "JjhrN0FcHpM",
-     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
-    },
-    {
-     "id": "G3hXvByzLHs",
-     "title": "6 ways to be more persuasive"
+     "id": "2E6-G7PegV8",
+     "title": "Cassini: The Spacecraft That Flew Into Saturn 🪐 | Mission to Saturn Full Special | Nat Geo Kids"
     }
    ],
    "channel:UCQJDFI9j8UeNoqra37p5OkA": [
@@ -737,6 +625,56 @@
      "title": "Importance of The Spinal Chord | #Clip | TV Show for Kids | Operation Ouch"
     }
    ],
+   "channel:UC6E2mP01ZLH_kbAyeazCNdg": [
+    {
+     "id": "3917XrJVM_I",
+     "title": "Swarmed by Hair Cutting Bees!"
+    },
+    {
+     "id": "-IO6E8FPhWM",
+     "title": "World Record Snake Measuring Gone Wrong!"
+    },
+    {
+     "id": "cXQbh93Gg40",
+     "title": "BITTEN by an Alligator Snapping Turtle!"
+    },
+    {
+     "id": "QqaMGTeWcTg",
+     "title": "STUNG by a Tiger Bee!"
+    },
+    {
+     "id": "WhkLkNLRZy4",
+     "title": "BITTEN by a Vampire Bat!"
+    },
+    {
+     "id": "k4gbweQTL50",
+     "title": "DOUBLE STING! Cow Killer vs. Tarantula Hawk"
+    },
+    {
+     "id": "oEIp2piNUso",
+     "title": "Jaws of Death! Alligator & Crocodile Bite Test"
+    },
+    {
+     "id": "TMtQfzcKFCI",
+     "title": "Most Remote Fly Fishing in the USA!"
+    },
+    {
+     "id": "nuEQmSs1H38",
+     "title": "Why This Giant Killer Snake is Destroying Florida"
+    },
+    {
+     "id": "mdR_f4p1b6A",
+     "title": "Snappy and Rare! Mini Croc Caught in the Amazon Rainforest!"
+    },
+    {
+     "id": "mPOf2fpy7B4",
+     "title": "Deep Sea Worm Attacks Everything!"
+    },
+    {
+     "id": "xSxhX1g3Zss",
+     "title": "Bitten by an Angry Gecko!"
+    }
+   ],
    "channel:UCoxcjq-8xIDTYp3uz647V5A": [
     {
      "id": "sMZMpsHeFKc",
@@ -773,6 +711,68 @@
     {
      "id": "Zh86i_azaQw",
      "title": "The End of Mathematical Mountain Climbing - Numberphile"
+    }
+   ],
+   "channel:UCsooa4yRKGN_zEE8iknghZA": [
+    {
+     "id": "fqL9dt6QHWg",
+     "title": "5 of the most dangerous scientific discoveries - Shannon Odell"
+    },
+    {
+     "id": "dkocGur84i8",
+     "title": "The three words that power every device you own - Lane Gunderman"
+    },
+    {
+     "id": "aDblEBU41nA",
+     "title": "Why is pepper such a popular spice? - Carolyn Beans"
+    },
+    {
+     "id": "nBVuemyrMgE",
+     "title": "Is salt the most important ingredient in history? - Carolyn Beans"
+    },
+    {
+     "id": "bw5tzcoEG88",
+     "title": "How to effectively use visuals in your presentation"
+    },
+    {
+     "id": "8EtdC9Bjubk",
+     "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer"
+    },
+    {
+     "id": "8RPK5KwYhgA",
+     "title": "What if you didn’t brush your teeth for a year? - Justin Merritt"
+    },
+    {
+     "id": "nXvKDYRvTno",
+     "title": "Scary stories to watch in the dark (if you dare…)"
+    },
+    {
+     "id": "a_4eFB8pPwI",
+     "title": "5 sneaky ways stores get you to spend more"
+    },
+    {
+     "id": "NPJ9KZqrl50",
+     "title": "Why does this animal never age? - Raymond Adkins"
+    },
+    {
+     "id": "av3zdxYvCp8",
+     "title": "3 things to never do with a credit card"
+    },
+    {
+     "id": "1uTRlM6MbMo",
+     "title": "How to present your ideas effectively"
+    },
+    {
+     "id": "h6CmKF-mN2U",
+     "title": "Which is better: Buying or renting a home? - Ella Feldman"
+    },
+    {
+     "id": "JjhrN0FcHpM",
+     "title": "Why is Queen Victoria so controversial? - Carolyn Harris"
+    },
+    {
+     "id": "G3hXvByzLHs",
+     "title": "6 ways to be more persuasive"
     }
    ],
    "channel:UC5XMF3Inoi8R9nSI8ChOsdQ": [
